@@ -102,7 +102,7 @@ pub fn set_app_menus(cx: &mut App) {
     #[cfg(target_family = "wasm")]
     let recent: Vec<MenuItem> = vec![MenuItem::action(text("file.recent.none"), OpenStartWindow).disabled(true)];
     cx.set_menus([
-        Menu::new("ibisOffice").items([
+        Menu::new(option_env!("IBIS_FORK_NAME").unwrap_or("ibisOffice")).items([
             MenuItem::action(text("help.about"), OpenAbout),
             MenuItem::separator(),
             MenuItem::action(text("app.settings"), OpenSettings),

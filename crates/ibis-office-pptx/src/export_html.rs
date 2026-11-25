@@ -21,9 +21,9 @@ fn labels() -> ibis_formats::slides_html::Labels {
 }
 
 /// The page for a presentation (the title is the file's name), or what to tell the user.
-pub(crate) fn page_for(presentation: &ibis_doc_model::Presentation, title: &str, english: bool) -> Result<String, String> {
+pub(crate) fn page_for(presentation: &ibis_doc_model::Presentation, title: &str, language: &str) -> Result<String, String> {
     use ibis_formats::slides_html::{SlidesHtmlError, slides_to_html};
-    slides_to_html(presentation, title, if english { "en" } else { "ja" }, &labels()).map_err(|e| match e {
+    slides_to_html(presentation, title, language, &labels()).map_err(|e| match e {
         SlidesHtmlError::NoSlides => crate::shell::i18n::text("pptx.html-no-slides").to_string(),
         SlidesHtmlError::TooLarge { .. } => crate::shell::i18n::text("pptx.html-too-large").to_string(),
     })
@@ -36,8 +36,7 @@ impl SlideEditor {
         self.commit_edit(window, cx);
         let (stem, _) = self.name_parts();
         let title = if stem.is_empty() { "Presentation".to_string() } else { stem.clone() };
-        let english = crate::shell::i18n::language() == crate::shell::i18n::Language::English;
-        let html = match page_for(self.presentation(), &title, english) {
+        let html = match page_for(self.presentation(), &title, crate::shell::i18n::language().tag()) {
             Ok(html) => html,
             Err(message) => return self.report(Err(message), cx),
         };

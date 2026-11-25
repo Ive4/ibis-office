@@ -1,0 +1,2713 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+pptx.text.wrap	在形状中环绕文字
+pptx.text.autofit-none	不自动调整
+pptx.text.autofit-shrink	溢出时缩小文字
+pptx.text.autofit-resize-shape	调整形状以适应文字
+pptx.text.columns	列数
+pptx.text.columns.1	1 栏
+pptx.text.columns.2	2 栏
+pptx.text.columns.3	3 栏
+pptx.text.columns.4	4 栏
+pptx.text.columns.spacing	间距
+pptx.text.columns.spacing.0	0 厘米
+pptx.text.columns.spacing.0-5cm	0.5 厘米
+pptx.text.columns.spacing.1cm	1 厘米
+pptx.text.columns.spacing.2cm	2 厘米
+pptx.text.indent	缩进
+pptx.text.indent.first-line	第一行缩进
+pptx.text.indent.hanging	悬挂缩进
+pptx.text.indent.none	无缩进
+pptx.text.tabs	制表位
+pptx.text.tabs.default	默认制表位（2 厘米）
+pptx.text.tabs.clear	清除全部制表位
+pptx.text.insets-none	无内部边距
+pptx.text.insets-default	默认内边距
+pptx.text.insets-custom	内部边距和文本缩放…
+pptx.paragraph-copy	复制段落格式
+pptx.paragraph-paste	粘贴段落格式
+pptx.format-copy	复制文本格式
+pptx.format-paste	粘贴文本格式
+pptx.crop.custom	裁剪设置…
+image.file	从计算机上传
+pptx.line	线条
+pptx.arrow	箭头
+pptx.double-arrow	双箭头
+pptx.connector.bent	肘形连接符
+pptx.connector.bent-arrow	肘形箭头连接符
+pptx.connector.bent-double-arrow	双向肘形箭头连接符
+pptx.connector.curved	曲线连接符
+pptx.connector.curved-arrow	曲线箭头连接符
+pptx.connector.curved-double-arrow	曲线双箭头连接符
+pptx.line.freehand	任意多边形
+pptx.lines-and-connectors	线条和连接符
+pptx.section.apply	应用
+pptx.section.cancel	取消
+pptx.slide-size.apply	应用
+pptx.slide-size.cancel	取消
+pptx.insets.apply	应用
+pptx.insets.cancel	取消
+pptx.frame.apply	应用
+pptx.frame.cancel	取消
+pptx.crop.apply	应用
+pptx.crop.cancel	取消
+pptx.gradient.apply	应用
+pptx.gradient.cancel	取消
+pptx.gradient.add	添加渐变光圈
+pptx.gradient.remove-first	删除第一个渐变光圈
+pptx.gradient.remove-last	删除最后一个渐变光圈
+pptx.glow.apply	应用
+pptx.glow.cancel	取消
+pptx.shadow.apply	应用
+pptx.shadow.cancel	取消
+pptx.timing.auto	自动
+pptx.timing.click	点击
+pptx.timing.apply	应用
+pptx.timing.cancel	取消
+pptx.text-outline.none	无大纲
+pptx.text-outline.black	黑色
+pptx.text-outline.white	白色
+pptx.text-outline.red	红色
+pptx.text-outline.blue	蓝色
+pptx.text-outline.yellow	黄色
+pptx.text-outline.green	绿色
+pptx.text-outline.weight	重量
+pptx.text-outline.0-5pt	0.5 平方厘米
+pptx.text-outline.1pt	1平方公尺
+pptx.text-outline.1-5pt	1.5 平方厘米
+pptx.text-outline.2-25pt	2.25 pt (帮助)
+pptx.text-outline.3pt	3 pt (中文(简体) ).
+pptx.text-outline.4-5pt	4.5 pt (单位:千美元)
+pptx.text-outline.6pt	6 pt (中文(简体) ).
+pptx.frame.settings	大小位置( P)…
+pptx.paragraph.settings	行和段落间距选项…
+pptx.paragraph.default	默认
+pptx.paragraph.multiple	多个
+pptx.paragraph.points	没错
+pptx.paragraph.apply	应用
+pptx.paragraph.cancel	取消
+pptx.find-case	匹配大小写
+pptx.find-word	只查找整个单词
+pptx.find-next	查找下一个
+pptx.find-previous	查找上一个
+pptx.replace-one	替换
+pptx.replace-all	全部替换
+pptx.center.h	对齐中心
+pptx.center.v	中间对齐
+pptx.distribute.h	水平分布
+pptx.distribute.v	垂直分布
+text.superscript	上标
+text.subscript	下标
+text.spacing-very-tight	字符间距:非常紧
+text.spacing-tight	字符间距: 紧
+text.spacing-normal	字符间距: 正常
+text.spacing-loose	字符间距: 闲置
+text.spacing-very-loose	字符间距: 非常松散
+pptx.text.character-spacing	字符间距
+pptx.spacing.very-tight	非常紧( 3pt)
+pptx.spacing.tight	紧 (-1).5pt)
+pptx.spacing.normal	正常( 0pt)
+pptx.spacing.loose	脱落( + 3pt)
+pptx.spacing.very-loose	极易脱落( + 6pt)
+text.caps	全部顶盖
+text.small-caps	小盖子
+pptx.text.case	更改大小写
+pptx.case.sentence	判刑案件
+pptx.case.lower	小写
+pptx.case.upper	UPPERCASE
+pptx.case.title	将每个单词大写
+pptx.case.toggle	牙关卡
+pptx.fill.custom	线性渐变选项…
+pptx.background.custom	背景线性渐变选项…
+pptx.fill.custom-path	路径渐变选项…
+pptx.background.custom-path	背景路径渐变选项…
+pptx.fill.custom-pattern	模式选项…
+pptx.background.custom-pattern	背景模式选项…
+pptx.fill.picture	图片…
+pptx.background.picture	背景图片…
+pptx.glow.custom	拖动选项…
+pptx.shadow.custom	阴影选项…
+pptx.picture.convert-to-shape	转换为形状
+pptx.picture.color	图片颜色
+pptx.picture.color.none	无颜色效果
+pptx.picture.color.grayscale	灰度( E)
+pptx.picture.color.sepia	塞皮亚
+pptx.picture.color.blue	蓝色( 莫诺内)
+pptx.picture.color.green	绿色( 莫诺内)
+pptx.picture.color.red	红色( 莫诺内)
+pptx.picture.color.transparent-white	设定透明颜色( 白色)
+pptx.picture.color.transparent-black	设定透明颜色( 黑色)
+pptx.picture.color.transparent-clear	重置透明颜色
+pptx.picture.remove-background	删除背景( 透明颜色 )
+pptx.picture.reset-colors	重置图片颜色效果
+pptx.picture.correction	图片校正( 亮度和对比度)
+pptx.picture.lum.normal	正常( 亮度为0%, 对比度为0%)
+pptx.picture.lum.bright-p40	亮度:+40%
+pptx.picture.lum.bright-p20	亮度 : +20%
+pptx.picture.lum.bright-m20	亮度: -20%
+pptx.picture.lum.bright-m40	亮度: -40%
+pptx.picture.lum.contrast-p40	对比度:+40%
+pptx.picture.lum.contrast-p20	对比度:+20%
+pptx.picture.lum.contrast-m20	对比度: -20%
+pptx.picture.lum.contrast-m40	对比度: -40%
+pptx.picture.lum.bright-contrast-high	亮度:+20%,对比度:+20%
+pptx.picture.lum.bright-contrast-low	亮度: -20%,对比度: -20%
+pptx.picture.artistic-effect	艺术效果
+pptx.picture.artistic.none	无
+pptx.picture.artistic.marker	标记
+pptx.picture.artistic.chalk-sketch	粉笔纹
+pptx.picture.artistic.crisscross-etching	十字路口( T) :
+pptx.picture.artistic.pencil-grayscale	笔杆灰度
+pptx.picture.artistic.pencil-sketch	Pencil 缩写
+pptx.picture.artistic.line-drawing	线条绘图
+pptx.picture.artistic.watercolor-sponge	水彩海绵
+pptx.picture.artistic.paint-brush	画笔
+pptx.picture.artistic.paint-strokes	画弦
+pptx.picture.artistic.blur	模糊
+pptx.picture.artistic.glow-diffused	调色调
+pptx.picture.artistic.glow-edges	滑动边缘
+pptx.picture.artistic.glass	眼镜
+pptx.picture.artistic.pastels-smooth	平滑粘贴
+pptx.picture.artistic.plastic-wrap	塑料包装
+pptx.picture.artistic.mosaic-bubbles	Mosaic 泡泡纸
+pptx.picture.artistic.texturizer	电解器
+pptx.picture.artistic.film-grain	胶片谷物
+pptx.picture.artistic.cutout	剪断
+pptx.picture.artistic.photocopy	复印机
+pptx.picture.artistic.cement	水泥
+pptx.picture.artistic.light-screen	轻屏幕
+pptx.reset-slide	重置幻灯片
+pptx.reset-placement	重置占位符位置
+pptx.section.add	添加区域…
+pptx.section.rename	重命名( R)…
+pptx.section.fold	折叠/扩展
+pptx.section.move-up	向上移动区域
+pptx.section.move-down	向下移动区域
+pptx.section.remove	删除区域
+pptx.slide-size.standard	标准(4:3)
+pptx.slide-size.wide	宽屏 (16: 9)
+pptx.slide-size.custom	自定义幻灯片大小…
+background.reset	重置为主题
+table.merge	合并单元格( 选中的单元格) Shift+Click)
+table.split	拆分单元格
+transition.none	无
+transition.on-click	在鼠标点击时
+transition.timing	时间选项…
+transition.all	应用到全部幻灯片
+pptx.section-actions	一节输入
+pptx.slide-size-actions	幻灯片大小输入
+pptx.insets-actions	内部边距输入
+pptx.frame-actions	大小和位置输入
+pptx.crop-actions	裁剪输入
+pptx.glow-actions	glow 输入
+pptx.shadow-actions	阴影输入
+pptx.timing-actions	时间输入
+pptx.text-outline	文本大纲
+pptx.paragraph-actions	段落间距输入
+pptx.paragraph.font-align	字体大小对齐
+pptx.find-menu	查找和替换动作
+pptx.format-copy-menu	复制/粘贴格式
+pptx.text-body	文本框
+pptx.text.shadow	文本阴影
+pptx.shadow	外部阴影
+pptx.glow	光线
+pptx.reflection	反思
+pptx.soft-edge	软边
+pptx.bevel	贝维尔
+pptx.3d-rotation	三维旋转
+pptx.3d-depth	三维深度
+pptx.sections	节
+pptx.slide-size	幻灯片大小( 保持形状大小)
+pptx.new-slide-layout	新建布局幻灯片
+pptx.fill-gradients	渐变
+pptx.fill-patterns	图案
+pptx.stroke-caps	顶盖类型
+pptx.stroke-compound	化合物类型
+pptx.new-slide.blank	新建幻灯片
+pptx.motion	动议
+pptx.normal-view	普通视图
+pptx.grid-view	网格视图
+pptx.reading-view	读取视图
+pptx.reading.slide-count	幻灯片 {current} 页:1 {total}
+pptx.notes	显示扬声器笔记
+pptx.new-slide	新建幻灯片
+pptx.duplicate-slide	复制幻灯片
+pptx.delete-slide	删除幻灯片
+pptx.skip-slide	隐藏幻灯片
+pptx.transition	改变过渡
+pptx.background	更改背景
+pptx.theme	更改主题
+pptx.edit-theme	编辑主题
+pptx.rotate.right	向右旋转90度
+pptx.rotate.left	向左旋转 90 度
+pptx.rotate.flip-h	水平翻转
+pptx.rotate.flip-v	垂直翻转
+pptx.group	组
+pptx.ungroup	取消组合
+pptx.layout	应用版式
+pptx.order	顺序
+pptx.align	对齐
+pptx.distribute	分发
+pptx.center	页面中心
+pptx.rotate	旋转
+pptx.chrome.no-name	(无名称)
+pptx.common.circle	圆形
+pptx.chrome.square	平方边
+pptx.chrome.pattern-fill	图案填充
+pptx.chrome.gradient-fill	渐变填充
+pptx.chrome.baseline	基线
+pptx.chrome.black-white-25-percent	黑白双方 25%
+pptx.chrome.black-white-50-percent	黑白双方 50%
+pptx.chrome.black-white-75-percent	黑白双方 75%
+pptx.chrome.black-white-horizontal-lines	黑白 → 水平线
+pptx.chrome.black-white-vertical-lines	黑白两端 \ 垂直线
+pptx.chrome.black-white-diagonal-grid	黑白 ^ 对角网格
+pptx.chrome.rows-columns	列和列
+pptx.chrome.none-timing-only	无(仅计算时间)
+pptx.chrome.line-weight	线条重量
+pptx.chrome.border-weight	边框重量
+pptx.chrome.border-style	边框样式
+pptx.chrome.solid	固态
+pptx.chrome.dotted-round	点( 径)
+pptx.chrome.long-dash	长发
+pptx.chrome.long-dash-dot	长发点
+pptx.chrome.dashed-fine	虚构( 精细)
+pptx.chrome.dotted-square	点数( 平方)
+pptx.chrome.dash-dot-fine	Dash-Dot (罚款)
+pptx.chrome.dash-dot-dot-fine	Dash-Dot-Dot (精细)
+pptx.chrome.no-border	无边框
+pptx.chrome.theme-fonts	主题字体
+pptx.chrome.highlight-color	突出显示颜色
+pptx.common.fill	填充
+pptx.chrome.format-options-sidebar	格式选项 (Sidebar)
+pptx.chrome.animations	动画
+pptx.chrome.animations-motion	动画( 动画)
+pptx.chrome.crop-picture	裁剪图片
+pptx.chrome.reset-crop	重置裁剪
+pptx.chrome.replace-picture	替换图片
+pptx.chrome.begin-arrow	开始箭头
+pptx.chrome.end-arrow	结束箭头
+pptx.chrome.dashed	* 虚构
+pptx.chrome.fill-line	填充行( L)
+pptx.chrome.slide-size	幻灯片大小
+pptx.crop-panel.enter-finite-numbers-left-right	输入有限数字;左右总数以及上下总数必须分别低于100%。
+pptx.crop-panel.keeps-picture-frame-negative	保留图片框架。负值增加边距。
+pptx.crop-panel.left-percent	左边
+pptx.crop-panel.top-percent	顶端
+pptx.crop-panel.right-percent	对
+pptx.crop-panel.bottom-percent	底部
+pptx.crop-panel.crop-picture	裁剪图片
+pptx.crop-panel.unit	单位
+pptx.crop-panel.size	大小 : {width} x {height}
+pptx.editing.click-drag-place-text-box	单击或拖曳以放置文本框( Esc 要取消)
+pptx.editing.drag-place-shape-shift-square	拖曳以放置形状( 显示方形/ 圆形, Esc 取消)
+pptx.misc.drag-draw-line-shift-45	拖曳以绘制线条( 滑动为 45 度 , Esc 取消)
+pptx.editing.group	组
+pptx.find.match-case	匹配大小写
+pptx.find.whole-words	整个词
+pptx.frame-panel.height-width-must-0-1584	高度和宽度必须是0-1584厘米,位置是 -1584 至 1584 厘米,并按度旋转一个角度.
+pptx.frame-panel.height-cm	高度
+pptx.frame-panel.width-cm	宽度
+pptx.frame-panel.scale-height-percent	高度缩放
+pptx.frame-panel.scale-width-percent	宽度比例
+pptx.frame-panel.rotation-degrees	旋转
+pptx.frame-panel.horizontal-position-cm-top-left	水平位置
+pptx.frame-panel.vertical-position-cm-top-left	垂直位置
+pptx.frame-panel.size-position	大小位置( P)
+pptx.glow-panel.target-shape-has-changed-reopen	目标形状已改变。 重新打开设置。
+pptx.glow-panel.enter-radius-0-169093-20055118	输入半径为 0-169093.20055118 pt, 6 位数 RGB 颜色,强度为0-100%.
+pptx.glow-panel.glow-cannot-saved-selected-shape	无法为选定的形状保存此光辉。
+pptx.glow-panel.radius-pt	半径
+pptx.gradient-panel.color-rgb-rrggbb	颜色
+pptx.gradient-panel.intensity-percent	不透明度
+pptx.gradient-panel.horizontal-lines	水平线条
+pptx.gradient-panel.vertical-lines	垂直线条
+pptx.gradient-panel.light-horizontal-lines	光线水平线
+pptx.gradient-panel.light-vertical-lines	浅的垂直线
+pptx.gradient-panel.dark-horizontal-lines	暗水平线
+pptx.gradient-panel.dark-vertical-lines	暗的垂直线
+pptx.gradient-panel.narrow-horizontal-lines	窄水平线
+pptx.gradient-panel.narrow-vertical-lines	窄的垂直线
+pptx.gradient-panel.dashed-horizontal-lines	变形水平线
+pptx.gradient-panel.dashed-vertical-lines	虚设的垂直线
+pptx.gradient-panel.cross	十字线
+pptx.gradient-panel.large-grid	大型网格
+pptx.gradient-panel.small-grid	小网格
+pptx.gradient-panel.dotted-grid	点缀网格
+pptx.gradient-panel.downward-diagonal	向下对角
+pptx.gradient-panel.upward-diagonal	向上对角
+pptx.gradient-panel.light-downward-diagonal	向下光线对角
+pptx.gradient-panel.light-upward-diagonal	向上亮对角
+pptx.gradient-panel.dark-downward-diagonal	暗向下对角
+pptx.gradient-panel.dark-upward-diagonal	暗向上对角
+pptx.gradient-panel.wide-downward-diagonal	宽向下对角
+pptx.gradient-panel.wide-upward-diagonal	宽向上对角
+pptx.gradient-panel.dashed-downward-diagonal	向下对角
+pptx.gradient-panel.dashed-upward-diagonal	向上对角
+pptx.gradient-panel.diagonal-cross	对角交叉
+pptx.gradient-panel.small-checker-board	小型检查板
+pptx.gradient-panel.large-checker-board	大检查板
+pptx.gradient-panel.small-confetti	小康佛蒂语Name
+pptx.gradient-panel.large-confetti	大孔贝蒂
+pptx.gradient-panel.horizontal-brick	水平砖
+pptx.gradient-panel.diagonal-brick	对角砖
+pptx.gradient-panel.solid-diamond	固体钻石
+pptx.gradient-panel.outlined-diamond	粗略钻石
+pptx.gradient-panel.dotted-diamond	点点钻石
+pptx.gradient-panel.plaid	平板
+pptx.gradient-panel.sphere	球体
+pptx.gradient-panel.weave	编织
+pptx.gradient-panel.divot	缓冲
+pptx.gradient-panel.shingle	闪光灯
+pptx.gradient-panel.trellis	翠丽丝
+pptx.gradient-panel.zig-zag	齐格扎格
+pptx.gradient-panel.target-has-changed-reopen-settings	目标已改变, 重新打开设置。
+pptx.gradient-panel.enter-6-digit-rgb-color	输入 6 位数 RGB 颜色和0-100%的不透明度。
+pptx.gradient-panel.enter-position-intensity-0-100	输入0-100%的位置和强度,一个6位数 RGB -2147483的颜色和焦点.648 改为2147483.647%.
+pptx.gradient-panel.enter-angle-0-more-less	输入 0 或 3 0 或 6 度以下的角, 位置和不透明度为 0- 100%, 和 6 位数 RGB 颜色。
+pptx.gradient-panel.fill-cannot-saved-selected-target	此填充无法保存到选中的目标。
+pptx.gradient-panel.path-gradient	路径渐变
+pptx.gradient-panel.linear-gradient	线性渐变
+pptx.gradient-panel.not-supported	不予支持
+pptx.gradient-panel.focus-left-percent	向左聚焦
+pptx.gradient-panel.focus-top-percent	聚焦顶端
+pptx.gradient-panel.focus-right-percent	聚焦右边
+pptx.gradient-panel.focus-bottom-percent	聚焦底端
+pptx.gradient-panel.angle-degrees	角度
+pptx.gradient-panel.foreground	前景
+pptx.gradient-panel.position-percent	立场
+pptx.gradient-panel.select-type	类型
+pptx.insets-panel.enter-finite-number-0-more	输入边距的有限数字为 0 或以上。
+pptx.paragraph-panel.target-text-has-changed-confirm	目标文本已更改。 确认您的输入并重新打开面板。
+pptx.insets-panel.enter-text-scale-1-100	输入 1- 100% 的文本缩放,或留空以保留当前值。
+pptx.insets-panel.text-scale-cannot-changed-target	此目标的文本缩放不能更改。 设置没有被应用。
+pptx.insets-panel.left-cm	左边
+pptx.insets-panel.top-cm	顶端
+pptx.insets-panel.right-cm	对
+pptx.insets-panel.bottom-cm	底部
+pptx.insets-panel.text-zoom-percent-blank-keep	文本缩放
+pptx.insets-panel.internal-margins-text-zoom	内部边距和文本缩放
+pptx.insets-panel.columns	列数
+pptx.insets-panel.column-spacing-cm	列间距
+pptx.insets-panel.enter-columns-1-16	输入 1 至 16 的列数和 0 或更多的间隔。
+pptx.mod.fit-slide-window	匹配幻灯片到窗口
+pptx.notes.click-add-notes	单击以添加注释
+pptx.misc.enter-line-spacing-multiple	输入大于0(最多为10)或pt的行距,并在0-4000pt之前/之后输入行距。
+pptx.paragraph-panel.default-line-spacing	默认行间距
+pptx.paragraph-panel.exactly-pt	没错
+pptx.paragraph-panel.alignment-mixed-font-sizes-keep	混合字体对齐
+pptx.paragraph-panel.line-spacing-value	行间距值
+pptx.paragraph-panel.before-pt	之前,我说,
+pptx.paragraph-panel.after-pt	之后
+pptx.paragraph-panel.start-at	开始于编号
+pptx.paragraph-panel.invalid-start-at	从数字开始必须是1到32767之间的整数
+pptx.misc.line-paragraph-spacing	行和段落间距
+pptx.section-panel.new-section	新科
+pptx.section-panel.slide-structure-has-changed	幻灯片结构已经改变。 确认您的输入并重新打开面板。
+pptx.section-panel.enter-name	输入名称
+pptx.section-panel.default-section	默认区域
+pptx.section-panel.cannot-apply-because-original	无法应用, 因为保存时无法保存原件
+pptx.shadow-panel.enter-blur-distance-0-169093	输入模糊度和距离为 0-169093.20055118 pt, 角度为 0 或以上且小于 360 度, 6 位数 RGB 颜色,强度为0-100%.
+pptx.shadow-panel.outer-shadow-cannot-saved-selected	无法为选中的形状保存此外影。
+pptx.shadow-panel.blur-pt	模糊
+pptx.shadow-panel.distance-pt	距离
+pptx.size-panel.width-cm	宽度 cm
+pptx.size-panel.height-cm	高度( 厘米)
+pptx.size-panel.enter-width-height-between-2	输入2之间的宽度和高度.54 和142个.24 摄像头:
+pptx.size-panel.keeps-position-size-shapes	保持形状的位置和大小
+pptx.size-panel.custom-slide-size	自定义幻灯片大小
+pptx.slideshow.end-slide-show-click-exit	幻灯片放映结束。 单击退出。
+pptx.links.next-slide	下一张幻灯片
+pptx.slideshow.last-slide	(最后一张幻灯片)
+pptx.slideshow.no-notes	(无注)
+pptx.timing-panel.enter-finite-numbers-duration-0	输入限定数字:持续时间 0-4294967.295 s, 自动推进 0-2147483.647 s.
+pptx.timing-panel.target-slide-transition-settings	目标幻灯片或过渡设置已经改变。 重新打开面板。
+pptx.timing-panel.timing-deleted-slide	删除幻灯片的时间
+pptx.timing-panel.transition-duration-s	过渡期
+pptx.timing-panel.mouse-click	鼠标点击
+pptx.timing-panel.mouse-click-2	在鼠标点击时
+pptx.timing-panel.after	✓之后
+pptx.timing-panel.after-2	之后
+pptx.timing-panel.advance-after-s	之后的预付款
+pptx.chrome.strikethrough	删除线
+pptx.goto.section	节次
+pptx.chrome.add-stop	添加停止
+pptx.chrome.find-whole-words-only	只查找整个单词
+pptx.chrome.standard-4-3	标准(4:3)
+pptx.chrome.widescreen-16-9	宽屏 (16: 9)
+pptx.chrome.gradient	渐变
+pptx.chrome.pattern	图案
+pptx.chrome.picture	图片
+pptx.chrome.order	顺序
+pptx.chrome.no-color	无颜色
+pptx.chrome.border-style-2	边框样式
+pptx.chrome.border-color	边框颜色
+pptx.chart-actions	图表数据输入
+pptx.chart.apply	应用
+pptx.chart.cancel	取消
+pptx.chart.data	编辑数据…
+pptx.chart.data-quick	编辑数据( 快)…
+pptx.insert-chart.column	分组列
+pptx.insert-chart.stacked-column	堆叠列
+pptx.insert-chart.percent-stacked-column	100% 堆叠列
+pptx.insert-chart.3d-clustered-column	3-D 分组列
+pptx.insert-chart.3d-stacked-column	三维叠列
+pptx.insert-chart.3d-percent-stacked-column	100% 3-D 堆叠列
+pptx.insert-chart.3d-column	三维列
+pptx.insert-chart.bar	集群栏
+pptx.insert-chart.stacked-bar	堆叠条
+pptx.insert-chart.percent-stacked-bar	100% 堆叠条
+pptx.insert-chart.3d-clustered-bar	3-D 分组栏
+pptx.insert-chart.3d-stacked-bar	三维堆叠条
+pptx.insert-chart.3d-percent-stacked-bar	100% 三维堆叠条
+pptx.insert-chart.line	线条
+pptx.insert-chart.stacked-line	堆叠线
+pptx.insert-chart.percent-stacked-line	100% 堆叠线
+pptx.insert-chart.3d-line	三维线
+pptx.insert-chart.area	区域
+pptx.insert-chart.stacked-area	堆叠区域
+pptx.insert-chart.percent-stacked-area	100%堆积区域
+pptx.insert-chart.3d-area	三维区域
+pptx.insert-chart.3d-stacked-area	三维堆叠区域
+pptx.insert-chart.3d-percent-stacked-area	100%三维堆叠区域
+pptx.insert-chart.pie	馅饼
+pptx.insert-chart.3d-pie	三维派
+pptx.insert-chart.doughnut	杜努特语Name
+pptx.insert-chart.scatter	散点
+pptx.insert-chart.scatter-smooth	以平滑线分解
+pptx.insert-chart.scatter-lines	以直线散射
+pptx.insert-chart.bubble	泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡
+pptx.insert-chart.combo-column-line	集群列 - 行
+pptx.insert-chart.combo-column-line-secondary	分组列 - 中等轴线
+pptx.insert-chart.combo-area-column	堆叠区域 - 集群列
+chart.labels.value	显示值
+chart.labels.none	无
+chart.labels.center	居中点
+chart.labels.inside-end	内端
+chart.labels.inside-base	基地内部
+chart.labels.outside-end	外端( O)
+chart.labels.above	上层
+chart.labels.below	下图
+chart.labels.left	左边
+chart.labels.right	对
+chart.labels.best-fit	最适合
+chart.labels.content-menu	标签选项
+chart.labels.show-value	数值
+chart.labels.show-category	类别名称
+chart.labels.show-series-name	系列名称
+chart.labels.show-percent	百分比
+chart.title.none	无
+chart.title.above	上图
+chart.legend.none	无
+chart.legend.right	对
+chart.legend.top	顶端
+chart.legend.left	左边
+chart.legend.bottom	底部
+pptx.chart.title-menu	图表标题
+pptx.chart.legend-menu	图例
+pptx.chart.labels-menu	数据标签
+pptx.chart.axis-settings	轴设置
+pptx.chart.axis-menu	轴
+pptx.chart.val-axis	垂直( 值) 轴
+pptx.chart.cat-axis	水平( 类别) 轴
+pptx.chart.axis.min	最低
+pptx.chart.axis.min-auto	自动
+pptx.chart.axis.min-0	固定在 0 级
+pptx.chart.axis.max	最大值
+pptx.chart.axis.max-auto	自动
+pptx.chart.axis.max-100	100
+pptx.chart.axis.max-1000	1,000
+pptx.chart.axis.major	主要股
+pptx.chart.axis.major-auto	自动
+pptx.chart.axis.major-10	10
+pptx.chart.axis.major-20	20
+pptx.chart.axis.major-50	50
+pptx.chart.axis.major-100	100
+pptx.chart.axis.display-units	显示单位
+pptx.chart.axis.disp-none	无
+pptx.chart.axis.disp-hundreds	数以百计
+pptx.chart.axis.disp-thousands	数以千计
+pptx.chart.axis.disp-millions	百万计
+pptx.chart.axis.disp-billions	10亿
+pptx.chart.axis.log-scale	对数缩放
+pptx.chart.axis.reversed	反向顺序中的值
+pptx.chart.trendline-menu	趋势
+pptx.chart.trendline.none	无
+pptx.chart.trendline.linear	线性
+pptx.chart.trendline.exp	指标
+pptx.chart.trendline.log	对数
+pptx.chart.trendline.poly	单数
+pptx.chart.trendline.power	电源
+pptx.chart.trendline.moving-avg	移动平均值
+pptx.chart.trendline.disp-eq	在图表中显示方程式
+pptx.chart.trendline.disp-rsqr	在图表中显示 R 平方值
+pptx.chart.error-bars-menu	错误栏
+pptx.chart.error-bars.none	无
+pptx.chart.error-bars.std-err	标准错误
+pptx.chart.error-bars.fixed	固定价值
+pptx.chart.error-bars.percent	百分比
+pptx.chart.error-bars.std-dev	标准绕航
+pptx.chart.error-bars.both	两者
+pptx.chart.error-bars.plus	加号
+pptx.chart.error-bars.minus	减数
+pptx.chart.error-bars.end-cap	显示尾盖
+pptx.chart.series-format-menu	序列格式
+pptx.chart.plot-area-menu	绘图区域格式
+pptx.chart.series.fill	序列填充
+pptx.chart.series.outline	系列大纲
+pptx.chart.series.marker	标记
+pptx.chart.marker.none	无
+pptx.chart.marker.circle	圆形
+pptx.chart.marker.square	平方边
+pptx.chart.marker.diamond	钻石
+pptx.chart.marker.triangle	三角形
+pptx.chart.stroke.0-75	0.75 pt (帮助)
+pptx.chart.stroke.1-5	1.5 平方厘米
+pptx.chart.stroke.2-25	2.25 pt (帮助)
+pptx.chart.stroke.3-0	3 pt (中文(简体) ).
+pptx.chart.stroke.4-5	4.5 pt (单位:千美元)
+pptx.chart.stroke.6-0	6 pt (中文(简体) ).
+pptx.chart.plot-area.fill	绘图区域填充
+pptx.chart.no-series	无系列
+pptx.chart.style-menu	图表样式
+pptx.chart.style.none	无样式
+pptx.chart.style.1	样式 1
+pptx.chart.style.2	样式 2
+pptx.chart.style.3	样式 3
+pptx.chart.style.4	样式 4
+pptx.chart.style.5	样式 5
+pptx.chart.style.6	样式 6
+pptx.chart.style.7	样式 7
+pptx.chart.style.8	样式 8
+pptx.chart.palette-menu	图表颜色
+pptx.chart.palette.1	彩色 1 号
+pptx.chart.palette.2	彩色 2 号
+pptx.chart.palette.3	彩色 3 号
+pptx.chart.palette.4	彩色 4 号
+pptx.chart.palette.5	单色 1
+pptx.chart.palette.6	单色 2
+pptx.chart.palette.7	单色 3
+pptx.chart.palette.8	单色 4
+pptx.chart.palette.9	单色 5
+pptx.chart.palette.10	单色 6
+pptx.chart.first-angle-menu	第一切片角度
+pptx.chart.first-angle.0	0°
+pptx.chart.first-angle.45	45°
+pptx.chart.first-angle.90	90°
+pptx.chart.first-angle.180	180°
+pptx.chart.first-angle.270	270°
+pptx.chart.hole-size-menu	斗牛洞大小
+pptx.chart.hole-size.25	25%
+pptx.chart.hole-size.50	50%
+pptx.chart.hole-size.75	75%
+pptx.chart.bubble-scale-menu	泡泡大小
+pptx.chart.bubble-scale.50	50%
+pptx.chart.bubble-scale.100	100%
+pptx.chart.bubble-scale.150	150%
+pptx.chart.bubble-scale.200	200%
+pptx.chart.bubble-scale.250	250%
+pptx.chart.scatter-smooth-menu	平滑线
+pptx.chart.scatter-smooth.straight	直线
+pptx.chart.scatter-smooth.smooth	平滑线
+pptx.chrome.change-colors	更改颜色
+pptx.chrome.change-chart-colors	更改图表颜色
+pptx.chrome.series-format	序列格式
+pptx.chrome.format-data-series	格式化数据序列
+pptx.chrome.plot-area	绘图区域
+pptx.chrome.format-plot-area	格式绘图区域
+pptx.chrome.all-series	所有系列
+pptx.chrome.trendline	趋势
+pptx.chrome.error-bars	错误栏
+pptx.chrome.axis	轴
+pptx.chrome.format-axis	格式轴
+pptx.chart-panel.values-must-numeric-blank-auto	值必须是数字( 自动宽度)
+pptx.misc.enter-number-value-leave-blank	输入数值的编号( 空白为无值)
+pptx.pivot.category	类别
+pptx.chart-panel.series-names-categories-values	序列名称、类别和值(空白为无值)
+pptx.chart-data.chart-data	图表数据
+pptx.chrome.edit-data	编辑数据
+pptx.chrome.edit-chart-data	编辑图表数据
+pptx.chrome.data-labels	数据标签
+pptx.misc.click-add-title	单击以添加标题
+pptx.misc.click-add-subtitle	点击可添加字幕
+pptx.misc.click-add-text	单击以添加文本
+shape.rect	矩形
+shape.roundRect	圆形矩形
+shape.ellipse	椭圆形
+shape.triangle	同位素三角形
+shape.rtTriangle	右三角形
+shape.diamond	钻石
+shape.pentagon	五角大楼
+shape.hexagon	六边形
+shape.rightArrow	箭头:右
+shape.leftArrow	箭头:左
+shape.upArrow	箭头:上
+shape.downArrow	箭头: 下
+shape.star5	恒星: 5 点
+shape.wedgeRectCallout	语音泡:矩形
+shape.cloud	云头
+shape.heart	心脏
+color.black	黑色
+color.dark-gray	暗灰色
+color.gray	灰色
+color.light-gray	浅灰色
+color.white	白色
+color.dark-red	暗红色
+color.red	红色
+color.orange	橙色
+color.yellow	黄色
+color.light-green	浅绿色
+color.green	绿色
+color.light-blue	浅蓝色
+color.blue	蓝色
+color.dark-blue	暗蓝色
+color.purple	紫色
+color.accent1	调值 1 (蓝色)
+pptx.text.top	顶端
+pptx.text.middle	中间
+pptx.text.bottom	底部
+pptx.text.horizontal	水平
+pptx.text.vertical	垂直
+pptx.text.clockwise	旋转全部文本 90 度
+pptx.text.counterclockwise	旋转全部文本 270°
+pptx.text.scale100	文本缩放 100%
+pptx.text.scale80	文本缩放 80%
+pptx.text.scale50	文本缩放 50%
+pptx.crop.left	从左侧切出10%
+pptx.crop.right	从右侧切出10%
+pptx.crop.top	从顶端切出10%
+pptx.crop.bottom	从底层作物占10%
+pptx.crop.center	从所有侧面切出10%
+pptx.crop.aspect	光谱比
+pptx.crop.aspect.1-1	1:1(平方块)
+pptx.crop.aspect.portrait	纵向
+pptx.crop.aspect.2-3	2:3
+pptx.crop.aspect.3-4	3:4
+pptx.crop.aspect.3-5	3:5
+pptx.crop.aspect.4-5	4:5
+pptx.crop.aspect.9-16	9:16
+pptx.crop.aspect.landscape	风景
+pptx.crop.aspect.3-2	3:2
+pptx.crop.aspect.4-3	4:3
+pptx.crop.aspect.5-3	5:3
+pptx.crop.aspect.5-4	5:4
+pptx.crop.aspect.16-9	16:9
+pptx.crop.aspect.16-10	16:10
+pptx.crop.shape	裁剪到形状
+pptx.crop.shape.rect	矩形( 平方角)
+pptx.crop.shape.round-small	圆矩形( 小: 10%)
+pptx.crop.shape.round-medium	圆形矩形( 中: 20%)
+pptx.crop.shape.round-large	圆形矩形( 大: 33%)
+pptx.crop.shape.round-full	圆圆矩形( 水平: 50%)
+pptx.gradient.circle	圆形
+pptx.gradient.rect	矩形
+pptx.gradient.shape	形状
+pptx.paragraph.font-auto	自动
+pptx.paragraph.font-top	顶端
+pptx.paragraph.font-center	居中
+pptx.paragraph.font-baseline	基线
+pptx.paragraph.font-bottom	底部
+pptx.shadow.none	无阴影
+pptx.shadow.right	对,四点
+pptx.shadow.diagonal	右下, 4平方公尺处
+pptx.shadow.soft	右下方, 模糊 4 pt
+pptx.text.shadow.none	无阴影
+pptx.text.shadow.offset-diagonal-bottom-right	偏移: 右下角
+pptx.text.shadow.offset-bottom	偏移: 下方
+pptx.text.shadow.offset-right	偏移: 对
+pptx.text.shadow.offset-diagonal-bottom-left	偏移: 左下角
+pptx.glow.none	无光线
+pptx.glow.blue5	蓝色,5平方公尺
+pptx.glow.blue10	蓝色, 10平方公尺
+pptx.glow.yellow10	黄色, 10 平方公尺
+pptx.reflection.none	无反射
+pptx.reflection.tight	紧反射
+pptx.reflection.half	半反射数
+pptx.reflection.full	充分反射
+pptx.soft-edge.none	无软边
+pptx.soft-edge.1pt	1平方公尺
+pptx.soft-edge.2-5pt	2.5平方厘米
+pptx.soft-edge.5pt	5平方公尺
+pptx.soft-edge.10pt	10 pt (韩语).
+pptx.soft-edge.25pt	25 pt (中文(简体) ).
+pptx.soft-edge.50pt	50平方公尺
+pptx.bevel.none	无贝维尔
+pptx.bevel.circle	圆形
+pptx.bevel.relaxed-inset	放松内置
+pptx.bevel.slope	斜坡
+pptx.bevel.cross	十字线
+pptx.bevel.angle	角度
+pptx.bevel.soft-round	软圆
+pptx.bevel.convex	凸轮
+pptx.bevel.cool-slant	凉爽的斜体
+pptx.bevel.hard-edge	硬边
+pptx.bevel.art-deco	艺术德科
+pptx.3d-rotation.none	无旋转
+pptx.3d-rotation.isometric-right-up	偏差: 右上方
+pptx.3d-rotation.isometric-left-up	偏差: 左上角
+pptx.3d-rotation.isometric-top-up	异构: 向上
+pptx.3d-rotation.off-axis-1-top	离轴 1: 顶端
+pptx.3d-rotation.off-axis-1-left	离轴 1: 左
+pptx.3d-rotation.off-axis-1-right	离轴1:对
+pptx.3d-rotation.perspective-front	视角:前方
+pptx.3d-rotation.perspective-above	视角:以上
+pptx.3d-rotation.perspective-below	视角:以下
+pptx.3d-rotation.perspective-left	视角:左
+pptx.3d-rotation.perspective-right	视角:对
+pptx.3d-rotation.oblique-top-left	Oblique: 左上角
+pptx.3d-rotation.oblique-top-right	Oblique: 右上角
+pptx.3d-depth.none	无深度
+pptx.3d-depth.10pt	10 pt (韩语).
+pptx.3d-depth.20pt	20平方磅( 20 pt)
+pptx.3d-depth.36pt	36平方公尺
+pptx.3d-depth.72pt	72平方公尺
+table.new.2x2	2行×2列
+table.new.3x3	3行×3列
+table.new.3x4	3行× 4列
+table.new.4x4	4行×4列
+table.new.5x5	5行×5列
+table.new.6x4	6行×4列
+table.insert-above	在上方插入行
+table.insert-below	在下面插入行
+table.insert-left	在左侧插入列
+table.insert-right	右侧插入列
+table.remove-row	删除行
+table.remove-column	删除列
+table.borders	边框
+table.borders.all	所有边框
+table.borders.none	无边框
+table.borders.outside	外部边框
+table.borders.inside	内边框
+table.borders.top	顶端边框
+table.borders.bottom	底边框
+table.borders.left	左边框
+table.borders.right	右边框
+table.borders.diagonal-down	下边框对角
+table.borders.diagonal-up	边框对角
+table.borders.weight	重量
+table.borders.0-5pt	0.5 平方厘米
+table.borders.1pt	1平方公尺
+table.borders.1-5pt	1.5 平方厘米
+table.borders.2-25pt	2.25 pt (帮助)
+table.borders.3pt	3 pt (中文(简体) ).
+table.borders.4-5pt	4.5 pt (单位:千美元)
+table.borders.6pt	6 pt (中文(简体) ).
+table.borders.color	颜色
+table.borders.black	黑色
+table.borders.white	白色
+table.borders.red	红色
+table.borders.blue	蓝色
+table.borders.yellow	黄色
+table.borders.green	绿色
+transition.cut	剪切
+transition.fade	淡出
+transition.push	推开
+transition.wipe	擦除( E)
+transition.split	分开
+transition.cover	覆盖
+transition.pull	无法覆盖
+transition.randomBar	随机栏
+transition.circle	形状
+transition.dissolve	溶解
+transition.zoom	缩放
+transition.vortex	华文花序
+transition.ripple	连线
+transition.glitter	闪烁
+transition.wheel	轮子
+transition.duration.500	会期: 0.5 s
+transition.duration.1000	会期:1s
+transition.duration.2000	会期: 2 s
+transition.after.none	不自动提前
+transition.after.0	0秒后预付
+transition.after.1000	1s后预付
+transition.after.5000	5s之后的预付款
+transition.after.10000	10s之后的预付款
+cap.flat	平面
+cap.round	圆
+cap.square	平方边
+compound.single	单身
+compound.double	双倍
+compound.thick-thin	细小
+compound.thin-thick	细小的厚度
+compound.triple	三连
+end.none	无
+end.triangle	三角箭头
+end.arrow	打开箭头
+end.stealth	隐形箭头
+end.diamond	钻石箭头
+end.oval	椭圆箭头
+end.width	宽度
+end.length	长度
+end.width.small	小点
+end.width.medium	中型
+end.width.large	大块
+end.length.small	小点
+end.length.medium	中型
+end.length.large	大块
+order.front	带到前面
+order.forward	前进
+order.backward	向后发送
+order.back	发送到后面
+arrange.left	左对齐
+arrange.center	对齐中心
+arrange.right	右对齐
+arrange.top	对齐顶端
+arrange.middle	中间对齐
+arrange.bottom	对齐下方
+fill.gradient.0	蓝色到白色, 0°
+fill.gradient.90	蓝色到白色,90°
+fill.gradient.180	蓝色至白色,180°
+fill.gradient.270	蓝色到白色, 270°
+fill.path.circle	蓝白之间,圆形
+fill.path.rect	蓝白对白, 矩形
+fill.path.shape	蓝到白,形状
+pptx.chrome.clear-all-formatting	清除全部格式( E)⌘\)
+pptx.chrome.name-sec-s	{name} · {sec} s
+pptx.chrome.count-shapes-selected	{count} 所选形状
+pptx.chrome.pattern-preset	模式( A){preset})
+pptx.chrome.slide-index	幻灯片 {index}
+pptx.grid-view.slide-n	幻灯片 {n}
+pptx.timing-panel.transition-timing-slide-index	幻灯片的过渡时间 {index}
+pptx.copy-slide	复制幻灯片
+pptx.cut-slide	剪切幻灯片
+pptx.paste-slide	粘贴幻灯片
+xlsx.new-note	新建注释
+xlsx.note-edit	编辑备注
+xlsx.note-delete	删除注释
+xlsx.clear-comments	清晰的注释和注释
+pptx.animation.preview	预览
+pptx.animation.play-all	全部播放( E)
+pptx.animation.entrance	入口
+pptx.animation.emphasis	强调
+pptx.animation.exit	退出
+pptx.animation.in.appear	外观
+pptx.animation.in.fade	淡出
+pptx.animation.in.fly-bottom	飞入( 从底部)
+pptx.animation.in.fly-left	飞入( 从左侧)
+pptx.animation.in.fly-right	飞入( 从右侧)
+pptx.animation.in.fly-top	飞入( 从顶部)
+pptx.animation.in.float	浮进
+pptx.animation.in.float-down	浮进( 下)
+pptx.animation.in.wipe	擦除( E)
+pptx.animation.in.wipe-bottom	擦除( 从下方)
+pptx.animation.in.wipe-left	擦拭( 从左侧)
+pptx.animation.in.wipe-right	擦拭( 从右侧)
+pptx.animation.in.wipe-top	擦除( 从顶部)
+pptx.animation.in.zoom	缩放
+pptx.animation.in.replay	重播
+pptx.animation.em.spin	旋转
+pptx.animation.em.grow	增长/收缩
+pptx.animation.out.disappear	失踪
+pptx.animation.out.fade	淡出
+pptx.animation.out.fly-bottom	飞出( 到底)
+pptx.animation.out.fly-left	飞出( 向左)
+pptx.animation.out.fly-right	飞出( 向右) Name
+pptx.animation.out.fly-top	飞出( 向上)
+pptx.animation.out.float	飘出
+pptx.animation.out.float-up	浮出( 上)
+pptx.animation.out.wipe	擦除( E)
+pptx.animation.out.wipe-bottom	擦除( 向下)
+pptx.animation.out.wipe-left	擦拭( 向左)
+pptx.animation.out.wipe-right	擦拭( 向右)
+pptx.animation.out.wipe-top	擦拭( 向上)
+pptx.animation.out.zoom	缩放
+pptx.animation.out.rewind	倒带
+pptx.animation.start	开始
+pptx.animation.start.click	点击
+pptx.animation.start.with	与上一个
+pptx.animation.start.after	上一个之后
+pptx.animation.duration	会期
+pptx.animation.duration.500	0.5 秒( 秒)
+pptx.animation.duration.1000	1个二级
+pptx.animation.duration.2000	2 秒钟
+pptx.animation.delay	延迟
+pptx.animation.delay.0	无
+pptx.animation.delay.500	0.5 秒( 秒)
+pptx.animation.delay.1000	1个二级
+pptx.animation.delay.2000	2 秒钟
+pptx.animation.repeat	重复
+pptx.animation.repeat.none	无
+pptx.animation.repeat.2	2
+pptx.animation.repeat.3	3
+pptx.animation.repeat.4	4
+pptx.animation.repeat.5	5
+pptx.animation.repeat.10	10
+pptx.animation.repeat.until-click	直到下一次点击
+pptx.animation.repeat.until-end	直至幻灯片结束
+pptx.animation.autoreverse	自动反转
+pptx.animation.rewind	播放完成后倒带
+pptx.animation.smooth	平滑
+pptx.animation.smooth.none	无( 里纳)
+pptx.animation.smooth.start	平滑启动( 50%)
+pptx.animation.smooth.end	平滑结束( 50%)
+pptx.animation.smooth.both	两者( 开始和结束)
+pptx.animation.smooth-start	平滑启动
+pptx.animation.smooth-end	平滑结束
+pptx.animation.after	动画之后
+pptx.animation.after.hold	继续显示
+pptx.animation.after.hide	动画后隐藏
+pptx.animation.after.dim	有颜色的淡化
+pptx.animation.after.hide-next	下次点击时隐藏
+pptx.animation.remove	删除动画
+pptx.animation.order.earlier	移动更早
+pptx.animation.order.later	稍稍移动
+pptx.animation.trigger	触发
+pptx.animation.trigger.click	点击
+pptx.animation.trigger.bookmark	在书签上
+pptx.animation.trigger.none	无
+pptx.chrome.change-shape	更改形状
+pptx.paste-slide-keep	粘贴幻灯片( 保留源格式)
+table.distribute-rows	分布行
+table.distribute-columns	分布列
+background.apply-all	全部应用
+pptx.header-footer	页眉和页脚…
+pptx.header-footer.slide-number	幻灯片编号
+pptx.header-footer.don-t-show-title-slide	不要在标题幻灯片上显示
+pptx.notes-marks-panel.apply-all	全部应用
+pptx.animation.add	添加动画
+pptx.animation.pane	动画版
+pptx.animation.path	运动路径
+pptx.animation.path.down	线条( 下)
+pptx.animation.path.left	线条( 左)
+pptx.animation.path.right	线条( 右)
+pptx.animation.path.up	线条( 上)
+pptx.animation.other	其他效果
+pptx.animation.options-dialog	效果选项…
+pptx.animation.panel.effect	效果
+pptx.animation.panel.timing	时间安排
+pptx.menu.animation	动画
+pptx.animation-ui.there-no-animations-slide	此幻灯片上没有动画.
+pptx.selection-pane.shape-n	形状 {n}
+pptx.animation-ui.animation-pane	动画版
+pptx.chart-data.cannot-open-chart-data	无法打开图表数据
+pptx.chart-data.cannot-apply-chart-data	无法应用图表数据
+pptx.selection-pane	选择窗格
+pptx.selection-pane.hide	隐藏
+pptx.selection-pane.rename	重命名( N)
+pptx.selection-pane.show-all	全部显示
+pptx.selection-pane.hide-all	全部隐藏
+pptx.selection-pane.selection-pane	选择窗格
+pptx.selection-pane.no-shapes-slide	此幻灯片上没有形状
+align.distributed	分发
+background.hide-graphics	隐藏背景图形
+pptx.notes-marks-panel.update-automatically	自动更新
+pptx.link	链接…
+pptx.links.links-text-table-cells-not	尚未支持表格单元格中文本的链接
+pptx.links.web-page-file	网页或文件
+pptx.links.place-document	在本文档中的位置
+pptx.links.address	地址
+pptx.links.first-slide	第一张幻灯片
+pptx.links.last-slide	最后一张幻灯片
+pptx.links.previous-slide	上一张幻灯片
+pptx.links.last-slide-viewed	上次幻灯片查看
+pptx.links.end-show	结束显示
+pptx.links.remove-link	删除链接
+pptx.links.hyperlink	超链接
+pptx.slide-size.landscape	幻灯片方向: 景观
+pptx.slide-size.portrait	幻灯片方向: 外观
+pptx.size-panel.keep	保留
+pptx.size-panel.maximize	最大化
+pptx.size-panel.ensure-fit	确保适合
+pptx.size-panel.shapes-scaled-fill-new-size	缩放形状以填充新大小
+pptx.size-panel.shapes-scaled-fit-new-size	形状被缩放以适应新大小
+pptx.theme-colors	主题颜色和字体…
+pptx.theme.palette	主题颜色调色板
+pptx.theme.palette-selected	将主题颜色应用到所选幻灯片
+pptx.theme.palette.office	办公室(标准)
+pptx.theme.palette.aspect	侧面
+pptx.theme.palette.apex	顶级
+pptx.theme.palette.slate	标题
+pptx.theme.palette.median	中间
+pptx.theme.palette.orient	东方
+pptx.theme.palette.blue	蓝色二号
+pptx.theme.save-theme	保存当前主题…
+pptx.theme.effects	主题效果
+pptx.theme.effects.office	办公室(标准)
+pptx.theme.effects.office-2007-2010	2007 - 2010年办事处
+pptx.theme.effects.metro	地铁
+pptx.theme.effects.aspect	侧面
+pptx.theme.effects.apex	顶级
+pptx.theme.effects.slate	标题
+pptx.theme.effects.median	中间
+pptx.theme.effects.glossy	光泽
+pptx.theme.effects.bubbles	泡泡声
+pptx.theme.effects.shadow	阴影
+pptx.theme-panel.file-has-no-theme-colors	此文件没有主题颜色
+pptx.theme-panel.enter-colors-rrggbb	输入颜色为 #RRGGBB
+pptx.theme-panel.text-background-dark-1	文本/背景 - 暗色 1
+pptx.theme-panel.text-background-light-1	文字/背景 - 光 1
+pptx.theme-panel.text-background-dark-2	文本/背景 - 暗色 2
+pptx.theme-panel.text-background-light-2	文字/背景 - 光 2
+pptx.theme-panel.followed-hyperlink	随行的超链接
+pptx.theme-panel.heading-font-latin	标题字体( 拉丁文)
+pptx.theme-panel.heading-font-east-asian	标题字体( 东亚)
+pptx.theme-panel.body-font-latin	体型( 拉丁语)
+pptx.theme-panel.body-font-east-asian	字体( 东亚 )
+pptx.theme-panel.theme-colors-fonts	主题颜色和字体
+chart.type.column	分组列
+chart.type.column-stacked	堆叠列
+chart.type.column-percent	100% 堆叠列
+chart.type.bar	集群栏
+chart.type.bar-stacked	堆叠条
+chart.type.bar-percent	100% 堆叠条
+chart.type.line	线条
+chart.type.area	区域
+chart.type.area-stacked	堆叠区域
+chart.type.pie	馅饼
+chart.type.doughnut	杜努特语Name
+chart.type.scatter	散点
+chart.type.scatter-smooth	以平滑线分解
+chart.type.bubble	泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡
+pptx.chrome.chart-type	图表类型
+pptx.chrome.change-chart-type	更改图表类型
+pptx.chart-panel.type-combo-chart-cannot-changed	组合图的类型无法更改
+pptx.chart-panel.chart-type-cannot-changed	无法更改此图表类型
+pptx.misc.cannot-convert-between-axis-charts	无法在轴图和饼图之间转换
+pptx.chart-panel.cannot-convert-between-charts	无法在不同类型的图表之间转换
+pptx.chrome.slice-angle	切片角度
+pptx.chrome.angle-first-slice	第一切片角度
+pptx.chrome.hole-size	孔径大小
+pptx.chrome.doughnut-hole-size	斗牛洞大小
+pptx.chrome.bubble-size	泡泡大小
+pptx.chrome.bubble-size-scale	泡泡大小( 比例)
+pptx.chrome.smooth-lines	平滑线
+pptx.clips.cannot-played-here	无法在此播放
+pptx.clips.file-cannot-inserted	无法插入此文件
+pptx.clips.web-format-unsupported	此文件格式不支持。 请使用桌面版本。 ibisOffice.
+pptx.clips.web-playback-failed	浏览器无法播放( T){reason})
+pptx.misc.play	播放( L)
+pptx.slideshow.swap-displays	交换显示
+bullet.type.disc	盘片
+bullet.type.circle	圆形
+bullet.type.square	平方边
+bullet.type.box	方框
+bullet.type.diamond	钻石
+bullet.type.arrow	箭头
+bullet.type.dash	达西
+bullet.type.star	恒星( S)
+bullet.type.starOutline	恒星轮廓
+bullet.type.checkHeavy	重检查标记
+bullet.type.fourDiamonds	四颗钻石
+bullet.type.sparkle	闪光灯
+bullet.type.arrowRight	右箭头
+bullet.type.diamondOutline	钻石大纲
+bullet.type.check	检查标记
+number.type.arabicPeriod	1. 2. 3.
+number.type.arabicParenR	1) 2) 3)
+number.type.alphaLcPeriod	a. b. c.
+number.type.alphaUcPeriod	A. B. C.
+number.type.alphaLcParenR	a) b) c)
+number.type.romanLcPeriod	一、二、三、结论
+number.type.romanUcPeriod	I. II. III.
+pptx.numbering.start-at	开始于
+pptx.numbering.start-at-1	从 1 开始
+pptx.numbering.start-at-2	2点开始
+pptx.numbering.start-at-3	3点开始
+pptx.numbering.start-at-4	4点开始
+pptx.numbering.start-at-5	5点开始
+pptx.numbering.start-at-10	10点开始
+pptx.numbering.options	项目符号和编号选项…
+pptx.index-fields.bullets	项目符号
+pptx.chrome.bullet-symbol	符号
+pptx.chrome.numbering	编号
+pptx.chrome.numbering-style	编号样式
+pptx.size-panel.first-slide-number	第一个幻灯片编号
+pptx.size-panel.enter-whole-number-0-9999	输入第一个幻灯片号码从 0 到 9999 的整数
+pptx.action-buttons	动作按钮
+pptx.action.previous	返回或上一个
+pptx.action.next	前进或下一个
+pptx.action.first	开始
+pptx.action.last	结束
+pptx.action.home	开始
+pptx.action.return	返回( E)
+pptx.action.help	帮助
+pptx.action.information	资料
+pptx.action.document	文档
+pptx.action.sound	声音
+pptx.action.movie	电影
+pptx.action.blank	自定义
+pptx.frame-panel.lock-aspect-ratio	锁定侧面比
+pptx.default-shape	设为默认形状( 行)
+pptx.editing.set-default-shape-line	设为默认形状( 行)
+pptx.export-slide-png	导出当前幻灯片为图像…
+pptx.export-all-slides-png	导出全部幻灯片为图像…
+pptx.export-gif	导出为动画 GIF…
+pptx.export-ppsx	PowerPoint 幻灯片放映( E).ppsx)
+pptx.export-potx	PowerPoint 模板( E).potx)
+pptx.export-thmx	办公室主题( O).thmx)
+pptx.new-from-template	从模板中新建…
+pptx.outline-view	大纲视图
+pptx.notes-page-view	备注页
+pptx.thumbnails-view	缩略图
+pptx.outline.untitled	(无标题幻灯片)
+pptx.replace-fonts	替换字体…
+pptx.replace-fonts.with	与
+pptx.replace-fonts.replace	替换为
+pptx.replace-fonts.fonts-used-presentation	演示文稿中使用的字体
+pptx.replace-fonts.replaced-fonts-n-location-s	已替换的字体在 {n} 地点
+pptx.replace-fonts.font-replace-was-not-found	未找到要替换的字体
+pptx.table-style-options	表格样式选项
+pptx.table-style	表格样式
+pptx.table-style.none	无样式
+pptx.table-style.grid	表格网格
+pptx.table-style.medium2-accent1	中样式 2 - 调值 1
+pptx.table-style.medium1	中样式 1
+pptx.table-style.medium1-accent1	中式 1 - 调值 1
+pptx.table-style.light1	灯光样式 1
+pptx.table-style.light1-accent1	灯光样式 1 - 亮度 1
+pptx.table-style.dark1	暗色样式 1
+pptx.table-style.dark1-accent1	暗色样式 1 - 调色符 1
+transition.effect-options	效果选项
+transition.dir.down	从底部
+transition.dir.left	从左侧
+transition.dir.right	从右边
+transition.dir.up	从顶部
+transition.dir.split-in	垂直输入
+transition.dir.split-out	垂直输出
+transition.dir.horz-in	水平进入
+transition.dir.horz-out	水平输出
+transition.dir.horz	水平
+transition.dir.vert	垂直
+transition.dir.in	内
+transition.dir.out	出来
+transition.dir.spokes-1	1个发言
+transition.dir.spokes-2	2个发言
+transition.dir.spokes-3	3个发言
+transition.dir.spokes-4	4个发言
+transition.dir.spokes-8	8次发言
+pptx.show-settings-actions	幻灯片放映设置输入
+pptx.show-settings.apply	应用
+pptx.show-settings.cancel	取消
+pptx.show-panel.set-up-slide-show	设置幻灯片放映
+pptx.show.type	显示类型
+pptx.show-panel.presented-speaker-full-screen	* 由发言者介绍(全屏)
+pptx.show-panel.presented-speaker-full-screen-2	发言者介绍(全屏)
+pptx.show-panel.browsed-individual-window	* 由个人浏览(窗口)
+pptx.show-panel.browsed-individual-window-2	由个人浏览(窗口)
+pptx.show-panel.browsed-kiosk-full-screen	* 浏览一个亭(全屏)
+pptx.show-panel.browsed-kiosk-full-screen-2	浏览于一个站台( 完整屏幕)
+pptx.show-panel.show-slides	显示幻灯片
+pptx.show-panel.all	* 总人数
+pptx.show-panel.all-2	全部人员
+pptx.show-panel.from	* 从
+pptx.show-panel.from-2	从
+pptx.animation-ui.from	从
+pptx.show-panel.to	改为:
+pptx.show-panel.show-options	显示选项
+pptx.show-panel.loop-continuously-until-esc	继续循环直到"埃斯克"
+pptx.show-panel.loop-continuously-until-esc-2	循环持续到 Esc
+pptx.show-panel.show-without-animation	QQ 不动画显示
+pptx.show-panel.show-without-animation-2	不动画显示
+pptx.show-panel.show-without-narration	QQ 显示时不作描述
+pptx.show-panel.show-without-narration-2	显示无描述
+pptx.show-panel.use-timings	使用时间
+pptx.show-panel.use-timings-2	使用时间
+pptx.show-panel.please-enter-valid-slide-number	请输入有效的幻灯片号码(1个或更多)
+pptx.misc.pause	暂停
+pptx.slideshow.reset	重置
+pptx.animation.options	效果选项
+pptx.animation.options.tooltip	效果选项
+pptx.animation.painter	动画画画师
+pptx.animation.painter.tooltip	动画绘画(Copy and paste 动画)
+pptx.animation.opt.fly-bottom	从底部
+pptx.animation.opt.fly-left	从左侧
+pptx.animation.opt.fly-right	从右边
+pptx.animation.opt.fly-top	从顶部
+pptx.animation.opt.float-up	浮起来
+pptx.animation.opt.float-down	下浮( T)
+pptx.animation.opt.wipe-bottom	从底部
+pptx.animation.opt.wipe-left	从左侧
+pptx.animation.opt.wipe-right	从右边
+pptx.animation.opt.wipe-top	从顶部
+pptx.animation.opt.spin-360-cw	360° 顺时针
+pptx.animation.opt.spin-360-ccw	360° 逆时针
+pptx.animation.opt.spin-180	半旋转( 180°)
+pptx.animation.opt.spin-720	双旋( 720°)
+pptx.animation.opt.scale-150	较大(150%)
+pptx.animation.opt.scale-200	2x (200%)
+pptx.animation.opt.scale-50	较小(50%)
+pptx.animation.opt.scale-25	小型(25%)
+pptx.animation.opt.path-down	向下移动
+pptx.animation.opt.path-left	左边
+pptx.animation.opt.path-right	对
+pptx.animation.opt.path-up	上边
+pptx.alt-text	换文本…
+pptx.alt-text.title	标题
+pptx.alt-text.description	说明
+pptx.alt-text.hint	输入要由屏幕阅读器读取的图像或形状描述。
+pptx.alt-text.decorative	标记为装饰
+pptx.alt-text.decorative.hint	装饰对象不需要描述,被屏幕阅读器忽略.
+pptx.alt-text.apply	应用
+pptx.misc.laser-pointer	激光指针
+pptx.misc.pen	笔
+pptx.misc.highlighter	突出显示
+pptx.misc.eraser	擦除器
+pptx.misc.clear-all-ink-slide	在幻灯片上清除全部墨水
+pptx.slideshow.see-all-slides	见全部幻灯片
+pptx.misc.see-all-slides	见全部幻灯片
+pptx.grid-view.slide-sorter	幻灯片浏览器
+pptx.grid-view.n-slides	{n} 幻灯片
+pptx.gridlines	网格线
+pptx.guides	指南
+pptx.snap-to-grid	与网格对齐
+pptx.snap-to-shape	与形状对齐
+pptx.animation.copy	动画绘画机( Copy)
+pptx.animation.paste	动画画画师( 帕斯特)
+pptx.animation.copied	复制动画画师
+pptx.animation.pasted	粘贴的动画画师
+pptx.mark-as-final	标为最后
+pptx.read-only-recommended	仅推荐读取
+pptx.infobar.final.title	标为最终
+pptx.infobar.final.message	一位作者将这一发言标为最后发言,以阻止编辑。
+pptx.infobar.final.edit-anyway	无论如何编辑
+pptx.infobar.legacy.title	[兼容模式] (中文(简体) ).PowerPoint 97-2003)
+pptx.infobar.legacy.message	此演示文稿以旧格式(兼容模式)打开。 转换为当前格式, 使用所有新特性。
+pptx.infobar.legacy.convert	转换为最新格式
+pptx.infobar.readonly.title	仅推荐读取
+pptx.infobar.readonly.message	作者希望您打开此演示文稿为只读, 除非您需要更改。
+pptx.infobar.readonly.enable-editing	启用编辑
+pptx.properties-panel.presentation-properties	演示文稿属性
+pptx.properties-panel.slides	幻灯片
+pptx.properties-panel.shapes	形状
+pptx.properties-panel.notes	备注
+pptx.properties-panel.sections	节
+pptx.properties-panel.custom-properties	自定义属性
+pptx.properties-panel.created	已创建
+pptx.properties-panel.modified	已修改
+pptx.properties-panel.author	作者
+pptx.properties-panel.subject	议题
+pptx.properties-panel.fonts-section	字体
+pptx.properties-panel.embed-fonts	文件内嵌字体
+pptx.inspect-document	检查演示文稿…
+pptx.inspect-panel.inspect-presentation	检查演示文稿
+pptx.inspect-panel.inspect-presentation-personal	检查演示文稿的个人资料和隐藏内容,并删除.
+pptx.inspect-panel.document-properties-personal	文档属性和个人信息
+pptx.inspect-panel.removed-document-properties	删除文档属性和个人信息。
+pptx.inspect-panel.no-document-properties-personal	没有找到文档属性或个人信息。
+pptx.inspect-panel.removed-all-comments	删除了所有注释。
+pptx.inspect-panel.no-comments-were-found	没有发现任何评论。
+pptx.inspect-panel.presentation-notes	列报说明
+pptx.inspect-panel.removed-all-presentation-notes	删除所有演示文稿。
+pptx.inspect-panel.no-presentation-notes-were-found	没有发现演示文稿。
+pptx.inspect-panel.hidden-slides	隐藏幻灯片
+pptx.inspect-panel.removed-hidden-slides	删除隐藏幻灯片。
+pptx.inspect-panel.no-hidden-slides-were-found	未找到隐藏的幻灯片。
+pptx.inspect-panel.off-slide-content	滑坡外内容
+pptx.inspect-panel.removed-off-slide-content	已删除下滑内容。
+pptx.inspect-panel.no-off-slide-objects-were	未找到滑坡对象。
+pptx.inspect.remove-all	全部删除
+pptx.inspect-panel.reinspect	复检
+pptx.inspect-panel.reinspection-complete	复检完成.
+pptx.accessibility-panel.accessibility	辅助功能
+pptx.accessibility-panel.check-presentation-accessibility	检查演示文稿的无障碍问题,以确保人人都能轻松阅读。
+pptx.accessibility-panel.no-accessibility-issues-found	未发现无障碍问题。
+pptx.accessibility-panel.all-images-have-alternative-text	所有图像都有替代文本,表格有标题行,幻灯片有标题.
+pptx.slide.add-hidden-title	添加隐藏幻灯片标题
+pptx.accessibility-panel.add-hidden-title	添加隐藏标题
+pptx.links.screentip	屏幕提示
+pptx.links.screentip-text	屏幕 Tip 文本
+pptx.reading-order	阅读顺序
+pptx.reading-order-pane.reading-order	阅读顺序
+pptx.reading-order-pane.order-which-objects-will-read	屏幕阅读器从上到下读取对象的顺序。
+pptx.reading-order-pane.decorative-skipped	装饰( 滑动)
+pptx.reading-order-pane.move-up-read-earlier	向上移动( 较早读取)
+pptx.reading-order-pane.move-down-read-later	向下移动( 稍后读取)
+pptx.reading-order-pane.auto-order-top-bottom	自动顺序( 托普到下方)
+pptx.reading-order-pane.automatically-orders-reading-order	自动命令先用标题读取顺序,然后通过放置在幻灯片上.
+pptx.reading-order-pane.selection-pane	选择窗格…
+pptx.reading-order-pane.open-selection-pane-manage-z	打开选择面板来管理 Z 顺序和可见度.
+pptx.accessibility-panel.check-reading-order	检查读取顺序
+pptx.accessibility-panel.check-reading-order-pane-ensure	检查读取顺序窗格,以确保对象以屏幕阅读器的逻辑顺序显示.
+pptx.proofing-language	语言证明
+pptx.proofing-lang.ja-JP	日语
+pptx.proofing-lang.en-US	英语( 美国)
+pptx.proofing-lang.en-GB	英语( 联合王国)
+pptx.proofing-lang.zh-CN	汉语( 简化)
+pptx.proofing-lang.zh-TW	汉语( 传统)
+pptx.proofing-lang.fr-FR	法语
+pptx.proofing-lang.de-DE	德语
+pptx.proofing-lang.es-ES	西班牙语
+pptx.proofing-lang.ko-KR	韩语
+pptx.proofing-lang.it-IT	意大利语Name
+pptx.proofing-lang.none	不检查语言
+transition.sound	声音
+transition.sound.none	[无声]
+transition.sound.applause	欢呼
+transition.sound.arrow	箭头
+transition.sound.bomb	炸弹
+transition.sound.breeze	微风
+transition.sound.camera	摄影机
+transition.sound.cash-register	现金登记册
+transition.sound.chime	奇姆,你这混蛋!
+transition.sound.click	单击
+transition.sound.coin	铜
+transition.sound.drum-roll	鼓声
+transition.sound.explosion	爆炸
+transition.sound.hammer	锤子
+transition.sound.laser	激光
+transition.sound.push	推开
+transition.sound.suction	抽号
+transition.sound.typewriter	打字机
+transition.sound.voltage	电压
+transition.sound.wind	风
+transition.sound.stop	[停止上一个声音]
+transition.sound.loop	循环到下一个声音
+pptx.chrome.transition-effect-options	过渡效果选项
+pptx.chrome.effect-options	效果选项
+pptx.chrome.transition-sound	过渡声音
+pptx.editing.sound	声音
+pptx.chrome.picture-color	图片颜色
+pptx.chrome.brightness-contrast	亮度和对比度
+pptx.chrome.artistic-effects	艺术效果
+pptx.custom-format.borders	边框
+pptx.chrome.table-styles	表格样式
+pptx.chrome.table-style-options	表格样式选项
+pptx.clip.playback	重播
+pptx.clip.play	播放/暂停
+pptx.clip.bar.play	播放( L)
+pptx.clip.bar.pause	暂停
+pptx.clip.bar.seek	查找
+pptx.clip.bar.back	返回开始
+pptx.clip.bar.mute	静音
+pptx.clip.bar.unmute	解密( E)
+pptx.clip.bar.volume	音量
+pptx.clip.bar.time	{current} / {total}
+pptx.clip.start	开始
+pptx.clip.start.on-click	点击
+pptx.clip.start.auto	自动
+pptx.clip.volume	音量
+pptx.clip.volume.high	高级
+pptx.clip.volume.medium	中型
+pptx.clip.volume.low	低档
+pptx.clip.volume.mute	静音
+pptx.clip.loop	循环直到停止
+pptx.clip.rewind	播放后倒带
+pptx.clip.fullscreen	播放完整屏幕
+pptx.clip.hide-stopped	不播放时隐藏
+pptx.clip.hide-show	显示时隐藏
+pptx.clip.play-across	玩过幻灯片
+pptx.clip.background	在背景中播放
+pptx.clip.poster	海报框架
+pptx.clip.poster.from-file	图像来自文件…
+pptx.clip.poster.reset	重置
+pptx.clip.trim	调理
+pptx.clip.trim.none	没有线程
+pptx.clip.trim.start-1s	切开前 1
+pptx.clip.trim.start-2s	切开前 2 个
+pptx.clip.trim.start-5s	切开前5次
+pptx.clip.trim.first-5s	仅前5次
+pptx.clip.trim.first-10s	仅前10次
+pptx.clip.fade	淡出
+pptx.clip.fade-in	淡出
+pptx.clip.fade-out	淡出
+pptx.clip.fade.none	无
+pptx.clip.fade.05s	0.5s
+pptx.clip.fade.1s	1.0s
+pptx.clip.fade.2s	2.0s
+pptx.clip.bookmarks	书签
+pptx.clip.bookmark.add	添加书签
+pptx.clip.bookmark.clear	清除全部书签
+pptx.video.styles	视频样式
+pptx.video.shape	视频形状
+pptx.video.effects	视频效果
+pptx.video.style.none	无样式
+pptx.video.style.simple-white	简单框架, 白色
+pptx.video.style.simple-black	简单框架, 黑色
+pptx.video.style.rounded	圆形矩形
+pptx.video.style.rounded-frame	四舍五入的框架
+pptx.video.style.shadow	丢弃阴影
+pptx.video.style.reflection	反思
+pptx.video.style.rounded-reflection	以反射为圆形
+pptx.video.style.rounded-shadow	以阴影绕圆形
+pptx.video.style.soft-edge	软边
+pptx.video.reset-effects	重置视频
+pptx.insert.wordart	WordArt
+pptx.insert.wordart-styles	WordArt 样式
+pptx.text.warp	变形
+pptx.text.wordart-styles	WordArt 样式
+pptx.wordart.style1	填充:黑色,文本1
+pptx.wordart.style2	填充:蓝色, 角 1, 阴影
+pptx.wordart.style3	填充:橙色,角 2,轮廓
+pptx.wordart.style4	填充:白色,外观:黑色
+pptx.wordart.style5	填充:黄金,阴影
+pptx.wordart.style6	填充:蓝色,外观:白色,阴影
+pptx.text.warp.none	无变形
+pptx.text.warp.arch-up	拱门向上
+pptx.text.warp.arch-down	拱门向下
+pptx.text.warp.circle	圆形
+pptx.text.warp.button	按钮
+pptx.text.warp.curve-up	曲线向上
+pptx.text.warp.curve-down	曲线向下
+pptx.text.warp.wave1	第1波段 :
+pptx.text.warp.wave2	第2波段 :
+pptx.text.warp.double-wave1	双波 1
+pptx.text.warp.inflate	充电
+pptx.text.warp.deflate	充电
+pptx.text.warp.stop	停下来
+pptx.text.warp.triangle	三角形
+pptx.text.warp.triangle-inverted	倒转三角形
+pptx.text.warp.chevron	雪佛龙
+pptx.text.warp.chevron-inverted	反转雪佛龙
+pptx.text.warp.fade-right	淡出右侧
+pptx.text.warp.fade-left	向左淡出
+pptx.text.warp.fade-up	淡出( T)
+pptx.text.warp.fade-down	向下淡出
+pptx.insert.screenshot	截图
+pptx.insert.screenshot.available-windows	可用的窗口
+pptx.insert.screenshot.clipping	屏幕剪辑…
+pptx.insert.screenshot.clipboard	剪贴板上的截图
+pptx.insert.icon	图标…
+pptx.icon-category.arrows	箭头导航( N)
+pptx.icon-category.business	业务和办公室
+pptx.icon-category.media	媒体和通信
+pptx.icon-category.symbols	符号状态( S)
+pptx.icon.arrow-right	右箭头
+pptx.icon.arrow-left	左箭头
+pptx.icon.arrow-up	向上箭头
+pptx.icon.arrow-down	向下箭头
+pptx.icon.arrow-right-alt	右箭头( 深)
+pptx.icon.turn-right	向右转
+pptx.icon.swap-horiz	水平交换
+pptx.icon.document	文档
+pptx.icon.folder	文件夹
+pptx.icon.chart	图表
+pptx.icon.table	表格
+pptx.icon.bar-chart	条形图
+pptx.icon.schedule	时间表
+pptx.icon.edit	编辑
+pptx.icon.save	保存
+pptx.icon.print	打印
+pptx.icon.search	搜索
+pptx.icon.image	图像
+pptx.icon.movie	电影
+pptx.icon.music	音乐
+pptx.icon.camera	摄影机
+pptx.icon.play	播放( L)
+pptx.icon.link	链接
+pptx.icon.globe	全球
+pptx.icon.chat	聊天泡泡
+pptx.icon.presentation	演示文稿
+pptx.icon.check	检查
+pptx.icon.close	关闭
+pptx.icon.add	添加
+pptx.icon.info	资讯
+pptx.icon.help	帮助
+pptx.icon.settings	设置
+pptx.icon.palette	调色板
+pptx.icon.lock	锁定
+pptx.icon.sparkle	闪光灯
+pptx.icon.badge	徽标
+slideshow.ink.title	墨水说明
+slideshow.ink.prompt	你想保留你的墨水说明吗?
+slideshow.ink.keep	保留
+slideshow.ink.discard	丢弃
+pptx.insert.zoom	缩放
+pptx.insert.slide-zoom	幻灯片缩放…
+pptx.insert.section-zoom	区域缩放…
+pptx.zoom.dialog.title	插入幻灯片缩放
+pptx.zoom.dialog.prompt	在当前幻灯片上选择要缩放的幻灯片
+pptx.zoom.section.dialog.title	插入区域缩放
+pptx.zoom.section.dialog.prompt	选择您想要缩放在当前幻灯片上的区域
+pptx.zoom.summary.dialog.title	插入摘要缩放
+pptx.zoom.summary.dialog.prompt	选择摘要缩放中要包含的幻灯片
+pptx.insert.summary-zoom	摘要缩放…
+pptx.zoom.insert	插入
+pptx.zoom.cancel	取消
+pptx.zoom.return-to-zoom	返回缩放
+pptx.zoom.change-image	更改缩放图像…
+pptx.zoom.reset-image	重置缩放图像
+pptx.zoom.background	缩放背景
+pptx.zoom.duration	会期
+pptx.zoom.duration-500	0.50 秒数
+pptx.zoom.duration-1000	1.00 第二届
+pptx.zoom.duration-1500	1.50 秒数
+pptx.zoom.duration-2000	2.00 秒数
+pptx.zoom.duration-2500	2.50 秒数
+pptx.chrome.radar	雷达
+pptx.chrome.filled-radar	装填雷达
+pptx.compat.recheck	重新检查
+pptx.compat.summary-hint	检查先前版本不支持的特性 PowerPoint.
+pptx.compat.no-issues	没有找到兼容性问题。
+pptx.compat.clean-desc	本演示文稿与早先版本的 PowerPoint.
+pptx.compat.significant-loss	功能严重丧失
+pptx.compat.minor-loss	忠诚的轻微丧失
+pptx.compat.media-title	链接媒体(视频/音频)
+pptx.compat.media-desc	媒体不会在没有链接文件的计算机上播放。 嵌入到其中, 随演示文稿一起播放。
+pptx.compat.svg-title	SVG 图形
+pptx.compat.svg-desc	SVG 不支持图像在 PowerPoint 2016年及更早,将转换成光栅图像或丢失.
+pptx.compat.advanced-chart-title	现代图表类型
+pptx.compat.advanced-chart-desc	这些图表不能在以前的版本中编辑。 PowerPoint 并显示为静态图像。
+pptx.compat.text-warp-title	WordArt 文本转换
+pptx.compat.text-warp-desc	在早期版本中,文本转换会转换为标准文本效果.
+pptx.compat.cust-geom-title	自定义几何
+pptx.compat.cust-geom-desc	自定义形状路径可能在早期版本中被大致或无法编辑.
+pptx.compat.effects-title	高级视觉效果(参考/软边/比维尔)
+pptx.compat.effects-desc	这些视觉效果会在早期版本中简化或删除.
+pptx.clip.captions	说明
+pptx.clip.caption.add	插入说明…
+pptx.clip.caption.clear	删除所有说明
+pptx.autorecover-settings	自动恢复设置…
+pptx.recover-unsaved	恢复未保存的演示文稿…
+pptx.autorecover.settings-title	自动恢复设置
+pptx.autorecover.section-general	常规设置
+pptx.autorecover.enable-label	保存自动恢复信息
+pptx.autorecover.minutes-label	分钟(1-120)
+pptx.autorecover.keep-unsaved-label	如果我关闭而不保存, 则保留上次自动回收版本
+pptx.autorecover.location-label	自动恢复文件位置
+pptx.autorecover.reset-location-btn	重置为默认值
+pptx.autorecover.section-presentation	列报例外
+pptx.autorecover.disable-presentation-label	只禁用此演示文稿的自动恢复
+pptx.autorecover.save-now-btn	立即保存自动恢复快照
+pptx.autorecover.cancel	取消
+pptx.autorecover.save-btn	保存设置
+pptx.autorecover.saved-msg	自动恢复设置已保存
+pptx.autorecover.now-done	自动恢复快照已保存
+pptx.autorecover.now-failed	保存自动恢复快照失败
+pptx.autorecover.error-interval	间隔必须在1至120分钟之间
+pptx.autorecover.error-path	创建指定文件夹失败
+pptx.autorecover.banner-title	更新的介绍
+pptx.autorecover.banner-desc	这是一个未保存的自动还原版本。 请保存为新文件以保存您的更改。
+pptx.autorecover.save-as	另存为…
+pptx.autorecover.discard	关闭
+pptx.recover.panel-title	恢复未保存的演示文稿
+pptx.recover.empty	未找到自动恢复的演示文稿
+pptx.recover.refresh-btn	刷新( E)
+pptx.recover.open-btn	打开
+pptx.recover.delete-btn	删除
+pptx.recover.opened-status	已打开的回收列报
+pptx.recover.open-failed	打开文件失败
+pptx.recover.delete-done	删除了回收文件
+pptx.recover.delete-failed	删除回收文件失败
+pptx.layout.rename	重命名布局…
+pptx.layout.duplicate	复制版式
+pptx.layout-panel.layout-not-found	找不到布局
+pptx.misc.layout-name	版式名称
+pptx.layout-panel.copy-name	副本 {name}
+pptx.layout.masters	管理幻灯片母版
+pptx.layout.master.rename	重命名师傅…
+pptx.layout.master.duplicate	复制主笔
+pptx.layout.master.remove	删除主机
+pptx.print-panel.slides-print	幻灯片到打印
+pptx.print-panel.current-slide	当前幻灯片
+pptx.print-panel.custom-range	自定义范围
+pptx.print-panel.slides-placeholder	e.g. 1,3,5-8
+pptx.print-panel.full-page-slides	全页幻灯片
+pptx.print-panel.handouts-n-slides-per-page	发件人({n} 每页幻灯片)
+pptx.print-panel.color	颜色
+pptx.print-panel.grayscale	灰度( E)
+pptx.print-panel.pure-black-white	纯黑白
+pptx.print-panel.frame-slides	框架幻灯片
+pptx.print-panel.print	打印
+pptx.print-panel.enter-slides-like-1-3	输入幻灯片, 如 1, 3, 5-8, 从 1 到 {n}
+pptx.merge	合并形状
+pptx.merge.union	工会
+pptx.merge.combine	组合
+pptx.merge.fragment	断裂
+pptx.merge.intersect	交叉
+pptx.merge.subtract	减法
+pptx.notes-header-footer	笔记页眉和页脚…
+pptx.notes-marks-panel.notes-header-footer	音符页眉和页脚
+pptx.edit-points	编辑点
+pptx.picture.compress	压缩图片…
+pptx.compress.compression-options	压缩选项
+pptx.compress.delete-cropped-areas-pictures	删除已裁剪的图片区域
+pptx.compress.apply-only-selected-pictures	只应用到选中的图片
+pptx.compress.resolution	决议
+pptx.compress.print-220-ppi	印刷(220ppi)
+pptx.compress.web-150-ppi	网页(150ppi)
+pptx.compress.e-mail-96-ppi	电子邮件(96 ppi)
+pptx.compress.compress-pictures	压缩图片
+pptx.compress.no-pictures-can-made-smaller	任何图片都不可能变小
+pptx.compress.compressed-n-picture-s-before	压缩 {n} 图片(s){before} KB 改为 {after} (单位:千美元)
+transition.morph	墨菲语Name
+transition.dir.by-object	对象
+transition.dir.by-word	单词
+transition.dir.by-char	字符
+pptx.video-link	视频( 链接到文件)…
+pptx.audio-link	音频 (链接到文件)…
+pptx.clips.linked-file-was-not-found	找不到链接文件 : {path}
+pptx.clips.linking-file-not-available-here	无法在此链接到文件
+pptx.spelling.check	拼写中…
+pptx.autocorrect-options	自动更正选项…
+pptx.math.title	公式
+pptx.math.hint	以线性形式键入方程( UnicodeMath) 或 LaTeX (例如a/b、\frac){a}{b}, x^2,\sqrt{x+1},\sum_{i=1}^n x) 存档副本.
+pptx.math.insert	插入
+pptx.ink.pen	笔
+pptx.ink.pencil	笔会
+pptx.ink.highlighter	突出显示
+pptx.ink.eraser	擦除器
+pptx.ink.ruler	标尺
+pptx.ink.ruler-angle	角度
+pptx.ink.ruler-length	长度
+pptx.ink.ruler-level	职等
+pptx.ink.replay	重播
+pptx.ink.replayed	墨水重播动画集
+pptx.ink.to-shape	墨水对形状
+pptx.ink.to-text	墨水对文本
+pptx.ink.to-math	墨水对数学
+pptx.ink.message.converted-text	将墨水转换为文本
+pptx.ink.message.converted-math	将墨水转换为数学
+pptx.spelling-panel.spelling	拼写检查
+pptx.spelling-panel.suggestions	建议
+pptx.spelling-panel.no-suggestions	无建议
+pptx.spelling-panel.change-all	全部更改
+pptx.spelling-panel.ignore	忽略
+pptx.spelling-panel.ignore-all	全部忽略( E)
+pptx.spelling-panel.add-dictionary	添加到词典
+pptx.spelling-panel.spell-checking-not-available	在此环境中无法进行拼写检查
+pptx.spelling-panel.no-spelling-errors-found	没有找到拼写错误
+pptx.print-panel.landscape-handouts	景观施舍
+pptx.print-panel.vertical-order-handouts	按垂直顺序发牌
+pptx.master-view	幻灯片母版
+pptx.master-view.slide-master	幻灯片母版
+pptx.master-view.master-document-cannot-edited-yet	此文档的主人机尚未编辑
+pptx.master-view.there-no-slide-master	没有幻灯片主控器
+pptx.master-view.slide-master-view-undo-history	幻灯片主视图:关闭时清除撤消历史
+pptx.master-view.slide-master-name	幻灯片母版 : {name}
+pptx.master-view.close-master-view	关闭主视图
+pptx.master-view.master-could-not-saved-error	无法保存主机 : {error}
+pptx.master-view.slide-master-view-closed-undo	幻灯片母版视图关闭( 取消历史已被清除)
+pptx.misc.close-slide-master-view-before	保存前关闭幻灯片母版视图
+pptx.master-view.size-pt	大小
+pptx.master-view.color-rrggbb	颜色( RRGGBB)
+pptx.master-view.text-styles	文本样式
+pptx.master-view.body	体质
+pptx.master-view.level	职等
+pptx.master-view.apply-style	应用此样式
+pptx.notes-format	注释文本格式
+pptx.notes-format.notes-document-cannot-formatted	本文件的注释尚未格式化
+pptx.notes-format.notes-formatting-undo-history	备注格式化:关闭时清除撤消历史
+pptx.notes-format.notes-could-not-saved-error	无法保存注释 : {error}
+pptx.notes-format.notes-formatting-closed-undo	注解格式关闭( 取消历史已被清除)
+pptx.notes-format.select-notes-text-set-bold	选择注释文本,并设置粗体、颜色、大小、项目符号和幻灯片文本。
+pptx.notes-format.notes-formatting	注释格式
+pptx.notes-format.close-notes-formatting	退出格式化模式
+pptx.notes.edit-notes-formatting	编辑注释格式
+pptx.animation.path.custom	自定义路径
+pptx.path-draw.custom-path-click-slide-place	自定义路径: 单击幻灯片以放置点; 双击或按 Enter 完成( Esc 取消)
+pptx.smartart-to-shapes	转换 SmartArt 切换形状
+pptx.smartart.smartart-has-parts-cannot	这个 SmartArt 拥有无法转换成形状的部件
+pptx.animation.build	文本动画
+pptx.animation.build.whole	作为一个对象
+pptx.animation.build.paragraph	按段落
+pptx.handout-master	发牌师父
+pptx.notes-format.handout-master-undo-history	掌声大师:关闭后取消历史被清除
+pptx.notes-format.handout-master-closed-undo-history	掌上型主已关闭( 取消历史已被清除)
+pptx.notes-format.move-resize-boxes-set-size	移动和调整框大小,并设置其文本的大小、颜色和对齐(标题左上,日期右上,页脚左下,页脚右下),打印的手稿使用它们。
+pptx.notes-format.close-handout-master	退出格式化模式
+pptx.notes-format.handout-master	发牌师父
+pptx.print-panel.notes-pages-1-slide-its	页(1张幻灯片,每页注释)
+pptx.modify-password	要修改的密码…
+pptx.infobar.modify.title	要修改的密码
+pptx.infobar.modify.message	此文件被保护为需要修改的密码。 请输入密码以编辑它。
+pptx.infobar.modify.unlock	输入要编辑的密码…
+pptx.modify-password.password-modify-uses-method-not	此密码用于修改, 使用不支持的方法
+pptx.modify-password.password-information-file-damaged	文件的密码信息已损坏
+pptx.modify-password.password-was-accepted-you-can	密码已被接受。 您现在可以编辑
+pptx.modify-password.password-modify-set-goes-into	修改集的密码( 保存时它会进入文件)
+pptx.modify-password.password-modify-removed	更改密码已删除
+pptx.password-window.enter-password-modify	输入要修改的密码
+pptx.password-window.set-password-modify	设定要修改的密码
+pptx.password-window.password-needed-edit-file	编辑文件所需的密码
+pptx.password-window.password-needed-edit-file-2	编辑此文件需要密码
+pptx.password-window.open-read-only	只打开阅读( R)
+pptx.password-window.remove-password-modify	移除密码以修改( R)
+pptx.insert-chart.waterfall	瀑布
+pptx.insert-chart.histogram	直方图
+pptx.insert-chart.pareto	帕雷托语Name
+pptx.insert-chart.funnel	漏斗
+table.cell-size	单元格大小…
+pptx.cell-size-panel.row-height-cm	行高( T)
+pptx.cell-size-panel.column-width-cm	列宽
+pptx.cell-size-panel.cell-size	单元格大小
+pptx.cell-size-panel.height-width-must-numbers-0	高度和宽度必须是 0 的数字.25 至 1584 厘米
+pptx.align.to-slide	向幻灯片对齐
+pptx.autorecover.wasm-save-unsupported	自动恢复保存在网络版本中不可用。
+color.palette.theme	主题颜色
+color.palette.standard	标准颜色
+color.palette.recent	最近颜色
+color.theme.bg1	背景情况
+color.theme.text1	案文1
+color.theme.bg2	背景情况 2
+color.theme.text2	案文2
+color.theme.accent1	第1节
+color.theme.accent2	第2节
+color.theme.accent3	3号
+color.theme.accent4	4号
+color.theme.accent5	第5节
+color.theme.accent6	第6节
+color.theme.lighter	{name}更轻 {n}%
+color.theme.darker	{name}深色( 深色) {n}%
+_pptx.title-value	标题 : {value}
+_pptx.author-value	作者 : {value}
+_pptx.subject-value	主题 : {value}
+_pptx.keywords-value	关键词 : {value}
+_pptx.comments-value	评论: {value}
+_pptx.category-value	类别 : {value}
+_pptx.manager-value	经理 : {value}
+_pptx.company-value	连: {value}
+_pptx.last-modified-by-value	上次修改由 : {value}
+_pptx.custom-properties-count	自定义属性( O){count})
+_pptx.found-details	找到 : {details}
+_pptx.count-comments-found	{count} 已找到注释
+_pptx.speaker-notes-found-on-count-slides	音响笔记在 {count} 幻灯片
+_pptx.count-hidden-slides-found	{count} 找到隐藏的幻灯片
+_pptx.count-off-slide-objects-found	{count} 找到非滑动对象
+_pptx.series-number	系列 {number}
+_pptx.hex-width-pt-dash	#{hex}, {width} pt (帮助){dash}
+_pptx.count-slides	({count} 幻灯片)
+_pptx.shape-n	形状 {n}
+_pptx.n-times	🔁{n} 时间
+_pptx.start-s-end-s	{start}s–{end}s
+_pptx.value-s	{value}s
+_pptx.on-click-name	点击时 : {name}
+_pptx.on-bookmark-bookmark	在书签上: {bookmark}
+_pptx.recovered-file-name	[还原] {file_name}
+_pptx.slide-slide-num-missing-slide-title	幻灯片 {slide_num}: 缺少幻灯片标题
+_pptx.slide-slide-num-missing-alternative-text-shape-n	幻灯片 {slide_num}: 缺少替代文本( X){shape_name})
+_pptx.slide-slide-num-media-is-missing-captions-shape	幻灯片 {slide_num}: 媒体缺少字幕( Q){shape_name})
+_pptx.slide-slide-num-table-header-row-is-not-set	幻灯片 {slide_num}: 表格页眉行未设置
+_pptx.slide-slide-num-use-descriptive-link-text-displa	幻灯片 {slide_num}: 使用描述性链接文本 ({display_label})
+_pptx.slide-slide-num-text-contrast-is-insufficient-sh	幻灯片 {slide_num}: 文本对比度不足({shape_name})
+_pptx.the-contrast-between-the-text-color-text-and-the	文本颜色的对比度 (#){text})和背景颜色(#{background}低( 低) (% 1){ratio}:1;建议 {recommended}: 1 或更高,所以文本可能难以读取。调整文本或背景颜色。
+_pptx.slide-slide-num-check-the-reading-order	幻灯片 {slide_num}: 检查读取顺序
+_pptx.slide-slide-num-duplicate-slide-title-title	幻灯片 {slide_num}: 复制幻灯片标题( X){title})
+_pptx.checked-again-count-issues	已再次检查 : {count} 问题
+_pptx.slide-slide-num-shape-name	幻灯片 {slide_num} - {shape_name}
+_pptx.group-n	组 {n}
+_pptx.name-text	{name}: {text}
+_pptx.caption-track-language	联合国
+_pptx.caption-template	WEBVTT\n\n1\n00:00:00.000 --> 00:00:05.000\n[标
+_pptx.stop	停下来
+_pptx.timeline	时间线
+_pptx.with-previous	与上一个
+_pptx.after-previous	上一个之后
+_pptx.entrance	入口
+_pptx.emphasis	强调
+_pptx.exit	退出
+_pptx.motion-path	运动路径
+_pptx.once	一次
+_pptx.until-next-click	QQ 直至下一次点击
+_pptx.until-end-of-slide	QQ 直至幻灯片结束
+_pptx.reverse	反转
+_pptx.none	____________________ 无
+_pptx.rewind	倒带
+_pptx.none-2	____________________ 无
+_pptx.both	🌊 Both
+_pptx.start	开始
+_pptx.end	结束
+_pptx.constant	QQ 常数
+_pptx.hold	抓稳了
+_pptx.hide	隐藏( O)
+_pptx.dim	🔅 Dim
+_pptx.hide-on-next-click	QQ 下次点击时隐藏
+_pptx.time	时间
+_pptx.delay	延迟
+_pptx.direction	方向
+_pptx.smooth-start	\\ 平稳启动
+_pptx.smooth-end	平滑端点
+_pptx.auto-reverse	自动反转
+_pptx.auto-reverse-2	自动反转
+_pptx.don-t-hide	继续显示
+_pptx.dim-2	阴暗
+_pptx.after-animation	动画之后
+_pptx.dim-color	淡黄色
+_pptx.with-previous-2	与上一个
+_pptx.after-previous-2	上一个之后
+_pptx.duration	会期
+_pptx.2-times	2 个时间
+_pptx.3-times	3 个时间
+_pptx.5-times	5 个时间
+_pptx.10-times	10 时
+_pptx.multiple-times	多次时间
+_pptx.repeat	重复
+_pptx.rewind-when-done-playing	游戏完成后倒带
+_pptx.rewind-when-done-playing-2	播放完成时倒带
+_pptx.normal-click-or-auto	普通( 点击或自动)
+_pptx.trigger-2	触发
+_pptx.clear	清除
+_pptx.give-each-slide-a-title-so-screen-reader-users-c	给每张幻灯片一个标题,这样屏幕阅读器用户可以在幻灯片之间移动.
+_pptx.add-alternative-text-so-people-with-low-vision-c	添加替代文字,使视力低的人能够理解图像和图表,或者将其标记为装饰性.
+_pptx.add-closed-captions-webvtt-so-people-who-are-dea	加入闭合字幕(WebVTT),这样聋人或听力困难的人,或无法播放声音的人,就可以跟随内容.
+_pptx.add-alternative-text-to-the-shape-or-mark-it-as	在形状上添加替代文本,或标记为装饰文本.
+_pptx.turn-on-the-header-row-option-so-screen-readers	打开页眉行选项,以便屏幕阅读器能够识别表格的列内容.
+_pptx.instead-of-showing-a-url-or-using-general-phrase	而不是显示一个URL或使用诸如“点击此处”等一般短语,而是写出描述链接内容或目的的文字。
+_pptx.give-each-slide-a-unique-title-such-as-a-number	给每张幻灯片一个独特的标题,如数字或字幕,这样屏幕阅读器用户就可以将幻灯片分辨出来.
+_pptx.insert-table	插入表格
+_pptx.insert-chart	插入图表
+_pptx.insert-picture	插入图片
+_pptx.insert-video	插入视频
+_pptx.drag-to-draw-a-line-shift-for-45-steps-esc-to-ca	拖曳以绘制线条( 滑动为 45 度 , Esc 取消)
+_pptx.drag-to-draw-an-elbow-connector-esc-to-cancel	拖曳以绘制肘连接符( Esc 要取消)
+_pptx.drag-to-draw-a-curved-connector-esc-to-cancel	拖曳以绘制曲线连接符( Esc 要取消)
+_pptx.drag-to-draw-freehand-esc-to-cancel	拖曳以绘制自由手( Esc 要取消)
+_pptx.wordart-default-text	您的文字在这里
+_pptx.slide-n	幻灯片 {n}
+_pptx.poster-image	海报图像
+_pptx.kind-background	{kind} 背景情况
+_pptx.slide-n-of-total	幻灯片 {n} 页:1 {total}
+_pptx.left-indent-pt	左缩进
+_pptx.outer-shadow-count-shapes	外影( O){count} 形状)
+_pptx.100	100%
+_pptx.items	项目
+_pptx.kind-count-shapes	{kind} ({count} 形状)
+_pptx.return-to-normal-view	返回到普通视图
+_pptx.first-line-indent-pt	第一行缩进
+_pptx.custom-show	自定义显示
+_pptx.add-captions	添加标题
+_pptx.n-of-total	{n} 页:1 {total}
+_pptx.speaker-notes	发言者说明
+_pptx.paragraph-line-spacing-spacing-indentation	段落( 行间距、 间距、 缩进)
+_pptx.this-file-is-not-a-picture	此文件不是图片。
+_pptx.glow-count-shapes	光滑( N){count} 形状)
+_pptx.can-t-save	救不着.
+_pptx.enter-valid-values-in-points-for-line-spacing-pa	输入行距、段落间隔或缩进点中的有效值。
+_pptx.replace-fonts	替换字体
+_pptx.no-custom-shows-have-been-defined	(没有定义自定义显示).
+pptx.master-view.placeholder.insert	插入占位符
+pptx.master-view.placeholder.title	标题
+pptx.master-view.placeholder.text	文本
+pptx.master-view.placeholder.content	内容
+pptx.master-view.placeholder.picture	图片
+pptx.master-view.placeholder.chart	图表
+pptx.master-view.placeholder.table	表格
+pptx.master-view.placeholder.media	媒体
+pptx.notes-master	笔记主
+pptx.notes-format.notes-master-undo-history	笔记大师: 关闭后取消历史
+pptx.notes-format.notes-master-closed-undo-history	笔记主已关闭( 取消历史已被清除)
+pptx.notes-format.notes-master-help	移动和调整幻灯片图像、音符、页眉、日期、页脚和页码框的大小,并更改其文本格式。音符的文本样式不按级别更改。
+pptx.notes-format.close-notes-master	退出格式化模式
+pptx.notes-format.notes-master	笔记主
+pptx.slideshow.notes-smaller	较小的文本
+pptx.slideshow.notes-larger	更大的文本
+pptx.slideshow.teleprompter	远程提示器
+pptx.slideshow.teleprompter-speed	{n} pt/s (单位:千米)
+pptx.edit-points.smooth	平滑点
+pptx.edit-points.straight	直线点
+pptx.edit-points.corner	角点
+pptx.insert-chart.box-whisker	盒子和威斯克语
+pptx.insert-chart.treemap	树图
+pptx.insert-chart.sunburst	太阳爆发
+pptx.print-panel.outline	大纲(幻灯片的标题和文本)
+pptx.animation.build.word	按单词
+pptx.animation.build.letter	通过信件
+pptx.chart.ex.own-color	图表的自有颜色
+pptx.chart.ex.increase	增加额
+pptx.chart.ex.decrease	减少
+pptx.chart.ex.total	共计
+pptx.math.insert-inline	插入内嵌( 选定形状文本的末尾)
+pptx.math.format-unicodemath	UnicodeMath 密码
+pptx.math.format-latex	LaTeX
+pptx.math.copy-latex	复制 LaTeX
+pptx.math.copy-selection-latex	复制方程式为 LaTeX
+pptx.math.latex-copied	LaTeX 复制到剪贴板
+pptx.color-mode	颜色/ 灰度
+pptx.view.color	颜色
+pptx.view.grayscale	灰度( E)
+pptx.view.high-contrast	黑白两色
+pptx.accessibility-panel.high-contrast	高对比度视图
+pptx.accessibility-panel.color-view	颜色视图
+pptx.ink.effects	效果
+pptx.ink.custom-color	自定义颜色
+pptx.ink.effect.rainbow	彩虹
+pptx.ink.effect.galaxy	银河系统
+pptx.ink.effect.lava	岩浆
+pptx.ink.effect.ocean	海洋
+pptx.ink.effect.rose-gold	玫瑰黄金
+pptx.ink.effect.gold	黄金
+pptx.ink.effect.silver	银
+pptx.ink.effect.bronze	青铜
+pptx.replace-fonts.substitute	设置为替代
+pptx.replace-fonts.substitute-success	设置替换字体为 "{target}" 改为 "{substitute}"
+pptx.replace-fonts.substitute-removed	删除的替代字体为 "{target}"
+pptx.replace-fonts.substitutions-title	活动字体替代
+pptx.replace-fonts.missing-fonts-title	缺少字体( 替代或嵌入建议)
+pptx.replace-fonts.embedded-fonts-title	文件内嵌的字体
+pptx.replace-fonts.embed-button	嵌入字体
+pptx.replace-fonts.embed-success	嵌入式字体 "{name}" 改为列报
+pptx.replace-fonts.remove-embed	删除嵌入
+pptx.replace-fonts.remove-embed-success	删除的嵌入字体 "{name}"
+pptx.photo-album	相册…
+pptx.photo-album.title	相册
+pptx.photo-album.pictures-in-album	相册中的图片
+pptx.photo-album.move-up	向上移动
+pptx.photo-album.move-down	向下移动
+pptx.photo-album.remove	删除
+pptx.photo-album.picture-options	图片选项
+pptx.photo-album.bw-on	*__________所有图片为黑白
+pptx.photo-album.bw-off	所有图片黑白
+pptx.photo-album.captions-on	QQ 所有图片下方的说明
+pptx.photo-album.captions-off	所有图片下方的说明
+pptx.photo-album.album-layout	相册布局
+pptx.photo-album.layout.fit-to-slide	适合幻灯片
+pptx.photo-album.layout.1pic	1张图片
+pptx.photo-album.layout.2pic	2张图片
+pptx.photo-album.layout.4pic	4张图片
+pptx.photo-album.layout.1pic-title	1张带有标题的图片
+pptx.photo-album.layout.2pic-title	2张带标题的图片
+pptx.photo-album.layout.4pic-title	4张标有标题的图片
+pptx.photo-album.frame-shape	框架形状
+pptx.photo-album.frame.rect	矩形
+pptx.photo-album.frame.round-rect	圆形矩形
+pptx.photo-album.frame.simple-white	简单框架, 白色
+pptx.photo-album.frame.simple-black	简单框架, 黑色
+pptx.photo-album.frame.compound-black	复合框架,黑色
+pptx.photo-album.frame.center-shadow	居中阴影
+pptx.photo-album.frame.soft-edge	软边
+pptx.photo-album.create	创建
+pptx.photo-album.create-success	成功创建相册
+pptx.animation.chart-build	图表动画
+pptx.animation.chart.whole	作为一个对象
+pptx.animation.chart.series	按系列
+pptx.animation.chart.category	按类别
+pptx.animation.chart.series-el	按序列中的元素
+pptx.animation.chart.category-el	按类别中的元素
+pptx.animation.chart.anim-bg	从绘图图背景开始
+pptx.animation.dgm-build	SmartArt 动画
+pptx.animation.dgm.whole	作为一个对象
+pptx.animation.dgm.all	全部一齐来
+pptx.animation.dgm.one-by-one	一个接一个
+pptx.animation.dgm.level-at-once	水平一次
+pptx.animation.dgm.level-one-by-one	一级逐一
+pptx.insert.smartart.list	基本区划列表
+pptx.insert.smartart.vlist	垂直符号列表
+pptx.insert.smartart.process	基本进程
+pptx.insert.smartart.chevron	连续雪佛龙箭头
+pptx.insert.smartart.cycle	基本周期
+pptx.insert.smartart.hierarchy	组织结构图
+pptx.insert.smartart.relationship	基本关系
+pptx.insert.smartart.matrix	基本矩阵
+pptx.insert.smartart.pyramid	基本金字塔
+pptx.insert.smartart.picture	图片轴列表
+pptx.smartart.convert-text	转换为 SmartArt
+pptx.smartart.add-shape	添加项目到 SmartArt
+pptx.smartart.remove-shape	删除项目从 SmartArt
+pptx.smartart.add-assistant	添加助理
+pptx.smartart.move-up	向上移动
+pptx.smartart.move-down	向下移动
+pptx.smartart.promote	晋升
+pptx.smartart.demote	递减
+pptx.smartart.text-pane	文字窗格
+pptx.smartart.change-layout	更改布局
+pptx.smartart.layout.list	基本区划列表
+pptx.smartart.layout.vlist	垂直符号列表
+pptx.smartart.layout.process	基本进程
+pptx.smartart.layout.chevron	连续雪佛龙箭头
+pptx.smartart.layout.cycle	基本周期
+pptx.smartart.layout.hierarchy	组织结构图
+pptx.smartart.layout.relationship	基本关系
+pptx.smartart.layout.matrix	基本矩阵
+pptx.smartart.layout.pyramid	基本金字塔
+pptx.smartart.layout.picture	图片轴列表
+pptx.smartart.color	更改颜色
+pptx.smartart.color.colorful	色彩鲜艳
+pptx.smartart.color.accent1	调值 1 (蓝色)
+pptx.smartart.color.accent2	坐标2 (橙色)
+pptx.smartart.color.accent3	坐标 3 (绿色)
+pptx.smartart.color.outline	大纲
+pptx.review.compare	比较演示文稿…
+pptx.review.accept	接受修订
+pptx.review.accept-all	接受所有更改
+pptx.review.reject	拒绝修订
+pptx.review.reject-all	拒绝所有更改
+pptx.review.end-review	结束审查
+pptx.compare.title	比较演示文稿
+pptx.compare.no-changes	没有找到差异。 演示文稿相同。
+pptx.compare.accept	接受( E)
+pptx.compare.reject	拒绝
+pptx.compare.cannot-read	无法读取比较演示文稿文件。
+pptx.thesaurus	词库
+pptx.thesaurus.select-word	选择含有单词的形状或文字
+pptx.thesaurus.lookup	搜索同义词 "{word}"
+pptx.audio.record	记录
+pptx.audio.stop	停下来
+pptx.audio.record-title	记录音频
+pptx.audio.recorded-sound-default	录音的声音
+pptx.audio.sound-name	名称
+pptx.audio.total-sound-length	总音长
+pptx.audio.status-ready	准备
+pptx.audio.status-recording	正在录制…
+pptx.audio.status-recorded	已录制
+pptx.audio.insert-to-slide	插入到幻灯片
+pptx.audio.recorded-inserted	插入音频 "{name}"
+pptx.audio-record	录音音频…
+pptx.media.section-title	压缩媒体兼容性( C)
+pptx.media.media-count	{count} 媒体文件
+pptx.media.compress	压缩媒体
+pptx.media.compress-1080p	完全HD( 1080p)
+pptx.media.compress-720p	高温( 720p)
+pptx.media.compress-480p	标准( 480p)
+pptx.media.optimize-compatibility	优化兼容性
+pptx.media.no-media-found	本演示文稿中找不到媒体
+pptx.media.already-compressed	媒体已经压缩
+pptx.media.compressed-report	压缩媒体:已保存 {saved} KB 语句
+pptx.media.optimized-compatible	所有媒体都优化了兼容性
+pptx.3d-model	3D 型号…
+pptx.3d-model.not-available-here	在此环境中无法插入三维模型。
+pptx.insert-object	插入对象…
+pptx.insert-object.not-available-here	在此环境中无法插入对象。
+pptx.table.distribute	分发
+table.remove-table	删除表格
+pptx.text.edit	编辑文本
+pptx.grid-and-guides	网格和导线
+pptx.format-shape	格式形状…
+pptx.format-picture	格式化图片…
+pptx.text-direction	文本方向
+pptx.text.autofit	自动适配文本
+pptx.3d-model.panel	3D 模型设置…
+pptx.3d-model.title	三维模型设置
+pptx.3d-model.views	预定义的模型视图
+pptx.3d-model.view.default	默认( Front)
+pptx.3d-model.view.above	上层
+pptx.3d-model.view.below	下图
+pptx.3d-model.view.left	左边
+pptx.3d-model.view.right	对
+pptx.3d-model.view.iso-top-left	偏差( 左侧)
+pptx.3d-model.view.iso-top-right	偏差( 右侧)
+pptx.3d-model.view.iso-bottom-left	Isometric( 左侧波音)
+pptx.3d-model.view.iso-bottom-right	Isometric( 右键)
+pptx.3d-model.view.front-ortho	直径( 前线)
+pptx.3d-model.rotation	3-轴旋转( X / Y / Z)
+pptx.3d-model.rot-x	X 旋转
+pptx.3d-model.rot-y	Y 旋转
+pptx.3d-model.rot-z	Z 旋转
+pptx.3d-model.pan-zoom	泛缩放( Z)
+pptx.3d-model.pan-left	左转
+pptx.3d-model.pan-right	潘右转潘右转
+pptx.3d-model.pan-up	# # 打开它 # # Pan Up #
+pptx.3d-model.pan-down	潘·唐(英语:Pan Down)
+pptx.3d-model.zoom-in	放大(+25%)
+pptx.3d-model.zoom-out	缩小(25%)
+pptx.3d-model.pos-size	模型位置大小( S)
+pptx.3d-model.width-plus	宽度+10%
+pptx.3d-model.width-minus	宽度 - 10%
+pptx.3d-model.height-plus	高度+10%
+pptx.3d-model.height-minus	高度 - 10%
+pptx.3d-model.reset	重置三维模型
+pptx.3d-model.reset-size	重置模型大小( S)
+pptx.3d-model.scenes	场景选择重播( P)
+pptx.3d-model.scene.1	第1场( 默认)
+pptx.3d-model.scene.2	第2场(爆炸)
+pptx.3d-model.scene.3	第3场( Spin)
+pptx.3d-model.scene.4	场景 4 (Pulse)
+pptx.3d-model.play	播放( L)
+pptx.3d-model.pause	暂停
+pptx.3d-model.animations	3D 动画效果
+pptx.3d-model.anim.arrive	到达
+pptx.3d-model.anim.turntable	转动表
+pptx.3d-model.anim.swing	摇摆
+pptx.3d-model.anim.jump-turn	跳转( T)
+pptx.3d-model.anim.leave	离开
+pptx.record-preview	正在录制预览…
+pptx.record-preview.title	记录预览
+pptx.record-preview.play	播放( L)
+pptx.record-preview.pause	暂停
+pptx.record-preview.prev-slide	上一个
+pptx.record-preview.next-slide	ưμ㼯A
+pptx.record-preview.seconds	幻灯片时间
+pptx.record-preview.on-click	单击时
+pptx.record-preview.automatic	自动
+pptx.record-preview.start-show	从当前幻灯片开始显示
+pptx.screen-reader	屏幕阅读器导航…
+pptx.screen-reader.title	屏幕阅读器导航
+pptx.screen-reader.current	现时通知
+pptx.screen-reader.prev	上一个
+pptx.screen-reader.next	ưμ㼯A
+pptx.screen-reader.read-aloud	读取当前项目
+pptx.screen-reader.stop-aloud	停止读取
+pptx.screen-reader.filter.all	全部人员
+pptx.screen-reader.filter.title	标题
+pptx.screen-reader.filter.text	文字( T)
+pptx.screen-reader.filter.table	表格
+pptx.screen-reader.filter.chart	图表
+pptx.screen-reader.filter.media	图片和媒体( M)
+pptx.screen-reader.filter.notes	注解( M)
+pptx.customize-ribbon	自定义工具栏和快速访问…
+pptx.customize-ribbon.title	自定义工具栏和快速访问
+pptx.customize-ribbon.groups	工具栏组可见度
+pptx.customize-ribbon.group.slides	幻灯片
+pptx.customize-ribbon.group.font	字体
+pptx.customize-ribbon.group.paragraph	段落
+pptx.customize-ribbon.group.insert	插入
+pptx.customize-ribbon.group.drawing	绘图形状( S)
+pptx.customize-ribbon.group.arrange	排列视图( V)
+pptx.customize-ribbon.reset-groups	重置组可见度
+pptx.customize-ribbon.qat	快速访问工具栏( QAT)
+pptx.customize-ribbon.qat-reset	重置为默认值
+pptx.trust-center	信任中心( C)…
+pptx.trust-center.title	信任中心和安全设置( S)
+pptx.trust-center.links-warning	打开带有外部链接的演示文稿时显示警告
+pptx.trust-center.media-warning	在播放外部媒体或链接剪辑前确认
+pptx.trust-center.protected-view	从保护视图中未信任位置打开文件( 只读)
+pptx.trust-center.macro-note	宏启用的文件( E).pptm / .ppsm / .potm)在往返中安全保存,而不执行VBA代码.
+pptx.common.close	关闭
+pptx.compare.kind.text-box	文本框
+pptx.compare.kind.picture	图片
+pptx.compare.kind.chart	图表
+pptx.compare.kind.line	线条
+pptx.compare.kind.shape	形状
+pptx.compare.kind.table	表格
+pptx.compare.kind.object	对象
+pptx.compare.title-count	{title} ({n} 变动)
+pptx.compare.slide-added	QQ [滑块添加] 幻灯片 {n}: {title}
+pptx.compare.slide-deleted	QQ [滑动已删除] 幻灯片 {n}: {title}
+pptx.compare.slide-modified	QQ 幻灯片 {n}: {title}
+pptx.compare.shape-added	  - 形状加上: {kind}
+pptx.compare.shape-deleted	  - 删除形状 : {name}
+pptx.compare.text-changed	  - 案文已更改({name}): "{old}" → "{new}"
+pptx.compare.frame-changed	  - 位置和规模有所改变: {name}
+pptx.compare.notes-changed	  - 修改注解: "{old}" → "{new}"
+pptx.smartart.item.item-n	项目 {n}
+pptx.smartart.item.step-n	步骤 {n}
+pptx.smartart.item.plan	计划
+pptx.smartart.item.do	执行( D)
+pptx.smartart.item.evaluate	评价
+pptx.smartart.item.improve	改进
+pptx.smartart.item.leader	组长
+pptx.smartart.item.member-a	成员A
+pptx.smartart.item.member-b	成员B
+pptx.smartart.item.element-a	要件A
+pptx.smartart.item.element-b	要件B
+pptx.smartart.item.quadrant-n	四方 {n}
+pptx.smartart.item.quadrant	四方
+pptx.smartart.item.top	顶端
+pptx.smartart.item.middle	中间
+pptx.smartart.item.base	基础
+pptx.smartart.item.item-a	项目A
+pptx.smartart.item.assistant	助理
+pptx.smartart.color.blue-short	蓝色
+pptx.smartart.color.orange-short	橙色
+pptx.smartart.color.green-short	绿色
+pptx.smartart.color.outline-short	大纲
+pptx.smartart.select-prompt	选择一个 SmartArt 图形。
+pptx.smartart.item.item-b	项目B
+pptx.find.clear	清除
+pptx.inspect.remove-properties	删除属性和个人信息
+pptx.chart.legend.trendline.linear	线性( R){series})
+pptx.chart.legend.trendline.exp	过期。 ({series})
+pptx.chart.legend.trendline.log	日志。 ({series})
+pptx.chart.legend.trendline.poly	聚类( Poly.) ({series})
+pptx.chart.legend.trendline.power	电源( E){series})
+pptx.chart.legend.trendline.moving-avg	{period} 平均比例(百万伏特){series})
+pptx.tools.word-count	幻灯片 : {slides},词: {words},字符( 无空格) : {chars}
+pptx.common.automatic	自动
+pptx.common.seconds-unit	s
+pptx.paragraph-panel.keep-existing	保持当前
+pptx.smartart.add-item-short	添加
+pptx.3d-model.zoom	缩放
+pptx.guides.add-vertical	添加垂直指南
+pptx.guides.add-horizontal	添加水平指南
+pptx.guides.remove-all	删除所有指南
+pptx.master-view.rename	重命名( N)
+pptx.master-view.duplicate-layout	复制版式
+pptx.master-view.delete-layout	删除布局
+pptx.master-view.apply-to-slide	应用到幻灯片和关闭
+pptx.master-view.layout-in-use	幻灯片使用的布局不能删除。
+pptx.animation.preset.blinds	盲人
+pptx.animation.preset.blinds.horizontal	水平
+pptx.animation.preset.blinds.vertical	垂直
+pptx.animation.preset.box	方框
+pptx.animation.preset.box.in	内
+pptx.animation.preset.box.out	出来
+pptx.animation.preset.checkerboard	检查板
+pptx.animation.preset.checkerboard.across	纵横
+pptx.animation.preset.checkerboard.down	向下移动
+pptx.animation.preset.circle	圆形
+pptx.animation.preset.circle.in	内
+pptx.animation.preset.circle.out	出来
+pptx.animation.preset.diamond	钻石
+pptx.animation.preset.diamond.in	内
+pptx.animation.preset.diamond.out	出来
+pptx.animation.preset.peek	皮克皮克皮克皮克
+pptx.animation.preset.peek.bottom	从底部
+pptx.animation.preset.peek.left	从左侧
+pptx.animation.preset.peek.right	从右边
+pptx.animation.preset.peek.top	从顶部
+pptx.animation.preset.plus	加号
+pptx.animation.preset.plus.in	内
+pptx.animation.preset.plus.out	出来
+pptx.animation.preset.randombar	随机栏
+pptx.animation.preset.randombar.horizontal	水平
+pptx.animation.preset.randombar.vertical	垂直
+pptx.animation.preset.split	分开
+pptx.animation.preset.split.out-vertical	垂直输出
+pptx.animation.preset.split.in-vertical	垂直输入
+pptx.animation.preset.split.out-horizontal	水平输出
+pptx.animation.preset.split.in-horizontal	水平进入
+pptx.animation.preset.strips	条纹
+pptx.animation.preset.strips.down-left	向左移动
+pptx.animation.preset.strips.up-left	左上边
+pptx.animation.preset.strips.down-right	右转
+pptx.animation.preset.strips.up-right	右转
+pptx.animation.preset.other	其他效果
+transition.checker	检查板
+transition.blinds	盲人
+transition.comb	压缩
+transition.strips	条纹
+transition.wedge	楔形
+transition.diamond	钻石
+transition.plus	加号
+transition.random	随机
+transition.newsflash	新闻快报
+transition.switch	切换
+transition.flip	翻转
+transition.honeycomb	蜂窝
+transition.cube	立方体
+transition.box	方框
+transition.rotate	旋转
+transition.orbit	轨道
+transition.doors	门
+transition.window	窗口
+transition.ferris	摩天轮
+transition.gallery	图片库
+transition.conveyor	传送器
+transition.pan	潘语
+transition.warp	扭曲
+transition.flythrough	飞过
+transition.flash	闪光
+transition.shred	切开
+transition.reveal	启示录
+transition.wheelReverse	时钟
+transition.curtains	窗帘
+transition.wind	风
+transition.prestige	预览
+transition.fracture	断裂
+transition.crush	粉碎( T)
+transition.peelOff	皮尔关
+transition.pageCurlDouble	双页曲线
+transition.pageCurlSingle	单页曲线
+transition.airplane	飞机
+transition.origami	折纸
+transition.fallOver	倒计时
+transition.drape	拖车
+transition.dir.left-down	从左下方
+transition.dir.left-up	从左上方
+transition.dir.right-down	从右下方
+transition.dir.right-up	从右上方
+transition.dir.center	从中心
+transition.dir.smoothly	平稳
+transition.dir.through-black	通过黑色
+transition.dir.strips-in	条形图
+transition.dir.strips-out	剥离
+transition.dir.rects-in	矩形内置
+transition.dir.rects-out	矩形向外转
+pptx.animation.trigger.shape-click	单击形状
+pptx.animation.trigger.target	形状
+pptx.animation.unit.seconds	s
+pptx.gradient-panel.path-shape	形状
+pptx.gradient-panel.stop-n	停下来 {n}
+pptx.animation.pane.col.order	顺序
+pptx.animation.pane.col.effect	形状和效果
+pptx.animation.pane.total	共计 {s} s
+pptx.zoom.summary-section	内容提要
+pptx.zoom.summary-needs-sections	缩放需要的章节摘要,先添加章节。
+pptx.notes-format.close-format-editing	关闭格式编辑
+pptx.animation.media.play	播放( L)
+pptx.animation.media.pause	暂停
+pptx.animation.media.stop	停下来
+pptx.animation.media.class	媒体
+pptx.animation.panel.effect-change	变化效果
+transition.dir.smoothly-left	从左侧滑动
+transition.dir.smoothly-right	从右侧滑动
+transition.dir.through-black-left	通过左侧的黑色
+transition.dir.through-black-right	通过黑色从右侧
+transition.dir.diamonds-right	钻石从右侧
+transition.dir.diamonds-down	从底部运来的钻石
+transition.dir.diamonds-left	左侧的钻石
+transition.dir.diamonds-up	钻石从顶端
+transition.dir.hexagons-right	右侧的六边形
+transition.dir.hexagons-down	从底部移出六边形
+transition.dir.hexagons-left	左侧的六边形
+transition.dir.hexagons-up	从顶端切换六边形
+transition.dir.in-bounce	用弹跳
+transition.dir.out-bounce	弹跳出来
+pptx.animation.cat.entr.1	外观
+pptx.animation.cat.entr.2	飞入
+pptx.animation.cat.entr.2.1	上边
+pptx.animation.cat.entr.2.2	对
+pptx.animation.cat.entr.2.4	向下移动
+pptx.animation.cat.entr.2.8	左边
+pptx.animation.cat.entr.2.9	向左转
+pptx.animation.cat.entr.2.3	右转
+pptx.animation.cat.entr.2.6	向右移动
+pptx.animation.cat.entr.2.12	向下左转
+pptx.animation.cat.entr.3	盲人
+pptx.animation.cat.entr.3.10	水平
+pptx.animation.cat.entr.3.5	垂直
+pptx.animation.cat.entr.4	方框
+pptx.animation.cat.entr.4.16	内
+pptx.animation.cat.entr.4.32	出来
+pptx.animation.cat.entr.5	检查板
+pptx.animation.cat.entr.5.10	水平
+pptx.animation.cat.entr.5.5	垂直
+pptx.animation.cat.entr.6	圆形
+pptx.animation.cat.entr.6.16	内
+pptx.animation.cat.entr.6.32	出来
+pptx.animation.cat.entr.7	爬进
+pptx.animation.cat.entr.7.1	上边
+pptx.animation.cat.entr.7.2	对
+pptx.animation.cat.entr.7.4	向下移动
+pptx.animation.cat.entr.7.8	左边
+pptx.animation.cat.entr.8	钻石
+pptx.animation.cat.entr.8.16	内
+pptx.animation.cat.entr.8.32	出来
+pptx.animation.cat.entr.9	溶解于
+pptx.animation.cat.entr.10	淡出
+pptx.animation.cat.entr.11	闪光一次
+pptx.animation.cat.entr.12	皮克进
+pptx.animation.cat.entr.12.1	上边
+pptx.animation.cat.entr.12.2	对
+pptx.animation.cat.entr.12.4	向下移动
+pptx.animation.cat.entr.12.8	左边
+pptx.animation.cat.entr.13	加号
+pptx.animation.cat.entr.13.16	内
+pptx.animation.cat.entr.13.32	出来
+pptx.animation.cat.entr.14	随机栏
+pptx.animation.cat.entr.14.10	水平
+pptx.animation.cat.entr.14.5	垂直
+pptx.animation.cat.entr.15	螺旋进入
+pptx.animation.cat.entr.16	分开
+pptx.animation.cat.entr.16.26	水平输入
+pptx.animation.cat.entr.16.42	水平输出
+pptx.animation.cat.entr.16.21	垂直输入
+pptx.animation.cat.entr.16.37	垂直输出
+pptx.animation.cat.entr.17	伸缩
+pptx.animation.cat.entr.17.1	上边
+pptx.animation.cat.entr.17.2	对
+pptx.animation.cat.entr.17.4	向下移动
+pptx.animation.cat.entr.17.8	左边
+pptx.animation.cat.entr.17.10	水平
+pptx.animation.cat.entr.18	条纹
+pptx.animation.cat.entr.18.9	向左转
+pptx.animation.cat.entr.18.3	右转
+pptx.animation.cat.entr.18.6	向右移动
+pptx.animation.cat.entr.18.12	向下左转
+pptx.animation.cat.entr.19	挥动
+pptx.animation.cat.entr.19.10	水平
+pptx.animation.cat.entr.19.5	垂直
+pptx.animation.cat.entr.20	楔形
+pptx.animation.cat.entr.21	轮子
+pptx.animation.cat.entr.21.1	1人发言
+pptx.animation.cat.entr.21.2	2次发言
+pptx.animation.cat.entr.21.3	3个发言者
+pptx.animation.cat.entr.21.4	4次发言
+pptx.animation.cat.entr.21.8	8次发言
+pptx.animation.cat.entr.22	擦除( E)
+pptx.animation.cat.entr.22.1	上边
+pptx.animation.cat.entr.22.2	对
+pptx.animation.cat.entr.22.4	向下移动
+pptx.animation.cat.entr.22.8	左边
+pptx.animation.cat.entr.23	基本缩放
+pptx.animation.cat.entr.23.16	内
+pptx.animation.cat.entr.23.32	出来
+pptx.animation.cat.entr.23.272	稍纵即逝
+pptx.animation.cat.entr.23.528	中心内
+pptx.animation.cat.entr.23.288	稍稍离开
+pptx.animation.cat.entr.23.36	出舱
+pptx.animation.cat.entr.24	随机效果
+pptx.animation.cat.entr.25	宝马郎
+pptx.animation.cat.entr.26	弹跳
+pptx.animation.cat.entr.27	颜色启示录
+pptx.animation.cat.entr.28	贷项
+pptx.animation.cat.entr.29	简易
+pptx.animation.cat.entr.30	浮点
+pptx.animation.cat.entr.31	增长转弯( T)
+pptx.animation.cat.entr.34	轻速
+pptx.animation.cat.entr.35	平轮
+pptx.animation.cat.entr.37	起来
+pptx.animation.cat.entr.38	斜线
+pptx.animation.cat.entr.39	细线
+pptx.animation.cat.entr.40	解叠
+pptx.animation.cat.entr.41	鞭子( W)
+pptx.animation.cat.entr.42	浮起( 缩放)
+pptx.animation.cat.entr.43	中心循环
+pptx.animation.cat.entr.45	法迪德·斯维韦尔
+pptx.animation.cat.entr.47	浮动下 (Descend)
+pptx.animation.cat.entr.48	摇摆
+pptx.animation.cat.entr.49	旋转器
+pptx.animation.cat.entr.50	伸缩
+pptx.animation.cat.entr.51	齐普
+pptx.animation.cat.entr.52	弧向上
+pptx.animation.cat.entr.53	缩放( Faded 缩放)
+pptx.animation.cat.entr.53.16	内
+pptx.animation.cat.entr.53.528	中心内
+pptx.animation.cat.entr.54	胶片
+pptx.animation.cat.entr.55	扩展
+pptx.animation.cat.entr.56	翻转
+pptx.animation.cat.entr.58	折叠( F)
+pptx.animation.cat.exit.1	失踪
+pptx.animation.cat.exit.2	飞出去
+pptx.animation.cat.exit.2.1	上边
+pptx.animation.cat.exit.2.2	对
+pptx.animation.cat.exit.2.4	向下移动
+pptx.animation.cat.exit.2.8	左边
+pptx.animation.cat.exit.2.9	向左转
+pptx.animation.cat.exit.2.3	右转
+pptx.animation.cat.exit.2.6	向右移动
+pptx.animation.cat.exit.2.12	向下左转
+pptx.animation.cat.exit.3	盲人
+pptx.animation.cat.exit.3.10	水平
+pptx.animation.cat.exit.3.5	垂直
+pptx.animation.cat.exit.4	方框
+pptx.animation.cat.exit.4.16	内
+pptx.animation.cat.exit.4.32	出来
+pptx.animation.cat.exit.5	检查板
+pptx.animation.cat.exit.5.10	水平
+pptx.animation.cat.exit.5.5	垂直
+pptx.animation.cat.exit.6	圆形
+pptx.animation.cat.exit.6.16	内
+pptx.animation.cat.exit.6.32	出来
+pptx.animation.cat.exit.7	爬出来
+pptx.animation.cat.exit.7.1	上边
+pptx.animation.cat.exit.7.2	对
+pptx.animation.cat.exit.7.4	向下移动
+pptx.animation.cat.exit.7.8	左边
+pptx.animation.cat.exit.8	钻石
+pptx.animation.cat.exit.8.16	内
+pptx.animation.cat.exit.8.32	出来
+pptx.animation.cat.exit.9	解析出
+pptx.animation.cat.exit.10	淡出
+pptx.animation.cat.exit.11	闪光一次
+pptx.animation.cat.exit.12	皮克出来
+pptx.animation.cat.exit.12.1	上边
+pptx.animation.cat.exit.12.2	对
+pptx.animation.cat.exit.12.4	向下移动
+pptx.animation.cat.exit.12.8	左边
+pptx.animation.cat.exit.13	加号
+pptx.animation.cat.exit.13.16	内
+pptx.animation.cat.exit.13.32	出来
+pptx.animation.cat.exit.14	随机栏
+pptx.animation.cat.exit.14.10	水平
+pptx.animation.cat.exit.14.5	垂直
+pptx.animation.cat.exit.15	螺旋断裂
+pptx.animation.cat.exit.16	分开
+pptx.animation.cat.exit.16.26	水平输入
+pptx.animation.cat.exit.16.42	水平输出
+pptx.animation.cat.exit.16.21	垂直输入
+pptx.animation.cat.exit.16.37	垂直输出
+pptx.animation.cat.exit.17	伸缩
+pptx.animation.cat.exit.17.1	上边
+pptx.animation.cat.exit.17.2	对
+pptx.animation.cat.exit.17.4	向下移动
+pptx.animation.cat.exit.17.8	左边
+pptx.animation.cat.exit.17.10	水平
+pptx.animation.cat.exit.18	条纹
+pptx.animation.cat.exit.18.9	向左转
+pptx.animation.cat.exit.18.3	右转
+pptx.animation.cat.exit.18.6	向右移动
+pptx.animation.cat.exit.18.12	向下左转
+pptx.animation.cat.exit.19	挥动
+pptx.animation.cat.exit.19.10	水平
+pptx.animation.cat.exit.19.5	垂直
+pptx.animation.cat.exit.20	楔形
+pptx.animation.cat.exit.21	轮子
+pptx.animation.cat.exit.21.1	1人发言
+pptx.animation.cat.exit.21.2	2次发言
+pptx.animation.cat.exit.21.3	3个发言者
+pptx.animation.cat.exit.21.4	4次发言
+pptx.animation.cat.exit.21.8	8次发言
+pptx.animation.cat.exit.22	擦除( E)
+pptx.animation.cat.exit.22.1	上边
+pptx.animation.cat.exit.22.2	对
+pptx.animation.cat.exit.22.4	向下移动
+pptx.animation.cat.exit.22.8	左边
+pptx.animation.cat.exit.23	基本缩放
+pptx.animation.cat.exit.23.16	内
+pptx.animation.cat.exit.23.32	出舱
+pptx.animation.cat.exit.23.272	稍纵即逝
+pptx.animation.cat.exit.23.288	稍稍离开
+pptx.animation.cat.exit.24	随机效果
+pptx.animation.cat.exit.25	宝马郎
+pptx.animation.cat.exit.26	弹跳
+pptx.animation.cat.exit.27	颜色启示录
+pptx.animation.cat.exit.28	倒带
+pptx.animation.cat.exit.29	简易
+pptx.animation.cat.exit.30	浮点
+pptx.animation.cat.exit.31	增长转弯( T)
+pptx.animation.cat.exit.34	轻速
+pptx.animation.cat.exit.35	平轮
+pptx.animation.cat.exit.37	起来
+pptx.animation.cat.exit.38	斜线
+pptx.animation.cat.exit.39	细线
+pptx.animation.cat.exit.40	解叠
+pptx.animation.cat.exit.41	鞭子( W)
+pptx.animation.cat.exit.42	飘出
+pptx.animation.cat.exit.43	中心循环
+pptx.animation.cat.exit.45	法迪德·斯维韦尔
+pptx.animation.cat.exit.47	向下浮出水层
+pptx.animation.cat.exit.48	摇摆
+pptx.animation.cat.exit.49	旋转器
+pptx.animation.cat.exit.50	伸缩
+pptx.animation.cat.exit.51	齐普
+pptx.animation.cat.exit.52	弧向上
+pptx.animation.cat.exit.53	缩放( Faded 缩放)
+pptx.animation.cat.exit.53.32	中心内
+pptx.animation.cat.exit.54	胶片
+pptx.animation.cat.exit.55	扩展
+pptx.animation.cat.exit.56	翻转
+pptx.animation.cat.exit.58	折叠( F)
+pptx.animation.cat.emph.36	闪光
+pptx.animation.cat.emph.1	更改填充颜色
+pptx.animation.cat.emph.2	更改字体
+pptx.animation.cat.emph.3	更改字体颜色
+pptx.animation.cat.emph.4	更改字体大小
+pptx.animation.cat.emph.5	更改字体样式
+pptx.animation.cat.emph.6	增长/收缩
+pptx.animation.cat.emph.7	更改行颜色
+pptx.animation.cat.emph.8	旋转
+pptx.animation.cat.emph.9	透明度
+pptx.animation.cat.emph.10	粗体闪光
+pptx.animation.cat.emph.14	爆炸声
+pptx.animation.cat.emph.15	粗体启示录
+pptx.animation.cat.emph.16	彩色笔刷
+pptx.animation.cat.emph.18	刷底线
+pptx.animation.cat.emph.19	彩色组合
+pptx.animation.cat.emph.20	颜色波
+pptx.animation.cat.emph.21	补充颜色
+pptx.animation.cat.emph.22	补充颜色 2
+pptx.animation.cat.emph.23	对比颜色
+pptx.animation.cat.emph.24	变暗
+pptx.animation.cat.emph.25	不饱和
+pptx.animation.cat.emph.26	闪光块
+pptx.animation.cat.emph.27	闪闪发光
+pptx.animation.cat.emph.28	以颜色增长
+pptx.animation.cat.emph.30	淡化
+pptx.animation.cat.emph.31	样式加亮
+pptx.animation.cat.emph.32	泰特尔
+pptx.animation.cat.emph.33	垂直增长
+pptx.animation.cat.emph.34	挥手
+pptx.animation.cat.path.1	圆形
+pptx.animation.cat.path.2	右三角形
+pptx.animation.cat.path.3	钻石
+pptx.animation.cat.path.4	六边形
+pptx.animation.cat.path.5	5 点星
+pptx.animation.cat.path.6	月亮月亮月亮月亮(月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮月亮)
+pptx.animation.cat.path.7	平方边
+pptx.animation.cat.path.8	铺垫
+pptx.animation.cat.path.9	心脏
+pptx.animation.cat.path.10	八边形
+pptx.animation.cat.path.11	6 点星
+pptx.animation.cat.path.12	足球
+pptx.animation.cat.path.13	平等三角形
+pptx.animation.cat.path.14	平行图
+pptx.animation.cat.path.15	五角大楼
+pptx.animation.cat.path.16	4 点星
+pptx.animation.cat.path.17	8 点星
+pptx.animation.cat.path.18	泪滴
+pptx.animation.cat.path.19	尖点星
+pptx.animation.cat.path.20	曲线广场
+pptx.animation.cat.path.21	曲线 X
+pptx.animation.cat.path.22	垂直图8
+pptx.animation.cat.path.23	弯曲星
+pptx.animation.cat.path.24	循环
+pptx.animation.cat.path.25	巴斯锯
+pptx.animation.cat.path.26	水平图8
+pptx.animation.cat.path.27	花生酱
+pptx.animation.cat.path.28	图8
+pptx.animation.cat.path.29	键
+pptx.animation.cat.path.30	嘘嘘
+pptx.animation.cat.path.31	豆类
+pptx.animation.cat.path.32	加号
+pptx.animation.cat.path.33	倒转三角形
+pptx.animation.cat.path.34	倒置广场
+pptx.animation.cat.path.35	左边
+pptx.animation.cat.path.36	向右转
+pptx.animation.cat.path.37	弧向下
+pptx.animation.cat.path.38	齐格扎格
+pptx.animation.cat.path.39	S 曲线 2
+pptx.animation.cat.path.40	正弦波
+pptx.animation.cat.path.41	向左弹出
+pptx.animation.cat.path.42	向下移动
+pptx.animation.cat.path.43	打开
+pptx.animation.cat.path.44	弧向上
+pptx.animation.cat.path.45	心跳动
+pptx.animation.cat.path.46	螺旋右侧
+pptx.animation.cat.path.47	挥手
+pptx.animation.cat.path.48	向左弯曲
+pptx.animation.cat.path.49	右下对角
+pptx.animation.cat.path.50	向下转
+pptx.animation.cat.path.51	左转弧形
+pptx.animation.cat.path.52	漏斗
+pptx.animation.cat.path.53	春天( 春季 )
+pptx.animation.cat.path.54	弹向右
+pptx.animation.cat.path.55	螺旋左侧
+pptx.animation.cat.path.56	右对角
+pptx.animation.cat.path.57	右转
+pptx.animation.cat.path.58	右转
+pptx.animation.cat.path.59	S 曲线 1
+pptx.animation.cat.path.60	衰变波
+pptx.animation.cat.path.61	弯曲右侧
+pptx.animation.cat.path.62	下楼梯
+pptx.animation.cat.path.64	上边
+pptx.animation.cat.path.63	对
+pptx.animation.more-effects	更多效果
+transition.dir.from-top	从顶部
+transition.dir.from-right	从右边
+transition.dir.from-left	从左侧
+transition.dir.from-bottom	从底部
+transition.dir.from-right-up	从右上方
+transition.dir.from-right-down	从右下方
+transition.dir.from-left-up	从左上方
+transition.dir.from-left-down	从左下方
+transition.dir.toward-left-down	左下调
+transition.dir.toward-left-up	左转
+transition.dir.toward-right-down	右下点
+transition.dir.toward-right-up	右上边
+pptx.wrap.menu	自动换行
+pptx.wrap.none	无
+pptx.wrap.square	平方边
+pptx.wrap.top-bottom	上下层
+pptx.wrap.margin-0	距离 0 毫米
+pptx.wrap.margin-2	距离 2毫米
+pptx.wrap.margin-5	距离5毫米
+pptx.wrap.margin-10	距离10毫米
+pptx.wrap.ignore	忽略文本环绕
+pptx.chain.menu	链接文本框
+pptx.chain.link	创建链接
+pptx.chain.unlink	断开链接
+pptx.chain.next	转到下一个框
+pptx.chain.previous	转到上一个框
+pptx.frame-panel.wrap-section	自动换行
+pptx.frame-panel.wrap-left-mm	左侧环绕距离( 毫米)
+pptx.frame-panel.wrap-top-mm	环绕顶部距离( 毫米)
+pptx.frame-panel.wrap-right-mm	右绕行距离( 毫米)
+pptx.frame-panel.wrap-bottom-mm	环绕距离底部( 毫米)
+pptx.frame-panel.wrap-distance-range	输入从0到50毫米的包装距离。
+slideshow.narration	播放叙事
+slideshow.use-timings	使用时间
+slideshow.media-controls	显示媒体控件
+slideshow.captions-always	总是使用字幕
+slideshow.captions-settings	字幕设置
+slideshow.monitor	监视器
+slideshow.presenter-tools	使用演示文稿视图
+transition.duration	会期
+transition.after	预览幻灯片
+shape.effects.title-text-outline	文本大纲
+shape.effects.title-text-shadow	文本阴影
+shape.effects.title-text-glow	文本发光
+shape.effects.enable-5	启用文本大纲
+shape.effects.enable-6	启用文本阴影
+shape.effects.enable-7	启用文字光辉
+shape.effects.text-outline-color	颜色
+shape.effects.text-outline-width	宽度
+shape.effects.text-shadow-color	颜色
+shape.effects.text-shadow-transparency	透明度
+shape.effects.text-shadow-size	大小
+shape.effects.text-shadow-blur	模糊
+shape.effects.text-shadow-angle	角度
+shape.effects.text-shadow-distance	距离
+shape.effects.text-glow-color	颜色
+shape.effects.text-glow-transparency	透明度
+shape.effects.text-glow-size	大小
+pptx.sidebar.text-fill	文本填充
+shape.effects.panel-title	格式形状
+shape.effects.text	文本
+pptx.export-html	网页.html)
+pptx.html-label-chart	图表
+pptx.html-label-diagram	SmartArt
+pptx.html-label-picture	图片
+pptx.html-label-object	对象
+pptx.html-label-slide	幻灯片 {n}
+pptx.html-no-slides	没有要导出的幻灯片( 全部隐藏) Name
+pptx.html-too-large	图片太大, 无法导出为网页
+pptx.html-exported	导出至 {path}
+pptx.html-export-failed	无法导出 : {error}

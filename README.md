@@ -1,3 +1,11 @@
+## Han Office 简体中文版
+
+Powered by [ibisOffice](https://github.com/ibisjp/ibis-office)，基于官方 v0.8.9。在 [GitHub Actions](https://github.com/Ive4/ibis-office/actions/workflows/macos-zh-cn.yml) 中打开最近一次成功的运行，下载 `Han-Office-macOS-arm64`。解压后将 `Han Office.app` 移入「应用程序」，在「设置 → 常规 → 语言」选择「简体中文」。
+
+翻译由机器起稿，常用文案经过校对。译文可能仍有术语或措辞需要调整。
+
+## 上游项目说明
+
 <p align="center"><b>English</b> | <a href="docs/README-ja.md">日本語</a> | <a href="docs/README-zh-CN.md">简体中文</a></p>
 
 <p align="center">

@@ -5,7 +5,7 @@
 //! `SidebarPanel::modal_named("settings_dialog")`, not a window of its own), master–detail as the system's settings are: the
 //! categories on the left, the selected one's settings on the right, with the splitter between them dragged by the pointer (the
 //! left pane's width is kept in the app's settings file: `settings.nav-width`). 一般 > 言語 chooses the UI's language (the
-//! system's, English or Japanese); every window shows it at once. The クイック アクセス ツール バー's commands are a reorderable
+//! system's, English, Japanese or Simplified Chinese); every window shows it at once. The クイック アクセス ツール バー's commands are a reorderable
 //! table (rows dragged, a trash button per row) with an add button that opens the common searchable menu, centred in the dialog.
 use std::rc::Rc;
 
@@ -130,6 +130,7 @@ fn choice_label(setting: LanguageSetting) -> SharedString {
         // A language's own name, as systems list them.
         LanguageSetting::Fixed(Language::English) => "English".into(),
         LanguageSetting::Fixed(Language::Japanese) => "日本語".into(), // i18n-ok（言語の自称（母語での表記）。English と並べて自称のまま。迷った：母語表記）
+        LanguageSetting::Fixed(Language::SimplifiedChinese) => "简体中文".into(),
     }
 }
 
@@ -296,7 +297,12 @@ impl SlideEditor {
     /// 一般: the language, the scroll bars, the update check.
     fn settings_general(&self, editor: &WeakEntity<SlideEditor>, cx: &mut Context<Self>) -> Div {
         let current = i18n::setting();
-        let choices = [LanguageSetting::System, LanguageSetting::Fixed(Language::English), LanguageSetting::Fixed(Language::Japanese)];
+        let choices = [
+            LanguageSetting::System,
+            LanguageSetting::Fixed(Language::English),
+            LanguageSetting::Fixed(Language::Japanese),
+            LanguageSetting::Fixed(Language::SimplifiedChinese),
+        ];
         let items = choices
             .into_iter()
             .map(|choice| DropdownItem::new(choice_label(choice)).checked(choice == current).on_select(Rc::new(move |_, _, cx| choose_language(choice, cx))))

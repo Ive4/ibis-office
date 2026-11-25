@@ -50,7 +50,9 @@ fi
 VERSION=$(awk -F'\t' '$1 == "macOS" { sub(/\r$/, "", $2); print $2 }' version.txt)
 [[ -n $VERSION ]] || { echo "version.txt has no macOS line" >&2; exit 1; }
 
-APP=target/$PROFILE/ibisOffice.app
+APP_NAME=${IBIS_FORK_NAME:-ibisOffice}
+BUNDLE_ID=${IBIS_FORK_BUNDLE_ID:-jp.ne.ibis.office}
+APP="target/$PROFILE/$APP_NAME.app"
 rm -rf "$APP"
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
 cp "$BIN_DIR/ibisOffice" "$APP/Contents/MacOS/ibisOffice"
@@ -58,7 +60,9 @@ cp "$BIN_DIR/ibisOffice" "$APP/Contents/MacOS/ibisOffice"
 # the NEW app it downloaded, which swaps the apps. It is inside the signed (and
 # notarized) app, so it cannot be swapped for another.
 cp "$BIN_DIR/ibisOfficeUpdater" "$APP/Contents/MacOS/ibisOfficeUpdater"
-cp crates/ibis-office-app/macos/AppIcon.icns "$APP/Contents/Resources/AppIcon.icns"
+if [[ -z ${IBIS_FORK_NAME:-} ]]; then
+  cp crates/ibis-office-app/macos/AppIcon.icns "$APP/Contents/Resources/AppIcon.icns"
+fi
 # The icons of the files ibisOffice opens (K0048): the blue document, green spreadsheet and orange presentation icons, which the
 # document types below name (made by scripts/gen-doc-icons.py).
 cp crates/ibis-office-app/icons/doc/document.icns "$APP/Contents/Resources/DocIcon.icns"
@@ -82,13 +86,11 @@ cat > "$APP/Contents/Info.plist" <<EOF
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>ibisOffice</string>
+	<string>$APP_NAME</string>
 	<key>CFBundleDisplayName</key>
-	<string>ibisOffice</string>
+	<string>$APP_NAME</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.ne.ibis.office</string>
-	<key>CFBundleIconFile</key>
-	<string>AppIcon</string>
+	<string>$BUNDLE_ID</string>
 	<key>CFBundleExecutable</key>
 	<string>ibisOffice</string>
 	<key>CFBundlePackageType</key>
@@ -225,6 +227,10 @@ cat > "$APP/Contents/Info.plist" <<EOF
 </dict>
 </plist>
 EOF
+
+if [[ -z ${IBIS_FORK_NAME:-} ]]; then
+  /usr/libexec/PlistBuddy -c 'Add :CFBundleIconFile string AppIcon' "$APP/Contents/Info.plist"
+fi
 
 # Ad-hoc signature so Apple Silicon runs the copied executables (the updater is
 # signed on its own first, then the app seals it).

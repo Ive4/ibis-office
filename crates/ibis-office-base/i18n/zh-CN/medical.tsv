@@ -1,0 +1,131 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+medical.dicom.tag.modality	模式
+medical.dicom.tag.study-description	学习说明
+medical.dicom.tag.series-description	系列说明
+medical.dicom.tag.slice-thickness	切片层
+medical.dicom.tag.kvp	管道电压( KVP)
+medical.dicom.tag.photometric	光度判读
+medical.dicom.tag.rows	行数
+medical.dicom.tag.columns	列数
+medical.dicom.tag.bits-allocated	分配的位数
+medical.dicom.warning.burned-in	烧焦的InNotement(0028,0301)=是:病人信息可能会被烧成图像像素。请指定用roi_masks黑掉的区域。
+medical.dicom.title	DICOM 用于研究和介绍的非诊断性资产
+medical.dicom.heading	DICOM 非诊断性资产(匿名)
+medical.dicom.notice	** 不是SAMD,不是用于诊断**:这种观点旨在帮助编写会议陈述、案例报告和临床研究材料;不能用于初读、诊断或治疗。
+medical.dicom.stripped-tags	识别在内存中移除的标记( N){count}): `{tags}`
+medical.dicom.no-stripped-tags	识别标记: 找不到
+medical.dicom.note	说明: {text}
+medical.dicom.preview-heading	匿名预览图像
+medical.dicom.params-heading	图像和图像参数(不是个人信息)
+medical.dicom.params-head	* * * 项目 * * * * 值 * * *
+medical.dicom.warning.compressed	转语法 `{ts_uid}`是压缩的,因此图像没有在Wasm或光线模式中解码,只提取了元数据(使用未压缩的图像或转换到桌面版本).
+medical.dicom.warning.size	图像大小已超出所支持的范围, 因此预览被跳过。
+medical.dicom.warning.pixel-format	像素格式( 样本 ={samples},位数={bits})不支持,因此只提取了元数据.
+medical.dicom.warning.j2k-unreadable	该 JPEG 2000像素数据无法读取,因此只提取了元数据.
+medical.dicom.warning.jls-unreadable	该 JPEG-LS像素数据无法读取,所以只提取了元数据.
+medical.dicom.warning.jxl-unreadable	该 JPEG-XL像素数据无法读取,所以只提取了元数据.
+medical.dicom.warning.j2k-decode	JPEG 2000 解码失败, 因此只提取了元数据 : {error}
+medical.dicom.warning.jls-decode	JPEG-LS解码失败,所以只提取了元数据: {error}
+medical.dicom.warning.jxl-header	该 JPEG- XL 头无法读取, 所以只提取了元数据 : {error}
+medical.dicom.warning.jxl-frame	A JPEG-XL框架无法渲染,所以只提取了元数据: {error}
+medical.dicom.warning.j2k-channels	A JPEG 2000年图像为 {count} 频道无法转换为 PNG,因此只提取了元数据。
+medical.dicom.warning.jls-channels	A JPEG- LS 图像为 {count} 组件无法转换为 PNG,因此只提取了元数据。
+medical.dicom.warning.jxl-channels	A JPEG-XL图像与 {count} 频道无法转换为 PNG,因此只提取了元数据。
+medical.fhir.default-title	HL7 FHIR 文档
+medical.fhir.default-title-xml	HL7 FHIR XML 文档
+medical.cda.default-title	特定健康检查(HL7 CDA)文档
+medical.fhir.default-title-docx	转介函
+medical.fhir.notice	这种观点是忠实的、结构化的 HL7 FHIR 数据,不支持关于诊断或治疗的决定。
+medical.fhir.authenticity	** 核证(提交/签署)**: {provenance} 证明, {signatures} 签字要素(由: {signers})
+medical.fhir.patient-heading	患者信息
+medical.fhir.patient-head	* 项目 * * * * 内容 * * *
+medical.fhir.patient-id	患者身份证
+medical.fhir.patient-name	名称
+medical.fhir.patient-gender	性别
+medical.fhir.patient-birth	出生日期
+medical.fhir.issuer-heading	发行人和从业人员
+medical.fhir.issuer-head	QQ 类型名称 QQ Name
+medical.fhir.condition-heading	诊断(情况)
+medical.fhir.condition-head	| Diagnosis | Code | Clinical status | Onset/recorded |
+medical.fhir.allergy-heading	过敏症和禁药(过敏症)
+medical.fhir.allergy-head	药物类型临界临床状态
+medical.fhir.observation-heading	测试结果和结果(观察)
+medical.fhir.observation-head	* * * * * 项 * * 代码 * * * 值 * * 日期和时间 * * * *
+medical.fhir.medication-heading	处方和药物(药物)
+medical.fhir.medication-head	医学代码剂量状态
+medical.cda.time	创建/完成:`{time}`
+medical.cda.observation-heading	试验和观察项目(观察)
+medical.cda.observation-head	| Item | Code | Value | Unit |
+medical.fhir-xml.resources-heading	文件中的资源
+medical.fhir-xml.resources-head	# # # 资源类型 # # # ID # # # # #
+medical.hl7v2.title	HL7 v2 信件检查器
+medical.hl7v2.heading	HL7 v2 信件 ({type})
+medical.hl7v2.control-id	信件控制ID:`{id}`
+medical.hl7v2.segment-count	片段 : {count}
+medical.hl7v2.segments-heading	部分
+medical.hl7v2.segments-head	| # | Segment | Main fields |
+medical.uke.record.information	医疗机构
+medical.uke.record.common-dental	常见收款(牙科/分发)
+medical.uke.record.common	常见收款
+medical.uke.record.insurer	保险人
+medical.uke.record.public	公共开支
+medical.uke.record.public-extra	公共支出(补充)
+medical.uke.record.eligibility	资格检查
+medical.uke.record.visit-date	访问日期
+medical.uke.record.copay	共同付款
+medical.uke.record.diagnosis	诊断
+medical.uke.record.procedure	程序
+medical.uke.record.medicine	药品
+medical.uke.record.material	具体材料
+medical.uke.record.comment	批注
+medical.uke.record.symptoms	症状细节
+medical.uke.record.inpatient	住院基本费用
+medical.uke.record.elderly	老年人护理
+medical.uke.record.dispensing	分发
+medical.uke.record.claim-total	索赔总额
+medical.uke.record.reception	接收信息
+medical.uke.record.other	其他记录
+medical.uke.sheet-detail	收款详情
+medical.uke.sheet-summary	收到摘要
+medical.uke.detail.line	线条
+medical.uke.detail.kind	类型
+medical.uke.detail.record	记录
+medical.uke.detail.receipt-no	收据号。
+medical.uke.detail.main-code	主代码
+medical.uke.detail.master-name	师傅的名字
+medical.uke.detail.points	点
+medical.uke.detail.count	计数
+medical.uke.detail.raw	原始字段( O)…
+medical.uke.summary.facility-code	机构代码
+medical.uke.summary.facility-name	机构名称
+medical.uke.summary.billing-month	治疗月
+medical.uke.summary.receipt-no	收据号。
+medical.uke.summary.patient	患者名称
+medical.uke.summary.sex	性别
+medical.uke.summary.birth	出生日期
+medical.uke.summary.insurer-no	保险人没有。
+medical.uke.summary.claimed	声称的点数(HO)
+medical.uke.summary.computed	汇总点数(SI/IY/TO)
+medical.uke.summary.difference	差额
+medical.uke.summary.diseases	诊断
+medical.uke.summary.items	详细线条
+medical.uke.summary.total	共计
+medical.uke.summary.go-total	GO记录的总点数
+medical.dpc.sheet-detail	DPC 细节
+medical.dpc.sheet-summary	DPC摘要
+medical.dpc.summary.patient-id	数据标识
+medical.dpc.summary.facility-code	设施代码
+medical.dpc.summary.item-count	详细线条
+medical.dpc.summary.points	总点数(点数x计数)
+medical.pii.location.slide	幻灯片 {no}
+medical.pii.location.notes	幻灯片 {no} 说明
+medical.pii.location.comments	幻灯片 {no} 评论
+medical.pii.location.sheet-cell	工作表 {no} (R{row}C{column})
+medical.pii.location.text	幻灯片 {no} 文本
+medical.pii.location.hidden-sheet	工作表 `{name}`
+medical.pii.detail.hidden-slide	包含隐藏幻灯片
+medical.pii.detail.notes	发言者的说明载有案文。
+medical.pii.detail.comments	包含 {count} 评论
+medical.pii.detail.hidden-sheet	包含隐藏的工作表
+medical.pii.detail.personal-number	以个人数字( My number)的形式找到一个 12 位字符串
+medical.pii.detail.patient-id	找到有病人身份证或被保险人号码的短信

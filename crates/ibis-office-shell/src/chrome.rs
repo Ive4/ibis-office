@@ -1349,7 +1349,11 @@ pub(crate) fn hover_row_actions(index: usize, entries: Vec<MenuEntry>, editor: &
 pub(crate) fn brand_logo(id:&'static str,height:f32,full_width:bool)->Stateful<Div>{
     let root=div().id(id).relative().flex_none();
     let root=if full_width{root.w_full().aspect_ratio(LOGO_ASPECT)}else{root.w(px(height*LOGO_ASPECT)).h(px(height))};
-    let root=root.child(img(app_logo_for_height(height)).absolute().inset_0().size_full().object_fit(ObjectFit::Contain));
+    let root = if let Some(name) = option_env!("IBIS_FORK_NAME") {
+        root.child(div().absolute().inset_0().flex().items_center().justify_center().text_size(px((height * 0.75).min(40.))).child(name))
+    } else {
+        root.child(img(app_logo_for_height(height)).absolute().inset_0().size_full().object_fit(ObjectFit::Contain))
+    };
     #[cfg(all(feature="scenarios",any(target_os="macos",target_os="linux")))]
     let root=super::scenario::button_probe::observe_control(root,id.into());
     root
@@ -1360,10 +1364,8 @@ pub(crate) fn brand_logo(id:&'static str,height:f32,full_width:bool)->Stateful<D
 /// over its height. The SVG's own size is this size (99.25×22): GPUI draws
 /// an SVG picture at twice its own size and scales that to the element, and
 /// scaled down from its 600×133 it came out jagged.
-pub(crate) const LOGO_HEIGHT: f32 = 22.0;
 pub const LOGO_ASPECT: f32 = 600.0 / 133.0;
 
-pub(crate) fn app_logo() -> std::sync::Arc<Image> { app_logo_for_height(LOGO_HEIGHT) }
 /// Size the SVG raster source to its use, so a large start logo stays sharp.
 pub(crate) fn app_logo_for_height(height:f32)->std::sync::Arc<Image>{
     static CACHE:std::sync::OnceLock<std::sync::Mutex<std::collections::HashMap<(u32,bool),std::sync::Arc<Image>>>>=std::sync::OnceLock::new();

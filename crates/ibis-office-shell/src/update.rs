@@ -289,6 +289,10 @@ pub fn check_now(cx: &mut App) {
     }
     #[allow(unreachable_code)]
     {
+        if let Some(url) = option_env!("IBIS_FORK_DOWNLOADS_URL") {
+            crate::external::open_url(url, cx);
+            return;
+        }
         if CHECKING.with(|c| c.replace(true)) {
             return;
         }
@@ -345,6 +349,9 @@ thread_local! {
 }
 
 fn background_check(cx: &mut App, ask: bool, delay: Duration) {
+    if option_env!("IBIS_FORK_DOWNLOADS_URL").is_some() {
+        return;
+    }
     // No network in the tests.
     #[cfg(any(test, feature = "scenarios"))]
     {
