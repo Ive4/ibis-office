@@ -141,7 +141,7 @@ pub trait CommentFormat: 'static {
 // ----- Words and times -----------------------------------------------------------------------
 
 /// `2026-10-17T01:45:00Z` / `2026-10-07T09:30:00.00` as `2026/10/17 01:45` (ja) or `10/17/2026 01:45`
-/// (en); a date alone without the time; anything else as it is.
+/// (en) or `2026-10-17 01:45` (zh-CN); a date alone without the time; anything else as it is.
 pub fn comment_date_label(raw: &str) -> String {
     let raw = raw.trim().trim_end_matches('Z');
     let (date, time) = raw.split_once('T').unwrap_or((raw, ""));
@@ -153,6 +153,7 @@ pub fn comment_date_label(raw: &str) -> String {
     let day_text = match crate::i18n::language() {
         crate::i18n::Language::English => format!("{m}/{day}/{y}"),
         crate::i18n::Language::Japanese => format!("{y}/{m}/{day}"),
+        crate::i18n::Language::SimplifiedChinese => format!("{y}-{m}-{day}"),
     };
     let mut hm = time.split(':');
     match (hm.next().filter(|h| !h.is_empty()), hm.next()) {
