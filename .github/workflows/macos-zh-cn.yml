@@ -10,11 +10,12 @@ permissions:
 
 jobs:
   macos:
-    runs-on: macos-26
+    runs-on: macos-15-intel
     timeout-minutes: 45
     env:
       MACOSX_DEPLOYMENT_TARGET: '11.0'
-      CARGO_BUILD_JOBS: '2'
+      CARGO_BUILD_JOBS: '3'
+      CARGO_BUILD_TARGET: aarch64-apple-darwin
       IBIS_FORK_NAME: Han Office
       IBIS_FORK_BUNDLE_ID: com.github.ive4.hanoffice
       IBIS_FORK_DOWNLOADS_URL: https://github.com/${{ github.repository }}/actions/workflows/macos-zh-cn.yml
@@ -28,6 +29,7 @@ jobs:
         run: |
           rustup toolchain install stable --profile minimal
           rustup default stable
+          rustup target add "$CARGO_BUILD_TARGET"
           if ! xcrun -sdk macosx metal --version; then
             xcodebuild -downloadComponent MetalToolchain
             xcrun -sdk macosx metal --version

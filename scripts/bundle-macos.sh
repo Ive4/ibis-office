@@ -36,16 +36,19 @@ if [[ "${1:-}" == "--release" || -n $QUICK ]]; then PROFILE=release; FLAGS=(--re
 REMAP="--remap-path-prefix=$HOME/.cargo/registry/src=crates.io --remap-path-prefix=$HOME/.cargo/git/checkouts=git --remap-path-prefix=$HOME/.rustup=rustup --remap-path-prefix=$(pwd)=."
 if [[ -n $QUICK ]]; then
   cargo build --release --locked -p ibis-office-app -p ibis-office-updater
-  BIN_DIR=target/release
+  BIN_DIR=target${CARGO_BUILD_TARGET:+/$CARGO_BUILD_TARGET}/release
 elif [[ "$PROFILE" == release ]]; then
   if [[ ${IBIS_TEST_I18N:-} == 1 ]]; then
-    RUSTFLAGS="$REMAP" CARGO_TARGET_DIR=target/dist cargo test --release --locked -p ibis-office-base --lib i18n::tests
+    (
+      unset CARGO_BUILD_TARGET
+      RUSTFLAGS="$REMAP" CARGO_TARGET_DIR=target/dist cargo test --release --locked -p ibis-office-base --lib i18n::tests
+    )
   fi
   RUSTFLAGS="$REMAP" CARGO_TARGET_DIR=target/dist cargo build --release --locked -p ibis-office-app -p ibis-office-updater
-  BIN_DIR=target/dist/release
+  BIN_DIR=target/dist${CARGO_BUILD_TARGET:+/$CARGO_BUILD_TARGET}/release
 else
   cargo build --locked -p ibis-office-app -p ibis-office-updater
-  BIN_DIR=target/debug
+  BIN_DIR=target${CARGO_BUILD_TARGET:+/$CARGO_BUILD_TARGET}/debug
 fi
 
 # The version shown for macOS, from version.txt (a platform, a tab and its
