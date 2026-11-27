@@ -27,7 +27,7 @@ fn page_has_the_shown_slides_and_their_text() {
     });
     let (html, shown) = s.with(|e, _| {
         let p = e.presentation();
-        (crate::export_html::page_for(p, "plan", true).unwrap(), p.slides.iter().filter(|s| !s.hidden).count())
+        (crate::export_html::page_for(p, "plan", "en").unwrap(), p.slides.iter().filter(|s| !s.hidden).count())
     });
     assert_eq!(html.matches("<section").count(), shown, "{html}");
     assert!(html.contains("Issue 208 &lt;text&gt;"), "the text of the slide is in the page");
@@ -41,7 +41,7 @@ fn all_hidden_says_so() {
         for slide in &mut p.slides {
             slide.hidden = true;
         }
-        crate::export_html::page_for(&p, "plan", true)
+        crate::export_html::page_for(&p, "plan", "en")
     });
     assert!(message.is_err());
 }

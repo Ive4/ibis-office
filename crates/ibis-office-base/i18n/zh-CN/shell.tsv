@@ -1,0 +1,1392 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+menu.file	文件
+menu.edit	编辑
+menu.view	视图
+menu.insert	插入
+menu.format	格式
+menu.data	数据
+menu.slide	幻灯片
+menu.arrange	排列
+menu.tools	工具
+menu.help	帮助
+slideshow.from-start	从头开始放映
+slideshow.from-current	从当前幻灯片开始放映
+slideshow.presenter	演讲者视图
+slideshow.settings	设置幻灯片放映…
+slideshow.custom-shows	自定义幻灯片放映
+slideshow.rehearse-timings	排练时间
+slideshow.rehearsal.prompt	本次放映总时长为 {time}。是否保存新的排练计时，以便下次放映时使用？
+slideshow.rehearsal.yes	是
+slideshow.rehearsal.no	否
+slideshow.rehearsal.repeat	重复
+slideshow.rehearsal.pause	暂停
+slideshow.rehearsal.resume	继续
+file.recent.none	没有最近使用的文件
+view.sidebar	显示侧栏
+view.menus	隐藏菜单
+view.zoom-100	100%
+tools.dictionary	词典
+tools.word-count	字数统计…
+tools.accessibility	辅助功能
+tools.settings	设置…
+help.search	搜索菜单
+help.help	帮助
+help.shortcuts	键盘快捷键
+help.source-code	源代码（AGPL）…
+help.about	关于 ibisOffice
+file.new.document	文档
+file.new.workbook	电子表格
+file.new.presentation	演示文稿
+file.open	打开…
+file.save	保存
+file.save-as	另存为…
+file.copy	创建副本…
+file.export.pdf	PDF (.pdf)
+file.export.png	PNG 图像( E).png)
+file.export.gif	动画 GIF (.gif)
+file.export.svg	SVG 图像( E).svg)
+file.export.odp	OpenDocument 列报方式( A).odp)
+file.export.thmx	办公室主题( O).thmx)
+file.print	打印…
+file.info	文件信息
+file.language	语言
+file.page-setup	页面设置…
+file.close	关闭
+file.quit	退出
+edit.undo	撤销
+edit.redo	重做
+edit.cut	剪切
+edit.copy	复制
+edit.paste	粘贴
+edit.paste-plain	粘贴为纯文本
+edit.paste-match	粘贴并匹配样式
+edit.copy-format	复制格式
+edit.paste-format	粘贴格式
+edit.select-all	全选
+edit.delete	删除
+edit.duplicate	创建副本
+edit.find-replace	查找和替换…
+edit.replace-fonts	替换字体…
+view.slideshow	幻灯片放映
+view.zoom-in	放大
+view.zoom-out	缩小
+view.zoom-400	400%
+view.zoom-200	200%
+view.zoom-66	66%
+view.zoom-50	50%
+view.zoom-33	33%
+view.zoom-fit	适应窗口
+view.zoom-dialog	缩放…
+view.zoom-menu	缩放关卡
+view.zoom-custom	自定义
+view.window	窗口
+window.new-window	新建窗口
+window.arrange-all	全部排列
+window.cascade	连锁店
+window.split	分开
+zoom.dialog.title	缩放
+zoom.dialog.percent	百分比
+zoom.dialog.fit	适应窗口
+zoom.dialog.presets	预设
+view.fullscreen	全屏
+insert.text-box	文本框
+insert.video	视频…
+insert.audio	音频…
+insert.equation	公式
+insert.symbol	符号…
+insert.link	链接
+insert.comment	批注
+review.new-comment	新建批注
+review.comments	批注
+format.options	格式选项
+format.clear	清除格式
+tools.spelling	拼写检查
+file.start-window	开始窗口
+file.new	新建
+file.recent	打开最近使用的文件
+file.export	导出
+view.zoom	缩放
+insert.image	图片
+insert.shape	形状
+insert.table	表格
+insert.chart	图表
+insert.smartart	SmartArt
+format.text	文本
+format.align	对齐和缩进
+format.spacing	行距和段落间距
+format.lists	项目符号和编号
+format.borders	边框和线条
+settings.title	设置
+settings.general	常规
+settings.language	语言
+settings.language.system	跟随系统
+settings.language.note	更改菜单、工具栏和窗格的显示语言，设置立即生效。
+app.quit	退出 ibisOffice
+app.file.new	新建文档
+app.file.open	打开…
+app.file.save	保存
+app.file.save-as	另存为…
+app.file.close	关闭
+_shell.top	顶端
+_shell.right	对
+_shell.bottom	底部
+_shell.left	左边
+_shell.black	黑色
+_shell.red	红色
+_shell.blue	蓝色
+_shell.green	绿色
+_shell.reply	回复
+_shell.resolved	(已解决)
+pptx.comments.reopen	重新打开
+_shell.resolve	决断
+_shell.find-what	查找内容
+_shell.replace-with	替换为
+_shell.previous	上一个
+_shell.next	ưμ㼯A
+_shell.find-and-replace	查找和替换
+_shell.font	字体
+_shell.remove-link	删除链接
+_shell.thick	粗细
+_shell.double	双倍
+_shell.dotted	点数
+_shell.dashed	虚构
+_shell.dash-dot	达什点
+_shell.dash-dot-dot	达什点点
+_shell.wave	挥手
+_shell.light-blue	浅蓝色
+_shell.light-green	浅绿色
+_shell.light-yellow	淡黄
+_shell.gray	灰色
+_shell.at-least	最少一点
+_shell.size	大小
+_shell.bold	加粗
+_shell.center	居中点
+_shell.auto	自动
+_shell.normal	常规
+_shell.title	标题
+_shell.dark-red	暗红色
+_shell.orange	橙色
+_shell.yellow	黄色
+_shell.dark-blue	暗蓝色
+_shell.purple	紫色
+_shell.light-blue-2	浅蓝色
+_shell.white	白色
+_shell.header	页眉
+_shell.footer	页脚
+_shell.styles	样式
+_shell.bold-b	粗体( B)⌘B)
+_shell.italic-i	斜体( E)⌘I)
+_shell.underline-u	下划线( E)⌘U)
+_shell.font-color	字体颜色
+_shell.insert-picture	插入图片
+_shell.distributed	分发
+_shell.bullets	项目符号
+_shell.numbering	编号
+_shell.decrease-indent	减少缩进
+_shell.increase-indent	增加缩进
+_shell.vertical-alignment	垂直对齐
+_shell.align-left	左对齐
+_shell.center-2	居中点
+_shell.align-right	右对齐
+_shell.justify	说明
+_shell.picture-fill-for-shape	形状的图片填充
+_shell.horizontal	水平
+_shell.vertical	垂直
+_shell.rotate-right-90	向右旋转90度
+_shell.rotate-left-90	向左旋转 90 度
+_shell.text-zoom-100	文字缩放 100%
+_shell.text-zoom-80	文本缩放 80%
+_shell.text-zoom-50	文字缩放 50%
+_shell.crop-10-from-left	从左侧切出10%
+_shell.crop-10-from-right	从右侧切出10%
+_shell.crop-10-from-top	从顶端切出10%
+_shell.crop-10-from-bottom	从底层作物占10%
+_shell.crop-10-from-all-sides	从所有侧面切出10%
+_shell.align-center	对齐中心
+_shell.no-outer-shadow	无外影
+_shell.right-4-pt	右 4 平方公尺
+_shell.bottom-right-4-pt	右下角 —— 4 pt
+_shell.bottom-right-blur-4-pt	右下角 · 模糊 4 pt
+_shell.no-glow	无光线
+_shell.blue-5-pt	蓝色 5平方公尺
+_shell.blue-10-pt	蓝色 10平方公尺
+_shell.yellow-10-pt	黄色 10平方公尺
+_shell.blue-to-white-0	蓝色到白色 ^ 0°
+_shell.blue-to-white-90	蓝色到白色 90°
+_shell.blue-to-white-180	蓝色到白色 180°
+_shell.blue-to-white-270	蓝色到白色 270°
+_shell.center-blue-to-white-radial	蓝白中间 → 辐射
+_shell.center-blue-to-white-rectangular	蓝白中间 / 矩形
+_shell.center-blue-to-white-path	蓝白交汇路径。
+_shell.2-rows-2-columns	2行×2列
+_shell.3-rows-3-columns	3行×3列
+_shell.3-rows-4-columns	3行×4列
+_shell.4-rows-4-columns	4行×4列
+_shell.5-rows-5-columns	5行×5列
+_shell.6-rows-4-columns	6行×4列
+_shell.cut	剪切
+_shell.fade	淡出
+_shell.push	推开
+_shell.wipe	擦除( E)
+_shell.split	分开
+_shell.cover	覆盖
+_shell.uncover	无法覆盖
+_shell.random-bars	随机栏
+_shell.dissolve	溶解
+_shell.swirl	旋转
+_shell.ripple	连线
+_shell.glitter	闪烁
+_shell.wheel	轮子
+_shell.duration-0-5-s	会期 0.5 s
+_shell.duration-1-s	会期 1 s
+_shell.duration-2-s	会期2 s
+_shell.do-not-advance-automatically	不自动推进
+_shell.advance-after-0-s	0s之后的预付款
+_shell.advance-after-1-s	1s之后的预付款
+_shell.advance-after-5-s	5s之后的预付款
+_shell.advance-after-10-s	10s之后的预付款
+_shell.border-color	边框颜色
+_shell.flat	平面
+_shell.round	圆
+_shell.single	单身
+_shell.thick-thin	细细
+_shell.thin-thick	细小的
+_shell.triangle	三角形
+_shell.open-arrow	打开箭头
+_shell.sharp-arrow	锐箭
+_shell.diamond	钻石
+_shell.width	宽度
+_shell.length	长度
+_shell.small	小点
+_shell.medium	中型
+_shell.large	大块
+_shell.select-esc	选择( Esc)
+_shell.background	背景情况
+_shell.layout	布局
+_shell.theme	主题
+_shell.transitions	切换
+_shell.line	线条
+_shell.size-rotation	大小旋转( R)
+_shell.height	高度
+_shell.position	立场
+_shell.custom	自定义
+_shell.rectangle	矩形
+_shell.rounded-rectangle	圆形矩形
+_shell.oval	椭圆形
+_shell.isosceles-triangle	同位素三角形
+_shell.right-triangle	右三角形
+_shell.pentagon	五角大楼
+_shell.hexagon	六边形
+_shell.right-arrow	右箭头
+_shell.left-arrow	左箭头
+_shell.up-arrow	向上箭头
+_shell.down-arrow	向下箭头
+_shell.5-point-star	5 点星
+_shell.speech-bubble-rectangle	语音泡( 矩形)
+_shell.cloud	云头
+_shell.heart	心脏
+_shell.dark-gray	暗灰色
+_shell.accent-1-blue	调值 1 (蓝色)
+_shell.press-esc-to-finish-editing	按 Esc 完成编辑
+_shell.name	名称
+_shell.chart-not-supported	图表( 不支持)
+_shell.table-not-supported	表格(未获得支持)
+_shell.emf-picture-not-supported	EMF 图片( 不支持)
+_shell.wmf-picture-not-supported	WMF 图片( 不支持)
+_shell.picture-not-supported	图片( 不支持)
+_shell.open	打开
+_shell.hide-comments	隐藏注释
+_shell.hide-ink-panel	关闭墨水面板
+_shell.hide-sidebar	隐藏侧边栏
+_shell.undo-z	撤消( U) (⌘Z)
+_shell.redo-z	重做( R)⇧⌘Z)
+_shell.play-from-current-slide	从当前幻灯片播放( P)⌘↩)
+_shell.choose-how-to-start	选择如何开始
+_shell.more	更多( E)
+_shell.show-menu-f	显示菜单( T)⌃⇧F)
+_shell.hide-menu-f	隐藏菜单( H)⌃⇧F)
+_shell.decrease-font-size	减少字体大小
+_shell.increase-font-size	增加字体大小
+_shell.search-menus	搜索菜单( E)⌥/)
+_shell.new-slide-m	新建幻灯片( N)⌘M)
+_shell.spelling-and-grammar	拼写和语法
+_shell.fill-color	填充颜色
+_shell.accounting-number-format	会计编号格式
+_shell.percent-style	百分比样式
+_shell.decrease-decimal	减少十进制
+_shell.increase-decimal	增加十进制
+_shell.more-number-formats	更多数字格式
+_shell.horizontal-alignment	水平对齐
+_shell.wrap-text	自动换行
+_shell.text-rotation	文本旋转
+_shell.insert-link	插入链接
+_shell.insert-chart	插入图表
+_shell.functions	职能
+_shell.chart-editor	图表编辑器
+_shell.macros-in-this-file-will-not-run-they-are-preser	此文件中的宏不会运行( 当您保存时它们会被保存)。
+_shell.loading	正在装入…
+_shell.document-1-docx	文档1.docx
+_shell.presentation-1-pptx	列报1.pptx
+_shell.this-file-cannot-be-saved-yet	此文件尚未保存
+_shell.copy-saved	复制已保存
+_shell.saving-is-not-yet-available-in-the-browser-versi	浏览器版本中尚无法保存
+_shell.could-not-create-the-pdf	无法创建 PDF
+_shell.exporting-to-pdf	导出到 PDF…
+_shell.exporting-is-not-yet-available-in-the-browser-ve	浏览器版本中尚未可用的导出
+_shell.preparing-to-print	准备打印…
+_shell.print-dialog-opened	打开打印对话框
+_shell.printing-is-not-yet-available-in-this-environmen	在此环境中尚无法打印
+_shell.saving-new-documents-is-not-yet-supported	尚未支持保存新文档
+_shell.saved	已保存
+_shell.click-or-drag-on-the-slide-to-place-a-text-box	单击或拖动幻灯片以放置文本框
+_shell.zoom-levels	缩放关卡
+_shell.custom-2	自定义
+_shell.fit-to-screen	适合屏幕
+_shell.range	范围
+_shell.paper-size	纸张大小
+_shell.margins	边距
+_shell.items-comma-separated	项目(已合并分离)
+_shell.list-in-selection	列表( 在选中中)
+_shell.clear-validation	清除验证
+_shell.file	文件
+_shell.view	视图
+_shell.insert	插入
+_shell.format	格式
+_shell.slide	幻灯片
+_shell.arrange	排列
+_shell.tools	工具
+_shell.help	帮助
+_shell.no-borders	无边框
+_shell.diagonal-border-for-selected-cells	选定单元格的对角边框QX
+_shell.diagonal-border-for-selected-cells-2	选定单元格的对角边框QX
+_shell.apply-border-to-edge-of-selected-cells	将边框应用到选中单元格的边缘
+_shell.borders-for-selected-cells	选定单元格的边框
+_shell.line-weight-for-selected-cells	选定单元格的行重
+_shell.line-color-for-selected-cells	选定单元格的行颜色
+_shell.none	无
+_shell.apply-border-to-edge	将边框应用到边缘
+_shell.paragraph-shading	段落阴影
+_shell.border-style	边框样式
+_shell.border-weight	边框重量
+_shell.border-color-2	边框颜色
+_shell.modify-style	修改样式…
+_shell.latin-and-asian-fonts	拉丁文和亚洲文…
+_shell.more-colors	更多颜色…
+_shell.paragraph-details	段落细节…
+_shell.add-space-before-paragraph-12-pt	在段落前添加空格( 12 pt)
+_shell.remove-space-after-paragraph	删除段落后的空格
+_shell.align-top	对齐顶端
+_shell.align-center-vertically	垂直对齐中心
+_shell.align-bottom	对齐下方
+_shell.apply-copied-character-formatting	应用复制字符格式
+_shell.picture-size	图片大小…
+_shell.lock-aspect-ratio	锁定侧面比
+_shell.all-caps	全部顶盖
+_shell.small-caps	小盖子
+_shell.baseline	基线
+_shell.details	细节…
+_shell.update-table-of-contents	更新目录
+_shell.no-captions-found	未找到标题
+_shell.caption-figure	说明( 图)
+_shell.caption-table	说明(表)
+_shell.update-fields	更新字段
+_shell.convert-footnotes-to-endnotes	将脚注转换为尾注
+_shell.convert-endnotes-to-footnotes	将尾注转换为脚注
+_shell.update-automatically	自动更新
+_shell.track-changes	修订
+_shell.show-markup-off-shows-final-document	显示标记( Off 显示最终文档)
+_shell.accept-selected-change	接受选中的更改
+_shell.reject-selected-change	拒绝选中的更改
+_shell.accept-all-changes	接受所有更改
+_shell.reject-all-changes	拒绝所有更改
+_shell.show-comments	显示注释
+_shell.show-ink-panel	打开墨水面板
+_shell.section-break-next-page	节间断 (下页)
+_shell.section-break-continuous	节间歇( 持续)
+_shell.section-break-odd-page	节间断 (Odd Page)
+_shell.section-break-even-page	节间断开( 偶数页)
+_shell.from-file	从文件…
+_shell.merge-with-right-cell	与右单元格合并
+_shell.split-cells-by-grid-column	按网格柱分隔单元格
+_shell.repeat-header-rows	重复页眉行
+_shell.don-t-allow-row-to-break-across-pages	不要让行突破页面
+_shell.column-width-and-row-height	列宽和行高度…
+_shell.number-headings-1-1-1-1-1-1	编号标题(1/1.1/1.1.1)
+_shell.margins-normal	边距: 正常
+_shell.margins-narrow	边距: 窄
+_shell.margins-wide	边距: 宽
+_shell.different-first-page	不同的首页
+_shell.different-odd-even-pages	不同的奇数页( E)
+_shell.restart-page-numbering-at-1	恢复页面编号, 时间为 1
+_shell.character-scaling	字符缩放
+_shell.character-spacing	字符间距
+_shell.levels-shown-in-table-of-contents	目录中显示的关卡
+_shell.cross-reference	交叉参考
+_shell.date-time	日期和时间
+_shell.restart-numbering	重新开始编号
+_shell.line-and-page-breaks	行和分页符
+_shell.page-setup	页面设置
+_shell.wrap-text-in-shape	在形状中环绕文字
+_shell.no-internal-margins	无内部边距
+_shell.default-internal-margins	默认内边距
+_shell.internal-margins-and-text-scale	内部边距和文本缩放…
+_shell.copy-paragraph-format	复制段落格式
+_shell.paste-paragraph-format	粘贴段落格式
+_shell.copy-text-format	复制文本格式
+_shell.paste-text-format	粘贴文本格式
+_shell.crop-mode	作物
+_shell.crop-settings	裁剪设置…
+_shell.upload-from-computer	从计算机上传
+_shell.line-2	线条
+_shell.arrow	箭头
+_shell.apply	应用
+_shell.cancel	取消
+_shell.delete-first-stop	删除第一站
+_shell.delete-last-stop	删除最后一站
+_shell.automatically	自动
+_shell.on-click	点击
+_shell.black-1-pt	黑色, 1 pt
+_shell.no-outline	无大纲
+_shell.size-position	大小位置( P)…
+_shell.line-and-paragraph-spacing-options	行和段落间距选项…
+_shell.default	默认
+_shell.multiple	多个
+_shell.match-case	匹配大小写
+_shell.find-previous	查找上一个
+_shell.replace	替换
+_shell.replace-all	全部替换
+_shell.align-center-2	对齐中心
+_shell.align-middle	中间对齐
+_shell.distribute-horizontally	水平分布
+_shell.distribute-vertically	垂直分布
+_shell.character-spacing-tight	字符间距: 紧
+_shell.character-spacing-normal	字符间距: 正常
+_shell.character-spacing-loose	字符间距: 闲置
+_shell.linear-gradient-options	线性渐变选项…
+_shell.background-linear-gradient-options	背景线性渐变选项…
+_shell.path-gradient-options	路径渐变选项…
+_shell.background-path-gradient-options	背景路径渐变选项…
+_shell.pattern-options	模式选项…
+_shell.background-pattern-options	背景模式选项…
+_shell.glow-options	拖动选项…
+_shell.shadow-options	阴影选项…
+_shell.reset-picture-color-effects	重置图片颜色效果
+_shell.reset-placeholder-position	重置占位符位置
+_shell.add-section	添加区域…
+_shell.rename	重命名( R)…
+_shell.collapse-expand	折叠/扩展
+_shell.move-section-up	向上移动区域
+_shell.move-section-down	向下移动区域
+_shell.remove-section	删除区域
+_shell.custom-slide-size	自定义幻灯片大小…
+_shell.reset-to-theme	重置为主题
+_shell.merge-cells-cells-selected-with-shift-click	合并单元格( 选中的单元格) Shift+Click)
+_shell.split-cells	拆分单元格
+_shell.on-mouse-click	在鼠标点击时
+_shell.timing-options	时间选项…
+_shell.apply-to-all-slides	应用到全部幻灯片
+_shell.section-input	一节输入
+_shell.slide-size-input	幻灯片大小输入
+_shell.internal-margins-input	内部边距输入
+_shell.size-position-input	大小和位置输入
+_shell.crop-input	裁剪输入
+_shell.glow-input	glow 输入
+_shell.shadow-input	阴影输入
+_shell.timing-input	时间输入
+_shell.text-outline	文本大纲
+_shell.paragraph-spacing-input	段落间距输入
+_shell.font-size-alignment	字体大小对齐
+_shell.find-and-replace-actions	查找和替换动作
+_shell.copy-paste-formatting	复制/粘贴格式
+_shell.text-box	文本框
+_shell.outer-shadow	外部阴影
+_shell.glow	光线
+_shell.slide-size-keep-shape-size	幻灯片大小( 保持形状大小)
+_shell.new-slide-with-layout	新建布局幻灯片
+_shell.cap-type	顶盖类型
+_shell.compound-type	化合物类型
+_shell.sort-range	排序范围
+_shell.play-from-start	从头开始放映
+_shell.play-from-current-slide-2	从当前幻灯片开始放映
+_shell.presenter-view	演讲者视图
+_shell.show-sidebar	显示侧栏
+_shell.hide-menus	隐藏菜单
+_shell.new-slide	新建幻灯片
+_shell.dictionary	词典
+_shell.accessibility	辅助功能
+_shell.settings	设置…
+_shell.search-menus-2	搜索菜单
+_shell.keyboard-shortcuts	键盘快捷键
+_shell.about-ibisoffice	关于 ibisOffice
+_shell.document	文档
+_shell.spreadsheet	电子表格
+_shell.presentation	演示文稿
+_shell.open-2	打开…
+_shell.save	保存
+_shell.save-as	另存为…
+_shell.make-a-copy	创建副本…
+_shell.pdf-pdf	PDF (.pdf)
+_shell.png-image-png	PNG 图像( E).png)
+_shell.svg-image-svg	SVG 图像( E).svg)
+_shell.print	打印…
+_shell.file-info	文件信息
+_shell.language	语言
+_shell.page-setup-2	页面设置…
+_shell.close	关闭
+_shell.minimize	最小化
+_shell.maximize	最大化
+_shell.restore	恢复
+_shell.undo	撤销
+_shell.redo	重做
+_shell.copy	复制
+_shell.paste-as-plain-text	粘贴为纯文本
+_shell.delete	删除
+_shell.duplicate	创建副本
+_shell.find-and-replace-2	查找和替换…
+_shell.delete-cells	删除单元格…
+_shell.rename-sheet	重命名工作表…
+_shell.duplicate-sheet	复制工作表
+_shell.hide-sheet	隐藏工作表
+_shell.delete-sheet	删除工作表
+_shell.slide-show	幻灯片放映
+_shell.motion	动议
+_shell.grid-view	网格视图
+_shell.show-speaker-notes	显示扬声器笔记
+_shell.freeze	不许动
+_shell.show-gridlines	显示网格线
+_shell.show-formula-bar	显示公式栏
+_shell.print-layout	打印布局
+_shell.zoom-in	放大
+_shell.zoom-out	缩小
+_shell.fit-to-window	适应窗口
+_shell.full-screen	全屏
+_shell.insert-row-above	在上方插入行
+_shell.insert-row-below	在下面插入行
+_shell.insert-column-left	左侧插入列
+_shell.insert-column-right	右边插入列
+_shell.insert-cells	插入单元格…
+_shell.new-sheet	新建工作表
+_shell.table	桌子… 桌子… 桌子… 桌子… 桌子… 桌子…
+_shell.header-footer	页眉和页脚
+_shell.table-of-contents	目录
+_shell.video	视频…
+_shell.audio	音频…
+_shell.symbol	符号…
+_shell.link	链接
+_shell.comment	批注
+_shell.format-options	格式选项
+_shell.clear-formatting	清除格式
+_shell.create-filter	创建过滤器
+_shell.protect-sheet-and-ranges	保护工作表和范围
+_shell.named-ranges	命名范围
+_shell.data-validation	数据验证
+_shell.split-text-to-columns	将文本分割到列
+_shell.duplicate-slide	复制幻灯片
+_shell.delete-slide	删除幻灯片
+_shell.hide-slide	隐藏幻灯片
+_shell.change-transition	改变过渡
+_shell.change-background	更改背景
+_shell.change-theme	更改主题
+_shell.edit-theme	编辑主题
+_shell.bring-to-front	带到前面
+_shell.bring-forward	前进
+_shell.send-backward	向后发送
+_shell.send-to-back	发送到后面
+_shell.rotate-right-90-2	向右旋转90度
+_shell.rotate-left-90-2	向左旋转 90 度
+_shell.flip-horizontal	水平翻转
+_shell.flip-vertical	垂直翻转
+_shell.group	组
+_shell.ungroup	取消组合
+_shell.spelling	拼写检查
+_shell.new	新建
+_shell.open-recent	打开最近使用的文件
+_shell.export	导出
+_shell.zoom	缩放
+_shell.shape	形状
+_shell.chart	图表
+_shell.text	文本
+_shell.line-paragraph-spacing	行距和段落间距
+_shell.bullets-numbering	项目符号和编号
+_shell.borders-lines	边框和线条
+_shell.apply-layout	应用版式
+_shell.distribute	分发
+_shell.center-on-page	页面中心
+_shell.rotate	旋转
+_shell.cell-styles	单元格样式
+_shell.clear-contents	清除内容
+_shell.no-fill	无填充
+_shell.custom-3	自定义…
+_shell.merge-center	合并中心( C)
+_shell.merge-across	交叉合并
+_shell.merge-cells	合并单元格
+_shell.unmerge-cells	未合并单元格
+_shell.shrink-to-fit	缩窄以适应
+_shell.unhide-sheet	隐藏工作表
+_shell.move-sheet-left	将工作表左移
+_shell.move-sheet-right	工作表向右移动
+_shell.split-2	分开
+_shell.sort-options	排序选项…
+_shell.remove-duplicates	删除复制件…
+_shell.go-to-special	转到特别…
+_shell.text-to-columns	文本到列…
+_shell.sort-range-descending	排序范围( 递减)
+_shell.csv-csv-current-sheet	CSV (.csv,当前工作表)
+_shell.insert-cells-shift-cells-right	插入单元格( 右移单元格)
+_shell.delete-cells-shift-cells-left	删除单元格( 左移单元格)
+_shell.hide-detail	隐藏细节
+_shell.show-detail	显示细节
+_shell.skip-blanks	跳过空白
+_shell.tab-color	标签颜色
+_shell.calculation-compatibility-version	计算兼容性版本
+_shell.paste-special	粘贴特殊
+_shell.general	常规
+_shell.use-system-setting	跟随系统
+_shell.the-language-of-the-menus-toolbars-and-panes-it	更改菜单、工具栏和窗格的显示语言，设置立即生效。
+_shell.quit-ibisoffice	退出 ibisOffice
+_shell.new-document	新建文档
+_shell.legend	图例
+file.cannot-write	不能写信给 {path}: {error}
+file.save-failed	保存失败：{error}
+file.export-failed	无法导出 : {error}
+file.new-failed	无法新建文件：{error}
+file.copy-name	{name} 收到请回答{ext}
+file.copy-failed	无法保存副本 : {error}
+file.pdf-exit	无法做到 PDF (出境代码) {status})
+file.pdf-failed	无法导出到 PDF: {error}
+file.pdf-done	导出至 PDF: {path}
+file.png-exit	无法做到 PNG (出境代码) {status})
+file.png-failed	无法导出到 PNG: {error}
+file.png-done	导出至 PNG: {path}
+file.odp-failed	无法导出到 OpenDocument 介绍: {error}
+file.odp-done	导出至 OpenDocument 介绍: {path}
+file.gif-failed	无法导出到 GIF: {error}
+file.gif-done	导出至 GIF: {path}
+file.ppsx-done	导出为幻灯片显示 : {path}
+file.potx-done	导出为模板 : {path}
+file.thmx-done	导出主题 : {path}
+file.xltx-done	导出至 Excel 模板 : {path}
+file.new-from-template-done	从模板创建新文档
+file.print-failed	无法打印 : {error}
+file.print-exit	无法使用预览打印( 退出代码) {status})
+file.pick-failed	无法选择文件 : {error}
+file.opening	开幕 {name}…
+file.open-failed	无法打开 {name}: {error}
+file.read-crashed	此文件的内容无法读取( 内部错误)
+align.left	左对齐
+align.center	对齐中心
+align.right	右对齐
+align.justify	说明
+status.hint.textbox	单击或拖动幻灯片以放置文本框
+status.hint.esc	按 Esc 完成编辑
+status.hint.shape	单击或拖曳以放置形状( Esc 要取消)
+_shell.chart-styles	图表样式
+file.protect	用密码保护…
+_shell.password	密码
+_shell.enter-password	输入密码
+_shell.protect-with-password	密码保护
+_shell.confirm-password	确认密码
+_shell.the-password-is-not-correct	密码不正确
+_shell.enter-a-password	输入密码
+_shell.the-passwords-do-not-match	密码不匹配
+_shell.remove-password	删除密码( R)
+OK	确定
+_shell.a-forgotten-password-cannot-be-recovered	被遗忘的密码无法恢复。
+_shell.password-required-to-open-the-file	打开文件所需的密码
+_shell.this-file-is-protected-with-a-password	此文件有密码保护
+_shell.passwords-cannot-be-set-in-this-environment	在此环境中无法设置密码
+_shell.the-password-is-applied-when-you-save-the-file	当您保存文件时, 密码会被应用
+_shell.saved-with-the-password	用密码保存
+_shell.saved-without-a-password	没有密码就保存了
+_shell.not-available-in-the-browser-version-yet	浏览器版本尚未可用
+shell.read-stopped	装入已停止
+start.new	新建
+start.select	选择
+start.open	打开…
+start.recent	最近使用的文件
+start.recent-none	没有最近使用的文件
+start.request	反馈与建议
+start.request-body	ibisOffice 是一款免费的办公套件。它致力于准确还原 Word、Excel 和 PowerPoint 文件的布局，并兼容原有文件结构。
+start.request-report	遇到问题或有建议时，可以在 {link} 提交反馈。
+start.request-link	GitHub Issues
+_shell.stem-slide-slide-index-png	{stem}- 滑着{slide_index}.png
+_app.cannot-write-the-pdf-error	无法写入 PDF: {error}
+_render.period-point-moving-average	{period}-点移动平均值
+_shell.opened-the-print-dialog	打开打印对话框
+_shell.saved-with-password	用密码保存
+_shell.saved-without-password	没有密码保存
+_shell.show-menus-f	显示菜单( T)⌃⇧F)
+_shell.hide-menus-f	隐藏菜单( H)⌃⇧F)
+_shell.currency-symbols	货币符号
+_shell.arrows	箭头
+_shell.normal-text	普通文本
+_shell.style	样式
+_render.chart-unsupported	图表( 不支持)
+_render.table-unsupported	表格( 不支持)
+_render.emf-image-unsupported	EMF 图像( 不支持)
+_render.wmf-image-unsupported	WMF 图像( 不支持)
+_render.image-unsupported	图像( 不支持)
+_shell.password-required-to-open-the-file-2	打开文件所需的密码
+_shell.this-file-is-protected-by-a-password	此文件由密码保护
+_shell.could-not-create-the-png	无法创建 PNG.
+_shell.close-slide-master-view-and-notes-formatting-bef	保存前关闭幻灯片主视图和注释格式。
+_shell.could-not-create-the-gif	无法创建 GIF.
+_shell.exporting-png	导出 PNG…
+_shell.exporting-gif	导出 GIF…
+shell.autorecover.settings-title	自动恢复设置
+shell.autorecover.enable	定期保存自动恢复信息
+shell.autorecover.minutes	保存时间( 分钟, 1- 120)
+shell.autorecover.keep	关闭时保留最后的自动还原版本而不保存
+shell.autorecover.location	自动恢复文件位置
+shell.autorecover.reset-location	重置为默认位置
+shell.autorecover.disable-file	关闭此文件的自动恢复
+shell.autorecover.save-now	现在保存
+shell.autorecover.save	保存设置
+shell.autorecover.saved	已保存的设置
+shell.autorecover.error-interval	输入间隔1至120分钟
+shell.autorecover.error-path	无法创建文件夹
+shell.autorecover.now-done	自动恢复已保存的信息
+shell.autorecover.now-failed	无法保存
+shell.autorecover.wasm	浏览器版中不可用
+shell.autorecover.banner	此文件是从 AutoRecover 打开的。 保存在名称下
+shell.autorecover.save-as	另存为
+shell.autorecover.discard	丢弃
+shell.autorecover.recover-title	恢复未保存的文件
+shell.autorecover.refresh	刷新( E)
+shell.autorecover.empty	没有要恢复的文件
+shell.autorecover.open	打开
+shell.autorecover.deleted	删除
+shell.autorecover.open-failed	无法打开
+shell.autorecover.opened	打开自动恢复文件。 保存在名称下
+shell.autorecover.recovered-name	[还原] {file_name}
+file.without-macros-done	无宏导出 : {path}
+settings.save	保存
+settings.trust	信托中心
+settings.qat	快速访问工具栏
+settings.cmyk	CMYK 简介
+settings.save.autorecover	保存自动恢复信息
+settings.save.interval	间歇
+settings.save.minutes	分钟
+settings.save.keep-unsaved	如果我关闭而不保存, 则保留最后一个自动保存的版本
+settings.save.backup	保存到工作簿时总是创建备份副本
+settings.save.note	自动恢复位置和备份格式及位置在文件菜单中:自动恢复设置和保存设置.
+settings.save.web	在浏览器中,浏览器保存您所保存的东西.
+settings.trust.links-warning	打开链接到其他工作簿的工作簿时显示警告栏
+settings.trust.links-note	链接的值保留为上次保存的值。用栏或用 Data > Workbook Links 更新它们。
+settings.trust.macros	宏
+settings.trust.macros-note	VBA 宏没有运行。 带有宏的文件( V).xlsm 象那样的,是用它的宏来保存的。
+settings.qat.note	选择要放在工具栏上方的标题行、 取消和重做的命令。 三种格式相同; 文档中没有命令。
+settings.qat.order	选中命令( 命令)
+settings.qat.add	添加
+settings.qat.remove	删除
+settings.qat.empty	选择带有添加的命令。
+settings.qat.reset	重置为默认值
+autocorrect.spell-ignore-upper	跳过 UPPERCASE 中的单词
+autocorrect.spell-ignore-numbers	用数字跳过单词
+autocorrect.spell-ignore-internet	跳过互联网和文件地址
+autocorrect.spell-language	证明语言
+autocorrect.lang.auto	自动
+autocorrect.lang.ja-JP	日语
+autocorrect.lang.en-US	英语( 美国)
+autocorrect.lang.en-GB	英语( 联合王国)
+autocorrect.lang.fr-FR	法国语Name
+autocorrect.lang.de-DE	德国
+autocorrect.lang.es-ES	西班牙语Name
+autocorrect.lang.it-IT	意大利语Name
+autocorrect.lang.ko-KR	한국어
+autocorrect.lang.zh-CN	汉语( 简化)
+autocorrect.smart-quotes	将直引号替换为智能引号
+autocorrect.auto-lists	将以 * 或 1 开头的段落列入清单
+autocorrect.auto-borders	将 --- 或QQ 的段落转换为与 Enter 的边框线
+_shell.hide-notes-pane	隐藏注释
+_shell.show-notes-pane	显示注释
+shell.linux-desktop.ask	添加 ibisOffice - 到你的应用程序列表?
+shell.linux-desktop.ask.detail	您可以从应用程序列表中开始, 它出现在 Word 的“ Open With Other Application”, Excel 财务报告和已审计财务报表 PowerPoint 文档。没有此文档,该端口可能不会显示图标 ibisOffice。只更改了您的主文件夹,您可以在稍后从 Help > 添加到 Apps 列表中。
+shell.linux-desktop.yes	添加
+shell.linux-desktop.no	别加
+_shell.comma-style	逗号样式
+_shell.font-recent	最近字体
+_shell.font-system	系统字体
+_shell.font-used	此文件中使用
+_shell.font-all	全部人员
+grammar.repeated-word	重复的单词
+grammar.repeated-punctuation	重复的标注
+grammar.missing-space	缺少空间
+grammar.multiple-spaces	多个空格
+grammar.capitalization	资本化
+editor.csv.loading-first	正在装入 CSV… (100 000行已装入)
+editor.csv.loaded	CSV 装入( R){rows} ) (中文(简体) ).
+editor.csv.loading	正在装入 CSV... ({rows} 行已装入)
+shell.embed.download	下载
+shell.embed.close	关闭
+settings.view.scrollbars-always	总是显示滚动条
+file.save-format.docx	Word 文档 (.docx)
+file.save-format.dotx	Word 模板 (.dotx)
+file.save-format.odt	OpenDocument 文本文档 (.odt)
+file.save-format.md	Markdown 文档 (.md)
+file.save-format.xlsx	Excel 工作簿 (.xlsx)
+file.save-format.xltx	Excel 模板 (.xltx)
+file.save-format.xls	Excel 97–2003 工作簿 (.xls)
+file.save-format.ods	OpenDocument 电子表格 (.ods)
+file.save-format.csv	CSV UTF-8 (.csv)
+file.save-format.tsv	制表符分隔文本 (.tsv)
+file.save-format.pptx	PowerPoint 演示文稿 (.pptx)
+file.save-format.ppsx	PowerPoint 放映文件 (.ppsx)
+file.save-format.potx	PowerPoint 模板 (.potx)
+file.save-format.odp	OpenDocument 演示文稿 (.odp)
+file.print-opened-pdf	已打开 PDF 默认应用程序中
+menu.window	窗口
+window.open-in-word	以文字打开
+window.open-in-excel	打开 Excel
+window.open-in-powerpoint	打开 PowerPoint
+window.open-in-office.confirm-title	确认
+window.open-in-office.specify-path	请指定路径 {app}.
+_shell.find	查找
+ui.custom	自定义
+ui.caption-label	标签
+ui.merge-row	编辑收件人
+ui.add	添加
+ui.tab-duplicate	在此位置已经存在制表符。 选择另一个位置。
+ui.merge-add-column	添加一列( 合并字段)
+ui.merge-csv	装入 CSV 文件
+ui.merge-manual	手工输入
+ui.merge-recipient	收件人
+field.browse	浏览…
+field.minutes	分钟
+autocorrect.entry-title	编辑替换
+autocorrect.entry-required	输入要替换的文本。
+autocorrect.entry-duplicate	此替换已存在。 编辑已有的规则。
+hyperlink.menu	超链接
+hyperlink.open	打开链接
+hyperlink.edit	编辑链接…
+hyperlink.remove	删除链接
+autocorrect.tab.settings	设置
+autocorrect.tab.dictionary	替换词典
+theme.custom-editor	编辑自定义颜色
+theme.palette-list	颜色方案
+math.editor.title	公式
+math.editor.hint	在 UnicodeMath 中输入方程式 LaTeX
+ink.panel.title	绘图( 墨水)
+ink.panel.tools	绘图工具
+ink.panel.width	宽度
+ink.panel.color	颜色
+ink.panel.effects	墨水效应
+theme.custom-scheme	自定义颜色
+ink.panel.mouse	用鼠标绘制
+shell.action.ok	确定
+shell.action.yes	是
+shell.action.no	否
+start.recent.remove	从列表中删除
+shell.row.actions	更多行动
+color.palette.more	更多颜色…
+color.dialog.title	颜色拾取器
+color.dialog.invalid	输入六位数的十六进制颜色。
+shell.start-window	开始窗口
+shell.file-changed.message	文件被另一个应用程序更改了。 您想要重新装入吗 ?
+shell.file-changed.yes	是
+shell.file-changed.no	否
+shell.file-changed.discard	丢弃更改并重新装入
+shell.file-changed.save-as	另存为并打开
+shell.save-failed.title	无法保存
+shell.comments.post	员额
+shell.comments.post-tip-mac	员额(⌘Enter)
+shell.comments.post-tip-other	员额(Ctrl+Enter)
+shell.comments.save-tip-mac	保存( R)⌘Enter)
+shell.comments.save-tip-other	保存( R)Ctrl+Enter)
+shell.comments.cancel	取消
+shell.comments.reply	回复
+shell.comments.edit	编辑
+shell.comments.resolve	决断
+shell.comments.reopen	重新打开
+shell.comments.delete	删除
+shell.comments.resolved	决定
+shell.comments.reply-prompt	回复
+shell.comments.edit-prompt	编辑注释
+shell.comments.empty	没有评论
+shell.comments.delete-title	删除注释
+shell.comments.delete-message	删除此评论? 所有答复也都被删除。
+shell.comments.new-cell	单元格的注释 {cell}
+shell.comments.new-selection	关于选择的注释
+shell.comments.new-shape	对选定的形状进行注释
+shell.comments.new-slide	在幻灯片上注释
+shell.comments.hint-select-text	选择文本, 然后插入 > 注释
+shell.comments.hint-insert	插入 > 注释添加新注释
+shell.comments.no-selection	没有选中任何内容。 先选择一个单词或句子, 然后添加注释。
+shell.comments.title	批注
+shell.comments.placeholder	输入注释
+shell.comments.save-hint-mac	+Enter 键以保存
+shell.comments.save-hint-other	Ctrl+Enter 要保存的语句
+shell.menu-search.history	历史
+shell.menu-search.commands	图标
+file.modify-locked-no-overwrite	此文件需要密码才能修改, 因此无法覆盖。 使用另存为
+start.update	更新 ibisOffice
+start.version	ver.{version}
+shell.open-failed.title	无法打开文件
+shell.file-name-menu.tooltip	文件名称菜单
+shell.file-name-menu.copy-name	复制文件名称
+shell.file-name-menu.copy-path	复制文件路径
+shell.file-name-menu.rename	重命名文件…
+shell.file-name-menu.name-copied	复制文件名
+shell.file-name-menu.path-copied	复制文件路径
+shell.file-name-menu.path-copy-failed	无法复制( 没有剪贴板权限)
+shell.file-name-menu.renamed	重命名文件
+shell.rename-file.title	重命名文件
+shell.rename-file.name	文件名
+shell.rename-file.extension-note	延期 "{extension}" 无法改变
+shell.rename-file.apply	重命名( N)
+shell.rename-file.error-title	无法重命名文件
+shell.rename-file.error-empty	输入文件名称
+shell.rename-file.error-char	文件名不能包含此字符 : {char}
+shell.rename-file.error-end	文件名不能以周期或空格结尾
+shell.rename-file.error-reserved	"{name}" 是系统储备的名称。
+shell.rename-file.error-long	文件名太长( 最多255字节, 并附有扩展名)
+shell.rename-file.error-missing	文件未找到。 它可能已被移动或删除 : {path}
+shell.rename-file.error-exists	同名文件已经存在( 它没有覆盖) : {name}
+shell.rename-file.error-permission	您没有权限重命名此文件 : {path}
+shell.rename-file.error-readonly	文件处于只读位置,无法重命名 : {path}
+shell.rename-file.error-in-use	另一个应用程序是使用文件,所以无法重命名 : {path}
+shell.rename-file.error-other	无法重命名文件 : {error}
+menu.design	设计
+menu.layout	布局
+menu.references	引用
+menu.mailings	邮件
+menu.review	审阅
+menu.page-layout	页面布局
+menu.formulas	公式
+menu.transitions	切换
+menu.animations	动画
+menu.slide-show	幻灯片放映
+menu.window.sidebar	边栏
+menu.group.add-text	添加文本
+menu.group.advanced-filter	高级过滤器
+menu.group.arrange-windows	排列窗口
+menu.group.autosum	自动Sum
+menu.group.breaks	间断
+menu.group.changes	变动
+menu.group.compare	比较
+menu.group.content-controls	内容控制
+menu.group.control-actions	控制动作
+menu.group.controls	控件
+menu.group.asian-layout	亚洲布局
+menu.group.copy	复制
+menu.group.delete-cells	删除单元格
+menu.group.display-for-review	显示审查
+menu.group.document-options	文档选项
+menu.group.finish-merge	完成合并( M)
+menu.group.function-library	函数库
+menu.group.gridlines	网格线
+menu.group.headings	标题
+menu.group.insert-cells	插入单元格
+menu.group.insert-citation	插入引用
+menu.group.legacy-forms	遗赠表
+menu.group.margins	边距
+menu.group.text-direction	文本方向
+menu.group.master-views	主视图
+menu.group.media	媒体
+menu.group.orientation	方向
+menu.group.page-breaks	间断
+menu.group.pages	页次
+menu.group.paste-special	粘贴特殊
+menu.group.presentation-options	演示文稿选项
+menu.group.protect	保护
+menu.group.protect-document	保护文档
+menu.group.protect-presentation	保护显示
+menu.group.rows-columns	列和列
+menu.group.select	选择
+menu.group.sheets	工作表
+menu.group.show-detail	显示/ 隐藏细节
+menu.group.size	大小
+menu.group.slides	幻灯片
+menu.group.smartart	SmartArt
+menu.group.snap	坐标
+menu.group.table-of-authorities	当局列表
+menu.group.what-if	如果分析结果
+menu.group.workbook-options	工作簿选项
+menu.group.add-chart-element	添加图表元素
+menu.group.adjust	调整
+menu.group.align	对齐
+menu.group.axes	轴
+menu.group.borders	边框
+menu.group.calculations	计算
+menu.group.change-shape	更改形状
+menu.group.chart-elements	图表元素
+menu.group.convert	转换
+menu.group.crop	作物
+menu.group.edit-data	编辑数据
+menu.group.export	导出
+menu.group.group	组
+menu.group.position	立场
+menu.group.refresh	刷新( E)
+menu.group.rotate	旋转
+menu.group.same-size	使大小相同
+menu.group.show	显示
+menu.group.symbols	符号
+menu.group.wordart-styles	WordArt 样式
+menu.context.table-design	表格设计
+menu.context.table-layout	表格布局
+menu.context.shape-format	形状格式
+menu.context.picture-format	图片格式
+menu.context.chart-design	图表设计
+menu.context.chart-format	图表格式
+menu.context.equation	公式
+menu.context.header-footer	页眉和页脚
+menu.context.outline	大纲
+menu.context.pivot-analyze	枢轴表分析
+menu.context.pivot-design	枢轴表设计
+menu.context.sparkline	闪光线
+menu.context.slicer	剪贴机
+menu.context.smartart-design	SmartArt 设计
+menu.context.smartart-format	SmartArt 格式
+menu.context.video-format	视频格式
+menu.context.video-playback	视频播放
+menu.context.slide-master	幻灯片母版
+menu.context.empty	此菜单尚未有项目
+menu.context.gone	菜单被关闭了,因为目标不见了
+menu.overflow	更多菜单
+window.list	窗口列表…
+window.next	下一个窗口
+window.previous	上一个窗口
+window.current	当前窗口
+window.more	更多视窗( E){n})…
+sidebar.navigation	导航窗格
+sidebar.thumbnails	幻灯片缩略图和大纲
+sidebar.notes	注解字条
+sidebar.format	格式
+sidebar.cell-format	格式单元格
+sidebar.picture	图片设置
+sidebar.text-box	文本框设置
+sidebar.chart	格式图
+sidebar.frame	格式形状
+sidebar.table-design	表格设计
+sidebar.pivot-fields	枢轴表字段
+sidebar.tabs	标签和领导
+sidebar.3d-model	三维模型设置
+sidebar.smartart-text	SmartArt 文字窗格
+sidebar.master	幻灯片母版
+sidebar.notes-format	注释格式
+sidebar.master-doc	主文档
+sidebar.header-footer	页眉和页脚
+sidebar.comments	批注
+sidebar.find	查找和替换
+sidebar.selection	选择窗格
+sidebar.reading-order	读取顺序表单
+sidebar.animation	动画版
+sidebar.quick-parts	快速部件
+sidebar.merge	邮件合并
+sidebar.names	名称管理器
+sidebar.watch	监视窗口
+sidebar.xml-source	XML 来源
+sidebar.record-preview	记录预览
+sidebar.spelling	拼写和语法
+sidebar.thesaurus	词库
+sidebar.word-count	字数
+sidebar.accessibility	辅助功能检查器
+sidebar.machine-readability	数字机构:机器可读性检查
+sidebar.filter	筛选
+sidebar.screen-reader	屏幕阅读器导航
+sidebar.read-aloud	大声读取
+sidebar.ink	墨迹
+sidebar.customize-toolbar	自定义工具栏
+sidebar.sort	排序
+sidebar.edit-basics	编辑基本情况
+sidebar.heading.left	左侧窗格
+sidebar.heading.bottom	下方窗格
+sidebar.heading.right	右侧窗格
+sidebar.reason.picture	选择要使用的图片
+sidebar.reason.shape	选择要使用的文本框或形状
+sidebar.reason.frame	选择要使用的形状或图片
+sidebar.reason.chart	选择要使用的图表
+sidebar.reason.sheet-table	在表格中选择要使用的单元格
+sidebar.reason.pivot	选择要使用的枢轴表中的单元格
+sidebar.reason.outline	在大纲视图中可用
+sidebar.reason.smartart	选择一个 SmartArt 用于此功能的图形
+sidebar.reason.master	在主视图中可用
+sidebar.reason.automatic	选择时自己打开
+sidebar.reason.unavailable	现在不可用
+menu.search.where-toolbar	家 QQ 工具栏
+menu.search.where-other	命令搜索
+menu.group.text	文本
+menu.draw	绘制
+draw.select	选择
+draw.lasso	拉索选择
+draw.pen	笔
+draw.pen.black	笔(黑色,0.5毫米)
+draw.pen.pencil	笔会
+draw.pen.highlighter	突出显示
+draw.pen.add	添加笔…
+draw.eraser	擦除器
+draw.ruler	标尺
+draw.to-shape	将墨水转换为形状
+draw.to-math	将墨水转换为数学
+draw.canvas	绘制画像
+draw.replay	墨水重播游戏
+draw.hide-ink	隐藏墨水
+draw.ink-panel	打开墨水面板…
+draw.reason.not-yet	尚未备妥
+draw.reason.ink	选择要使用的墨水
+draw.reason.document-only	仅可在文档屏幕中查阅
+window.tile-side-by-side	平铺边
+window.tile-stacked	将顶部铺到底部
+window.bring-all-front	带大家到前面
+window.close-all	关闭所有文档
+shell.infobar.cmyk.title	CMYK
+shell.infobar.cmyk.hint.message	要显示接近打印的颜色,请选择配置文件( Q)ICC。现在正在使用简单的转换。
+shell.infobar.cmyk.missing.message	此文件使用 {name}. 它没有找到。
+shell.infobar.cmyk.choose	选择配置文件
+shell.infobar.cmyk.choose-short	选择
+shell.infobar.cmyk.source	打开下载页面
+shell.infobar.cmyk.later	回头见
+shell.infobar.cmyk.simple	继续简单的转换
+shell.cmyk.profile.title	CMYK 简介
+shell.cmyk.profile.simple	简单转换( 无配置文件)
+shell.cmyk.profile.choose-file	选择文件…
+shell.cmyk.profile.not-cmyk	你选择的文件不是 CMYK ICC 简介.
+shell.cmyk.profile.in-use	使用中: {name}
+shell.cmyk.profile.steps	下载一个配置文件( E)ICC 从下载页面中选择文件,然后选择“选择文件…”。此计算机上已经显示的配置文件将出现在下面的列表中。
+shell.cmyk.profile.reset	重置为默认值
+shell.cmyk.profile.found	{count} CMYK 在此计算机上找到配置文件( 已搜索 : {places}).
+shell.cmyk.profile.none-found	否 CMYK 在此计算机上找到配置文件( 已搜索 : {places}。选择一个文件。
+shell.cmyk.profile.web-note	浏览器无法在此计算机上查找配置文件。 您选择的文件保存在这个浏览器中。
+shell.action.cancel	取消
+shell.ibis-ext.title	ibisOffice 特性
+shell.ibis-ext.message	此特性不在 Microsoft 办公室,你想打开吗?
+view.print-colors	在打印颜色中显示
+shell.print.cmyk-heading	颜色( E)CMYK)
+shell.print.cmyk-mode	CMYK 模式(打印游戏)
+shell.print.cmyk-note	屏幕显示打印时的颜色。 打印机驱动程序将转换为 CMYK.
+shell.print.save-settings	保存设置
+shell.find.previous-tip	上一个
+shell.find.next-tip	ưμ㼯A
+shell.find.all-tip	查找全部
+shell.find.with-key	{name} ({key})
+settings.spreadsheet	电子表格
+settings.spreadsheet.formula-bar-font	字母和数字的公式栏字体
+settings.spreadsheet.formula-bar-font-note	公式栏中字母和数字的字体,例如表示一个逗号的全站的字体。所选字体缺少的字符,如日文,以通常的字体显示。
+settings.spreadsheet.formula-bar-font-default	默认( app字体)
+settings.spreadsheet.csv	打开时 CSV, TSV 和文本文件
+settings.spreadsheet.csv-font	显示字体
+settings.spreadsheet.csv-font-default	默认( Yu Gothic)
+settings.spreadsheet.csv-font-size	字体大小
+settings.spreadsheet.csv-font-size-unit	pt (帮助)
+settings.spreadsheet.csv-note	单元格的字体和大小在 CSV (csv, tsv, txt) 文件被打开。 已经打开的文件不会更改。
+shell.font-setup.title	设置
+shell.font-setup.heading	下载字体
+shell.font-setup.col.name	字体名称
+shell.font-setup.col.size	大小
+shell.font-setup.col.license	许可证
+shell.font-setup.license-file	许可证文件
+shell.font-setup.select-all	全部选择
+shell.font-setup.install	安装
+shell.font-setup.skip	不要安装
+shell.font-setup.cancel	取消
+shell.font-setup.loading	正在装入字体列表。
+shell.font-setup.empty	没有字体可以下载(全部安装).
+shell.font-setup.list-failed	无法装入字体列表。 请检查您的网络连接。 (F){error})
+shell.font-setup.progress	下载 {name} ({index}/{count}, {received} / {total})
+shell.font-setup.failed	{name} 无法安装( I){count} 失败). {error}
+shell.font-setup.cancelled	已经取消。
+shell.font-setup.done	已安装。 字体列表中已列出。
+shell.panel-message.title	消息
+shell.host.saving	正在保存…
+shell.host.exported	导出
+shell.host.error-title	无法保存
+shell.host.error-save-as	无法保存。 请使用“ 另存为 ”。
+shell.host.error-network	无法与服务器通信。 请在连接恢复时再次尝试保存。
+shell.host.error-network-status	无法与服务器通信。 请在连接恢复时再次尝试保存。
+shell.host.error-unauthorized	您的登录已过期。 请再次签名, 然后保存。
+shell.host.error-exists	同名文件已经存在。 请更改名称。
+shell.host.error-too-large	文件太大, 无法保存。
+shell.host.error-other	无法保存。
+shell.host-file.title-open	打开
+shell.host-file.title-save-as	另存为
+shell.host-file.title-copy	保存副本
+shell.host-file.title-export	导出
+shell.host-file.more	显示更多…
+shell.host-file.deferred	显示其余的
+shell.host-file.deferred-loading	正在获取…
+shell.host-file.deferred-empty	没有其他合并文件夹。
+shell.host-file.loading	正在装入…
+shell.host-file.empty	没有文件
+shell.host-file.col.folders	文件夹
+shell.host-file.col.name	名称
+shell.host-file.col.updated	修改日期
+shell.host-file.col.size	大小
+shell.host-file.file-name	文件名
+shell.host-file.file-type	文件类型
+shell.host-file.type-docx	单词文档 (*).docx)
+shell.host-file.type-xlsx	Excel 工作手册(*).xlsx)
+shell.host-file.type-pptx	PowerPoint 列报(*).pptx)
+shell.host-file.open	打开
+shell.host-file.opening	打开…
+shell.host-file.save	保存
+shell.host-file.export	导出
+shell.host-file.open-local	从本地存储打开
+shell.host-file.save-local	保存到本地( 下载)
+shell.host-file.error-empty	输入文件名称
+shell.host-file.error-char	文件名具有无法使用的字符 : {char}
+shell.host-file.error-end	文件名不能以空格开头, 也不能以周期结尾
+shell.host-file.error-long	文件名太长了
+shell.host-file.error-list	无法获取列表
+shell.host-file.error-open-title	无法打开
+shell.host-file.error-open	无法打开文件。
+shell.host-file.error-no-permission	无法保存到此文件夹( 没有写入权限)。
+shell.host-file.overwrite-title	确认覆盖
+shell.host-file.overwrite	{name} 已经存在。 您想要替换它吗 ?
+shell.file-name-menu.get-path	获取路径
+shell.host-file.error-rename	无法重命名文件。
+shell.host-file.error-path-title	无法找到路径
+shell.host-file.error-path	无法获取路径。
+shell.infobar.host.readonly.title	只读
+shell.infobar.host.readonly.message	此文档只读。
+shell.infobar.host.save-as	另存为
+shell.infobar.host.notice.title	通知
+shell.infobar.host.notice.message	主持人的通知.
+shell.infobar.host.notice.error	错误
+shell.infobar.host.notice.warn	警告
+shell.infobar.host.notice.info	通知
+shell.web-pdf.making	创造 PDF…
+shell.web-pdf.exported	导出至 PDF
+shell.web-pdf.print-opened	该 PDF 在新标签中打开。 从浏览器中打印它
+shell.web-pdf.pictures-skipped	在浏览器版本中,用于颜色、框架、赠品、注释和大纲的打印设置不适用于 PDF。这些页面是按原样制作的。
+shell.web-pdf.missing-glyphs	无法获取字体数据, 所以 {count} 字符从 PDF
+shell.host.export-not-allowed	此格式的导出被关闭。
+shell.infobar.signature.title	数字签字
+shell.infobar.signature.message	此文档有数字签名。 编辑和保存将删除它们。
+shell.infobar.signature.inspect	检查签名…
+shell.signature.confirm.title	数字签字
+shell.signature.confirm.save	此文档有数字签名。 保存会删除数字签名。 您想要继续吗 ?
+shell.signature.confirm.export	此文档有数字签名。 您以其他格式导出或保存的文件不会携带这些签名。 您想要继续吗 ?
+shell.signature.report.title	检查数字签名
+shell.signature.report.none	此文件没有数字签名。
+shell.signature.report.broken	数字签字的存储不正确({reason}).
+shell.signature.report.head	签署 {n} ({part}): {result}
+shell.signature.report.signer	  签名人( 证书中写的名字 ) : {name}
+shell.signature.report.value	  签名值 : {state}
+shell.signature.report.digests	  签字部分摘要: {matched} 页:1 {total} 匹配
+shell.signature.report.detail	  - {what}: {state}
+shell.signature.report.more	  - 还有 {count} 更多( E)
+shell.signature.report.notice	仅比较了签名封面部分的签名值和摘要。 证书的信任和撤销, 时间戳, 以及签名是否覆盖整个文档没有检查, 所以这不是一个签名是否有效的判断。 要在编辑后检查文档, 保存并再次打开保存的文件。
+shell.signature.result.consistent	签名值和摘要匹配
+shell.signature.result.mismatch	某物不匹配( 文件在签名后可能已经更改)
+shell.signature.result.unsupported	不支持算法或变换,因此无法检查某些部件
+shell.signature.result.uninspectable	无法检查一些部件
+shell.signature.result.malformed	签名不正确( Q){reason})
+shell.signature.check.match	匹配
+shell.signature.check.mismatch	不匹配。 (简体中文)
+shell.signature.check.part-missing	缺少该部分
+shell.signature.check.unsupported	不支持( E){what})
+shell.signature.check.uninspectable	无法检查( N){reason})
+shell.signature.reason.external	它指向文件外; 它没有被获取
+shell.signature.reason.no-key	签名没有证书或密钥
+shell.signature.reason.bad-key	证书无法读取
+shell.signature.reason.target-missing	目标不存在
+shell.signature.reason.not-xml	这不是XML
+shell.signature.malformed.relationships	无法读取关系部分
+shell.signature.malformed.origin-missing	有签字部分,但与签字来源没有关系
+shell.signature.malformed.origin-part-missing	缺少签名来源部分
+shell.signature.malformed.signature-part-missing	缺少签名部分
+shell.signature.malformed.unreadable	无法读取签名部分
+shell.signature.malformed.xml	签名不是很好配置的 XML
+shell.signature.malformed.not-signature	根不是一个签名元素
+shell.signature.malformed.no-signed-info	缺少签名信息
+shell.signature.malformed.no-signature-value	缺少签名值
+shell.signature.malformed.no-reference	没有参考文献
+shell.signature.malformed.bad-reference	a 参考文献没有摘要方法或摘要
+shell.signature.malformed.bad-base64	签名值或摘要不是基准64
+shell.infobar.signature.message-viewer	此文件有数字签名。 此处显示为且不更改。
+shell.signature.report.pdf-signer	  签名人( 写在签名字段中的名称): {name}
+shell.signature.report.pdf-reason	  原因: 国家 {reason}
+shell.signature.report.pdf-format	  签名格式 : {name}
+shell.signature.report.pdf-notice	只比较了结构: 签名的字节范围是否适合文件, 文件是否在签名后添加。 签名值( 证书的签名 ) , 证书的信任度和撤销度, 以及时间戳没有检查, 因此这不是一个签名是否有效的判断。
+shell.signature.report.xps-count	这个文件有 {count} 数字签名。 它们的值和摘要没有比较。
+shell.signature.result.pdf-whole	签名范围覆盖整个文件
+shell.signature.result.pdf-later	文件在签名后添加( 修订版)。 {revision}, {count} 对象已更改
+shell.signature.result.pdf-invalid	签名范围不正确或不符合文件
+shell.signature.report.ofd-algorithms	  算法:签名 {sig},摘要 {check}
+toolbar.scene.doc.none	无
+toolbar.scene.doc.table	表格
+toolbar.scene.doc.image	图片
+toolbar.scene.sheet.cell	单元格
+toolbar.scene.slide.none	无
+toolbar.scene.slide.shape	形状
+toolbar.scene.slide.image	图片
+toolbar.scene.slide.video	视频
+toolbar.scene.slide.line	线条
+toolbar.scene.slide.table	表格
+settings.document	文档
+settings.presentation	演示文稿
+settings.toolbar	工具栏
+settings.toolbar.note	选择并重排此类文件工具栏上的按钮, 用于每个上下文。
+settings.toolbar.customize	自定义工具栏
+settings.toolbar.default	默认
+settings.toolbar.customized	自定义
+toolbar.customize.context	A. 背景情况
+toolbar.customize.font-size	字号
+toolbar.customize.commands	图标
+toolbar.customize.search	搜索命令
+toolbar.customize.count	{n} 已找到。
+toolbar.customize.order	工具栏顺序
+toolbar.customize.add-separator	添加分隔符
+toolbar.customize.separator	分隔符
+toolbar.customize.reset	重置
+toolbar.customize.reset-scene	重置此上下文
+toolbar.customize.reset-all	重置所有上下文
+toolbar.customize.undo	撤销
+toolbar.customize.redo	重做
+toolbar.customize.add	添加
+toolbar.customize.remove	删除
+toolbar.customize.added	已添加
+toolbar.customize.hide-added	隐藏添加的命令
+toolbar.customize.preview	预览
+toolbar.customize.changed	已修改
+toolbar.customize.empty	从左边的列表中添加命令。
+toolbar.customize.no-hit	无命令匹配 "{q}".
+toolbar.customize.menu-button	设置为打开子菜单的菜单按钮( X)
+toolbar.customize.toolbar-buttons	工具栏按钮
+toolbar.customize.unknown-default	此语境的默认顺序, 一旦该状态中的文档打开即可得知。
+toolbar.customize.popular	常见命令
+toolbar.customize.set.align-h	水平对齐( 左、 中、 右和 )
+toolbar.customize.set.align-v	垂直对齐(上、中、下和QQ)
+toolbar.customize.all-scenes	添加到所有上下文中
+settings.qat.customize	自定义快速访问工具栏
+review.accessibility-check	检查可访问性…
+review.compatibility-check	检查兼容性…
+edit.go-to	转到…
+page.paper-a3	A3 (297 x 420 毫米) 导弹
+page.paper-a4	A4(210 x 297毫米)
+page.paper-b5	B5(182 x 257毫米)
+arrange.send-to-back	发送到后面
+arrange.send-backward	向后发送
+arrange.bring-forward	前进
+arrange.bring-to-front	带到前面
+insert.signature-line	签名行…
+table.banded-columns	带宽列
+table.first-column	第一栏
+table.header-row	标题行
+table.last-column	最后一个列
+table.total-row	总行数
+table.banded-rows	带宽行
+view.side-by-side	逐一查看
+arrange.align-bottom	对齐下方
+arrange.align-center	对齐中心
+arrange.align-left	左对齐
+arrange.align-middle	中间对齐
+arrange.align-right	右对齐
+arrange.align-top	对齐顶端
+shell.pdf.signatures	签署: {count}
+shell.pdf.signatures-mismatch	签署: {count} (更改或错配)
+shell.pdf.signatures-verified	签署: {count} (经SM3和SM2核实)
+shell.pdf.signatures-digests	签署: {count} (SM3摘要匹配)
+window.open-pdf-in-preview	在预览中打开
+window.open-pdf-in-edge	打开 Microsoft 边缘
+shell.pdf.page-number	页码
+shell.pdf.page-of	/ {total}
+shell.pdf.go	走开
+file.new-document	新建文档
+file.new-workbook	新建电子表格
+file.new-presentation	新建演示文稿
+file.close-window	关闭窗口
+window.minimize	最小化
+app.services	服务
+app.hide	隐藏 ibisOffice
+file.copy-download	保存副本( 下载)

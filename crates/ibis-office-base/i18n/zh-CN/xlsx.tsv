@@ -1,0 +1,3005 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+xlsx.sort	排序范围
+xlsx.delete-row	删除行
+xlsx.delete-column	删除列
+xlsx.delete-cells	删除单元格…
+xlsx.rename-sheet	重命名工作表…
+xlsx.duplicate-sheet	复制工作表
+xlsx.hide-sheet	隐藏工作表
+xlsx.delete-sheet	删除工作表
+xlsx.freeze	冻结窗格
+xlsx.freeze-panes	冻结窗格
+xlsx.unfreeze-panes	取消冻结窗格
+xlsx.freeze-at-selection	在选定位置冻结窗格
+xlsx.freeze-top-row	冻结首行
+xlsx.freeze-first-column	冻结第一列
+xlsx.print-area-menu	打印区域
+xlsx.set-print-area	设置打印区域
+xlsx.print-area-add	添加到打印区域
+xlsx.clear-print-area	清除打印区域
+xlsx.cell-link-open	打开超链接
+xlsx.cell-link-edit	编辑超链接…
+xlsx.cell-link-remove	删除超链接
+xlsx.ruler	标尺
+xlsx.ruler-unit	标尺单位
+xlsx.ruler-unit.cm	厘米（cm）
+xlsx.ruler-unit.mm	毫米（mm）
+xlsx.ruler-unit.inch	英寸（in）
+xlsx.ruler-unit.point	磅（pt）
+xlsx.ruler-unit.pica	派卡（pc）
+xlsx.gridlines	显示网格线
+xlsx.headings	显示标题
+xlsx.formula-bar	显示公式栏
+xlsx.show-formulas	显示公式
+xlsx.show-zeros	显示零
+xlsx.hide-ink	隐藏墨迹
+xlsx.normal-view	常规
+xlsx.page-break-preview	分页预览
+xlsx.page-layout	页面布局
+xlsx.clear-filter	清除筛选
+xlsx.name-manager	名称管理器
+xlsx.define-name	定义名称…
+xlsx.page-setup	页面设置…
+xlsx.margins	边距
+xlsx.header-footer	页眉和页脚…
+xlsx.spelling.check	检查拼写…
+xlsx.spelling	拼写检查
+xlsx.insert-link	插入链接…
+xlsx.insert-symbol	符号…
+xlsx.logical-functions	逻辑函数
+xlsx.datetime-functions	日期和时间函数
+xlsx.fn.ifs	IFS
+xlsx.fn.iferror	IFERROR
+xlsx.fn.and	AND
+xlsx.fn.or	OR
+xlsx.fn.not	NOT
+xlsx.underline-menu	下划线
+xlsx.underline-single	单下划线
+xlsx.underline-double	双下划线
+xlsx.screenshot	截图
+xlsx.screenshot.available-windows	可用的窗口
+xlsx.screenshot.clipping	屏幕剪辑…
+xlsx.screenshot.clipboard	剪贴板上的截图
+xlsx.insert.screenshot	截图
+xlsx.insert.screenshot.available-windows	可用的窗口
+xlsx.insert.screenshot.clipping	屏幕剪辑…
+xlsx.insert.screenshot.clipboard	剪贴板上的截图
+xlsx.zoom-selection	缩放到选中区域
+xlsx.custom-views	自定义视图…
+xlsx.hide-window	隐藏窗口
+xlsx.unhide-window	打开窗口…
+xlsx.insert-row-above	在上方插入行
+xlsx.insert-row-below	在下面插入行
+xlsx.insert-column-left	左侧插入列
+xlsx.insert-column-right	右边插入列
+xlsx.insert-cells	插入单元格…
+xlsx.insert-sheet	新建工作表
+xlsx.insert-table	桌子… 桌子… 桌子… 桌子… 桌子… 桌子…
+xlsx.chart-format	图表格式…
+xlsx.filter	创建过滤器
+xlsx.protect	保护工作表和范围
+xlsx.named-ranges	命名范围
+xlsx.validation	数据验证
+xlsx.validation.circle-invalid	无效的圆形数据
+xlsx.validation.clear-circles	清除验证圆
+xlsx.split-text	将文本分割到列
+xlsx.cell-styles	单元格样式
+xlsx.new-cell-style	新建单元格样式…
+xlsx.new-cell-style-title	新建单元格样式
+conditional.expression	公式为真
+xlsx.header-clear	清除内容
+xlsx.header-clear-formats	清除格式
+xlsx.fill-none	无填充
+xlsx.number-format-custom	自定义…
+xlsx.merge-center	合并中心( C)
+xlsx.merge-across	交叉合并
+xlsx.merge	合并单元格
+xlsx.unmerge	未合并单元格
+xlsx.shrink	缩窄以适应
+xlsx.unhide-sheet	隐藏工作表
+xlsx.tab-color-none	无颜色
+xlsx.move-sheet-left	将工作表左移
+xlsx.move-sheet-right	工作表向右移动
+xlsx.split	分开
+xlsx.sort-manage	排序选项…
+xlsx.remove-duplicates	删除复制件…
+xlsx.goto-destination	转到
+xlsx.goto-no-destinations	(没有定义的名称或历史)
+xlsx.goto-type-name	名称
+xlsx.goto-type-history	历史
+xlsx.goto-special-button	特别…
+xlsx.goto-special	转到特别…
+xlsx.text-to-columns	文本到列…
+xlsx.sort-descending	排序范围( 递减)
+xlsx.export-csv	CSV UTF-8 (.csv,当前工作表)
+xlsx.export-csv-sjis	CSV Shift_JIS (请检查url=值 (帮助).csv,当前工作表)
+xlsx.export-tsv	文本 TSV (.tsv,当前工作表)
+xlsx.export-ods	OpenDocument 电子表格( E).ods,全本工作手册).
+xlsx.export-html	网页.html,当前工作表)
+xlsx.insert-cells-right	插入单元格( 右移单元格)
+xlsx.delete-cells-left	删除单元格( 左移单元格)
+xlsx.group	组
+xlsx.ungroup	取消组合
+xlsx.collapse	隐藏细节
+xlsx.expand	显示细节
+xlsx.conditional	条件格式
+xlsx.paste-skip-blanks	跳过空白
+xlsx.clear-all	全部清除
+xlsx.border-styles	边框样式
+xlsx.border-colors	边框颜色
+xlsx.unhide-sheets	无阴影工作表
+xlsx.tab-colors	标签颜色
+xlsx.compatibility-version	计算兼容性版本
+xlsx.paste-special	粘贴特殊
+xlsx.paste-special-dots	粘贴特殊…
+xlsx.paste-comments	评论和说明
+xlsx.paste-all-except-borders	除边框外的所有
+xlsx.paste-column-widths	列宽
+xlsx.paste-formulas-and-number-formats	公式和数字格式
+xlsx.paste-values-and-number-formats	数值和数字格式
+xlsx.paste-operation	行动
+xlsx.paste-none	无
+xlsx.paste-options	选项
+_xlsx.light-gray	浅灰色
+_xlsx.sum	和数
+_xlsx.average	平均数
+_xlsx.count-numbers	数数
+_xlsx.max	马克斯
+_xlsx.cannot-paste-here	无法粘贴到此地
+_xlsx.copy-cells-first-to-use-paste-special	首先复制单元格以使用粘贴特殊
+_xlsx.resolved	决定
+_xlsx.less-than	减去
+_xlsx.less-than-or-equal-to	小于或等于
+_xlsx.equal-to	等值为
+_xlsx.not-equal-to	不相等为
+_xlsx.greater-than-or-equal-to	大于或等于
+_xlsx.greater-than	大于( Y)
+_xlsx.between	介于
+_xlsx.not-between	不在两者之间
+_xlsx.comparison-value-or-formula-e-g-10-a1-0	比较值或公式(例如10, A1>0)
+_xlsx.second-comparison-value-or-formula	第二次比较值或公式
+_xlsx.the-sheet-or-rule-has-changed-reopen-it	工作表或规则已经改变,重新打开它。
+_xlsx.enter-a-valid-range-or-formula-and-a-6-digit-fil	输入一个有效的区域或公式,并输入一个6位数的填充颜色。
+_xlsx.update-rule	更新规则
+_xlsx.add-rule	添加规则
+_xlsx.add-as-copy	添加为复制
+_xlsx.delete-rules-in-selection	删除选中的规则
+_xlsx.stop-on	停止: 打开
+_xlsx.stop-off	停止: 关闭
+_xlsx.number-format-custom	数字格式( Custom)
+_xlsx.the-sheet-has-changed-reopen-it	床单变了重新打开
+_xlsx.enter-a-valid-cell-range	输入有效的单元格范围。
+_xlsx.select-at-least-one-column	选择至少一个列。
+_xlsx.check-the-range-and-headers	检查范围及标题.
+_xlsx.no-duplicate-values-were-found	没有找到重复的值。
+_xlsx.copy-cells	复制单元格
+_xlsx.fill-series	填充系列
+_xlsx.fill-formatting-only	仅填充格式
+_xlsx.fill-without-formatting	无格式填充
+_xlsx.fill-days	填充天数
+_xlsx.fill-weekdays	填充周日数
+_xlsx.fill-months	填充月份数
+_xlsx.fill-years	填充年份
+_xlsx.cannot-fill-here	无法在此填充
+_xlsx.equals	等值
+_xlsx.does-not-equal	不等于 : “ ”
+_xlsx.greater-than-2	大于( Y)
+_xlsx.greater-than-or-equal-to-2	大于或等于
+_xlsx.less-than-2	减去
+_xlsx.less-than-or-equal-to-2	小于或等于
+_xlsx.begins-with	开始于
+_xlsx.does-not-begin-with	不开始于
+_xlsx.ends-with	结束为
+_xlsx.does-not-end-with	不结束于
+_xlsx.contains	包含
+_xlsx.does-not-contain	不包含
+_xlsx.after	之后
+_xlsx.on-or-after	在或之后
+_xlsx.before	之前,我说,
+_xlsx.on-or-before	上或前时
+_xlsx.tomorrow	明天见
+_xlsx.today	今天,我们…
+_xlsx.yesterday	昨日来
+_xlsx.next-week	下个礼拜
+_xlsx.this-week	这个礼拜
+_xlsx.last-week	上个礼拜
+_xlsx.next-month	下一个月
+_xlsx.this-month	这个月
+_xlsx.last-month	上个月
+_xlsx.next-quarter	下个季度
+_xlsx.this-quarter	这个季度
+_xlsx.last-quarter	最后一个季度
+_xlsx.next-year	明年
+_xlsx.this-year	今年,
+_xlsx.last-year	上个年份
+_xlsx.year-to-date	至今的年份
+_xlsx.blanks	(板块)
+_xlsx.search	搜索
+_xlsx.enter-a-date-such-as-10-7-2026	输入一个日期, 如 10/7/ 2026。
+_xlsx.enter-a-value	输入一个值。
+_xlsx.enter-a-number-from-1-to-100	输入数字从 1 到 100。
+_xlsx.enter-a-number-from-1-to-500	输入从 1 到 500 的编号。
+_xlsx.sort-ascending	升序排序
+_xlsx.sort-descending	降序排序
+_xlsx.text-filters	文本过滤器
+_xlsx.sort-smallest-to-largest	将最小的排序到最大
+_xlsx.sort-largest-to-smallest	最大到最小排序
+_xlsx.number-filters	数字过滤器
+_xlsx.sort-oldest-to-newest	将最旧排序为最新
+_xlsx.sort-newest-to-oldest	将最新的排序到最旧的
+_xlsx.date-filters	日期过滤器
+_xlsx.select-all-search-results	(选择所有搜索结果)
+_xlsx.select-all	(全部选择)
+_xlsx.sort-by-cell-color	按单元格颜色排序
+_xlsx.filter-by-cell-color	按单元格颜色过滤
+_xlsx.sort-by-font-color	按字体颜色排序
+_xlsx.filter-by-font-color	按字体颜色过滤
+_xlsx.equals-2	等同点…
+_xlsx.does-not-equal-2	不相等吗…
+_xlsx.begins-with-2	开始…
+_xlsx.ends-with-2	以… 结尾…
+_xlsx.contains-2	包含…
+_xlsx.does-not-contain-2	不包含…
+_xlsx.greater-than-3	远比…
+_xlsx.greater-than-or-equal-to-3	大于或等于为…
+_xlsx.less-than-3	少一点…
+_xlsx.less-than-or-equal-to-3	小于或等于为…
+_xlsx.before-2	在… 之前… 之前,我说…
+_xlsx.after-2	之后…
+_xlsx.between-2	之间…
+_xlsx.top-10	前十名… … 10号…
+_xlsx.above-average	高于平均数
+_xlsx.below-average	低于平均数
+_xlsx.all-dates-in-the-period	期间的所有日期 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_xlsx.all-dates-in-the-period-2	期间的所有日期 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_xlsx.custom-filter	自定义过滤器…
+_xlsx.autofilter-options	自动筛选选项
+_xlsx.none	(无)
+_xlsx.use-to-represent-any-single-character-use-to-rep	使用 ? 来代表任何单个字符。 使用 * 来代表任何字符序列。
+_xlsx.top-10-autofilter	上 10 个自动过滤器
+_xlsx.top	顶点 QQ
+_xlsx.bottom	下边 QQ :
+_xlsx.percent	百分比 ______________________________
+_xlsx.items	项目 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_xlsx.find-what	查找内容
+_xlsx.replace-with	替换为
+_xlsx.include-formulas	包含公式
+_xlsx.no-matching-cells-were-found	未找到匹配的单元格。
+_xlsx.numbers	数字
+_xlsx.column	列
+_xlsx.row	行
+_xlsx.autofit-column-width	自动独立列宽
+_xlsx.autofit-row-height	自动填列高度
+_xlsx.https-or-sheet1-a1	https://… 或#Sheet1!A1 (中文(简体) ).
+_xlsx.no-link	(无链接)
+_xlsx.sheet	工作表
+_xlsx.fit-sheet-to-window	匹配工作表到窗口
+_xlsx.new-name	新建名称
+_xlsx.use-selection	使用选择
+_xlsx.name-selection	选择名称
+_xlsx.name-manager	名称管理器
+_xlsx.add-name	添加名称
+_xlsx.update-name	更新名称
+_xlsx.refers-to-or-formula	指向或公式
+_xlsx.refers-to-or-formula-e-g-sum-a1-a5-or-0-1	指或公式(例如:=SUM(A1:A5)或0.1)
+_xlsx.normal	常规
+_xlsx.narrow	窄
+_xlsx.wide	宽
+_xlsx.orientation	方向
+_xlsx.scale	缩放
+_xlsx.fit-to-1-page	适合 1 页
+_xlsx.print-area	打印区域
+_xlsx.clear	清除
+_xlsx.print-area-none-used-range	打印区域:无(使用范围)
+_xlsx.insert-delete-above-selected-row	插入/删除选中行上方
+_xlsx.the-reference-is-not-valid	引用无效。
+_xlsx.go-to	转到
+_xlsx.reference	参考
+_xlsx.column-a-b	栏(A,B…)
+_xlsx.specify-column-names-within-the-range-each-colum	指定区域内的列名。每个列名和密钥只能指定一次。
+_xlsx.range-to-sort	排序范围
+_xlsx.select-column	选择列
+_xlsx.cell-values	单元格值
+_xlsx.ascending	递升
+_xlsx.descending	降级
+_xlsx.add-column	添加列
+_xlsx.sort	排序
+_xlsx.sort-2	排序
+_xlsx.no-fill	(无填充)
+_xlsx.automatic	(自动)
+_xlsx.tables-cannot-overlap	表格不能重叠。
+_xlsx.there-is-no-sheet	没有床单。
+_xlsx.a-range-containing-merged-cells-cannot-be-made-i	包含合并单元格的区域不能被制成表格。
+_xlsx.the-cell-just-below-the-range-is-not-empty-so-a	范围以下的单元格不是空的,所以无法添加一个标题行。
+_xlsx.create-table	创建表格
+_xlsx.specify-the-data-range-to-convert-to-a-table	指定要转换到表格的数据区域
+_xlsx.specify-the-new-data-range-for-your-table	指定表格的新数据区域
+_xlsx.my-table-has-headers	我的桌子上有头
+_xlsx.text	文本
+_xlsx.light-orange	浅橙色
+_xlsx.number-2-decimal-places	数量(2个小数位数)
+_xlsx.currency	货币
+_xlsx.accounting	会计
+_xlsx.short-date	短时间
+_xlsx.long-date	长日期
+_xlsx.time	时间
+_xlsx.percentage	百分比
+_xlsx.fraction	分数
+_xlsx.scientific	科学
+_xlsx.cannot-move-part-of-a-merged-cell	无法移动合并单元格中的一部分
+_xlsx.this-name-cannot-be-used-as-a-sheet-name	此名称不能用作工作表名称
+_xlsx.thin	细
+_xlsx.hairline	发线
+_xlsx.medium	中型
+_xlsx.medium-dashed	中线
+_xlsx.medium-dash-dot	中型 Dash- Dot 点
+_xlsx.medium-dash-dot-dot	中型 Dash- Dot- Dot
+_xlsx.slant-dash-dot	斜线点
+_xlsx.no-underline	无下划线
+_xlsx.single-underline	单下划线
+_xlsx.double-underline	双下划线
+_xlsx.single-accounting-underline	单项会计底线
+_xlsx.double-accounting-underline	双层会计底线
+_xlsx.all-borders	所有边框
+_xlsx.outside-borders	外部边框
+_xlsx.bottom-border	底边框
+_xlsx.top-border	顶端边框
+_xlsx.left-border	左边框
+_xlsx.right-border	右边框
+_xlsx.diagonal-up-border	边框对角
+_xlsx.diagonal-down-border	下边框对角
+_xlsx.thick-bottom-border	粗细的底边框
+_xlsx.double-bottom-border	双下边框
+_xlsx.no-border	无边框
+_xlsx.center-across-selection	整个选择中心
+_xlsx.fill	填充
+_xlsx.decrease-indent	减少缩进
+_xlsx.increase-indent	增加缩进
+_xlsx.version-1	第1版语文
+_xlsx.version-2	第2版语文
+_xlsx.all	全部人员
+_xlsx.values	数值
+_xlsx.formats	格式
+_xlsx.transpose	转换
+_xlsx.paste-link	粘贴链接
+_xlsx.add	添加
+_xlsx.subtract	减法
+_xlsx.multiply	乘数
+_xlsx.divide	除号
+_xlsx.edit	编辑
+_xlsx.portrait	纵向
+_xlsx.landscape	风景
+A4	A4
+B5	B5
+A3	A3
+_xlsx.letter	信件
+_xlsx.underline-style	下划线样式
+_xlsx.find-next	查找下一个
+100%	100%
+_xlsx.cut	剪切
+_xlsx.paste	粘贴
+_xlsx.page-break	插入分页符
+_xlsx.page-number	页码
+_xlsx.equation	公式
+_xlsx.formula-is-true	公式为真
+_xlsx.conditional-formatting	条件格式
+xlsx.flash-fill	闪存填充
+_xlsx.clear-filter-from-name	清除过滤器从 "{name}"
+_xlsx.page-1-of	第1页?
+_xlsx.month-m	月数 {m}
+_xlsx.exported-to-path	导出至 {path}
+_xlsx.this-operation-can-t-be-done-err	此操作无法完成( Name{err})
+_xlsx.chart-title	图表标题
+_xlsx.format-chart	格式图
+_xlsx.select-a-chart	选择图表。
+_xlsx.sheet-name	工作表名称
+_xlsx.cell-color-color	单元格颜色 {color}
+_xlsx.rows-to-repeat-at-top	要在顶部重复的行
+_xlsx.rows-to-repeat-at-top-rows-printed-on-every-page	在顶部重复的行 : {rows} (每页印着)
+_xlsx.rows-to-repeat-at-top-none	要重复的行在顶部: 无
+_xlsx.table-n	表格{n}
+_xlsx.count-count	计数 : {count}
+_xlsx.file-name	文件名称
+_xlsx.font-color-color	字体颜色 {color}
+_xlsx.level-n	职等 {n}
+_xlsx.column-name	列 {name}
+_xlsx.column-n	列{n}
+_xlsx.a-different-chart-is-selected-open-format-chart	选择了不同的图表。 再次打开格式图表。
+_xlsx.print-area-range	打印区域 : {range}
+_xlsx.average-average-count-count-sum-sum	平均值 : {average}   计数 : {count}   总计 : {sum}
+_xlsx.show-rows-where-name	显示行中 : {name}
+_xlsx.couldn-t-export-error	无法导出 : {error}
+_xlsx.html-export-too-large	工作表太大, 无法导出为网页
+_xlsx.the-minimum-must-be-less-than-the-maximum	最小值必须小于最大值.
+_xlsx.enter-numbers-for-the-minimum-maximum-and-major	输入最小、最大和主要单位的编号(Auto为空)。
+_xlsx.gridlines	网格线
+_xlsx.major-unit	主要股
+_xlsx.the-major-unit-must-be-greater-than-0	主要单位必须大于0.
+_xlsx.quarter-q	季度 {q}
+_xlsx.vertical-value-axis	垂直( 值) 轴
+_xlsx.sort-by-color	按颜色排序
+_xlsx.filter-by-color	按颜色过滤
+_xlsx.show	显示
+_xlsx.use-selected-rows	使用所选行
+_xlsx.select-a-cell-in-a-table	选择表格中的单元格。
+xlsx.chart-axis-min	最低
+xlsx.chart-axis-max	最大值
+xlsx.text-direction	方向
+xlsx.font-effects	上标和下标
+xlsx.fill-pattern	图案填充
+xlsx.pattern-color	图案颜色
+xlsx.fill-gradient	渐变填充
+_xlsx.angle-counterclockwise	逆时针角度
+_xlsx.angle-clockwise	角度顺时针
+_xlsx.rotate-text-up	向上旋转文本
+_xlsx.rotate-text-down	向下旋转文本
+_xlsx.no-rotation	无旋转
+_xlsx.normal-no-superscript-or-subscript	普通( 无上标或下标)
+_xlsx.75-gray	75% 灰色
+_xlsx.50-gray	50% 灰色
+_xlsx.25-gray	25% 灰色
+_xlsx.12-5-gray	12.5% 灰色
+_xlsx.6-25-gray	6.25灰色百分比
+_xlsx.horizontal-stripe	水平条纹
+_xlsx.vertical-stripe	垂直条纹
+_xlsx.reverse-diagonal-stripe	反向对角条形
+_xlsx.diagonal-stripe	对角条形
+_xlsx.diagonal-crosshatch	横断面
+_xlsx.thick-diagonal-crosshatch	粗细的对角交叉夹
+_xlsx.thin-horizontal-stripe	细水平条纹
+_xlsx.thin-vertical-stripe	细的垂直条纹
+_xlsx.thin-reverse-diagonal-stripe	细反对角条形
+_xlsx.thin-diagonal-stripe	细对角条形
+_xlsx.thin-horizontal-crosshatch	细的横向交叉夹
+_xlsx.thin-diagonal-crosshatch	细对角交叉夹
+xlsx.pivot-refresh	刷新枢轴表
+xlsx.pivot-refresh-all	全部刷新( E)
+_xlsx.select-a-cell-in-a-pivottable	在偏转表中选择单元格。
+xlsx.pivot-insert	枢轴表…
+xlsx.pivot-fields	枢轴表字段
+xlsx.pivot-value-settings	值字段设置…
+xlsx.pivot-options	枢轴表选项…
+xlsx.pivot-show-details	显示细节
+xlsx.pivot-calculated-field	已计算字段…
+xlsx.pivot-calculated-item	已计算项目…
+_xlsx.insert-calculated-field	插入已计算字段
+_xlsx.insert-field	插入字段
+_xlsx.calculated-field-added	已计算字段已添加
+_xlsx.calculated-field-deleted	已计算字段已删除
+_xlsx.name	名称
+_xlsx.formula	公式
+_xlsx.fields	字段
+_xlsx.please-enter-a-field-name	请输入字段名称
+_xlsx.please-enter-a-formula	请输入公式
+_xlsx.insert-calculated-item	插入已计算项目
+_xlsx.insert-item	插入项目
+_xlsx.calculated-item-added	已计算项目已添加
+_xlsx.calculated-item-deleted	已计算项目已删除
+_xlsx.please-enter-an-item-name	请输入项目名称
+_xlsx.please-enter-a-formula-2	请输入公式
+_xlsx.items-2	项目
+_xlsx.no-fields-available	无可用字段
+xlsx.pivot-group	组…
+xlsx.pivot-ungroup	取消组偏转表
+_xlsx.table-or-range	表格或范围
+_xlsx.where-to-place-the-pivottable	向何处放置偏转表
+_xlsx.new-worksheet	新工作表
+_xlsx.existing-worksheet	现有工作表
+_xlsx.create	创建
+_xlsx.choose-fields-to-add-to-the-report	选择要添加到报表中的字段
+_xlsx.filters	过滤器
+_xlsx.summarize	总结
+_xlsx.values-2	• 数值
+_xlsx.pivottable	数据透视表
+_xlsx.the-data-range-is-not-valid	数据范围无效。
+_xlsx.select-a-range-of-two-or-more-rows-with-a-headin	选择两个或多个行的范围,每个列都有一个标题。
+_xlsx.the-location-is-not-valid	位置无效。
+_xlsx.count	计数
+_xlsx.max-2	马克斯
+_xlsx.min	最小数
+_xlsx.product	产品
+_xlsx.stddev	StdDev 软件
+_xlsx.stddevp	标准数据文件
+_xlsx.var	瓦尔
+_xlsx.varp	宽度
+_xlsx.create-pivottable	创建枢轴表
+_xlsx.pivottable-fields	枢轴表字段
+_xlsx.the-pivottable-would-overlap-other-cells-or-anot	PivotTable 会与其他单元格或另一个PivotTable重叠,所以无法更改.
+_xlsx.select-field	选择字段
+_xlsx.all-2	(全体)
+_xlsx.blank	(空白) (简体中文).
+_xlsx.table-name	表格名称
+_xlsx.change	变动
+_xlsx.table-style-options	表格样式选项
+_xlsx.banded-rows	带宽行
+_xlsx.banded-columns	带宽列
+_xlsx.filter-button	过滤按钮
+_xlsx.total-row-functions	行函数共计
+_xlsx.table-styles	表格样式
+_xlsx.light	光线
+_xlsx.medium-2	中型
+_xlsx.dark	暗处
+_xlsx.table-design	表格设计
+_xlsx.this-table-name-is-not-valid	此表格名称无效。
+_xlsx.this-name-is-already-in-use	此名称已经在使用中。
+_xlsx.the-cells-just-below-the-table-are-not-empty-so	表格下方的单元格不是空的,所以不能添加总行.
+_xlsx.the-table-has-only-its-header-row	表格只有其标题行。
+_xlsx.the-cells-just-above-the-table-are-not-empty-so	表格上方的单元格不是空的,因此无法添加页眉行。
+xlsx.table-design	表格设计…
+xlsx.theme-lighter	{name}更轻 {n}%
+xlsx.theme-darker	{name}深色( 深色) {n}%
+xlsx.theme-palette	主题颜色调色板
+xlsx.theme-colors	主题颜色和字体…
+_xlsx.background-1	背景情况
+_xlsx.text-1	案文1
+_xlsx.background-2	背景情况 2
+_xlsx.text-2	案文2
+_xlsx.accent-1	第1节
+_xlsx.accent-2	第2节
+_xlsx.accent-3	3号
+_xlsx.accent-4	4号
+_xlsx.accent-5	第5节
+_xlsx.accent-6	第6节
+_xlsx.data-range	数据范围
+_xlsx.apply-range	应用范围
+_xlsx.switch-row-column	切换行/ 缩放
+_xlsx.the-data-range-of-this-chart-cannot-be-changed	此图表的数据范围无法更改。
+_xlsx.cannot-read-the-data-range-example-sheet1-a-3-d	无法读取数据范围( 例如: 工作表1 ! 3澳元: 8澳元)。
+_xlsx.use-a-range-of-at-least-2-rows-and-2-columns-who	使用至少2行和2列的范围,其第一行和第一列为标题(文本)。
+_xlsx.show-in-compact-form	在压缩窗体中显示
+_xlsx.show-in-outline-form	在大纲格式中显示
+_xlsx.show-in-tabular-form	在表格格式中显示
+_xlsx.do-not-show-subtotals	不显示小计
+_xlsx.show-all-subtotals-at-bottom-of-group	在组底部显示所有小计
+_xlsx.show-all-subtotals-at-top-of-group	在组的顶端显示所有小计
+_xlsx.show-grand-total-row	显示大总行
+_xlsx.show-grand-total-column	显示大全列
+_xlsx.repeat-all-item-labels	重复所有项目标签
+_xlsx.for-empty-cells-show	用于显示空单元格
+_xlsx.for-error-values-show	对于错误值显示
+_xlsx.apply-captions	应用说明
+xlsx.goal-seek	目标搜索…
+goalseek.found	找到一个可以让单元格 {formula} {target}: {cell} = {value}
+_xlsx.goal-seek	目标搜索
+_xlsx.set-cell	设置单元格
+_xlsx.to-value	到数值
+_xlsx.by-changing-cell	通过更改单元格
+_xlsx.run	运行
+_xlsx.set-cell-must-be-a-single-cell-on-this-sheet	设定单元格必须是本工作表中的单个单元格。
+_xlsx.by-changing-cell-must-be-a-single-cell-on-this-s	通过更改单元格必须是本工作表中的单个单元格。
+_xlsx.enter-a-number-for-to-value	输入值的编号。
+_xlsx.by-changing-cell-must-be-a-number-cell-without-a	更改单元格必须是没有公式的数字单元格。
+_xlsx.set-cell-must-be-a-cell-with-a-formula-that-retu	设置单元格必须是带有返回数字的公式的单元格。
+_xlsx.no-solution-was-found	没有找到解决办法。
+xlsx.data-table	数据表…
+_xlsx.data-table	数据表
+_xlsx.row-input-cell	行输入单元格
+_xlsx.column-input-cell	列输入单元格
+_xlsx.select-the-cells-of-the-data-table-including-the	选择数据表格的单元格(包括上下左侧的数值)。
+_xlsx.an-input-cell-must-be-a-single-cell-on-this-shee	输入单元格必须是本工作表中的单个单元格。
+_xlsx.specify-a-row-input-cell-a-column-input-cell-or	指定行输入单元格、列输入单元格或两者兼有。
+xlsx.advanced-filter	高级过滤器…
+xlsx.consolidate	合并…
+xlsx.subtotal	小计…
+xlsx.cf-date-occurring	约会发生…
+xlsx.cf-date.yesterday	昨日来
+xlsx.cf-date.today	今天,我们…
+xlsx.cf-date.tomorrow	明天见
+xlsx.cf-date.last7days	过去七天
+xlsx.cf-date.last-week	上个礼拜
+xlsx.cf-date.this-week	这周
+xlsx.cf-date.next-week	下礼拜
+xlsx.cf-date.last-month	上个月
+xlsx.cf-date.this-month	这个月
+xlsx.cf-date.next-month	下个月
+_xlsx.list-order	列表顺序
+_xlsx.reverse-list-order	反转列表顺序
+_xlsx.list-configured	列表已配置 QQ
+_xlsx.list	列表…
+_xlsx.custom-list-comma-separated	自定义列表( comma 分离)
+_xlsx.clear-list-normal-order	清除列表( 普通顺序)
+_xlsx.sun-sat	太阳-卫星
+_xlsx.sunday-saturday	星期日-星期六
+_xlsx.jan-dec	1月-12月 (中文(简体) ).
+_xlsx.q1-q4	Q1–Q4
+_xlsx.sun-sat-2	太阳-卫星
+_xlsx.sunday-saturday-2	星期日-星期六
+_xlsx.jan-dec-2	1月-12月 (中文(简体) ).
+_xlsx.e-g-sun-mon-tue-wed-thu-fri-sat	例如,太阳、蒙、图、韦德、图、弗里、萨特
+xlsx.calculate-options	计算选项
+xlsx.calculate-auto	自动
+xlsx.calculate-auto-no-table	自动除数据表
+xlsx.calculate-manual	手动
+xlsx.calculate-now	现在计算
+xlsx.calculate-sheet	计算工作表
+xlsx.scenario-manager	假设管理器…
+xlsx.sparklines	闪光线
+xlsx.sparkline-line	线条…
+xlsx.sparkline-column	栏…
+xlsx.sparkline-winloss	赢/ 输…
+xlsx.clear-sparklines	清除闪光线
+xlsx.sparkline-clear-selected	清除选中的闪光线
+xlsx.sparkline-clear-group	清除选中的火花线组
+xlsx.sparkline-styles	闪光线样式
+xlsx.sparkline-style-1	样式 1
+xlsx.sparkline-style-2	样式 2
+xlsx.sparkline-style-3	样式 3
+xlsx.sparkline-style-4	样式 4
+xlsx.sparkline-style-5	样式 5
+xlsx.sparkline-style-6	样式 6
+xlsx.sparkline-colors	闪光线线颜色
+xlsx.sparkline-color-blue	蓝色
+xlsx.sparkline-color-red	红色
+xlsx.sparkline-color-green	绿色
+xlsx.sparkline-color-purple	紫色
+xlsx.sparkline-color-cyan	青色( 青色)
+xlsx.sparkline-color-orange	橙色
+xlsx.sparkline-color-gray	灰色
+xlsx.sparkline-color-black	黑色
+xlsx.sparkline-display-hidden	在隐藏行和列中显示数据
+xlsx.sparkline-display-hidden-on	在隐藏行和列中显示数据
+xlsx.sparkline-display-hidden-off	在隐藏行和列中隐藏数据
+xlsx.sparkline-date-axis-menu	日期轴
+xlsx.sparkline-date-axis-on	使用日期轴
+xlsx.sparkline-date-axis-off	一般轴( 等距 )
+xlsx.protect-workbook	保护工作手册…
+xlsx.unprotect-workbook	取消保护工作簿…
+_xlsx.protect-structure-and-windows	保护结构和窗口
+_xlsx.protect	保护
+_xlsx.structure	结构
+_xlsx.windows	窗口
+_xlsx.protect-workbook	保护工作簿
+_xlsx.unprotect-workbook	取消保护工作手册
+_xlsx.protect-workbook-2	保护工作簿
+_xlsx.select-at-least-one-element-to-protect	选择至少一个要保护的元素。
+_xlsx.workbook-is-protected-and-cannot-be-changed	工作手册受到保护,不能更改。
+xlsx.paste-validation	验证
+xlsx.allow-edit-ranges	允许用户编辑范围…
+_xlsx.allow-users-to-edit-ranges	允许用户编辑范围
+_xlsx.ranges-unlocked-when-sheet-is-protected	工作表保护时解锁区域
+_xlsx.no-ranges-registered	未登记区域
+_xlsx.refers-to-cells	指单元格
+_xlsx.range-password-optional	范围密码( 可选)
+_xlsx.add-apply	添加/ 应用
+_xlsx.password-protected	密码保护
+_xlsx.no-password	无密码
+xlsx.precision-as-displayed	显示的精度
+xlsx.iterative-calculation	启用迭代计算
+xlsx.trace-precedents	追踪先例
+xlsx.trace-dependents	跟踪依赖者
+xlsx.remove-arrows	删除箭头
+xlsx.remove-all-arrows	删除全部箭头
+xlsx.remove-precedent-arrows	删除先前的箭头
+xlsx.remove-dependent-arrows	删除依赖的箭头
+xlsx.evaluate-formula	评估公式…
+xlsx.watch-window	监视窗口…
+_xlsx.evaluate-formula	评估公式
+_xlsx.watch-window	监视窗口
+_xlsx.evaluation-cell	评价小组
+_xlsx.formula-and-step-evaluation	公式和步骤评价
+_xlsx.step-in-available	在可用步骤中
+_xlsx.evaluate	评价
+_xlsx.step-in	步进
+_xlsx.step-out	步进出
+xlsx.eval.restart	重新启动
+_xlsx.the-cell-currently-being-evaluated-does-not-cont	目前正在评估的单元格没有公式。
+_xlsx.add-watch	添加监视
+_xlsx.delete-all	删除全部
+_xlsx.no-watch-cells-yet-click-add-watch-to-add	还没有监视单元格。单击“ 添加监视” 添加。
+_xlsx.sort-by-value	按数值排序
+xlsx.alt-text	换文本…
+xlsx.alt-text.title	标题
+xlsx.alt-text.description	说明
+xlsx.alt-text.hint	输入要由屏幕阅读器读取的图像或形状描述。
+xlsx.alt-text.apply	应用
+xlsx.delete-comment	删除注释
+xlsx.export-xltx	Excel 模板( E).xltx)
+xlsx.new-from-template	从模板中新建…
+xlsx.accessibility.title	辅助功能
+xlsx.accessibility.desc	检查无障碍问题工作手册。
+xlsx.accessibility.passed	未发现无障碍问题。
+xlsx.accessibility.passed-sub	所有图片都有备选案文、表格头和工作表名称都进行了适当的配置。
+xlsx.accessibility.recheck	重新检查
+xlsx.accessibility.recheck-done	重新检查完成
+xlsx.print-what	打印什么
+xlsx.print-what.active-sheet	活动工作表
+xlsx.print-what.entire-workbook	全部工作手册
+xlsx.print-what.selection	选择
+xlsx.header.custom	自定义信头…
+xlsx.footer.custom	自定义页脚…
+xlsx.header-edit.title	编辑信头
+xlsx.footer-edit.title	编辑页脚
+xlsx.hf.odd-page	标准/ 奇数页
+xlsx.hf.even-page	偶数页
+xlsx.hf.first-page	第一页
+xlsx.hf.left-section	左节
+xlsx.hf.center-section	中心科
+xlsx.hf.right-section	右节
+xlsx.hf.insert-page	页面 (P)
+xlsx.hf.insert-pages	页面( & N)
+xlsx.hf.insert-date	日期( D)
+xlsx.hf.insert-time	时间( T)
+xlsx.hf.insert-file	文件 (( F))
+xlsx.hf.insert-sheet	工作表 (和A)
+xlsx.hf.code-preview	代码
+xlsx.hf.diff-first	不同的首页
+xlsx.hf.diff-odd-even	不同的奇数页( E)
+xlsx.hf.scale-with-doc	以文档缩放
+xlsx.hf.align-margins	与页面边距对齐
+xlsx.insert-textbox	文本框
+xlsx.insert-shape	形状
+xlsx.shape.rect	矩形
+xlsx.shape.round-rect	圆形矩形
+xlsx.shape.ellipse	椭圆
+xlsx.shape.triangle	三角形
+xlsx.shape.right-arrow	右箭头
+xlsx.shape.star5	5 点星
+xlsx.shape.callout	点名
+xlsx.shape.heart	心脏
+xlsx.shape.line	线条
+xlsx.shape.line-arrow	箭头线
+xlsx.insert-picture	图片
+xlsx.insert-picture-menu	图片
+xlsx.insert-picture-in-cell	在单元格中的位置
+xlsx.insert-picture-over-cells	放在单元格上方
+xlsx.place-in-cell	在单元格中的位置
+xlsx.place-over-cells	放在单元格上方
+_xlsx.place-in-cell	在单元格中的位置
+_xlsx.place-over-cells	放在单元格上方
+xlsx.image-file	图片来自文件
+xlsx.order	顺序
+xlsx.align	对齐
+xlsx.distribute.horizontal	水平分布
+xlsx.distribute.vertical	垂直分布
+xlsx.frame-settings	大小与属性…
+xlsx.selection-pane	选择窗格…
+xlsx.shape-fill	形状填充
+xlsx.shape-fill.none	无填充
+xlsx.shape-fill.black	黑色
+xlsx.shape-fill.white	白色
+xlsx.shape-fill.blue	蓝色
+xlsx.shape-fill.cyan	青色( 青色)
+xlsx.shape-fill.green	绿色
+xlsx.shape-fill.yellow	黄色
+xlsx.shape-fill.orange	橙色
+xlsx.shape-fill.red	红色
+xlsx.shape-fill.purple	紫色
+xlsx.shape-fill.gray	灰色
+xlsx.shape-stroke	形状大纲
+xlsx.shape-stroke.none	无大纲
+xlsx.shape-stroke.black	黑色
+xlsx.shape-stroke.white	白色
+xlsx.shape-stroke.blue	蓝色
+xlsx.shape-stroke.cyan	青色( 青色)
+xlsx.shape-stroke.green	绿色
+xlsx.shape-stroke.yellow	黄色
+xlsx.shape-stroke.orange	橙色
+xlsx.shape-stroke.red	红色
+xlsx.shape-stroke.purple	紫色
+xlsx.shape-stroke.gray	灰色
+xlsx.shape-stroke.width	重量
+xlsx.shape-stroke.width-0-5	0.5 平方厘米
+xlsx.shape-stroke.width-0-75	0.75 pt (帮助)
+xlsx.shape-stroke.width-1-5	1.5 平方厘米
+xlsx.shape-stroke.width-2-25	2.25 pt (帮助)
+xlsx.shape-stroke.width-3	3 pt (中文(简体) ).
+xlsx.shape-stroke.width-4-5	4.5 pt (单位:千美元)
+xlsx.shape-stroke.width-6	6 pt (中文(简体) ).
+xlsx.shape-stroke.dash	线片
+xlsx.shape-stroke.dash-solid	固态
+xlsx.shape-stroke.dash-dash	达西
+xlsx.shape-stroke.dash-dot	点
+xlsx.shape-stroke.dash-dash-dot	达什点
+xlsx.shape-effect	形状效果
+xlsx.shape-effect.shadow-none	无阴影
+xlsx.shape-effect.shadow-bottom-right	偏移: 右下角
+xlsx.shape-effect.shadow-right	偏移: 对
+xlsx.shape-effect.shadow-soft	偏移: 软
+xlsx.chart-data-table	数据表
+xlsx.group-shapes	组
+xlsx.group-shapes.group	组
+xlsx.group-shapes.ungroup	取消组合
+xlsx.crop	作物
+xlsx.crop.left	作物左倾10%
+xlsx.crop.right	作物权利 10%
+xlsx.crop.top	作物最高10%
+xlsx.crop.bottom	作物底部 10%
+xlsx.crop.center	全部作物面积 10%
+xlsx.crop.reset	重置裁剪
+xlsx.chart-trendline	趋势
+xlsx.picture.color	图片颜色
+xlsx.picture.color.none	无颜色效果
+xlsx.picture.color.grayscale	灰度( E)
+xlsx.picture.color.sepia	塞皮亚
+xlsx.picture.color.blue	蓝色( 莫诺内)
+xlsx.picture.color.green	绿色( 莫诺内)
+xlsx.picture.color.red	红色( 莫诺内)
+xlsx.picture.color.orange	橙色( 摩诺内)
+xlsx.picture.color.purple	紫色( 莫诺内)
+xlsx.picture.remove-background	删除背景( 透明颜色 )
+xlsx.picture.color.transparent-white	设定透明颜色( 白色)
+xlsx.picture.color.transparent-black	设定透明颜色( 黑色)
+xlsx.picture.color.transparent-clear	重置透明颜色
+xlsx.picture.correction	图片校正( 亮度和对比度)
+xlsx.picture.lum.normal	正常( 亮度为0%, 对比度为0%)
+xlsx.picture.lum.bright-p40	亮度:+40%
+xlsx.picture.lum.bright-p20	亮度 : +20%
+xlsx.picture.lum.bright-m20	亮度: -20%
+xlsx.picture.lum.bright-m40	亮度: -40%
+xlsx.picture.lum.contrast-p40	对比度:+40%
+xlsx.picture.lum.contrast-p20	对比度:+20%
+xlsx.picture.lum.contrast-m20	对比度: -20%
+xlsx.picture.lum.contrast-m40	对比度: -40%
+xlsx.picture.lum.bright-contrast-high	亮度:+20%,对比度:+20%
+xlsx.picture.lum.bright-contrast-low	亮度: -20%,对比度: -20%
+xlsx.picture.corner	四舍五入角
+xlsx.picture.corner.none	平方 (无角)
+xlsx.picture.corner.small	小型(5%)
+xlsx.picture.corner.medium	中等(10%)
+xlsx.picture.corner.large	大型(20%)
+xlsx.picture.corner.round	回合(50%)
+xlsx.picture.reset	重置图片效果
+xlsx.chart-error-bars	错误栏
+xlsx.chart-styles	图表样式
+xlsx.chart-style-none	无样式
+xlsx.chart-style-1	样式 1
+xlsx.chart-style-2	样式 2
+xlsx.chart-style-3	样式 3
+xlsx.chart-style-4	样式 4
+xlsx.chart-style-5	样式 5
+xlsx.chart-style-6	样式 6
+xlsx.chart-style-7	样式 7
+xlsx.chart-style-8	样式 8
+xlsx.chart-palettes	图表颜色
+xlsx.chart-palette-1	彩色 1 号
+xlsx.chart-palette-2	彩色 2 号
+xlsx.chart-palette-3	彩色 3 号
+xlsx.chart-palette-4	彩色 4 号
+xlsx.chart-palette-5	单色 1
+xlsx.chart-palette-6	单色 2
+xlsx.chart-palette-7	单色 3
+xlsx.chart-palette-8	单色 4
+xlsx.chart-palette-9	单色 5
+xlsx.chart-palette-10	单色 6
+_xlsx.chart-colors	图表颜色
+_xlsx.no-style	无样式
+_xlsx.style-1	样式 1
+_xlsx.style-2	样式 2
+_xlsx.style-3	样式 3
+_xlsx.style-4	样式 4
+_xlsx.style-5	样式 5
+_xlsx.style-6	样式 6
+_xlsx.style-7	样式 7
+_xlsx.style-8	样式 8
+_xlsx.colorful-1	彩色 1 号
+_xlsx.colorful-2	彩色 2 号
+_xlsx.colorful-3	彩色 3 号
+_xlsx.colorful-4	彩色 4 号
+_xlsx.monochromatic-1	单色 1
+_xlsx.monochromatic-2	单色 2
+_xlsx.monochromatic-3	单色 3
+_xlsx.monochromatic-4	单色 4
+_xlsx.monochromatic-5	单色 5
+_xlsx.monochromatic-6	单色 6
+xlsx.text-format	文本格式
+xlsx.text.bold	加粗
+xlsx.text.italic	倾斜
+xlsx.text.underline	下划线
+xlsx.text.strikethrough	删除线
+xlsx.text.color	字体颜色
+xlsx.text.color-black	黑色
+xlsx.text.color-white	白色
+xlsx.text.color-blue	蓝色
+xlsx.text.color-cyan	青色( 青色)
+xlsx.text.color-green	绿色
+xlsx.text.color-yellow	黄色
+xlsx.text.color-orange	橙色
+xlsx.text.color-red	红色
+xlsx.text.color-purple	紫色
+xlsx.text.color-gray	灰色
+xlsx.text.size	字号
+xlsx.text-align	文本对齐
+xlsx.text-box	文本框设置
+xlsx.text-vertical	垂直对齐
+xlsx.text-vertical.top	顶端
+xlsx.text-vertical.middle	中间
+xlsx.text-vertical.bottom	底部
+xlsx.text-direction.horizontal	水平
+xlsx.text-direction.vertical	垂直
+xlsx.text-direction.rotate-90	顺时针旋转 90°
+xlsx.text-direction.rotate-270	逆时针旋转 90°
+xlsx.text-insets	内部边距
+xlsx.text-insets.none	无边距
+xlsx.text-insets.normal	正常边距
+xlsx.text-insets.wide	宽边距
+xlsx.text.wrap	在形状中环绕文字
+xlsx.object-properties	对象属性
+xlsx.placement.move-and-size	用单元格移动和大小
+xlsx.placement.move-only	移动但不要用单元格大小
+xlsx.placement.free	不随单元格移动或大小
+xlsx.placement.print	打印对象
+xlsx.change-shape	更改形状
+xlsx.change-shape.rect	矩形
+xlsx.change-shape.round-rect	圆形矩形
+xlsx.change-shape.ellipse	椭圆形
+xlsx.change-shape.triangle	同位素三角形
+xlsx.change-shape.rt-triangle	右三角形
+xlsx.change-shape.diamond	钻石
+xlsx.change-shape.pentagon	五角大楼
+xlsx.change-shape.hexagon	六边形
+xlsx.change-shape.right-arrow	右箭头
+xlsx.change-shape.left-arrow	左箭头
+xlsx.change-shape.up-arrow	向上箭头
+xlsx.change-shape.down-arrow	向下箭头
+xlsx.change-shape.star5	5 点星
+xlsx.change-shape.callout	矩形点名
+xlsx.change-shape.cloud	云头
+xlsx.change-shape.heart	心脏
+xlsx.shape-textlink	链接到单元格
+xlsx.shape-textlink.current-cell	链接到选中单元格
+xlsx.shape-textlink.clear	删除链接到单元格
+xlsx.copy-as-picture	复制为图片
+_xlsx.properties	属性
+_xlsx.object-positioning	对象定位
+_xlsx.move-and-size-with-cells	用单元格移动和大小
+_xlsx.move-but-don-t-size-with-cells	移动但不要用单元格大小
+_xlsx.don-t-move-or-size-with-cells	不要动或用细胞大小
+_xlsx.print-object	打印对象
+_xlsx.objects	对象
+_xlsx.row-differences	行差异
+_xlsx.column-differences	列差异
+_xlsx.precedents	先例
+_xlsx.dependents	依赖者
+_xlsx.same-condition	条件相同
+_xlsx.same-validation	相同的验证
+_xlsx.direct-only	仅直接
+_xlsx.all-levels	所有关卡
+_xlsx.no-matching-objects-found	未找到匹配对象。
+xlsx.move-chart	移动图表…
+_xlsx.move-chart	移动图表
+_xlsx.choose-where-you-want-the-chart-to-be-placed	选择要放置图表的位置
+_xlsx.new-sheet	新工作表
+_xlsx.object-in	对象在
+_xlsx.cannot-create-a-new-sheet-because-the-workbook-s	无法创建新工作表, 因为工作簿结构是受保护的。
+_xlsx.invalid-sheet-name	无效的工作表名称。
+_xlsx.a-sheet-with-this-name-already-exists	已经存在一个带有此名称的工作表。
+_xlsx.please-select-a-destination-sheet	请选择一个目标表。
+xlsx.chart-radar-style	雷达样式
+xlsx.chart-3d-rotation	三维旋转
+xlsx.chart-3d-x-rotation	X 旋转
+xlsx.chart-3d-y-rotation	Y 旋转
+xlsx.chart-3d-right-angle-axes	右角轴
+xlsx.chart-3d-depth	深度
+xlsx.chart-3d-reset-defaults	重置为默认值
+_xlsx.radar-style	雷达样式
+xlsx.import-text	从文本/CSV…
+import-text.done	已导入 {rows} 排队.
+import-text.file	文件 : {file}
+import-text.encoding	文件来源 : {encoding}
+import-text.delimiter	分隔符 : {delimiter}
+import-text.column	列 {n}: {format}
+_xlsx.load	装入
+_xlsx.no-file-chosen	(没有选择文件)
+_xlsx.choose-file	选择文件…
+_xlsx.start-at-row	从行开始
+_xlsx.column-data-format-click-to-change	列数据格式( 单击可更改)
+_xlsx.make-all-columns-text	制作全部列文字
+_xlsx.choose-a-file-to-load	选择要加载的文件。
+_xlsx.there-is-no-data-to-load	没有数据可以装入。
+_xlsx.there-is-already-data-here-press-load-again-to-r	这里已经有数据了。 按下加载来替换它。
+_xlsx.do-not-import	不导入
+_xlsx.date-ymd	日期: YMD
+_xlsx.date-mdy	日期:MDY
+_xlsx.date-dmy	日期:DMY
+_xlsx.date-dym	日期:DYM
+_xlsx.date-myd	日期:MYD
+_xlsx.date-ydm	日期: YDM
+_xlsx.from-text-csv	从文本/CSV
+xlsx.external-links	工作簿链接…
+external-links.updated	更新了来自 {name}.
+external-links.not-found	找不到文件 : {path}
+external-links.broken	断开链接到 {name}.
+external-links.sheets	工作表 : {sheets}
+_xlsx.this-workbook-has-no-links	这本工作手册没有链接。
+_xlsx.update-values	更新值
+_xlsx.update-from-file	从文件更新…
+_xlsx.break-link	断开链接
+_xlsx.update	更新
+_xlsx.workbook-links	工作手册链接
+_xlsx.insert-row	插入行
+_xlsx.insert-column	插入栏
+_xlsx.clear-contents	清除内容
+_xlsx.create-or-remove-filter	创建或删除过滤器
+_xlsx.filter-by-selected-cell-s-value	按选中单元格的值过滤
+_xlsx.format-cells	设置单元格格式…
+_xlsx.hyperlink	超链接…
+_xlsx.open-hyperlink	打开超链接
+_xlsx.edit-hyperlink	编辑超链接…
+_xlsx.remove-hyperlink	删除超链接
+_xlsx.define-name	定义名称…
+_xlsx.protect-sheet	保护工作表…
+_xlsx.group-select-all	选择全部工作表
+_xlsx.group-ungroup	取消工作表组
+_xlsx.group-title	[组
+_xlsx.group-blocked	无法在多个选定工作表中使用此命令。 请选择一个工作表, 然后再次尝试该命令。
+_xlsx.the-number-in-this-cell-is-formatted-as-text	此单元格中的编号为文本格式
+_xlsx.the-formula-in-this-cell-results-in-an-error	此单元格中的公式导致错误
+_xlsx.this-formula-differs-from-the-formulas-around-it	此公式与周围的公式不同
+_xlsx.convert-to-number	转换为编号
+_xlsx.ignore-error	忽略错误
+_xlsx.edit-in-formula-bar	在公式栏中编辑
+_xlsx.pick-from-drop-down-list	从下拉列表中选择…
+_xlsx.filter-by-selected-cell-s-color	按选中单元格的颜色过滤
+_xlsx.filter-by-selected-cell-s-font-color	通过选中单元格的字体颜色过滤
+xlsx.chart.no-data	没有数据可以图表。选择带有标题行和列的单元格。
+xlsx.fill-down	向下填满
+xlsx.fill-right	右边填充
+_xlsx.indent	缩进
+_xlsx.set-size	设置大小
+_xlsx.sample	样本 :
+_xlsx.font-name	字体
+_xlsx.locked	已锁定
+_xlsx.locked-and-hidden-take-effect-when-the-sheet-is	当工作表被保护时,锁定和隐藏生效。
+_xlsx.top-2	顶端
+_xlsx.underline	下划线
+_xlsx.bottom-2	底部
+_xlsx.protection	保护
+_xlsx.right	对
+_xlsx.left	左边
+_xlsx.wrap-text	文本环绕
+_xlsx.text-direction	文本方向
+_xlsx.diagonal-up	对角向上
+_xlsx.diagonal-down	向下对角
+_xlsx.horizontal	水平
+_xlsx.line-style	线条样式
+_xlsx.vertical	垂直
+_xlsx.shrink-to-fit	收缩以适应
+_xlsx.borders	边框
+_xlsx.background-color	背景颜色
+_xlsx.hidden-hide-the-formula	隐藏( 隐藏公式)
+xlsx.cf-icons-reverse-menu	反向图标集
+_xlsx.unnamed	(无名)
+_xlsx.name-seconds-s	{name}, {seconds} s
+_xlsx.count-shapes-selected	{count} 选中形状
+_xlsx.hex-width-pt-dashed	#{hex}, {width} pt (帮助){dashed}
+_xlsx.dashed	被骗了
+_xlsx.general	常规
+_xlsx.f-label	{f} ({label})
+_xlsx.error-error	错误 : {error}
+_xlsx.mark-filter-in-place	{mark} 过滤器到位
+_xlsx.mark-copy-to-another-location	{mark} 复制到另一个位置
+_xlsx.mark-unique-records-only	{mark} 只有独有的记录
+_xlsx.tag-summary-advice	[{tag}] {summary} {advice}
+_xlsx.title-message	{title}: {message}
+_xlsx.opening-url	开幕 {url}
+_xlsx.invalid-reference-place	无效的引用 : {place}
+_xlsx.created-group	已创建 {group}
+_xlsx.sheet-current	{sheet} (当前)
+_xlsx.this-action-is-unavailable-err	无法使用此动作( N){err})
+_xlsx.style-num	样式 {num}
+_xlsx.number-format-num-desc	数字格式( E){num_desc})
+_xlsx.alignment-align-desc	对齐( E){align_desc})
+_xlsx.font-font-desc	字体( R){font_desc})
+_xlsx.border-border-desc	边框( E){border_desc})
+_xlsx.fill-fill-desc	填充( N){fill_desc})
+_xlsx.protection-protect-desc	保护{protect_desc})
+_xlsx.name-custom	{name} (海关)
+_xlsx.sheet-name-cell-range-exceeds-the-older-version-	{sheet_name}:单元格范围超过旧版本限制(65 536行/256列)({count})
+_xlsx.this-sheet-has-count-cells-beyond-the-excel-97-2	这个表有: {count} 单元格超出 Excel 97-2003最大尺寸(65,536行,256列). 旧版本打开时,范围外的数据丢失(第一单元格: {cell_ref}).
+_xlsx.sheet-name-cell-ref-contains-unsupported-functio	{sheet_name}!{cell_ref}: 含有不支持的函数“{func}”
+_xlsx.function-func-is-not-supported-in-excel-97-2003-	职能“{func}“不支持在 Excel 97-2003,并在旧版本中打开时导致一个#NAME?错误.
+_xlsx.sheet-name-cell-info-four-or-more-conditional-fo	{sheet_name}{cell_info}: 设置了四条或更多条有条件的格式规则
+_xlsx.sheet-name-cell-info-data-bar-conditional-format	{sheet_name}{cell_info}: 设置了数据栏条件格式
+_xlsx.sheet-name-cell-info-color-scale-conditional-for	{sheet_name}{cell_info}: 设置了颜色缩放条件格式
+_xlsx.sheet-name-cell-info-icon-set-conditional-format	{sheet_name}{cell_info}: 设置图标设置条件格式
+_xlsx.sheet-name-table-tbl-name-will-be-converted-to-a	{sheet_name}: 表格“{tbl_name}“ 将转换为普通范围
+_xlsx.sheet-name-cell-info-sparklines-are-not-displaye	{sheet_name}{cell_info}: 火花线不以旧版本显示( S){total_sparklines})
+_xlsx.sheet-name-gradient-fills-will-be-converted-to-s	{sheet_name}: 渐变的填充将转换为固态( Q){count})
+_xlsx.this-sheet-has-count-cells-with-gradient-fills-e	这个表有: {count} 带有梯度的单元格填充。 Excel 97-2003 替换为近似固体颜色(第一单元格: {cell_ref}).
+_xlsx.name-name-contains-unsupported-function-func	名称“{name}“”:包含不支持的函数“{func}”
+_xlsx.the-function-func-in-this-defined-name-s-formula	职能“{func}”在此定义名称的公式中不支持 Excel 97-2003.
+_xlsx.formula-n	公式{n}
+_xlsx.there-are-no-rules-to-delete-err	没有规则可删除( Q){err})
+_xlsx.cell-value-label	单元格值 {label}
+_xlsx.applies-to-range	适用于: {range}
+_xlsx.priority-priority-rule-group-number	优先权 {priority}规则 {group}-{number}
+_xlsx.field-number	外地{number}
+_xlsx.insert-row-above-2	在上方插入行
+_xlsx.insert-column-left-2	左侧插入列
+_xlsx.filter	筛选
+_xlsx.toggle-filter	切换过滤器
+_xlsx.sort-smallest-to-largest-2	将最小的排序到最大
+_xlsx.sort-largest-to-smallest-2	最大到最小排序
+_xlsx.pick-from-drop-down-list-2	从下拉列表中选择…
+_xlsx.sheet-name-default-sheet-name	{sheet_name}: 默认工作表名称
+_xlsx.consider-renaming-the-sheet-to-a-specific-name-t	考虑将工作表重命名为描述其内容的特定名称。
+_xlsx.object	对象
+_xlsx.sheet-name-missing-alternative-text-shape-name	{sheet_name}: 缺少替代文本( X){shape_name})
+_xlsx.add-alternative-text-so-screen-reader-users-can	添加替代文本,使屏幕阅读器用户能够理解图像和图表.
+_xlsx.add-alternative-text-to-the-shape-or-mark-it-as	在形状上添加替代文本,或标记为装饰文本.
+_xlsx.add-alternative-text-to-the-text-box-or-mark-it	在文本框中添加替代文本,或将其标记为装饰性文本.
+_xlsx.table	表格
+_xlsx.sheet-name-table-tbl-name-has-no-header-row	{sheet_name}: 表格 "{tbl_name}"没有标题行
+_xlsx.set-a-header-row-so-screen-readers-can-correctly	设置一个标题行,使屏幕阅读器能够正确识别表格的列结构.
+_xlsx.sheet-name-cell-ref-unclear-hyperlink-text	{sheet_name}!{cell_ref}: 内容不全
+_xlsx.use-descriptive-text-that-explains-what-the-link	使用描述性文字来解释链接导致什么.
+_xlsx.workbook-protection	工作手册保护
+_xlsx.range-n	范围 {n}
+_xlsx.recovered-file-name	[还原] {file_name}
+_xlsx.copied-kind-name-as-a-picture	已复制 {kind_name} 作为图片
+_xlsx.invalid-reference-text	无效的引用 : {text}
+_xlsx.backup-of-stem-ext	备份 {stem}.{ext}
+_xlsx.could-not-create-the-backup-e	无法创建备份 : {e}
+_xlsx.delete-unit	删除 {unit}
+_xlsx.hide-unit	隐藏 {unit}
+_xlsx.unhide-unit	隐蔽 {unit}
+_xlsx.name-count-here	{name}(  {count}  ·  {here}
+_xlsx.df-name-ascending	{df_name} (递增)
+_xlsx.df-name-descending	{df_name} (递减)
+_xlsx.name-solid	{name} (苏里德)
+_xlsx.name-reverse	{name} (反转)
+_xlsx.could-not-create-the-folder-e	无法创建文件夹 : {e}
+_xlsx.could-not-save-the-template-e	无法保存模板 : {e}
+_xlsx.template-name-was-saved	模板“{name}”被保存。
+_xlsx.could-not-load-the-template-e	无法装入模板 : {e}
+_xlsx.applied-template-name	应用模板“{name}”.
+_xlsx.deleted-template-name	删除模板“{name}”.
+_xlsx.error-e	错误 : {e}
+_xlsx.mark-top-row	{mark} 顶行
+_xlsx.mark-left-column	{mark} 左栏
+_xlsx.mark-create-links-to-source-data	{mark} 创建源数据的链接
+_xlsx.this-name-cannot-be-used-name	无法使用此名称 : {name}
+_xlsx.cannot-find-query	无法找到 "{query}"
+_xlsx.replaced-n-occurrence-s	已替换 {n} 发生数
+_xlsx.rotate-90-clockwise	顺时针旋转 90°
+_xlsx.rotate-90-counterclockwise	逆时针旋转 90°
+_xlsx.2-2-table	2×2 表格
+_xlsx.3-3-table	3×3 表格
+_xlsx.3-4-table	3×4 表格
+_xlsx.4-4-table	4×4 表格
+_xlsx.5-5-table	5x5 表格
+_xlsx.6-4-table	6×4 表格
+_xlsx.dash-dot-dot	达什点点
+_xlsx.number	数目
+_xlsx.number-2-decimal-places-2	数目(2个小数地点)
+_xlsx.date-year-month-day	日期(年月日)
+_xlsx.hair	头发
+_xlsx.medium-dash-dot-2	中线 Dash 点
+_xlsx.medium-dash-dot-dot-2	中线点
+_xlsx.slant-dash-dot-2	倾斜的Dash点
+_xlsx.single-accounting	单一会计
+_xlsx.double-accounting	双重会计
+_xlsx.formulas	公式
+_xlsx.pasted-the-image	粘贴图像
+_xlsx.can-t-paste-here	这里不能贴
+_xlsx.to-use-paste-special-copy-cells-first	要使用粘贴特殊, 请先复制单元格
+_xlsx.count-numbers-2	数数
+_xlsx.stddevp-2	标准数据文件
+_xlsx.var-2	瓦尔
+_xlsx.varp-2	宽度
+_xlsx.formula-2	公式
+_xlsx.top-2-2	顶部
+_xlsx.middle-2	中间
+_xlsx.bottom-2-2	下边
+_xlsx.wrap-text-2	,环绕文字
+_xlsx.default-font	默认字体
+_xlsx.bold	粗体显示
+_xlsx.italic	斜体
+_xlsx.with-borders	带有边框
+_xlsx.unlocked	解锁
+_xlsx.in-excel-97-2003-only-the-first-three-rules-are-	内 Excel 97-2003,只有前三条规则被评价为同一个单元格范围;后来的规则被忽略.
+_xlsx.data-bars-are-not-supported-in-excel-97-2003-and	不支持数据条 Excel 97-2003,不会显示.
+_xlsx.color-scales-are-not-supported-in-excel-97-2003-	不支持颜色缩放 Excel 97-2003,不会显示.
+_xlsx.icon-sets-are-not-supported-in-excel-97-2003-and	不支持图标集。 Excel 97-2003,不会显示.
+_xlsx.in-excel-97-2003-tables-are-converted-to-normal-	内 Excel 97-2003年,表格转换为正常数据范围,结构化的参考文献和表格格式被删除.
+_xlsx.sparklines-were-introduced-in-excel-2010-so-they	火花线引入于 Excel 2010年, 因此它们不显示于 Excel 97-2003.
+_xlsx.conditional-formats	有条件的格式
+_xlsx.same-conditional-format	相同的条件格式
+_xlsx.same-data-validation	相同的数据验证
+_xlsx.rows	行数
+_xlsx.columns	列数
+_xlsx.trend	趋势
+_xlsx.count-2	计数
+_xlsx.min-2	最小数
+_xlsx.please-enter-a-date-such-as-2026-10-7	请输入日期, 如 2026/10/7。
+_xlsx.please-enter-a-value	请输入一个值。
+_xlsx.please-enter-a-number-from-1-to-100	请输入1到100的号码。
+_xlsx.please-enter-a-number-from-1-to-500	请输入1到500的号码。
+_xlsx.sort-a-to-z	将 A 排序为 Z
+_xlsx.sort-z-to-a	将 Z 排序为 A
+_xlsx.sort-by-conditional-formatting-icon	按条件格式图标排序
+_xlsx.filter-by-conditional-formatting-icon	通过条件格式图标过滤
+_xlsx.enter-a-valid-range-or-formula-and-a-six-digit-f	输入一个有效的范围或公式和一个六位数的填充颜色。
+_xlsx.formula-is-true-2	公式是真实的
+_xlsx.inside-base	基地内部
+_xlsx.inside-end	内端
+_xlsx.outside-end	外端( O)
+_xlsx.ten-thousands	数以万计
+_xlsx.plus	加号
+_xlsx.minus	减数
+_xlsx.gaps	差距
+_xlsx.zero	零点
+_xlsx.connect-data-points-with-line	用行连接数据点
+_xlsx.radar	雷达
+_xlsx.radar-with-markers	带标记的雷达
+_xlsx.thin-2	细
+_xlsx.standard	标准
+_xlsx.thick-2	粗细
+_xlsx.text-axis	文本轴
+_xlsx.monochrome-1	单色 1
+_xlsx.monochrome-2	单色 2
+_xlsx.monochrome-3	单色 3
+_xlsx.monochrome-4	单色 4
+_xlsx.monochrome-5	单色 5
+_xlsx.monochrome-6	单色 6
+_xlsx.header-page-of	& N 的CPage & P
+_xlsx.header-options	标题选项
+_xlsx.you-can-t-fill-here	你不能在这里填满。
+_xlsx.copied-the-selection-as-a-picture	将选中内容复制为图片
+_xlsx.select-a-cell-or-an-object-to-copy	选择要复制的单元格或对象。
+_xlsx.invalid-reference	无效的引用。
+_xlsx.wordart-default-text	您的文字在这里
+_xlsx.sheet-count	工作表计数
+_xlsx.data-cell-count	数据单元格计数
+_xlsx.defined-names-count	定义名称计数
+_xlsx.chart-format	图表格式
+_xlsx.apply-to-pages	应用到页面
+_xlsx.options	选项
+_xlsx.insert-field-into-section	插入字段( 在最后一个选中区域的护栏上)
+_xlsx.number-2-decimals	数目(2个十进制)
+_xlsx.percentage-2-decimals	百分比(2个十进制)
+_xlsx.no-calculation	无计算
+_xlsx.of-grand-total	占总计的百分比
+_xlsx.of-column-total	占栏总数的百分比
+_xlsx.of-row-total	占项目总数的百分比
+_xlsx.compact-form	压缩窗体
+_xlsx.outline-form	大纲表单
+_xlsx.tabular-form	表格窗体
+_xlsx.equal-to-2	等於…
+_xlsx.not-equal-to-2	与… 不等于… … ) (中文(简体) ).
+_xlsx.does-not-begin-with-2	不从…
+_xlsx.does-not-end-with-2	不以… 结束…
+_xlsx.not-between-2	不是在… 之间
+_xlsx.blank-2	(板块)
+_xlsx.enter-a-number	输入一个数字。
+_xlsx.label-filters	标签过滤器
+_xlsx.value-filters	数值过滤器
+_xlsx.percent-2	百分比
+_xlsx.number-2	数目
+_xlsx.alignment	对齐
+_xlsx.left-indent	左边( 缩进)
+_xlsx.right-indent	右 (缩进)
+_xlsx.distributed-indent	分布( 缩进)
+_xlsx.vertical-text	垂直文本
+_xlsx.top-border-2	顶端边框
+_xlsx.bottom-border-2	底边框
+_xlsx.left-border-2	左边框
+_xlsx.right-border-2	右边框
+_xlsx.diagonal-up-border-2	边框对角
+_xlsx.diagonal-down-border-2	下边框对角
+_xlsx.3-arrows-gray	3 箭头( 灰色)
+_xlsx.4-arrows-gray	4 箭头(灰色)
+_xlsx.5-arrows-gray	5 箭头( 灰色)
+_xlsx.3-traffic-lights-rimmed	3 交通灯(Rimmed)
+_xlsx.3-signs	3 个符号
+_xlsx.4-traffic-lights	4 交通灯
+_xlsx.4-red-to-black	4 红到黑
+_xlsx.3-symbols-uncircled	3 个符号( 未循环)
+_xlsx.4-ratings	4 评分
+_xlsx.5-quartiles	5 个夸尔
+_xlsx.5-boxes	5 个方框
+_xlsx.no-chart-is-selected	没有选择图表。
+_xlsx.downward-diagonal-stripe	向下对角条形
+_xlsx.upward-diagonal-stripe	向上对角条形
+_xlsx.light-horizontal-stripe	浅水平条
+_xlsx.light-vertical-stripe	浅的垂直条纹
+_xlsx.light-downward-diagonal-stripe	浅向下对角条形
+_xlsx.light-upward-diagonal-stripe	浅向上对角条形
+_xlsx.small-grid	小网格
+_xlsx.narrow-diagonal-crosshatch	窄对角交叉夹
+_xlsx.automatic-black	自动/ 黑色
+_xlsx.no-gradient	无渐变
+_xlsx.horizontal-left-to-right	水平( 左到右)
+_xlsx.vertical-top-to-bottom	垂直( 托普到下方)
+_xlsx.diagonal-top-left-to-bottom-right	对角( 左到右下)
+_xlsx.diagonal-top-right-to-bottom-left	对角( 右到左下角)
+_xlsx.from-center	从中心
+_xlsx.aqua	水叮当
+_xlsx.zeros	零数
+_xlsx.column-2	列
+_xlsx.win-loss	赢/ 输
+_xlsx.do-not-import-column-skip	不导入列( 滑鼠)
+_xlsx.import	导入
+_xlsx.enter-a-reference-range-or-formula	输入引用范围或公式
+_xlsx.light-yellow	淡黄
+_xlsx.black	黑色
+_xlsx.the-filter-has-been-applied	过滤器已被应用。
+_xlsx.copy-to	复制到
+_xlsx.min-or-more-arguments	{min} 或更多参数
+_xlsx.select-at-least-one-format	选择至少一种格式。
+_xlsx.axis-title	轴标题
+_xlsx.save-as-template	另存为模板…
+_xlsx.horizontal-category-axis	水平( 类别) 轴
+_xlsx.display-units	显示单位
+_xlsx.series-axis	系列轴
+_xlsx.show-data-table	显示数据表
+_xlsx.display-equation-on-chart	在图表上显示方程式
+_xlsx.error-amount	数额
+_xlsx.show-data-in-hidden-rows-and-columns	在隐藏行和列中显示数据
+_xlsx.references	引用
+_xlsx.consolidate	合并
+_xlsx.views	视图
+_xlsx.hidden-rows-and-columns-and-filter-settings	隐藏行和列,以及过滤器设置
+_xlsx.enter-a-positive-number-for-the-height	输入高度的正数。
+_xlsx.enter-a-number-for-the-vertical-position	输入垂直位置的编号。
+_xlsx.name-custom-name	名称( 习惯名称)
+_xlsx.subtotals	小计
+_xlsx.enter-a-number-greater-than-0	输入大于 0 的数字。
+_xlsx.and	财务报告和已审计财务报表
+_xlsx.quarters	季度
+_xlsx.grand-total	总计
+_xlsx.layout-format	布局格式( F)
+_xlsx.allow-multiple-filters-per-field	每个字段允许多过滤
+_xlsx.row-label-display-name	行标签显示名称
+_xlsx.refresh-data-when-opening-the-file	打开文件时刷新数据
+_xlsx.footer-code	页脚 : {code}
+_xlsx.the-reference-cell-range-is-not-valid	引用单元格范围无效。
+_xlsx.line-n	线条 {n}
+_xlsx.enter-a-data-range-and-a-location-range	输入数据范围和位置范围。
+_xlsx.edit-sparkline	编辑闪光线
+_xlsx.location-range	位置范围
+_xlsx.last-point	最后一点
+_xlsx.show-empty-cells-as	显示空单元格为
+_xlsx.select-at-least-one-column-to-subtotal	选择至少一个列作为小计。
+_xlsx.add-subtotal-to	添加小计至
+_xlsx.subtotal	小计
+_xlsx.unhide-workbook	工作手册
+_xlsx.to-show-the-workbook-again-choose-unhide-window	要再次显示工作簿, 请选择 Uhide 窗口。
+_xlsx.enter-the-list-range-correctly-for-example-a1-c1	正确输入列表范围(例如,A1:C10).
+_xlsx.advanced	高级
+_xlsx.min-to-max-arguments	{min} 改为: {max} 参数
+_xlsx.style-name	样式名称
+_xlsx.enter-a-whole-number-from-0-to-500-for-the-eleme	输入元素间距从 0 到 500 的整数。
+_xlsx.apply-template	应用模板…
+_xlsx.show-axis-title	显示轴标题
+_xlsx.minor-gridlines	小网格线
+_xlsx.series-options	系列选项
+_xlsx.show-legend-keys	显示图例密钥
+_xlsx.display-r-squared-value-on-chart	在图表上显示 R- 方块值
+_xlsx.end-cap	尾盖
+_xlsx.please-add-a-source-range	请添加一个源范围。
+_xlsx.all-references	所有参考文献
+_xlsx.custom-views-can-t-be-used-because-the-workbook	自定义视图不能使用,因为工作手册中包含表格.
+_xlsx.no-views-have-been-added	(未添加任何意见)
+_xlsx.add-view	添加视图
+_xlsx.custom-views	自定义视图
+_xlsx.enter-a-positive-number-for-the-width	输入宽度的正数。
+_xlsx.expanded-the-detail-data	扩展了细节数据。
+_xlsx.summarize-values-by	汇总数值
+_xlsx.show-subtotals	显示小计
+_xlsx.units	单位
+_xlsx.row-labels	行标签
+_xlsx.merge-and-center-cells	合并和居中单元格
+_xlsx.show-row-grand-totals	显示行大总计
+_xlsx.column-labels-caption	列标签说明
+_xlsx.pivottable-options	枢轴表选项
+_xlsx.text-box-n	文本框 {n}
+_xlsx.object-n	对象 {n}
+_xlsx.enter-a-valid-data-range	输入有效的数据范围。
+_xlsx.create-sparklines	创建闪光线
+_xlsx.high-point	高点
+_xlsx.show-axis	显示轴
+_xlsx.clear-selected-sparklines	清除选中的闪光线
+_xlsx.range	范围
+_xlsx.replace-current-subtotals	替换当前小计
+_xlsx.circle-invalid-data	无效的圆形数据
+_xlsx.no-hidden-workbooks	(没有隐藏的工作簿)
+_xlsx.unhide	闪开…
+_xlsx.enter-a-valid-criteria-range-for-example-e1-f2	输入一个有效的标准范围(例如,E1:F2)。
+_xlsx.list-range	列表范围
+_xlsx.select-a-shape-or-chart	选择形状或图表。
+_xlsx.argument-n	参数 {n}
+_xlsx.style-includes	样式包括
+_xlsx.enter-an-integer-from-100-to-100-for-series-over	输入序列重叠的整数从 - 100 到 100。
+_xlsx.data-labels	数据标签
+_xlsx.axis-type	轴类型
+_xlsx.logarithmic-scale	对数比例
+_xlsx.gap-width	间隙宽度
+_xlsx.horizontal-border	水平边框
+_xlsx.show-error-bars	显示错误栏
+_xlsx.hidden-and-empty-cells	隐藏和空单元格
+_xlsx.consolidation-complete	合并完成。
+_xlsx.no-ranges-have-been-added	(没有添加幅度)
+_xlsx.enter-a-name-for-the-view	输入视图的名称。
+_xlsx.include-print-settings	• 包括打印设置
+_xlsx.settings-to-include-in-view	视图中要包含的设置
+_xlsx.failed-to-parse-the-formula	解析公式失败。
+_xlsx.enter-the-rotation-as-a-number	输入旋转为数字。
+_xlsx.select-a-data-cell-in-the-pivottable	在“偏差表”中选择一个数据单元格。
+_xlsx.show-values-as	显示数值为
+_xlsx.show-subtotals-at-top-of-group	在组的顶部显示小计
+_xlsx.starting-at	开始于
+_xlsx.column-labels	列标签
+_xlsx.autofit-column-widths-on-update	更新时自动适应列宽
+_xlsx.show-grand-totals-for-columns	显示列的总和
+_xlsx.header-code	页眉 : {code}
+_xlsx.document-properties	文档属性
+_xlsx.picture-n	图片 {n}
+_xlsx.there-are-no-shapes-or-pictures	没有形状或图片。
+_xlsx.enter-a-valid-location-range	输入一个有效的位置范围。
+_xlsx.line-color	线条颜色
+_xlsx.negative-points	负点
+_xlsx.date-axis	日期轴
+_xlsx.clear-group	清除组
+_xlsx.at-each-change-in	每一年的变化
+_xlsx.page-break-between-groups	分组之间的分页符
+_xlsx.clear-validation-circles	清除验证圆
+_xlsx.unhide-window	打开窗口
+_xlsx.enter-a-valid-extract-range-for-example-h1	输入一个有效的提取范围( 例如, H1)。
+_xlsx.criteria-range	标准范围
+_xlsx.n-arguments	{n} 参数
+_xlsx.enter-a-style-name	输入样式名称。
+_xlsx.new-cell-style	新建单元格样式
+_xlsx.marker	标记
+_xlsx.categories-in-reverse-order	按反向顺序分类
+_xlsx.secondary-value-axis	二级值轴
+_xlsx.series-overlap	重叠系列
+_xlsx.vertical-border	垂直边框
+_xlsx.function	函数
+_xlsx.use-labels-in	使用标签在
+_xlsx.a-view-with-this-name-already-exists	已有此名称的视图。
+_xlsx.include-hidden-rows-columns-and-filter-settings	• 包括隐藏的行、列和过滤器设置
+_xlsx.print-settings	打印设置
+_xlsx.enter-a-number-for-the-horizontal-position	输入水平位置的编号。
+_xlsx.there-are-no-value-fields	没有值字段。
+_xlsx.calculation-type-show-values-as	计算类型(显示值为)
+_xlsx.layout	布局
+_xlsx.field	外地
+_xlsx.ending-at	结束于
+_xlsx.pivottable-name	枢轴表名称
+_xlsx.preserve-cell-formatting-on-update	在更新时保留单元格格式
+_xlsx.grand-total-caption	总体标题
+_xlsx.enter-a-title	输入标题。
+_xlsx.chart-n	图表 {n}
+_xlsx.enter-a-number-in-the-first-cell	在第一个单元格中输入数字。
+_xlsx.the-data-range-and-the-destination-range-don-t-h	数据范围与目的地范围没有相同的形状.
+_xlsx.first-point	第一点
+_xlsx.date-range	日期范围
+_xlsx.sparklines	闪光线
+_xlsx.use-function	使用函数
+_xlsx.summary-below-data	以下数据摘要
+_xlsx.this-can-t-be-done-because-the-workbook-window-i	由于工作手册窗口是受保护的,所以不能做到这一点.
+_xlsx.the-workbook-is-hidden	工书隐隐.
+_xlsx.flash-fill-could-not-determine-values	Flash Fill 无法确定数值。 请在列中输入示例并再次尝试。
+_xlsx.enter-a-scenario-name	输入情景名称。
+_xlsx.specify-the-changing-cells	指定更改的单元格。
+_xlsx.specify-the-result-cells	指定结果单元格。
+_xlsx.scenarios-colon	设想
+_xlsx.no-scenarios-defined	(没有定义情景)
+_xlsx.changing-cells-colon	更改单元格
+_xlsx.comment-colon	批注
+_xlsx.edit-ellipsis	编辑…
+_xlsx.merge-ellipsis	合并…
+_xlsx.summary-ellipsis	总结…
+_xlsx.scenario-name-colon	假想名称
+_xlsx.load-values	装入值
+_xlsx.values-for-each-changing-cell-colon	每个变化单元格的值
+_xlsx.scenario-summary-report	假设情况摘要
+_xlsx.result-cells-colon	结果单元格( 混合分隔或范围)
+_xlsx.merge-scenarios	合并假设
+_xlsx.select-the-sheet-to-copy-scenarios-from	选择要复制假想的表格
+_xlsx.no-other-sheets	(无其他工作表)
+_xlsx.scenario-manager	情景管理器
+xlsx.format-pane.custom	自定义
+xlsx.format-pane.border-inside	内部
+xlsx.format-pane.border-hint	单击样本中的一条线来添加或删除它。选择上面的线条样式和颜色。
+xlsx.toolbar.function-item	{name} ({label})
+xlsx.currency.jpy	日语
+xlsx.currency.usd	英语( 美国)
+xlsx.currency.gbp	英语( 联合王国)
+xlsx.currency.eur	欧元(123欧元)
+xlsx.currency.cny	^ 中文( 中华人民共和国)
+xlsx.currency.chf	瑞郎瑞士法郎
+xlsx.currency.more	更多会计格式…
+xlsx.analysis.out.column	列
+xlsx.analysis.out.row	行
+xlsx.analysis.out.x-variable	X 变量
+xlsx.analysis.out.mean	平均值
+xlsx.analysis.out.standard-error	标准错误
+xlsx.analysis.out.median	中间
+xlsx.analysis.out.mode	模式
+xlsx.analysis.out.standard-deviation	标准绕航
+xlsx.analysis.out.sample-variance	样本差异
+xlsx.analysis.out.kurtosis	库尔托西斯
+xlsx.analysis.out.skewness	扭曲
+xlsx.analysis.out.range	范围
+xlsx.analysis.out.minimum	最低
+xlsx.analysis.out.maximum	最大值
+xlsx.analysis.out.sum	和数
+xlsx.analysis.out.count	计数
+xlsx.analysis.out.largest	最大
+xlsx.analysis.out.smallest	最小
+xlsx.analysis.out.confidence-level	信任水平
+xlsx.analysis.out.point	点
+xlsx.analysis.out.rank	军衔
+xlsx.analysis.out.percent	百分比
+xlsx.analysis.out.bin	宾
+xlsx.analysis.out.frequency	频率
+xlsx.analysis.out.more	更多( E)
+xlsx.analysis.out.cumulative	累计百分比
+xlsx.analysis.out.summary-output	SUMMARY OUTPUT
+xlsx.analysis.out.regression-statistics	回归统计
+xlsx.analysis.out.multiple-r	多个 R
+xlsx.analysis.out.r-square	R 平方块
+xlsx.analysis.out.adjusted-r-square	调整后的 R 平方
+xlsx.analysis.out.observations	意见
+xlsx.analysis.out.anova	ANOVA
+xlsx.analysis.out.df	(单位:千美元)
+xlsx.analysis.out.ss	SS
+xlsx.analysis.out.ms	MS
+xlsx.analysis.out.f	F
+xlsx.analysis.out.significance-f	意义F
+xlsx.analysis.out.regression	递归
+xlsx.analysis.out.residual	剩余
+xlsx.analysis.out.total	共计
+xlsx.analysis.out.coefficients	系数
+xlsx.analysis.out.t-stat	stat 数据
+xlsx.analysis.out.p-value	P 值
+xlsx.analysis.out.lower	下调
+xlsx.analysis.out.upper	上层
+xlsx.analysis.out.intercept	拦截
+xlsx.analysis.out.residual-output	RESIDUAL OUTPUT
+xlsx.analysis.out.observation	意见
+xlsx.analysis.out.predicted-y	预测Y
+xlsx.analysis.out.residuals	剩余部分
+xlsx.analysis.out.standard-residuals	标准残余物
+xlsx.analysis.out.t-paired	t-测试:两种手段的试样
+xlsx.analysis.out.t-equal	t-测试: 假设等同差异的双样
+xlsx.analysis.out.t-unequal	t- 测试: 假设不平等差异的双样
+xlsx.analysis.out.z-test	Z-测试:两个手段样本
+xlsx.analysis.out.f-test	差异的F-测试二样板
+xlsx.analysis.out.variable-1	变量1
+xlsx.analysis.out.variable-2	变量2
+xlsx.analysis.out.variance	差额
+xlsx.analysis.out.pearson	皮尔逊关联
+xlsx.analysis.out.pooled-variance	汇总差额
+xlsx.analysis.out.hypothesized-diff	假设的平均值
+xlsx.analysis.out.p-t-one	P( T<=t) 单尾
+xlsx.analysis.out.t-crit-one	t 关键单尾
+xlsx.analysis.out.p-t-two	P( TQQT) 两尾
+xlsx.analysis.out.t-crit-two	t 关键双尾
+xlsx.analysis.out.known-variance	已知差额
+xlsx.analysis.out.z	z
+xlsx.analysis.out.p-z-one	P(ZQZZ) 单尾
+xlsx.analysis.out.z-crit-one	z 关键单尾
+xlsx.analysis.out.p-z-two	P(Z<=z)双尾
+xlsx.analysis.out.z-crit-two	z 临界双尾
+xlsx.analysis.out.p-f-one	P(FQQ) 单尾
+xlsx.analysis.out.f-crit-one	F 关键一尾
+xlsx.analysis.out.anova-single	阿诺瓦:单一因素
+xlsx.analysis.out.anova-two-without	阿诺瓦:不重复的双倍法师
+xlsx.analysis.out.anova-two-with	Anova: 复制的双倍法师
+xlsx.analysis.out.summary	SUMMARY
+xlsx.analysis.out.groups	组
+xlsx.analysis.out.sample-count	计数
+xlsx.analysis.out.average	平均数
+xlsx.analysis.out.source	变化源
+xlsx.analysis.out.between	组之间
+xlsx.analysis.out.within	组内
+xlsx.analysis.out.f-crit	F 坚韧
+xlsx.analysis.out.rows	行数
+xlsx.analysis.out.columns	列数
+xlsx.analysis.out.error	错误
+xlsx.analysis.out.sample	样本
+xlsx.analysis.out.interaction	互动
+xlsx.analysis.out.within-error	内部
+xlsx.data-analysis	数据分析…
+xlsx.analysis.title	数据分析
+xlsx.analysis.tool.anova-single	阿诺瓦:单一因素
+xlsx.analysis.tool.anova-two-with	Anova: 复制的双倍法师
+xlsx.analysis.tool.anova-two-without	阿诺瓦:不重复的双倍法师
+xlsx.analysis.tool.correlation	关联
+xlsx.analysis.tool.covariance	共性
+xlsx.analysis.tool.descriptive	描述性统计
+xlsx.analysis.tool.exponential-smoothing	标志性平滑
+xlsx.analysis.tool.f-test	差异的F-测试二样板
+xlsx.analysis.tool.fourier	Fourier 分析
+xlsx.analysis.tool.histogram	直方图
+xlsx.analysis.tool.moving-average	移动平均值
+xlsx.analysis.tool.random	随机数生成
+xlsx.analysis.tool.rank	等级和百分数
+xlsx.analysis.tool.regression	递归
+xlsx.analysis.tool.sampling	取样
+xlsx.analysis.tool.t-paired	t-测试:两种手段的试样
+xlsx.analysis.tool.t-equal	t-测试: 假设等同差异的双样
+xlsx.analysis.tool.t-unequal	t- 测试: 假设不平等差异的双样
+xlsx.analysis.tool.z-test	Z-测试:两个手段样本
+xlsx.analysis.dist.uniform	制服
+xlsx.analysis.dist.normal	常规
+xlsx.analysis.dist.bernoulli	贝努利
+xlsx.analysis.dist.binomial	二进制
+xlsx.analysis.dist.poisson	普瓦森州普瓦森州普瓦森州
+xlsx.analysis.dist.patterned	模式化
+xlsx.analysis.dist.discrete	细微的
+xlsx.analysis.field.tool	分析工具
+xlsx.analysis.field.input	输入范围
+xlsx.analysis.field.input-y	输入 Y 范围
+xlsx.analysis.field.input-x	输入 X 范围
+xlsx.analysis.field.variable-1	变量 1 范围
+xlsx.analysis.field.variable-2	变量 2 范围
+xlsx.analysis.field.bins	Bin 范围( 可选)
+xlsx.analysis.field.discrete-range	数值和概率范围
+xlsx.analysis.field.grouped-by	分组
+xlsx.analysis.field.labels	第一行(和列)的标签
+xlsx.analysis.field.alpha	阿尔法
+xlsx.analysis.field.rows-per-sample	每个样本的行数
+xlsx.analysis.field.confidence-level	信任水平
+xlsx.analysis.field.kth-largest	Kth 最大( 空白: 无)
+xlsx.analysis.field.kth-smallest	Kth 最小值( 空白: 无)
+xlsx.analysis.field.hypothesized-diff	假设的平均差额
+xlsx.analysis.field.variance-1	变量 1 差异( 已知)
+xlsx.analysis.field.variance-2	变量 2 差异( 已知)
+xlsx.analysis.field.interval	间歇
+xlsx.analysis.field.damping	降压因数
+xlsx.analysis.field.period	周期( 空白: 随机)
+xlsx.analysis.field.random-count	随机样本数量
+xlsx.analysis.field.variables	变量数
+xlsx.analysis.field.count	随机数
+xlsx.analysis.field.seed	随机种子( 空白: 任意)
+xlsx.analysis.field.distribution	分发
+xlsx.analysis.field.between	介于
+xlsx.analysis.field.and	财务报告和已审计财务报表
+xlsx.analysis.field.mean	平均值
+xlsx.analysis.field.standard-deviation	标准偏差
+xlsx.analysis.field.p-value	p 数值
+xlsx.analysis.field.trials	审判次数
+xlsx.analysis.field.lambda	兰姆达
+xlsx.analysis.field.from	从
+xlsx.analysis.field.to	改为:
+xlsx.analysis.field.step	步骤
+xlsx.analysis.field.repeat-each	重复每个数字
+xlsx.analysis.field.repeat-sequence	重复顺序
+xlsx.analysis.field.output	输出范围(左上单元格)
+xlsx.analysis.flag.pareto	帕雷托( 排序直方图)
+xlsx.analysis.flag.cumulative	累计百分比
+xlsx.analysis.flag.constant-zero	常数为零
+xlsx.analysis.flag.residuals	剩余部分
+xlsx.analysis.flag.standard-residuals	标准化残余
+xlsx.analysis.flag.standard-errors	标准错误
+xlsx.analysis.flag.inverse	反向变换
+xlsx.analysis.flag.chart-output	图表输出
+xlsx.analysis.message.bad-range	输入A1:C10等单元格区域(非“){text}”).
+xlsx.analysis.message.no-sheet	没有任何工作表名称“。{name}”.
+xlsx.analysis.message.no-data	没有数据可以分析。
+xlsx.analysis.message.bad-number	输入数字“{name}”.
+xlsx.analysis.message.regression	回归无法计算(行太少,或X变量互相依赖).
+xlsx.analysis.message.paired-size	配对测试的两个范围需要相同的数值.
+xlsx.analysis.message.anova-blank	输入范围有一个空或非数字单元格。
+xlsx.analysis.message.anova-size	输入范围至少需要两行和两列的数据.
+xlsx.analysis.message.rows-per-sample	每个样本的行必须均匀地划分数据行.
+xlsx.analysis.message.interval	为间隔输入1个或更多整数。
+xlsx.analysis.message.damping	坝因子必须在0到1之间.
+xlsx.analysis.message.sampling	输入一个周期或若干随机样本,而不是两者兼有。
+xlsx.analysis.message.random-size	输入1至256个变量和1至10万个数字。
+xlsx.analysis.message.random-parameters	分布的参数无效.
+xlsx.analysis.message.discrete	离散分布值需要在第一列,概率值在第二列.
+xlsx.analysis.message.fourier-blank	傅里叶输入必须只有数字.
+xlsx.analysis.message.fourier-size	值数必须是2的功率,最高可达4096.
+xlsx.analysis.message.done	分析书写到 {range}.
+xlsx.autocorrect	自动更正选项…
+xlsx.autocorrect.title	自动更正
+xlsx.autocorrect.two-initials	正确的TWO 住院
+xlsx.autocorrect.sentences	将第一句字母大写
+xlsx.autocorrect.days	将天数名称大写
+xlsx.autocorrect.caps-lock	正确意外使用 cAPS LOCK 密钥
+xlsx.autocorrect.replace	按键替换文本
+xlsx.autocorrect.as-you-type	在键入时使用自动更正
+xlsx.autocorrect.spell-as-you-type	在您输入时标记拼错的单词
+xlsx.autocorrect.replace-box	替换
+xlsx.autocorrect.with-box	与
+xlsx.solver	解开…
+xlsx.solver.title	解析参数
+xlsx.solver.objective	设定目标
+xlsx.solver.goal-max	马克斯
+xlsx.solver.goal-min	最小数
+xlsx.solver.goal-value	价值
+xlsx.solver.variables	通过更改可变单元格
+xlsx.solver.constraints	受限制
+xlsx.solver.cell-reference	单元格引用
+xlsx.solver.constraint-value	约束( 数或单元格)
+xlsx.solver.add	添加
+xlsx.solver.change	变动
+xlsx.solver.delete	删除
+xlsx.solver.non-negative	使不受约束的变量非负数
+xlsx.solver.method	选择一种解决方法
+xlsx.solver.precision	约束精度
+xlsx.solver.convergence	趋同
+xlsx.solver.integer-tolerance	整数优化
+xlsx.solver.max-iterations	最大迭代( 空白: 无)
+xlsx.solver.max-time	最大时间( 空白: 无)
+xlsx.solver.max-time-unit	s
+xlsx.solver.solve	解决
+xlsx.solver.keep	保留解决方案
+xlsx.solver.restore	恢复原始值
+xlsx.solver.answer-report	答复报告
+xlsx.solver.sensitivity-report	敏感性报告
+xlsx.solver.limits-report	限制报告
+xlsx.solver.bad-objective	设定目标必须是单一的单元格。
+xlsx.solver.bad-variables	输入可变单元格, 如$B 1:$B$3.
+xlsx.solver.bad-constraint	制约需要单元格引用,对于QQ,=和QQ,则需要数字或单元格.
+xlsx.solver.bad-number	在选项中输入数字。
+xlsx.solver.rel.le	<=
+xlsx.solver.rel.eq	=
+xlsx.solver.rel.ge	>=
+xlsx.solver.rel.int	单位
+xlsx.solver.rel.bin	弹夹
+xlsx.solver.rel.dif	数字f
+xlsx.solver.method.grg	GRG 非线性
+xlsx.solver.method.simplex	简单 LP
+xlsx.solver.method.evolutionary	进化
+xlsx.solver.status.optimal	解药找到了一个解决方案,所有的限制和最佳条件都得到满足。
+xlsx.solver.status.converged	解决方案已经与当前解决方案趋同,所有限制都得到满足。
+xlsx.solver.status.infeasible	解决方案无法找到可行的解决方案。
+xlsx.solver.status.unbounded	Set 目标单元格值不趋同。
+xlsx.solver.status.iteration-limit	重复次数达到最大,所有限制都得到满足,但解决办法可能不是最佳的。
+xlsx.solver.status.stopped	解药在时间范围内停止,所有的限制都满足了.
+xlsx.solver.status.not-linear	此 LP 溶剂所需的线性条件不能满足。
+xlsx.solver.status.missing-bounds	进化法要求所有可变单元格的上下界限.
+xlsx.solver.status.bad-model	无法评价该模型: 它使用的单元格不是一个数字。
+xlsx.solver.report.title	答复报告
+xlsx.solver.report.worksheet	工作表 : {sheet}
+xlsx.solver.report.goal-value	价值 {value}
+xlsx.solver.report.objective-cell	目标小组({goal})
+xlsx.solver.report.variable-cells	可变单元格
+xlsx.solver.report.constraints	制约因素
+xlsx.solver.report.cell	单元格
+xlsx.solver.report.name	名称
+xlsx.solver.report.original	原值
+xlsx.solver.report.final	最终价值
+xlsx.solver.report.integer	整数
+xlsx.solver.report.cell-value	单元格值
+xlsx.solver.report.formula	公式
+xlsx.solver.report.status	状态
+xlsx.solver.report.slack	乱七八糟
+xlsx.solver.report.binding	装订
+xlsx.solver.report.not-binding	无约束
+xlsx.solver.report.continuous	连续
+xlsx.solver.report.reduced-cost	费用减少
+xlsx.solver.report.objective-coefficient	系数
+xlsx.solver.report.allowable-increase	可允许增加
+xlsx.solver.report.allowable-decrease	可允许的减少
+xlsx.solver.report.shadow-price	阴影价格
+xlsx.solver.report.constraint-rhs	约束R.H.侧面
+xlsx.solver.report.value	数值
+xlsx.solver.report.lower-limit	下限
+xlsx.solver.report.upper-limit	上限
+xlsx.solver.report.objective-result	目标结果
+xlsx.forecast-sheet	预测表…
+xlsx.forecast.title	预测表
+xlsx.forecast.field.timeline	时间范围
+xlsx.forecast.field.values	数值范围
+xlsx.forecast.field.end	预测结束
+xlsx.forecast.field.confidence	信任间
+xlsx.forecast.field.chart	图表类型
+xlsx.forecast.chart-line	线条
+xlsx.forecast.chart-column	列
+xlsx.forecast.field.statistics	包括预测统计
+xlsx.forecast.create	创建
+xlsx.forecast.sheet-name	预测
+xlsx.forecast.timeline	时间线
+xlsx.forecast.values	数值
+xlsx.forecast.forecast	预测
+xlsx.forecast.lower	信任度较低
+xlsx.forecast.upper	上置信任线
+xlsx.forecast.statistics	预测统计
+xlsx.forecast.slope	斜坡
+xlsx.forecast.intercept	拦截
+xlsx.forecast.r-squared	R 平方块
+xlsx.forecast.standard-error	标准错误
+xlsx.forecast.confidence-level	信任水平
+xlsx.forecast.message.sizes	时间线和数值的单元格数量不同.
+xlsx.forecast.message.not-numbers	时间线和数值必须是数字(日期),没有空白或文字。
+xlsx.forecast.message.end	输入预测结束的日期或数字。
+xlsx.forecast.message.done	创建工作表 "{name}".
+xlsx.forecast.error.too-few	至少需要3个数据点。
+xlsx.forecast.error.not-ascending	时间顺序必须依次上升。
+xlsx.forecast.error.irregular	时间跨度不是不变的(它需要相等的跨度数字,或者每个月或一年的同一天的日期).
+xlsx.forecast.error.end-too-early	预测结束必须是在最后一个数据点之后。
+xlsx.forecast.error.confidence	置信间隔必须大于0,小于100.
+xlsx.forecast.error.too-long	预测时间过长(最高5000分).
+xlsx.forecast.field.start	预测开始
+xlsx.forecast.field.seasonality	季节性
+xlsx.forecast.seasonality-auto	自动检测
+xlsx.forecast.seasonality-manual	手动设定
+xlsx.forecast.field.data-completion	使用填充缺失的点
+xlsx.forecast.completion-interpolate	内插
+xlsx.forecast.completion-zero	零数
+xlsx.forecast.field.aggregation	使用复式复本总数
+xlsx.forecast.agg-average	平均数
+xlsx.forecast.agg-count	计数
+xlsx.forecast.agg-counta	计数A
+xlsx.forecast.agg-max	马克斯
+xlsx.forecast.agg-median	中间
+xlsx.forecast.agg-min	最小数
+xlsx.forecast.agg-sum	和数
+xlsx.forecast.message.start	输入预测开始的日期或数字。
+xlsx.forecast.error.seasonality	为季节性输入整数 0 或更大。
+xlsx.forecast.error.start-after-end	预测开始必须在预测结束前进行.
+xlsx.forecast.error.start-too-late	预测启动必须在最后一个数据点上或之前进行。
+xlsx.forecast.error.start-too-early	预测启动必须在第一个数据点上或之后进行.
+xlsx.error-options	检查选项时出错…
+xlsx.error-options.title	检查错误
+xlsx.error-options.background	启用背景错误检查
+xlsx.error-options.number-as-text	数字格式化为文本或前端为 aposrape
+xlsx.error-options.eval-error	含有导致错误的公式的单元格
+xlsx.error-options.inconsistent-formula	与该区域其他公式不一致的公式
+xlsx.error-options.two-digit-year	以 2 位数表示的单元格
+xlsx.error-options.unlocked-formula	含有公式的解锁单元格
+xlsx.error-options.empty-cell-reference	提及空单元格的公式
+xlsx.error-options.formula-range	省略区域单元格的公式
+xlsx.error-options.calculated-column	表格中计算出的列公式不一致
+xlsx.error-options.list-data-validation	表格或列表中数据无效的单元格
+xlsx.error-options.reset-ignored	重置已忽略错误
+xlsx.error.number-as-text	此单元格中的数字格式化为文本或前方为aposrope。
+xlsx.error.eval-error	此单元格中的公式导致错误。
+xlsx.error.inconsistent-formula	此公式与周围的公式不一致.
+xlsx.error.two-digit-year	此单元格包含以两位数表示的年份。
+xlsx.error.unlocked-formula	此单元格包含一个公式并解锁。
+xlsx.error.empty-cell-reference	此公式是指空单元格。
+xlsx.error.formula-range	此公式省略了相邻单元格。
+xlsx.error.calculated-column	此公式与本列中的其他公式不一致.
+xlsx.error.list-data-validation	此单元格中的值与数据验证限制不符.
+xlsx.error-restore-column	恢复到计算列公式
+xlsx.external.file-not-found	工作手册 "{name}" 在这份工作手册之外没有找到。
+xlsx.export-without-macros	导出无宏…
+xlsx.ink	绘制…
+xlsx.ink.title	绘制
+xlsx.ink.pen	笔
+xlsx.ink.pencil	笔会
+xlsx.ink.highlighter	突出显示
+xlsx.ink.eraser	擦除器
+xlsx.ink.lasso	拉索选择
+xlsx.ink.select	选择
+xlsx.ink.off	关闭
+xlsx.ink.color	颜色
+xlsx.ink.effects	效果
+xlsx.ink.effect.rainbow	彩虹
+xlsx.ink.effect.galaxy	银河系统
+xlsx.ink.effect.lava	岩浆
+xlsx.ink.effect.ocean	海洋
+xlsx.ink.effect.rose-gold	玫瑰黄金
+xlsx.ink.effect.gold	黄金
+xlsx.ink.effect.silver	银
+xlsx.ink.effect.bronze	青铜
+xlsx.ink.width	厚度 :
+xlsx.ink.width-pt	{pt} pt (帮助)
+xlsx.ink.mouse	用鼠标绘制( 关闭: 笔或只触摸)
+xlsx.ink.to-shape	墨水对形状
+xlsx.ink.name	墨迹 {n}
+xlsx.ink.message.no-ink	先选一墨中风.
+xlsx.ink.message.not-recognized	中风看起来不像一条线,矩形,椭圆形或三角形.
+xlsx.ink.message.converted	墨子改为形.
+xlsx.insert-slicer	斯莱克…
+xlsx.slicer-insert.title	插入剪贴机
+xlsx.slicer-insert.select-table	首先在表格或中枢表格中选择单元格。
+xlsx.slicer-insert.choose	请检查至少一个字段。
+xlsx.slicer-insert.choose-fields	用于切片的字段
+xlsx.slicer-insert.cache-prefix	剪贴机 _
+xlsx.slicer-settings	剪切器设置…
+xlsx.slicer-settings.title	剪切器设置
+xlsx.slicer-settings.select	先选择切片机。
+xlsx.slicer-settings.caption	页眉标题
+xlsx.slicer-settings.show-caption	显示页眉
+xlsx.slicer-settings.columns	列数
+xlsx.slicer-settings.height	按钮高度
+xlsx.slicer-settings.connections	报告连接: 将切片器过滤器显示为主
+xlsx.slicer-settings.bad-number	列:全数从1到20;高:5到200pt.
+xlsx.slicer-settings.connect-one	连接至少一个中枢表。
+xlsx.links-banner.text	安全警告: 本工作簿链接到 {count} 其他工作簿。这些值是最后保存的。
+xlsx.links-banner.update	更新值
+xlsx.links-banner.edit	编辑链接…
+xlsx.links-banner.close	开除
+xlsx.links-banner.updated	更新了 {count} 链接。
+xlsx.links-banner.partly	更新 {count} 链接。没有找到文件 : {missing}
+xlsx.query-from-table	从表格/ 距离…
+xlsx.query-blank	空白查询…
+xlsx.queries	查询连接( C)
+query.no-data	选择带有数据的单元格。
+query.default-name	查询
+query.step-failed	步进错误 {step}: {error}
+query.fill-in	填写为 "{field}".
+query.loaded	已装入查询结果。
+query.none	这本工作手册没有问题。
+query.summary	资料来源: {source}   步骤 : {steps}
+query.edit	编辑
+query.refresh	刷新( E)
+query.delete	删除
+query.deleted	删除查询 {name}它装满的床单会留下
+query.refresh-failed	无法刷新 {name}: {error}
+query.refreshed	刷新过 {name} ({rows} ) (中文(简体) ).
+query.queries-title	查询连接( C)
+query.editor-title	查询编辑器
+query.close-and-load	关闭装入( L)
+query.cancel	取消
+query.advanced-editor	高级编辑器
+query.manage-parameters	管理参数
+query.parameters-note	在过滤器或替换器的文本中,将参数名称写在卷曲括号中,以使用其值。
+query.code-apply	应用
+query.code-note	编辑代码并按下应用程序来更改步骤。这些功能是步骤屏幕所写的。
+query.code-error.syntax	代码无法读取 : {detail}
+query.code-error.source	无法读取源 : {detail}
+query.code-error.function	无法使用此函数 : {detail}
+query.code-error.arguments	论点: {detail} 无法读取( 第一个必须是上一个步骤的名称)。
+query.code-error.result	在"in"后写最后一步的名字: {detail}
+query.code-error.merge	合并为两个步骤,Table.NestedJoin和Table.ExpandTableColumn是其嵌入的列(称为合并查询,新名称为Query.Column): {detail}
+query.code-error.at-line	线条 {line}: {message}
+query.code-applied	密码被应用到台阶上。
+query.code-source-failed	无法装入源数据 : {error}
+query.set-parameter	设定
+query.applied-steps	应用步骤
+query.source	来源
+query.source-blank	空白查询
+query.ok	确定
+query.hint	选择上面的操作。 请首先按其标题选择列。
+query.status	{columns} 栏, {rows} 行数
+query.tab.home	开始
+query.tab.transform	变形
+query.tab.add	添加列
+query.tab.combine	组合
+query.op.promote	以第一行为标题
+query.op.demote	使用信头作为第一行
+query.op.change-type	更改类型
+query.op.select-columns	选择列
+query.op.remove-columns	删除列
+query.op.rename	重命名列
+query.op.reorder	重排序列
+query.op.filter	过滤行
+query.op.keep-top	保持顶行
+query.op.keep-bottom	保留下行
+query.op.remove-top	删除顶行
+query.op.remove-bottom	删除下行
+query.op.remove-duplicates	删除重复
+query.op.remove-blank-rows	删除空行
+query.op.remove-errors	删除错误
+query.op.replace-errors	替换错误
+query.op.sort	排序
+query.op.split	分割列
+query.op.merge-columns	合并列
+query.op.replace	替换值
+query.op.replace-null	替换 Nulls 键
+query.op.fill-down	向下填满
+query.op.fill-up	填充( E)
+query.op.transpose	转换
+query.op.reverse	反转行
+query.op.trim	调理
+query.op.upper	UPPERCASE
+query.op.lower	小写
+query.op.pivot	枢轴列
+query.op.unpivot	未中枢列
+query.op.unpivot-other	取消其他列的中枢
+query.op.group-by	分组方式
+query.op.merge	合并查询
+query.op.append	附加查询
+query.op.add-column	自定义列
+query.op.add-conditional	有条件的列
+query.op.add-index	索引栏
+query.op.filter-date	日期过滤器
+query.op.transform	变形
+query.op.alternate-rows	删除替代行
+query.op.keep-range	保留行范围
+query.op.duplicate-column	复制列
+query.op.filter-code	过滤行( 代码)
+query.op.split-code	拆分列( 代码)
+query.op.missing-field	处理缺失列的步数
+query.op.group-local	组名( 相邻行)
+query.field.column	列
+query.field.columns	列( 混合分隔)
+query.field.type	类型
+query.field.culture	语言
+query.field.from	旧名称( 已合并分离)
+query.field.to	新名称( 混合分隔, 顺序相同)
+query.field.comparison	条件
+query.field.value	数值
+query.field.count	行数
+query.field.with	替换为
+query.field.order	顺序
+query.field.column2	第二栏
+query.field.order2	第二顺序
+query.field.by	拆分为
+query.field.separator	分隔符
+query.field.new-name	新列名称
+query.field.find	要找到的值
+query.field.whole	匹配整个单元格内容
+query.field.attribute	新列名称的列
+query.field.values	数值栏
+query.field.aggregate	合计
+query.field.attribute-name	属性列名称
+query.field.value-name	值列名称
+query.field.name1	汇总名称 1
+query.field.aggregate1	合计 1
+query.field.column1	合计1栏
+query.field.name2	集合2的名称(可选)
+query.field.aggregate2	合计2
+query.field.right	要合并的查询或表格
+query.field.left-keys	本表的关键列
+query.field.right-keys	其他关键栏
+query.field.join	加入同类
+query.field.expand	要扩展的列
+query.field.other	查询或表格到附件
+query.field.formula	公式(例如[Qty] * [价 )
+query.field.output	礛
+query.field.comparison2	第二个条件
+query.field.value2	第二个值
+query.field.output2	接下来
+query.field.otherwise	否则
+query.field.start	开始
+query.field.step	步骤
+query.field.logic	两个条件如何结合
+query.field.when	期间
+query.field.unit	单位
+query.field.function	函数
+query.field.offset	要保存的行数
+query.field.skip	要删除的行( 重复)
+query.field.take	要保存的行( 重复)
+query.field.first-row	第一行( 1 是顶部)
+query.field.parameter-name	参数名称
+query.field.parameter-value	现值
+query.type.any	任意
+query.type.text	文本
+query.type.whole	全数
+query.type.decimal	小数
+query.type.date	日期
+query.type.datetime	日期/时间
+query.type.time	时间
+query.type.logical	真/假
+query.type.currency	固定小数(货币)
+query.type.percentage	百分比
+query.type.int32	全数( 32 位)
+query.type.datetimezone	日期/时间/时区
+query.type.duration	会期
+query.culture.invariant	默认
+query.culture.en-us	英语( 美国)
+query.culture.ja-jp	日语( 日本)
+query.culture.de-de	德语( 德国)
+query.culture.fr-fr	法语( 法国)
+query.cmp.equals	等于
+query.cmp.not-equals	不等于 3 个数
+query.cmp.greater	大于
+query.cmp.greater-or-equal	大于或等于
+query.cmp.less	小于
+query.cmp.less-or-equal	小于或等于
+query.cmp.contains	包含
+query.cmp.does-not-contain	不包含
+query.cmp.begins-with	开始于
+query.cmp.ends-with	结尾为
+query.cmp.is-null	无效
+query.cmp.is-not-null	不为空
+query.cmp.does-not-begin-with	不从
+query.cmp.does-not-end-with	结尾不为
+query.logic.and	财务报告和已审计财务报表
+query.logic.or	或减减
+query.when.previous	上一个
+query.when.current	当前( 此)
+query.when.next	下一个
+query.when.year-to-date	年份至今
+query.unit.day	日数
+query.unit.week	周数
+query.unit.month	月数
+query.unit.quarter	季度(%)
+query.unit.year	年数
+query.split.positions	位置( 从 0 开始, 用逗号分隔)
+query.fn.trim	调理
+query.fn.upper	大写
+query.fn.lower	小写
+query.fn.proper	将每个字都大写
+query.fn.clean	删除控件字符
+query.fn.length	长度
+query.fn.round	圆( 数值: 小数)
+query.fn.round-up	集合起来
+query.fn.round-down	转弯
+query.fn.abs	绝对值
+query.fn.sqrt	平方根
+query.fn.year	年份
+query.fn.month	月数
+query.fn.day	日数
+query.fn.prefix	添加前缀( 值: 文本)
+query.fn.suffix	添加后缀( 值: 文本)
+query.agg.sum	和数
+query.agg.average	平均数
+query.agg.min	最低
+query.agg.max	最大值
+query.agg.count	数行
+query.agg.distinct	数字区分
+query.agg.median	中间
+query.agg.first	不要总和( 第一值)
+query.join.left	左外侧
+query.join.right	右外侧
+query.join.full	完全外侧
+query.join.inner	内置( 仅匹配行)
+query.join.left-anti	左反( 数只出现在第一个)
+query.join.right-anti	右反( 数只出现在第二)
+query.order.ascending	递升
+query.order.descending	降级
+query.split.delimiter	分隔符
+query.split.length	字符数
+cells.insert-title	插入
+cells.delete-title	删除
+cells.insert-menu	插入…
+cells.delete-menu	删除…
+xlsx.forecast.alpha	阿尔法
+xlsx.forecast.beta	贝塔
+xlsx.forecast.gamma	伽马
+xlsx.forecast.mase	MASE
+xlsx.forecast.smape	SMAPE
+xlsx.forecast.mae	MAE
+xlsx.forecast.rmse	RMSE
+import-text.fixed-on	固定宽度: 打开
+import-text.fixed-off	固定宽度: 关闭
+import-text.breaks	断开位置( 起始时的字符, 逗号分隔; 空用于自动)
+import-text.to-this-sheet	装入到: 此工作表
+import-text.to-new-sheet	装入到: 新工作表
+xlsx.export-xls	Excel 97-2003年工作手册.xls,全本工作手册).
+xls.left-out	已保存。 旧格式( E).xls无法持有这些,所以被忽略了: {items}
+xls.item.drawings	{n} 图片、图表或形状
+xls.item.other	{n} 注释、条件格式、验证或表格
+xls.item.formulas	{n} 公式保存为值
+xls.item.cells	{n} 超出行和列限制的单元格
+xls.separator	;
+xlsx.timeline.all-periods	所有期间
+xlsx.timeline.level.years	年份
+xlsx.timeline.level.quarters	季度
+xlsx.timeline.level.months	月数
+xlsx.timeline.level.days	天数
+xlsx.timeline.year	{y}
+xlsx.timeline.quarter	Q{n}
+xlsx.timeline.month	{n}
+xlsx.timeline.year-quarter	{y} Q{n}
+xlsx.timeline.year-month	{y}/{n}
+xlsx.timeline.date	{y}/{m}/{d}
+xlsx.timeline.range	{a} - {b}
+xlsx.insert-timeline	时间线…
+xlsx.timeline-insert.title	插入时间线
+xlsx.timeline-insert.select-pivot	首先在枢轴表格或表格中选择单元格。
+xlsx.timeline-insert.choose	请检查至少一个字段。
+xlsx.timeline-insert.choose-fields	用于设定时间表的字段
+xlsx.timeline-insert.cache-prefix	时间线 _
+xlsx.pivot-insert-timeline	插入时间线…
+xlsx.get-data	获取数据
+xlsx.insert-cell-checkbox	复选框
+xlsx.insert-control	插入窗体控件
+xlsx.insert-control.button	按钮
+xlsx.insert-control.checkbox	复选框控制
+xlsx.insert-control.radio	选项按钮
+xlsx.insert-control.dropdown	组合框
+xlsx.insert-control.list	列表框
+xlsx.insert-control.spin	旋转按钮
+xlsx.insert-control.scroll	滚动栏
+xlsx.insert-control.groupbox	组合框
+xlsx.insert-control.label	标签
+xlsx.control-properties	格式控件…
+xlsx.control-properties.title	格式控件
+xlsx.control-properties.select	首先选择窗体控件。
+xlsx.control-properties.text	说明文本
+xlsx.control-properties.link	单元格链接
+xlsx.control-properties.range	输入范围
+xlsx.control-properties.min	最低值
+xlsx.control-properties.max	最大值
+xlsx.control-properties.step	递增变动
+xlsx.control-properties.page	页面更改
+xlsx.control-properties.three-d	三维阴影
+xlsx.control-properties.font	字体家族
+xlsx.control-properties.font-size	字体大小
+xlsx.control-properties.text-color	文本颜色
+xlsx.design-mode	设计模式
+xlsx.design-mode.enabled	设计模式:已启用
+xlsx.design-mode.disabled	设计模式:已禁用
+xlsx.view-code	视图代码
+xlsx.view-code.no-code	本工作表没有相关的VBA宏代码.
+xlsx.view-code.control-info	控件 : {name} ({kind})
+xlsx.new-table-style	新建表格样式…
+xlsx.new-table-style.title	新建表格样式
+xlsx.new-table-style.select-table	首先在表格中选择单元格。
+xlsx.new-table-style.name	表格样式名称
+xlsx.xml-source	XML 源代码…
+xlsx.xml-source.title	XML 来源
+xlsx.xml-source.maps-in-workbook	本工作簿中的 XML 地图
+xlsx.xml-source.no-maps	本工作手册中没有XML地图.
+xlsx.xml-map-properties	XML 地图属性…
+xlsx.xml-map-properties.title	XML 地图属性
+xlsx.xml-map-properties.name	名称
+xlsx.xml-map-properties.name-required	请入名.
+xlsx.xml-map-properties.root-element	根元素
+xlsx.xml-map-properties.schema	司马
+xlsx.xml-map-properties.validate	对照导出计划验证数据
+xlsx.xml-map-properties.overwrite	用新数据覆盖现有数据
+xlsx.3d-model	3D 型号…
+xlsx.chart-ex.totals	设定为总计(瀑布)
+xlsx.chart-ex.bins	宾斯( 直方图)
+xlsx.chart-ex.bin-width	宽度
+xlsx.chart-ex.bin-count	垃圾箱数量
+xlsx.chart-ex.underflow	下游 bin( 数值在或低于)
+xlsx.chart-ex.overflow	过量流量 bin( 以上值)
+xlsx.chart-ex.closed-right	包含每个间隔的右端
+xlsx.chart-ex.apply	应用垃圾桶
+xlsx.chart-ex.bins-hint	将宽度和数字留空,供自动垃圾箱使用。
+xlsx.chart-ex.box-whisker	框和 Whisker 设置
+xlsx.chart-ex.box-mean-marker	显示平均值标记
+xlsx.chart-ex.box-mean-line	显示正线
+xlsx.chart-ex.box-outliers	显示离线点
+xlsx.chart-ex.box-inclusive	包含的四分位数中位数
+xlsx.chart-ex.treemap	树图设置
+xlsx.chart-ex.treemap-overlapping	重叠父标签
+xlsx.chart-ex.funnel	漏斗设置
+xlsx.chart-ex.pareto	Pareto 设置
+xlsx.chart-ex.gap-width	间隙宽度
+xlsx.chart-ex.apply-gap	应用空白宽度
+xlsx.image.curl-missing	卷曲没有找到。
+xlsx.paste-picture	图片
+xlsx.paste-linked-picture	链接图片
+xlsx.camera-tool	摄影机
+xlsx.pasted-linked-picture	粘贴链接图片
+xlsx.pasted-picture	粘贴图片
+xlsx.external.change-source	更改来源…
+xlsx.external.source-changed	链接源更改为 "{name}".
+xlsx.external.add-link	添加链接到外部工作簿…
+xlsx.external.link-added	添加链接到 "{name}".
+xlsx.fill-menu	填充
+xlsx.fill-up	填充( E)
+xlsx.fill-left	向左填充
+xlsx.clear-menu	清除
+xlsx.clear-formats	清除格式
+xlsx.clear-contents	清除内容
+xlsx.clear-hyperlinks	清除超链接
+xlsx.comma-style	逗号样式
+xlsx.reapply-filter	重新应用
+xlsx.sparkline-points	显示点
+xlsx.sparkline-high-point	高点
+xlsx.sparkline-low-point	低点
+xlsx.sparkline-negative-points	负点
+xlsx.sparkline-first-point	第一点
+xlsx.sparkline-last-point	最后一点
+xlsx.sparkline-markers	标记
+xlsx.previous-comment	上一个评论/说明
+xlsx.next-comment	下一条评论/说明
+xlsx.show-all-notes	显示全部笔记
+xlsx.page-orientation	方向
+xlsx.orientation-portrait	纵向
+xlsx.orientation-landscape	风景
+xlsx.paper-size	纸张大小
+page.paper-letter	字母( 8. 5 x 11 英寸)
+xlsx.print-titles	打印标题…
+xlsx.print-titles-dialog	页面设置( 打印标题)…
+xlsx.print-titles-set-rows	将选中的行设定为标题行
+xlsx.print-titles-clear	清除打印标题
+xlsx.insert-function	插入函数
+xlsx.recent-functions	最近使用
+xlsx.financial-functions	财务
+xlsx.text-functions	文本
+xlsx.lookup-functions	查询参考( R)
+xlsx.math-functions	数学三角形( T)
+xlsx.other-functions	更多函数
+xlsx.use-in-formula	在公式中使用
+xlsx.use-in-formula-paste	粘贴名称…
+xlsx.create-from-selection	从选择区创建…
+xlsx.create-names-top-row	顶行
+xlsx.create-names-left-col	左栏
+xlsx.create-names-both	上行和左栏
+xlsx.fn.sum	苏姆(苏姆)
+xlsx.fn.average	平均数(平均)
+xlsx.fn.if	IF( 条件)
+xlsx.fn.count	COUNT( 编号)
+xlsx.fn.max	MAX( 马克西姆)
+xlsx.fn.min	MIN( 最小值)
+xlsx.fn.vlookup	VLOOKUP (虚拟查询)
+xlsx.fn.xlookup	XLOOKUP (搜索阵列)
+xlsx.fn.pmt	PMT( 付款)
+xlsx.fn.fv	FV( 未来值)
+xlsx.fn.pv	PV( 现值)
+xlsx.fn.npv	NPV( 净现值)
+xlsx.fn.irr	IRR(内部返回率)
+xlsx.fn.rate	RATE( 兴趣率)
+xlsx.fn.nper	NPER( 期间数)
+xlsx.fn.concat	CONCAT(候补)
+xlsx.fn.text	TEXT( 格式文本)
+xlsx.fn.left	LEFT( 左边字符)
+xlsx.fn.right	右( 右字符)
+xlsx.fn.mid	MID( 中间字符)
+xlsx.fn.len	LEN( 字符计数)
+xlsx.fn.trim	TRIM (三角空间)
+xlsx.fn.substitute	子文本( 替代文本)
+xlsx.fn.hlookup	HLOOKUP( 高级搜索)
+xlsx.fn.index	INDEX (指数值)
+xlsx.fn.match	MATCH( 匹配位置)
+xlsx.fn.xmatch	XMATCH( 箭头匹配)
+xlsx.fn.filter	FILTER (Filter 阵列)
+xlsx.fn.unique	UNIQUE( 独有的数值)
+xlsx.fn.sort	SORT( 硫磺阵列)
+xlsx.fn.sumif	SUMIF( 有条件的和数)
+xlsx.fn.sumifs	SUMIFS( 多个条件和)
+xlsx.fn.round	ROUND( 径)
+xlsx.fn.roundup	ROUNDUP (RUNDUP) (RUD UP) (英语).
+xlsx.fn.rounddown	ROUNDDOWN (RUNDDWN) (向下旋转)
+xlsx.fn.abs	ABS( 绝对值)
+xlsx.fn.product	生产(生产)
+xlsx.fn.mod	MOD( 莫杜洛语)
+xlsx.fn.today	今天(当前日期)
+xlsx.fn.now	现在( 当前日期和时间)
+xlsx.fn.date	日期( 日期)
+xlsx.fn.year	年份(年份)
+xlsx.fn.month	月度( 月 )
+xlsx.fn.day	日(日)时间
+xlsx.fn.weekday	周日(周日)
+xlsx.fn.edate	EDATE( 几个月后)
+xlsx.fn.eomonth	EOMONTH(月底)
+xlsx.fn.networkdays	网络日(工作日)
+xlsx.fn.datedif	弗朗索瓦(意大利)
+xlsx.fn.countif	COUNTIF( 有条件的计算)
+xlsx.fn.countifs	COUNTIFS( 多重条件计数)
+xlsx.fn.averageif	有条件的平均数
+xlsx.fn.median	地中海 (地中海)
+xlsx.fn.stdev-s	STEV.S(模拟标准偏离)
+xlsx.fn.isblank	ISBLANK( 是空白)
+xlsx.fn.iserror	ISERROR( 是错误)
+xlsx.theme-fonts	主题字体
+xlsx.theme-fonts.customize	自定义字体…
+xlsx.theme-font.office	办公室(Calibri / Yu Gothic)
+xlsx.theme-font.aptos	阿普托斯(阿普托斯/BIZ UDP哥特语)
+xlsx.theme-font.arial	参数
+xlsx.theme-font.century-gothic	世纪哥特式
+xlsx.theme-font.meiryo	迈里欧
+xlsx.theme-font.yu-gothic	余哥特语
+xlsx.theme-fonts-applied	更新主题字体
+xlsx.theme-effects	主题效果
+xlsx.theme-effects.office	办公室
+xlsx.theme-effects.subtle	细
+xlsx.theme-effects.moderate	中调
+xlsx.theme-effects.intense	强烈性
+xlsx.theme-effect.office	办公室
+xlsx.theme-effect.subtle	细
+xlsx.theme-effect.moderate	中调
+xlsx.theme-effect.intense	强烈性
+xlsx.theme-effect-applied	主题效果更改为 {name}
+xlsx.pivot-change-data-source	更改数据源…
+xlsx.pivot-source-range	表格/范围
+xlsx.pivot-source-changed	枢轴表数据源已更改
+xlsx.pivot-drill-buttons	+/- 按钮
+xlsx.pivot-drill-buttons-shown	显示键表 +/- 按钮
+xlsx.pivot-drill-buttons-hidden	偏转表 +/- 按钮隐藏
+xlsx.recommended-charts	建议图表
+xlsx.recommended-chart-inserted	插入建议图表
+xlsx.thesaurus	词库
+xlsx.thesaurus.select-word	选择含有单词的单元格
+xlsx.thesaurus.lookup	搜索同义词 "{word}"
+xlsx.chart-quick-layout	快速布局
+xlsx.chart-quick-layout-1	版式 1
+xlsx.chart-quick-layout-2	版式 2
+xlsx.chart-quick-layout-3	版式 3
+xlsx.chart-quick-layout-4	版式 4
+xlsx.chart-quick-layout-5	图案 5
+xlsx.chart-quick-layout-6	版式 6
+xlsx.chart-quick-layout-7	版式 7
+xlsx.chart-quick-layout-8	版式 8
+xlsx.chart-quick-layout-9	版式 9 类型
+xlsx.chart-quick-layout-10	版式 10
+xlsx.picture.compress	压缩图片
+xlsx.picture.compress.print	印刷(220ppi)
+xlsx.picture.compress.web	网页(150ppi)
+xlsx.picture.compress.email	电子邮件(96 ppi)
+xlsx.picture.compress.delete-crop	删除已裁剪的区域并压缩
+_xlsx.row-height	行高点…
+_xlsx.row-height-pt	行高度
+_xlsx.column-width	列宽度…
+_xlsx.column-width-chars	列宽( 字符)
+_xlsx.presets	预设
+_xlsx.apply	应用
+_xlsx.applied	应用
+_xlsx.enter-a-valid-number	请输入一个有效的号码
+_xlsx.banded-rows-enabled	已启用的带状行
+_xlsx.banded-rows-disabled	已禁用带状行
+_xlsx.banded-columns-enabled	启用带宽列
+_xlsx.banded-columns-disabled	取消带宽列
+_xlsx.pivot-layout-updated	更新报告布局
+_xlsx.pivot-compact-layout	在压缩窗体中显示
+_xlsx.pivot-outline-layout	在大纲格式中显示
+_xlsx.pivot-tabular-layout	在表格格式中显示
+_xlsx.table-resize	更改表格大小…
+_xlsx.table-resized	调整表格大小
+xlsx.pivot-clear	清除
+xlsx.pivot-clear-all	全部清除
+xlsx.pivot-clear-filters	清除过滤器
+xlsx.pivot-select	选择
+xlsx.pivot-select-entire-table	全部主线表
+xlsx.pivot-select-values	数值
+xlsx.pivot-select-labels	标签
+xlsx.pivot-blank-rows	空行
+xlsx.pivot-insert-blank-line	在每个项目后插入空白行
+xlsx.pivot-remove-blank-line	在每个项目后删除空行
+xlsx.pivot-move	移动枢轴表…
+xlsx.pivot-cleared	关键表已清除
+xlsx.pivot-filters-cleared	已清除的枢轴表过滤器
+xlsx.recommended-pivots	推荐的枢轴表
+xlsx.recommended-pivot-inserted	插入了推荐的枢轴表
+xlsx.pivot-styles	支线表样式
+xlsx.pivot-style-applied	已应用的枢轴表样式
+xlsx.pivot-style.none	(无)
+xlsx.recommended-pivot-tables	推荐的枢轴表
+xlsx.pivot-row-headers	行标题
+xlsx.pivot-col-headers	列标题
+_xlsx.pivot-fields-cleared	已清除的枢轴表字段
+_xlsx.pivot-table-selected	选中的枢轴表
+_xlsx.pivot-table-moved	已移动枢轴表
+_xlsx.blank-rows-inserted	在每个项目后插入空行
+_xlsx.blank-rows-removed	每个项目后将空行删除
+_xlsx.row-headers-enabled	启用行头
+_xlsx.row-headers-disabled	已禁用行头
+_xlsx.col-headers-enabled	启用列头
+_xlsx.col-headers-disabled	列头已禁用
+_xlsx.pivot-style-applied	应用的偏转表样式 "{style}"
+_xlsx.cannot-use-on-multiple-selections	此命令不能用于多个选择
+xlsx.match-entire-cell	匹配整个单元格内容
+xlsx.find-all	查找全部
+_xlsx.find-matches-count	{n} 找到单元格
+xlsx.find-results	搜索结果
+xlsx.comment-new	新建批注
+xlsx.comment-reply	对评论的答复…
+xlsx.table-insert-row-above	在上方插入表格行
+xlsx.table-insert-row-below	在下面插入表格行
+xlsx.table-insert-col-left	在左侧插入表格列
+xlsx.table-insert-col-right	右侧插入表格列
+xlsx.table-delete-row	删除表格行
+xlsx.table-delete-col	删除表格列
+_xlsx.cf-top	顶端
+_xlsx.cf-bottom	底部
+_xlsx.cf-items	项目
+_xlsx.cf-percent	选定范围的百分比
+_xlsx.repeat-item-labels	重复项目标签
+xlsx.slicer-settings.name	名称
+xlsx.slicer-settings.name-in-use	此名称已经在使用中。
+xlsx.slicer-settings.style	样式
+_xlsx.auto-fill	自动填入
+xlsx.sparkline-show-axis	显示轴
+xlsx.sparkline-right-to-left	绘图数据右到左
+xlsx.sparkline-min-individual	最小值: 每个闪光线的自动
+xlsx.sparkline-min-group	最小值: 所有闪光线相同
+xlsx.sparkline-min-custom	最小值: 自定义值…
+xlsx.sparkline-max-individual	最大值: 每条火花线的自动
+xlsx.sparkline-max-group	最大值: 所有闪光线相同
+xlsx.sparkline-max-custom	最大值: 自定义值…
+_xlsx.vertical-axis-min	最小垂直轴
+_xlsx.vertical-axis-max	垂直轴最大值
+_xlsx.automatic-for-each	自动
+_xlsx.same-for-all	人人一样
+_xlsx.custom-value	自定义
+xlsx.sparkline-marker-colors	标记颜色
+xlsx.sparkline-weight	重量
+xlsx.sparkline-empty-cells	空单元格
+xlsx.find-and-select	查找选择( S)
+xlsx.select-formulas	公式
+xlsx.select-notes	备注
+xlsx.select-conditional-formats	条件格式
+xlsx.select-constants	常数
+xlsx.select-data-validation	数据验证
+xlsx.select-objects	选择对象
+xlsx.format-as-table	格式为表格
+xlsx.format-as-table.light-1	灯 1
+xlsx.format-as-table.light-9	灯 9
+xlsx.format-as-table.medium-2	中号 2
+xlsx.format-as-table.medium-4	中数 4
+xlsx.format-as-table.medium-9	中型 9
+xlsx.format-as-table.dark-1	暗号 1
+xlsx.format-as-table.dark-2	暗 2 号
+xlsx.scale-to-fit	缩放以适应
+xlsx.scale-width-auto	宽度: 自动
+xlsx.scale-width-1	宽度:1页
+xlsx.scale-width-2	宽度: 2页
+xlsx.scale-height-auto	高度: 自动
+xlsx.scale-height-1	高度:1页
+xlsx.scale-height-2	高度: 2页
+xlsx.print-scale-100	比例:100%
+xlsx.print-scale-80	比例:80%
+xlsx.scale-50	比例:50%
+xlsx.timeline.show-header	页眉
+xlsx.timeline.show-selection-label	选择标签
+xlsx.timeline.show-time-level	时间级别
+xlsx.timeline.show-scroll-bar	滚动栏
+xlsx.table-select	选择
+xlsx.table-select-all	整个表格
+xlsx.table-select-data	表格数据
+xlsx.table-select-col	表格栏
+xlsx.table-select-col-data	表列数据
+xlsx.table-select-row	表格行
+_xlsx.table-selected	选中的表格
+xlsx.report-connections	报表连接
+xlsx.names.scope	范围
+xlsx.names.scope.workbook	工作簿
+xlsx.names.scope.sheet	当前工作表
+xlsx.move-sheet-first	移动到起始
+xlsx.move-sheet-last	移动到结束
+xlsx.move-copy-sheet	移动或复制
+xlsx.sheet-transfer.title	移动或复制工作表
+xlsx.sheet-transfer.book	订书
+xlsx.sheet-transfer.before	在工作表之前
+xlsx.sheet-transfer.to-end	(移动到结束)
+xlsx.sheet-transfer.copy	创建副本
+xlsx.sheet-transfer.this-book	{name} (本书).
+xlsx.sheet-transfer.closed	目的地工作手册被关闭。
+xlsx.sheet-transfer.last-sheet	工作簿必须保存至少一张工作表,所以不能移动到另一张工作表。先创建副本或添加工作表。
+xlsx.sheet-transfer.failed	无法移动或复制工作表。
+xlsx.unhide-all-sheets	取消所有工作表
+xlsx.status-bar-summary	状态栏摘要
+xlsx.status-summary-average	平均数
+xlsx.status-summary-count	计数
+xlsx.status-summary-num-count	数值
+xlsx.status-summary-min	最低
+xlsx.status-summary-max	最大值
+xlsx.status-summary-sum	和数
+xlsx.cf.preset-red	浅红色充满暗红色文字
+xlsx.cf.preset-yellow	黄色填充暗黄色文字
+xlsx.cf.preset-green	绿色填充暗绿色文字
+xlsx.cf.preset-red-text	红色文字
+xlsx.cf.filter-sheet	本工作表
+xlsx.cf.filter-selection	当前选择
+xlsx.validation.apply-same	将这些更改应用到设置相同的所有其他单元格中
+xlsx.validation.select-same	选择具有相同验证的单元格
+xlsx.validation.select-all	选择所有验证单元格
+xlsx.validation.next-invalid	下一个无效的数据
+xlsx.formula-auditing	公式审计
+xlsx.filter-by-selected-icon	通过选中单元格图标过滤
+xlsx.sort-by-selected-color	将选中单元格的颜色置于顶端
+xlsx.sort-by-selected-font-color	将选中单元格的字体颜色置于顶端
+xlsx.sort-by-selected-icon	将选中单元格的图标放到顶端
+xlsx.sort-copy-level	复制关卡
+xlsx.sort-icon-key	有条件格式图标 : {set} ({id})
+xlsx.find-prev	查找上一个
+xlsx.find-within-workbook	在工作手册中搜索
+xlsx.find-by-columns	按列搜索
+xlsx.find-include-comments	包含注释和注释( M)
+xlsx.link-display-text	要显示的文本
+xlsx.link-tooltip	屏幕提示
+xlsx.link-places-in-workbook	在本文档中的位置
+xlsx.select-blanks	空白
+xlsx.select-visible-cells	可见单元格
+xlsx.select-current-region	现区
+xlsx.cell-select-special	转到特别处
+xlsx.use-selected-cell	使用选中单元格
+xlsx.subtotal-select-all	全选
+xlsx.subtotal-unselect-all	全部清除
+xlsx.subtotal-use-selection	使用选择
+xlsx.data-tools	数据工具
+xlsx.what-if-analysis	如果分析结果
+xlsx.consolidate-add-selection	添加选择
+xlsx.consolidate-clear-all	全部清除
+xlsx.scenario-duplicate	创建副本
+xlsx.solver.reset-all	全部重置
+xlsx.pivot.sum-of	总和 {name}
+xlsx.pivot.count-of	数量 {name}
+xlsx.size.preset-default-row	18.75 pt (默认)
+xlsx.size.preset-chars	{n} 字符
+xlsx.size.preset-default-column	8.43 字符 (默认)
+_xlsx.data-validation	数据验证
+_xlsx.clear-all	全部清除
+_xlsx.remove-duplicates	删除重复
+xlsx.shape-panel.fill-color	填充颜色
+xlsx.shape-panel.outline-color	大纲颜色
+xlsx.shape-panel.outline-width	大纲宽度
+xlsx.shape-panel.text-size	文本大小
+xlsx.shape-panel.title	格式形状
+xlsx.paste-options-button	粘贴选项
+xlsx.qa.button	快速分析
+xlsx.qa.formatting	格式化
+xlsx.qa.charts	图表
+xlsx.qa.totals	共计
+xlsx.qa.tables	表格
+xlsx.qa.sparklines	闪光线
+xlsx.fndesc.sum	添加数字
+xlsx.fndesc.average	查找数字的平均值
+xlsx.fndesc.count	计算持有数字的单元格
+xlsx.fndesc.counta	计算非空单元格
+xlsx.fndesc.max	查找最大数字
+xlsx.fndesc.min	查找最小的数字
+xlsx.fndesc.if	通过条件是否维持, 给出一个或另一个值
+xlsx.fndesc.iferror	仅在公式结束于错误时给出另一个值
+xlsx.fndesc.ifs	依次尝试若干条件,并给出第一个条件的价值
+xlsx.fndesc.and	检查所有条件
+xlsx.fndesc.or	检查至少有一个条件
+xlsx.fndesc.not	真理变成虚伪,真理变成真理
+xlsx.fndesc.vlookup	在表格的左栏中向上查找一个值,并给出该行的另一栏的值
+xlsx.fndesc.xlookup	在一个区域中向上看值并给出来自另一个区域的匹配值
+xlsx.fndesc.hlookup	在表格的上行中查找一个值, 并给出该列的另一行的值
+xlsx.fndesc.index	给定区域中某一行和列的值
+xlsx.fndesc.match	给出一个值在一定范围内的位置
+xlsx.fndesc.countif	计算符合条件的单元格
+xlsx.fndesc.sumif	只添加符合条件的单元格
+xlsx.fndesc.averageif	查找仅符合条件的单元格的平均值
+xlsx.fndesc.countifs	计数符合所有条件的单元格
+xlsx.fndesc.sumifs	只添加符合所有若干条件的单元格
+xlsx.fndesc.round	将数字四舍五入到给定数字
+xlsx.fndesc.roundup	绕过一个数字,最多为一个数字
+xlsx.fndesc.rounddown	将数字绕到给定的位数
+xlsx.fndesc.int	丢弃小数, 留下一个整数
+xlsx.fndesc.abs	给出数字的大小, 但没有它的标志
+xlsx.fndesc.mod	给一个师留下的东西
+xlsx.fndesc.power	将数字提升到权力
+xlsx.fndesc.sqrt	给出一个数字的平方根
+xlsx.fndesc.concat	加入多个字符串或区域的文字
+xlsx.fndesc.textjoin	用分隔符将数个文字合并在一起
+xlsx.fndesc.left	从文本开头取一些字符
+xlsx.fndesc.right	从文本结尾取一些字符
+xlsx.fndesc.mid	从文本中间取一些字符
+xlsx.fndesc.len	给出文本的长度
+xlsx.fndesc.trim	删除文本中的额外空格
+xlsx.fndesc.upper	将信件转换为首府
+xlsx.fndesc.lower	将字母变为小字母
+xlsx.fndesc.text	以给定数字格式将数字转换成文本
+xlsx.fndesc.value	将看起来像数字的文本转换成数字
+xlsx.fndesc.today	说到今天的日期
+xlsx.fndesc.now	现在给出日期和时间
+xlsx.fndesc.date	从一年、一个月和一天开始建立日期
+xlsx.fndesc.year	将一年从日期中取出
+xlsx.fndesc.month	将月份从日期中取出
+xlsx.fndesc.day	将一天从日期中取出
+xlsx.fndesc.filter	只取出符合条件的行
+xlsx.fndesc.sort	给出一个区域排序
+xlsx.fndesc.unique	给出已删除的重复的值列表
+xlsx.function.title	插入函数
+xlsx.function.search	搜索名称或你想做什么
+xlsx.function.pick	选择一个函数
+xlsx.function.argument	参数 {n}
+xlsx.function.optional	 (可选)
+xlsx.function.add-argument	添加参数
+xlsx.function.result	结果 : {value}
+xlsx.function.ok	确定
+xlsx.word-count.selection	选择
+xlsx.word-count.sheet	整个工作表
+xlsx.word-count.cells	有数据的单元格
+xlsx.page-break-preview-page	页次 {page}
+_xlsx.headings	显示标题
+xlsx.delete-menu	删除行、 列、 单元格
+xlsx.sheet-menu	工作表
+xlsx.view-mode	视图模式
+xlsx.insert-cells-menu	插入单元格
+xlsx.notes-comments-menu	注解/评论
+xlsx.recommended-charts.empty	选择中没有数字数据;插入带有样本数据的图表。
+xlsx.range-field.pick	在工作表中选择一个区域
+chart.ui.add	添加
+chart.ui.axes-legend	轴传奇( L)
+chart.ui.overall	A. 总体情况
+chart.ui.horizontal-axis	水平
+chart.ui.left-axis	左轴
+chart.ui.right-axis	右轴
+chart.ui.edit-axis	编辑轴
+chart.ui.data	数据
+chart.ui.display	显示
+chart.ui.analysis	分析
+chart.ui.name	序列名称
+chart.ui.categories	类别范围
+chart.ui.values	数值范围
+chart.ui.use-axis	轴
+chart.ui.marker-size	标记大小
+chart.ui.order	顺序
+chart.ui.period	期间
+chart.ui.error-value	数值
+chart.ui.edit-series	编辑序列
+chart.ui.invalid-series	输入有效的工作表范围、行宽度和标记大小。
+chart.ui.edit	编辑
+chart.ui.ok	确定
+chart.ui.type	图表类型
+chart.ui.smooth	平滑线
+chart.ui.kind-settings	图表特定设置
+chart.ui.visible-data	显示数据
+chart.ui.template-placement	模板设置( P)
+chart.ui.horizontal-categories	水平类别
+chart.ui.combination	组合
+chart.ui.left-short	L
+chart.ui.right-short	R
+chart.ui.type-unsupported	个人转换不支持
+chart.ui.type-family	不同的图表家族
+chart.ui.type-three-d	更改整个图表的三维类型
+chart.ui.type-round-mixed	馅饼和甜甜圈不能合并
+chart.ui.type-orientation	不同的轴方向
+chart.ui.analysis-unsupported	此图表类型没有趋势线和错误栏。
+chart.ui.error-direction	错误方向
+chart.ui.left-value-axis	左侧垂直轴
+chart.ui.right-value-axis	右垂直轴
+chart.ui.bottom-value-axis	下水平轴
+chart.ui.top-value-axis	最高水平轴
+chart.ui.vertical-categories	垂直分类轴
+chart.ui.vertical-categories-label	垂直类别
+chart.ui.horizontal-values	水平值
+chart.ui.horizontal-value-axis	水平值轴
+chart.ui.bottom-short	B
+chart.ui.top-short	T
+chart.ui.axes	轴
+chart.ui.show-title	显示图表标题
+chart.ui.style-standard	标准
+chart.ui.style-simple	简单
+chart.ui.style-framed	框架化
+chart.ui.style-dark	暗处
+chart.ui.style-custom	自定义
+xlsx.function.not-found	未找到函数
+xlsx.validation.tools	检查现有数据
+xlsx.cf.rule	规则
+xlsx.cf.other-rule	其他规则
+xlsx.cf.manage-title	有条件的格式规则
+xlsx.cf.edit-title	编辑有条件的格式规则
+xlsx.sort-level.edit	编辑排序条件
+xlsx.sort.has-header	以第一行为标题
+xlsx.sort-realtime	实时更新
+text-columns.quote-label	文本修饰符
+text-columns.column-label	列 {n}
+xlsx.sort.key.cell-color	单元格颜色
+xlsx.sort.key.font-color	字体颜色
+xlsx.sort.key.icon	图标
+xlsx.sparkline.low-point	低点
+xlsx.watch.invalid-cell	输入有效的单元格引用。
+xlsx.shape-panel.height	高度
+xlsx.shape-panel.width	宽度
+xlsx.shape-panel.rotation	旋转
+xlsx.shape-panel.horizontal	水平位置
+xlsx.shape-panel.vertical	垂直位置
+chart.ui.first-cell-name	使用第一个单元格作为序列名称
+xlsx.infobar.final.title	标为最终
+xlsx.infobar.final.message	一位作者将本工作手册标为最后的,以阻止编辑。
+xlsx.infobar.final.edit-anyway	无论如何编辑
+xlsx.infobar.legacy.title	[兼容模式] (中文(简体) ).Excel 97-2003)
+xlsx.infobar.legacy.message	此工作簿以旧格式(兼容模式)打开。 转换为当前格式, 使用所有新特性。
+xlsx.infobar.legacy.convert	转换为最新格式
+xlsx.print-panel.title	打印
+xlsx.print-panel.note	在这种环境下,Princess会制作 PDF 在默认的应用程序中打开它, 从该应用程序中打印它。
+xlsx.paste-names.title	名称冲突
+xlsx.paste-names.title-duplicate	复制名称
+xlsx.paste-names.exists	名称 '{name}已存在。 要使用此名称, 请单击是。 要重命名。{name}' 对于此粘贴, 单击否并输入新名称。
+xlsx.paste-names.duplicate	目的工作表上已经存在相同名称。
+xlsx.paste-names.new-name	新名称
+xlsx.paste-names.invalid	此名称不能使用。 输入一个未使用的名称。
+xlsx.paste-names.yes-to-all	全体都参加
+xlsx.print-panel.scale-100	100%
+xlsx.status.mode-enter	输入
+xlsx.status.mode-edit	编辑
+xlsx.names.title	名称管理器
+xlsx.names.search.placeholder	搜索名称和参考文献
+xlsx.names.filter.button	筛选
+xlsx.names.filter.scope-all	范围:所有
+xlsx.names.filter.scope-book	范围:工作手册
+xlsx.names.filter.scope-sheet	范围:工作表 {sheet}
+xlsx.names.filter.kind-range	类型: 范围
+xlsx.names.filter.kind-constant	类型:常数
+xlsx.names.filter.kind-formula	类型: 公式
+xlsx.names.filter.kind-lambda	类型: LAMBDA
+xlsx.names.filter.errors-only	仅有错误的名称
+xlsx.names.filter.hide-helpers	隐藏助手名称( 从 _ 或\\\ 开始)
+xlsx.names.filter.clear	清除过滤器
+xlsx.names.count	{total} 名称
+xlsx.names.count-filtered	显示 {shown} 页:1 {total}
+xlsx.names.col.name	名称
+xlsx.names.col.value	数值
+xlsx.names.col.ref	参考文献
+xlsx.names.col.scope	范围
+xlsx.names.col.kind	类型
+xlsx.names.kind.error	错误: 引用无效
+xlsx.names.value.function	(职务)
+xlsx.names.empty.none	还没有人名
+xlsx.names.empty.nomatch	没有名字匹配
+xlsx.names.scope.book	工作簿
+xlsx.names.dialog.title-new	新名称
+xlsx.names.dialog.title-edit	编辑名称
+xlsx.names.dialog.name	名称
+xlsx.names.dialog.scope	范围
+xlsx.names.dialog.ref	指
+xlsx.names.dialog.current-value	现值
+xlsx.names.dialog.lambda-args	参数
+xlsx.names.dialog.arg-required	所需数
+xlsx.names.dialog.arg-optional	可选
+xlsx.names.dialog.length	{n} 字符
+xlsx.names.dialog.error-ref	引用的工作表或单元格被删除。选择新的引用。
+xlsx.names.action.add	添加
+xlsx.names.action.update	更新
+xlsx.names.action.cancel	取消
+xlsx.names.action.edit-row	编辑 : {name}
+xlsx.names.action.delete-row	删除: {name}
+xlsx.names.action.more	更多行动
+xlsx.names.menu.paste	将列表粘贴到工作表( E){n} 显示名称于 {cell})
+xlsx.names.menu.copy	复制显示名称为 TSV
+xlsx.names.menu.create-from-selection	从选中区域创建( 上行)
+xlsx.names.menu.create-left	从选中区域创建( 左列)
+xlsx.names.menu.create-both	从选中区域( 上行和左列) 创建
+xlsx.names.menu.delete-errors	删除所有有错误的名称( E){n})
+xlsx.names.err.empty	输入名称
+xlsx.names.err.cell-ref	名称不能看起来像单元格引用
+xlsx.names.err.first-char	第一个字符必须是字母,_或\
+xlsx.names.err.chars	不允许除…和_以外的空格和符号
+xlsx.names.err.dupe-book	工作簿中已经存在此名称的名称
+xlsx.names.err.dupe-sheet	工作表中已经存在名称 "{sheet}"
+xlsx.names.err.ref-empty	输入引用或公式
+xlsx.names.status.invalid-name	"{name}" 不能用作名称
+xlsx.names.toast.added	添加名称 "{name}"
+xlsx.names.toast.updated	更新名称 "{name}"
+xlsx.names.toast.deleted	删除名称 "{name}"(未果还原).
+xlsx.names.toast.pasted	粘贴 {n} 名称在 {cell} (取消恢复它们)
+xlsx.names.toast.deleted-errors	删除 {n} 有错误的名称( 撤消恢复它们)
+xlsx.names.toast.copied	已复制 {n} 名称
+xlsx.cf.fill-color	填充颜色
+xlsx.cf.text-color	文本颜色
+xlsx.cf.stop-if-true	停止, 如果是真实的
+xlsx.cf.no-rules	没有规矩
+xlsx.format-pane.tab-format	格式
+xlsx.format-pane.tab-border	边框
+xlsx.format-pane.tab-protection	保护
+xlsx.table-design.tab-design	设计
+xlsx.table-design.tab-commands	图标
+xlsx.pivot-fields.search-placeholder	搜索字段
+xlsx.pivot-fields.count-all	{n} 字段
+xlsx.pivot-fields.count-found	{n} 页:1 {total} 字段
+xlsx.pivot-fields.hint	拖动一个字段, 或者选中它, 将其放置
+xlsx.pivot-fields.column-field	外地
+xlsx.pivot-fields.column-area	放置在
+xlsx.pivot-fields.no-match	无匹配字段
+xlsx.pivot-fields.layout-title	布局
+xlsx.pivot-fields.layout-note	依此顺序汇总
+xlsx.pivot-fields.drop-here	在此拖动一个字段
+xlsx.pivot-fields.action.value-settings	值字段设置
+xlsx.pivot-fields.action.field-settings	字段设置
+xlsx.pivot-fields.action.remove	删除 {name} 从布局
+xlsx.pivot-field.title	字段设置
+xlsx.pivot-value.title	值字段设置
+xlsx.pivot-value.tab-summarize	汇总数值
+xlsx.pivot-value.tab-show-as	显示值为
+xlsx.pivot-value.source-name	源名称
+xlsx.pivot-value.custom-name	自定义名称
+xlsx.pivot-value.summarize-by	汇总值字段
+xlsx.pivot-value.summarize-help	选择要用于汇总选定字段数据的数据的计算类型
+xlsx.pivot-value.number-format	数字格式
+xlsx.pivot-value.sample	样本 : {sample}
+xlsx.pivot-value.show-as	显示数值为
+xlsx.pivot-value.base-field	基地
+xlsx.pivot-value.base-item	基项
+xlsx.pivot-value.not-needed	(不需要) (单位:千美元)
+xlsx.pivot-value.fn.sum	和数
+xlsx.pivot-value.fn.count	计数
+xlsx.pivot-value.fn.average	平均数
+xlsx.pivot-value.fn.max	马克斯
+xlsx.pivot-value.fn.min	最小数
+xlsx.pivot-value.fn.product	产品
+xlsx.pivot-value.fn.count-numbers	数数
+xlsx.pivot-value.fn.stddev	StdDev 软件
+xlsx.pivot-value.fn.stddevp	标准数据文件
+xlsx.pivot-value.fn.var	瓦尔
+xlsx.pivot-value.fn.varp	宽度
+xlsx.format-pane.category	数字格式
+xlsx.format-pane.angle	学位
+xlsx.format-pane.size	大小
+xlsx.format-pane.style	样式
+xlsx.recommended-charts.menu	建议图表…
+xlsx.pivot-expand-collapse	扩展/缩放
+xlsx.pivot-expand	扩展
+xlsx.pivot-collapse	折叠
+xlsx.pivot-expand-field	扩展字段
+xlsx.pivot-collapse-field	折叠字段
+xlsx.pivot-select-an-item	选择带有 +/- 按钮的项目的单元格
+xlsx.pivot.cannot-change-part	您不能更改关键列表报告的这一部分。
+xlsx.pivot.affects-pivot	我们不能为选定的单元格做这样的修改,因为它会影响一个枢轴表。使用字段列表来修改报表。如果您想要插入或删除单元格,请移动枢轴表并再次尝试。
+xlsx.pivot.name-exists	键盘字段名称已经存在。
+xlsx.pivot.name-null	无法将无效值作为项目或字段名称输入到“枢轴表”报告。
+xlsx.pivot.name-formula	无法在偏转表报告中输入项目或字段名称的公式。
+xlsx.pivot.not-an-item	'{item}`不是这个领域的项目。
+xlsx.format-pane.live-update	实时更新
+xlsx.format-pane.rotation-numeric	数字
+xlsx.format-pane.underline	下划线
+xlsx.format-pane.stop-color	停止颜色
+xlsx.format-pane.stop-position	停止位置
+xlsx.format-pane.remove-stop	删除停止
+xlsx.margins-normal	常规
+xlsx.margins-wide	宽
+xlsx.margins-narrow	窄
+xlsx.margins-custom	自定义边距…
+xlsx.hf.back-to-page-setup	返回页面设置
+xlsx.validation.list-needs-extension	此设置不在 Excel (数据验证在下列情况下无效: Excel你想用它吗?
+xlsx.design-mode.close	关闭设计模式
+xlsx.sheet.delete-ask	您要删除工作表吗 ?
+xlsx.machine-readability-check	数字机构:检查机器的可读性…
+xlsx.machine.title	机器可读性
+xlsx.machine.desc	检查是否符合数字局的 "{rule}等同于 {tool} ver.{version}.
+xlsx.machine.rule-link	行政数据中的机器可读性规则
+xlsx.machine.tool-link	哈鲁诺布
+xlsx.machine.realtime	实时检查
+xlsx.machine.passed	没有发现机器可读性问题。
+xlsx.machine.passed-sub	没有找到合并的单元格、隐藏的行或列、公式或对象。
+xlsx.machine.scope-note	只有可以从工作表内容中判断的项目会被检查。代码表、区域代码、单位等不是。
+xlsx.machine.recheck	重新检查
+xlsx.machine.recheck-done	重新检查完成
+xlsx.machine.issue-title	[{id}] {sheet}: {title} ({count})
+xlsx.machine.examples	例如: {cells}
+xlsx.machine.multiple-tables.title	工作表有多个表格
+xlsx.machine.multiple-tables.desc	每个工作表上各放一个表格,将其他表格移到自己的工作表上。
+xlsx.machine.split-data.title	数据由空白行或列分隔
+xlsx.machine.split-data.desc	删除用于布局的空白行和列,这样表格就成片了。
+xlsx.machine.stray-info.title	表格外没有相关的信息
+xlsx.machine.stray-info.desc	删除注释和备忘录,或将其移至另一工作表。
+xlsx.machine.missing-header.title	列没有标题
+xlsx.machine.missing-header.desc	给每个栏目一个上面写着它所持有的
+xlsx.machine.padded-text.title	用于布局的空格或换行符
+xlsx.machine.padded-text.desc	删除外观添加的空格和换行符。
+xlsx.machine.objects.title	工作表有形状、图片或图表等对象
+xlsx.machine.objects.desc	机器无法读取对象内部的内容。 输入单元格中的信息。
+xlsx.machine.merged-cells.title	有合并的细胞
+xlsx.machine.merged-cells.desc	解除单元格,在每个单元格中输入相同的内容。
+xlsx.machine.hidden-lines.title	有隐藏的行或列
+xlsx.machine.hidden-lines.desc	删除您不需要的行和列, 而不是隐藏它们。
+xlsx.machine.number-as-text.title	数字作为文本存储
+xlsx.machine.number-as-text.desc	删除单位、逗号及脚注标记使其成为数字;将单位和注释保留在另一栏中。
+xlsx.machine.duplicate-header.title	两列都有一个标题
+xlsx.machine.duplicate-header.desc	使各栏头各别.
+xlsx.machine.formula.title	有公式的单元格
+xlsx.machine.formula.desc	将公式转换为带有粘贴值的值。
+xlsx.machine.title-row.title	标题行在标题行之前
+xlsx.machine.title-row.desc	用页眉行启动工作表,然后从第二行输入数据。
+query.step-name.source	来源
+query.step-name.promoted-headers	已升级信头
+query.step-name.demoted-headers	已删除信头
+query.step-name.changed-type	更改类型
+query.step-name.changed-type-locale	已更改带有本地语言的类型
+query.step-name.removed-other-columns	删除的其他列
+query.step-name.removed-columns	删除的列
+query.step-name.renamed-columns	重命名的列
+query.step-name.reordered-columns	重排列
+query.step-name.filtered-rows	过滤的行
+query.step-name.sorted-rows	排序行
+query.step-name.grouped-rows	分组行
+query.step-name.split-delimiter	按分隔符分割列
+query.step-name.split-positions	按位置划分列
+query.step-name.split-lengths	按位置划分列
+query.step-name.split-transition	按字符过渡分割列
+query.step-name.lowercased-text	小写文字
+query.step-name.uppercased-text	大写文字
+query.step-name.capitalized-each-word	将每个单词大写
+query.step-name.trimmed-text	缩写文字
+query.step-name.cleaned-text	已清除文本
+query.step-name.added-prefix	添加前缀
+query.step-name.added-suffix	添加后缀
+query.step-name.text-length	已计算文本长度
+query.step-name.reversed-rows	反转行
+query.step-name.rounded-off	已四舍五入
+query.step-name.rounded-up	整齐
+query.step-name.rounded-down	圆形向下
+query.step-name.absolute-value	计算绝对值
+query.step-name.square-root	计算平方根
+query.step-name.extracted-year	提取年份
+query.step-name.extracted-month	提取月数
+query.step-name.extracted-day	已提取日期
+query.step-name.inserted-year	插入年份
+query.step-name.inserted-month	插入的月份数
+query.step-name.inserted-day	插入日数
+query.step-name.duplicated-column	复制的列
+query.step-name.removed-alternate-rows	删除了替代行
+query.step-name.kept-range	固定行范围
+query.step-name.kept-first-rows	按住第一行
+query.step-name.kept-last-rows	保留最后一行
+query.step-name.removed-top-rows	删除了顶行
+query.step-name.removed-bottom-rows	删除了下行
+query.step-name.removed-duplicates	删除的复制件
+query.step-name.removed-blank-rows	删除了空行
+query.step-name.removed-errors	删除错误
+query.step-name.replaced-errors	已替换错误
+query.step-name.merged-columns	合并列
+query.step-name.replaced-value	已替换值
+query.step-name.filled-down	已填满
+query.step-name.filled-up	已填满
+query.step-name.transposed-table	已转换的表格
+query.step-name.pivoted-column	支线列
+query.step-name.unpivoted-columns	未中枢列
+query.step-name.unpivoted-other-columns	未中枢的其他列
+query.step-name.merged-queries	合并查询
+query.step-name.appended-query	附加查询
+query.step-name.added-custom	添加自定义
+query.step-name.added-conditional-column	添加条件列
+query.step-name.added-index	添加索引
+query.culture.zh-cn	中文( 简化, 中国)
+query.step-name.inserted-text-length	插入文本长度
+query.step-name.inserted-absolute-value	插入绝对值
+query.step-name.inserted-square-root	插入方根
+query.op.m-code	M 步( 代码)
+query.m-error.unsupported	线条 {line}: {name} 尚未支持。
+query.m-error.syntax	线条 {line}: 代码不能读取 : {message}
+query.m-error.raised	{reason}: {message}
+query.m-error.limit	密码运行得太久了或者太深了: {message}
+query.m-error.not-table	结果不是一个表格(它是 {type}).

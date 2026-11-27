@@ -1,0 +1,553 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+fix.dedupe-edit.my-data-has-headers	我的数据有信头: On
+fix.dedupe-edit.my-data-has-headers-off	我的数据有信头: 关闭
+fix.dedupe-edit.columns-compare	要比较的列
+fix.dedupe-edit.unselect-all	全部取消选择
+fix.dedupe-edit.remove-duplicates	删除重复
+fix.goto-special.select	选择
+fix.goto-special.constants	常数
+fix.goto-special.blanks	空白
+fix.goto-special.current-region	现区
+fix.goto-special.last-cell	最后一个单元格
+fix.goto-special.visible-cells-only	仅可见单元格
+fix.goto-special.text	文本
+fix.goto-special.logicals	逻辑
+fix.goto-special.errors	错误
+fix.goto-special.go-special	转到特别处
+fix.text-columns.enter-break-positions-character	输入断层位置作为1个或以上的字符计数,用逗号分隔(例如3,8).
+fix.text-columns.enter-break-positions-e-g	输入中断位置( 如 3, 8)。
+fix.text-columns.select-least-one-delimiter	选择至少一个分隔符。
+fix.text-columns.other-1-character	其他(1个字符)
+fix.text-columns.only-one-column-can-converted	一次只能转换一个列.
+fix.text-columns.enter-destination-cell-e-g	输入目的单元格( 如 B1 )。
+fix.text-columns.there-no-data-split	没有数据可拆分。
+fix.text-columns.there-already-data-here-replace	这里已经有数据。 要替换, 请再次点击 Split。
+fix.text-columns.delimiters	限定符
+fix.text-columns.fixed-width	固定宽度
+fix.text-columns.break-positions-characters-start	断开位置( 从开始的字符)
+fix.text-columns.tab	标签
+fix.text-columns.semicolon	分号
+fix.text-columns.comma	逗号
+fix.text-columns.space	空间
+fix.text-columns.treat-consecutive-delimiters-one	将连续的分隔符当作一个
+fix.text-columns.destination	目标
+fix.text-columns.preview	预览
+fix.text-columns.replace	替换
+fix.text-columns.split	分开
+fix.text-columns.text-columns	文本改为列
+fix.validation.value-does-not-match-data	此值不符合为该单元格定义的数据验证限制。
+fix.validation.input-message-optional	输入消息( 可选)
+fix.pivot-options.data	数据
+fix.goto.footnote	脚注
+fix.goto.endnote	尾注
+fix.help-panels.start	开始于
+fix.dedupe-edit.select-all	全选
+fix.validation.clear-all	全部清除
+fix.pivot.settings	设置
+dedupe.done	{gone} 找到并删除的重复值; {left} 独有的价值观依然存在。
+dedupe.column-heading	列 {column} ({heading})
+dedupe.column	列 {column}
+text-columns.done	分开 {rows} 排队.
+text-columns.source	要拆分的单元格 : {cells}
+text-columns.quote	文本修饰符 : {quote}
+text-columns.format	列数据格式 : {format}
+goto-special.done	{count} 选定单元格。
+edit.refused	这不可能做到的 (PDF){error}).
+flash-fill.done	闪存填充: 填充 {count} 细胞。
+fix.misc.flash-fill-couldn-t-recognize	Flash Fill 无法识别一个图案。 请在列中输入一个示例并再次尝试。
+fix.validation.any-value	任何值
+fix.validation.whole-number	全数
+fix.validation.decimal	小数
+fix.validation.list	列表
+fix.validation.text-length	文本长度
+fix.validation.between	介于
+fix.validation.not-between	不在两者之间
+fix.validation.equal	等于
+fix.validation.not-equal	不等于
+fix.validation.greater-than	大于
+fix.validation.less-than	小于
+fix.validation.greater-than-equal	大于或等于
+fix.validation.less-than-equal	小于或等于
+fix.validation.stop	停下来
+fix.validation.warning	警告
+fix.validation.information	资料
+fix.validation.allow	允许
+fix.validation.source	来源
+fix.validation.ignore-blank	忽略空白
+fix.validation.cell-dropdown	细胞内下降
+fix.validation.input-message	输入信件
+fix.validation.error-alert	错误提醒
+fix.validation.show-input-message-when-cell	选定单元格时显示输入消息
+fix.validation.show-error-alert-after-invalid	输入无效数据后显示错误提醒
+fix.validation.value-range-formula-list-comma	数值、范围或公式(列表:逗号分隔)
+fix.validation.second-value-between	第二个值( 在两者之间)
+fix.validation.enter-source	入源经.
+fix.validation.enter-formula	输入一个公式。
+fix.validation.validation-rule-set	审定规则确定.
+fix.validation.validation-rules-cleared	审定规则已清理完毕。
+xlsx.protect-sheet	保护工作表…
+xlsx.unprotect-sheet	取消保护工作表…
+xlsx.lock-cells	锁定单元格
+xlsx.hide-formulas	隐藏公式
+fix.protection.cell-chart-you-re-trying	您想要更改的单元格或图表位于受保护的工作表上。 要更改, 请取消工作表的保护。 您可能会被要求输入密码。
+fix.protection.select-locked-cells	选择锁定的单元格
+fix.protection.select-unlocked-cells	选择未解锁的单元格
+fix.protection.format-cells	格式化单元格
+fix.protection.format-columns	格式化列
+fix.protection.format-rows	格式化行
+fix.protection.insert-columns	插入列
+fix.protection.insert-rows	插入行
+fix.protection.insert-hyperlinks	插入超链接
+fix.protection.delete-columns	删除列
+fix.protection.delete-rows	删除行
+fix.protection.use-autofilter	使用自动筛选
+fix.protection.use-pivottable-pivotchart	使用枢轴表和枢轴图
+fix.protection.edit-objects	编辑对象
+fix.protection.edit-scenarios	编辑假想
+fix.protection.password-optional	密码( 可选)
+fix.protection.reenter-password	重新输入密码
+fix.protection.protect-worksheet-contents-locked	保护已锁定单元格的工作表和内容
+fix.protection.allow-all-users-worksheet	允许此工作表的所有用户
+fix.protection.unprotect-sheet	取消保护工作表
+fix.protection.protect-sheet	保护工作表
+fix.protection.unprotect	取消保护
+fix.protection.protect-sheet-2	保护工作表
+fix.protection.confirmation-password-not	确认密码不相同。
+fix.protection.password-you-supplied-not-correct	您提供的密码不正确。
+xlsx.series	系列…
+fix.series.series	系列
+fix.series.type	类型
+fix.series.date-unit	日期单位
+fix.series.day	日数
+fix.series.weekday	工作日( 周日)
+fix.series.month	月数
+fix.series.year	年份
+fix.series.step-value	步数
+fix.series.stop-value	停止数值
+fix.series.enter-step-value	输入一个步骤值。
+fix.series.enter-number-date-stop-value	输入一个数字或日期作为停止值。
+fix.series.enter-stop-value-fill-one	从一个单元格输入要填充的站点值。
+fix.series.enter-number-date-first-cell	在第一个单元格中输入数字或日期。
+page-setup.bad	输入 0 个或更多( mm) 个数 {field}.
+fix.help-panels.left-inside	左( 内侧)
+fix.help-panels.right-outside	右侧( 外侧)
+fix.help-panels.gutter	盖特
+fix.help-panels.gutter-position	格特位置( Gutter )
+fix.help-panels.mirror-margins	镜像边距
+fix.help-panels.header-footer-edge	页眉和页脚( 从边缘)
+fix.help-panels.top	顶端
+fix.help-panels.center	居中点
+fix.help-panels.bottom	底部
+fix.help-panels.margins-too-large-paper	边际太大了,对报纸来说。
+fix.help-panels.page-setup-changed	页面设置更改.
+fix.help-panels.footnote-endnote	脚注和尾注
+fix.help-panels.location	地点
+fix.help-panels.bottom-page	页面底端
+fix.help-panels.below-text	文本下方为
+fix.help-panels.end-section	节结束
+fix.help-panels.end-document	文档结束
+fix.help-panels.number-format	数字格式
+fix.help-panels.numbering	编号
+fix.help-panels.continuous	连续
+fix.help-panels.restart-each-section	重新启动每个区域
+fix.help-panels.restart-each-page	重新启动每页
+fix.help-panels.enter-whole-number-1-more	为 Start at 输入一个 1 或更多的整数。
+fix.help-panels.footnote-endnote-settings-changed	脚注和尾注设置有所改动。
+docx.list.format	数字格式
+docx.list.suffix	跟随数字
+docx.list.suffix-tab	标签字符
+docx.list.suffix-space	空间
+docx.list.suffix-none	没什么
+docx.bookmark	书签…
+fix.help-panels.bookmark	书签
+fix.help-panels.bookmark-name	书签名称
+fix.common.add	添加
+fix.help-panels.hidden-bookmarks	隐藏书签
+fix.help-panels.bookmark-name-must-begin-letter	书签名称必须从字母开始,只包含字母,数字和_(最多40个字符).
+fix.help-panels.bookmark-added	书签又加.
+fix.help-panels.bookmark-deleted	书签被删除.
+fix.list-formats.japanese-counting	日本计数
+fix.list-formats.iroha	伊罗哈
+docx.watermark	水印…
+fix.help-panels.watermark	水印
+fix.help-panels.remove-watermark	删除水印
+fix.help-panels.semitransparent	半透明
+fix.help-panels.diagonal	对角
+fix.print.horizontal	水平
+fix.help-panels.confidential	CONFIDENTIAL
+fix.help-panels.do-not-copy	DO NOT COPY
+fix.help-panels.asap	ASAP
+fix.help-panels.draft	DRAFT
+fix.help-panels.sample	SAMPLE
+fix.help-panels.urgent	URGENT
+fix.help-panels.silver	银
+docx.style.new	新建样式…
+fix.style-new.new-style	新样式
+fix.style-new.paragraph	段落
+fix.style-new.style-based	基于
+fix.style-new.style-following-paragraph	以下段落的样式
+fix.style-new.change-base	变化基础
+fix.style-new.style-name-based	样式“{name}“基于:
+fix.style-new.enter-name-style	输入样式的名称。
+fix.style-new.style-name-already-exists	名称的样式已经存在。
+fix.style-new.there-no-style-named-name	没有命名的风格“{name}”.
+fix.misc.style-name-created	风格“{name}”是创建的。
+fix.style-new.style-can-t-base-based	这种风格不可能是基础(它是基于这个基础).
+fix.style-new.base-style-changed	基座样式有所改变.
+docx.cstyle	字符样式
+docx.cstyle.clear	清除字符样式
+app.settings	设置…
+fix.right-tabs.chart-editor	图表编辑器
+fix.right-tabs.format	格式
+fix.file-actions.opened-preview-press-p-print	在预览中打开。 按 ⌘P 要打印。
+app.file.print	打印…
+fix.symbols.punctuation-symbols	标点符号
+fix.symbols.mathematical-operators	数学运算符
+fix.symbols.greek	捷克语Name
+fix.symbols.box-drawing-shapes	框绘图和形状
+fix.symbols.circled-numbers-units	圆形数字和单位
+fix.symbols.symbols-special-characters	符号和特殊字符
+about.version	版本 {version}
+about.license	本应用按 AGPL-3.0-only 或商业许可授权提供。
+about.update-available	已有新版本。
+fix.picture-panel.rotate-flip	旋转和翻转
+fix.picture-panel.rotate-left-90	向左旋转 90 度
+fix.picture-panel.rotate-right-90	向右旋转90度
+fix.picture-panel.flip-horizontal	水平翻转
+fix.picture-panel.flip-vertical	垂直翻转
+fix.picture-panel.crop	作物
+fix.picture-panel.apply-crop	应用裁剪
+fix.picture-panel.enter-crop-number-0-up	以 0 至低于 100 的数字输入作物。
+fix.picture-panel.top-plus-bottom-left-plus	上加下加左加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加左加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右加右
+fix.toolbar.don-t-add-space-between	不要在相同样式的段落之间添加空格
+fix.toolbar.none-0-pt	无( 0 平方厘米)
+fix.toolbar.1-pt-above	1 pt 及以上 (单位:千美元)
+fix.toolbar.10-pt-above	10 pt 及以上 (中文(简体) ).
+fix.toolbar.12-pt-above-default	12 pt 及以上( 默认)
+fix.toolbar.14-pt-above	14 pt 及以上 (中文(简体) ).
+fix.toolbar.16-pt-above	16 pt 及以上 (中文(简体) ).
+fix.toolbar.18-pt-above	18 pt 及以上(含)
+fix.toolbar.clear-setting	清除设置
+xlsx.print-options	打印选项
+xlsx.print.gridlines	网格线
+xlsx.print.headings	标题
+xlsx.print.black-white	黑色和白色
+xlsx.print.draft	草案
+fix.print.columns-repeat-left	要在左侧重复的列
+fix.print.use-selected-columns	使用选中的列
+fix.print.columns-repeat-left-cols-printed	左侧要重复的列 : {cols} (每页左边印)
+fix.print.columns-repeat-left-none	左侧要重复的列: 无
+fix.print.postcard	明信片
+fix.print.center-page	页面中心
+fix.print.vertical	垂直
+pptx.insert-chart.pie-of-pie	派派派派派派派派派派派派
+pptx.insert-chart.bar-of-pie	馅饼吧
+fix.chart-edit.pie-chart-type	图片图类型
+fix.chart-edit.pie-pie	派派派派派派派派派派派派
+fix.chart-edit.bar-pie	馅饼吧
+fix.chart-edit.split-series	拆分系列
+fix.chart-edit.percent	%
+fix.chart-edit.split-position-value	拆分位置/ 数值
+fix.chart-edit.second-plot-size	第二个绘图大小
+fix.chart-edit.enter-number-split-position-value	输入拆分位置/值的编号。
+fix.chart-edit.enter-integer-between-5-200	输入第二个图大小在 5 至 200 之间的整数。
+pptx.insert-chart.stock-hlc	库存(高低关闭)
+pptx.insert-chart.stock-ohlc	库存( 开放- 高低关闭)
+pptx.insert-chart.stock-vhlc	库存(伏-高-低-关闭)
+pptx.insert-chart.stock-vohlc	库存(伏-打开-高-低-关闭)
+fix.chart-edit.stock-chart-options	库存图表选项
+fix.chart-edit.high-low-lines	高低线
+fix.chart-edit.up-down-bars	上/下栏
+fix.chart-edit.drop-lines	放下行数
+xlsx.chart-series	系列
+xlsx.chart-series-add	+ 添加序列
+xlsx.chart-series-last-error	无法删除上一个序列。
+xlsx.chart-series-reorder-error	无法重排此图表的序列。
+xlsx.chart-series-add-error	无法在此图表中添加序列。
+xlsx.chart-series-delete-error	无法删除此图表的序列。
+xlsx.arrange-all	全部安排…
+xlsx.arrange-windows	排列窗口
+xlsx.arrange-tiled	铺设
+xlsx.arrange-horizontal	水平
+xlsx.arrange-vertical	垂直
+xlsx.arrange-cascade	连锁店
+xlsx.arrange-active-only	活动工作手册窗口
+fix.arrange-windows.arrange-windows	排列窗口
+fix.arrange-windows.arrange	排列
+fix.arrange-windows.tiled	铺设
+fix.arrange-windows.horizontal	水平
+fix.arrange-windows.vertical	垂直
+fix.arrange-windows.cascade	连锁店
+fix.arrange-windows.windows-active-workbook	活动工作手册窗口
+xlsx.new-window	新建窗口
+fix.misc.new-window	新建窗口
+fix.editor.do-you-want-save-changes	您想要保存更改吗 ?
+fix.editor.don-t-save	别存了
+xlsx.sync-scrolling	同步滚动
+xlsx.reset-window-position	重置窗口位置
+fix.misc.view-side-side	逐一查看
+fix.misc.synchronous-scrolling	同步滚动
+fix.misc.reset-window-position	重置窗口位置
+xlsx.compatibility.title	兼容性检查器
+xlsx.compatibility.desc	扫描工作簿中未为先前版本所支持的特性 Excel (97-2003)并总结问题。
+xlsx.compatibility.passed	未找到兼容性问题
+xlsx.compatibility.passed-sub	本工作手册没有包含导致功能严重丧失的特性。 Excel 97-2003.
+xlsx.compatibility.significant	功能严重丧失
+xlsx.compatibility.minor	忠诚的轻微丧失
+xlsx.compatibility.recheck	重新检查
+xlsx.compatibility.recheck-done	兼容性检查重新评价.
+fix.misc.check-compatibility	检查兼容性…
+fix.misc.compatibility-checker	兼容性检查器
+fix.misc.significant-loss-functionality	功能严重丧失
+fix.misc.minor-loss-fidelity	忠诚的轻微丧失
+fix.misc.recheck	重新检查
+xlsx.autorecover-settings	自动恢复设置…
+xlsx.autorecover.settings-title	自动恢复设置
+xlsx.autorecover.section-general	常规设置
+xlsx.autorecover.enabled-label	保存自动恢复信息
+xlsx.autorecover.interval-label	间歇
+xlsx.autorecover.interval-minutes-unit	分钟
+xlsx.autorecover.keep-unsaved-label	如果我关闭而不保存, 则保留上次自动回收版本
+xlsx.autorecover.section-location	文件位置
+xlsx.autorecover.location-label	自动恢复文件位置
+xlsx.autorecover.reset-location	重置为默认值
+xlsx.autorecover.section-workbook	当前工作手册
+xlsx.autorecover.disable-workbook-label	只禁用此工作簿的自动恢复
+xlsx.autorecover.save-now-btn	现在保存自动恢复数据
+xlsx.autorecover.save-btn	保存设置
+xlsx.autorecover.saved-msg	设置已保存。
+xlsx.autorecover.error-interval	请指定1至120分钟的间隔。
+xlsx.autorecover.error-path	无法创建目标文件夹
+xlsx.autorecover.now-done	自动恢复快照已保存
+xlsx.autorecover.now-failed	保存自动恢复快照失败
+xlsx.autorecover.banner-text	[自动恢复]本工作手册在意外关闭后被回收,保存以保持您的更改.
+xlsx.autorecover.save-as	另存为
+xlsx.autorecover.discard	丢弃
+xlsx.autorecover.wasm-save-unsupported	在浏览器版本中不支持自动恢复快照
+xlsx.recover-unsaved	回收未保存的工作簿…
+xlsx.recover.title	回收未保存的工作簿
+xlsx.recover.panel-desc	工作簿自动备份列表已关闭而不保存。
+xlsx.recover.empty-title	没有未保存的工作簿可回收
+xlsx.recover.empty-desc	文件关闭而不保存, 或在意外终止后, 将在此显示。
+xlsx.recover.date-label	日期
+xlsx.recover.size-label	大小
+xlsx.recover.opened-status	打开已恢复的工作簿
+xlsx.recover.open-failed	打开文件失败
+xlsx.recover.deleted-msg	已恢复的文件已删除。
+xlsx.recover.all-deleted-msg	所有已恢复的文件都删除。
+xlsx.recover.clear-all	全部清除
+xlsx.recover.rescan	重新扫描
+xlsx.recover.wasm-unsupported	在浏览器版本中不支持恢复未保存的工作簿
+xlsx.backup-save-settings	备份和保存设置…
+xlsx.backupsave.panel-title	备份保存设置( S)
+xlsx.backupsave.section-default-loc	默认保存位置
+xlsx.backupsave.default-loc-desc	保存新工作簿时指定默认文件夹。
+xlsx.backupsave.reset-default-loc	重置为默认值
+xlsx.backupsave.section-backup	创建备份复制
+xlsx.backupsave.always-backup-label	保存时总是创建备份副本
+xlsx.backupsave.backup-format-label	备份格式
+xlsx.backupsave.format-xlk	Excel 可兼容性( N).xlk)
+xlsx.backupsave.format-xlsx	Excel 工作手册.xlsx)
+xlsx.backupsave.backup-location-label	地点
+xlsx.backupsave.loc-same-folder	与原始文件相同
+xlsx.backupsave.loc-custom-folder	专用文件夹
+xlsx.backupsave.custom-folder-label	备份目的文件夹
+xlsx.backupsave.section-workbook	当前工作簿设置
+xlsx.backupsave.wb-backup-label	总是为此工作簿创建备份
+xlsx.backupsave.backup-now-btn	现在就创建备份
+xlsx.backupsave.error-default-path	无法创建默认保存文件夹
+xlsx.backupsave.error-backup-path	无法创建备份目的文件夹
+xlsx.backupsave.save-failed	保存设置失败
+xlsx.backupsave.saved-msg	设置已保存。
+xlsx.backupsave.wasm-unsupported	在浏览器版本中不支持备份设置
+xlsx.backupsave.backup-now-done	创建备份
+xlsx.backupsave.backup-now-failed	创建备份失败
+xlsx.backupsave.need-save-first	工作手册尚未保存, 请先保存工作手册。
+xlsx.backupsave.save-settings-btn	保存设置
+xlsx.open-and-repair	修复损坏的工作簿…
+xlsx.repair.title	修复损坏的工作手册
+xlsx.repair.desc	修复已损坏 Excel 工作手册或提取公式和值。
+xlsx.repair.file-label	修理工作手册
+xlsx.repair.browse-btn	浏览…
+xlsx.repair.prompt-file	选择要修复的工作簿
+xlsx.repair.mode-label	修复选项
+xlsx.repair.mode-repair	修理(建议)
+xlsx.repair.mode-repair-desc	尽可能多地恢复数据、格式化和公式。
+xlsx.repair.mode-formulas	提取数据: 回收公式
+xlsx.repair.mode-formulas-desc	提取公式和值,删除样式和对象。
+xlsx.repair.mode-values	提取数据: 转换为值
+xlsx.repair.mode-values-desc	将公式转换为静态计算值并安全提取。
+xlsx.repair.execute-btn	修复和打开
+xlsx.repair.close-btn	关闭
+xlsx.repair.error-no-file	没有指定文件。
+xlsx.repair.error-not-found	未找到指定文件。
+xlsx.repair.error-read	读取文件失败
+xlsx.repair.error-failed	修复工作簿失败
+xlsx.repair.success-msg	工作手册修复成功。
+xlsx.repair.banner-default	[回]本工本从腐败中修补,请审查结果,另存为新文件.
+xlsx.repair.banner-tag	已修复
+xlsx.repair.banner-advice	请审查结果并保存为新文件。
+xlsx.repair.show-report-btn	显示报表
+xlsx.repair.banner-close	开除
+xlsx.insert.wordart	WordArt
+xlsx.insert.wordart-styles	WordArt 样式
+xlsx.text.warp	变形
+xlsx.text.wordart-styles	WordArt 样式
+xlsx.wordart.style1	填充:黑色,文本1
+xlsx.wordart.style2	填充:蓝色, 角 1, 阴影
+xlsx.wordart.style3	填充:橙色,角 2,轮廓
+xlsx.wordart.style4	填充:白色,外观:黑色
+xlsx.wordart.style5	填充:黄金,阴影
+xlsx.wordart.style6	填充:蓝色,外观:白色,阴影
+xlsx.text.warp.none	无变形
+xlsx.text.warp.arch-up	拱门向上
+xlsx.text.warp.arch-down	拱门向下
+xlsx.text.warp.circle	圆形
+xlsx.text.warp.button	按钮
+xlsx.text.warp.curve-up	曲线向上
+xlsx.text.warp.curve-down	曲线向下
+xlsx.text.warp.wave1	第1波段 :
+xlsx.text.warp.wave2	第2波段 :
+xlsx.text.warp.double-wave1	双波 1
+xlsx.text.warp.inflate	充电
+xlsx.text.warp.deflate	充电
+xlsx.text.warp.stop	停下来
+xlsx.text.warp.triangle	三角形
+xlsx.text.warp.triangle-inverted	倒转三角形
+xlsx.text.warp.chevron	雪佛龙
+xlsx.text.warp.chevron-inverted	反转雪佛龙
+xlsx.text.warp.fade-right	淡出右侧
+xlsx.text.warp.fade-left	向左淡出
+xlsx.text.warp.fade-up	淡出( T)
+xlsx.text.warp.fade-down	向下淡出
+xlsx.chart.save-template	另存为模板…
+xlsx.chart-save-template	另存为模板…
+xlsx.chart.apply-template	应用模板…
+xlsx.chart-apply-template	应用模板…
+fix.chart-template.chart-template	图表模板
+fix.chart-template.apply-template	应用模板
+fix.chart-template.save-template	另存为模板
+fix.chart-template.template-name	模板名称
+fix.chart-template.saved-templates	保存的模板
+fix.chart-template.no-saved-templates-found	未找到已保存的模板。
+fix.chart-template.apply-file	从文件应用…
+fix.chart-template.select-chart-template	选择图表模板
+fix.chart-template.invalid-template-name	无效的模板名称。
+fix.chart-template.please-select-template-apply	请选择要应用的模板。
+fix.chart-edit.surface-type	表面类型
+fix.chart-edit.3-d-surface	三维表面
+fix.chart-edit.3-d-wireframe	三维线框
+fix.chart-edit.contour	轮廓
+fix.chart-edit.wireframe-contour	线框轮廓
+pptx.insert-chart.surface-3d	三维表面
+pptx.insert-chart.surface-3d-wireframe	3-D 线框表面
+pptx.insert-chart.contour	轮廓
+pptx.insert-chart.contour-wireframe	线框轮廓
+xlsx.insert-pivot-chart	枢轴图…
+xlsx.pivot-chart	数据透视图
+xlsx.pivot-chart-source	已连接的枢轴表
+xlsx.pivot-chart-open-fields	枢轴表字段…
+xlsx.pivot-chart-inserted	插入了枢轴图
+xlsx.toggle-phonetic	显示/隐藏 Furigana
+xlsx.phonetic-edit	编辑 Furigana…
+fix.phonetic.edit-furigana	编辑 Furigana
+fix.phonetic.furigana	富里加纳
+fix.phonetic.cell	单元格
+fix.font-name.yu-mincho	余敏乔
+fix.font-name.yu-gothic	余哥特语
+fix.font-name.ms-mincho	Mincho女士国家
+fix.font-name.ms-gothic	MS 哥特语
+fix.font-name.biz-udp-mincho	BIZ UDP Mincho( 维基百科)
+fix.font-name.biz-udp-gothic	BIZ UDP 哥特式语言
+help.update-log	显示更新日志
+fix.update.found	新版本的 ibisOffice 您想要更新吗 ?
+fix.update.found.detail	版本 {version} (你已经… ) {current}). ibisOffice 将退出并再次打开以更新。
+fix.update.yes	是
+fix.update.open-site	打开下载页面
+fix.update.no	否
+fix.update.failed	ibisOffice 无法更新。
+fix.update.failed.detail	请从下载页面下载并再次安装 : {url}
+fix.update.translocated.detail	移动 ibisOffice.app 转到应用程序文件夹,然后再次打开,它可以自动更新。
+fix.update.setting	启动时检查更新
+fix.update.setting.note	如果有更新的版本, ibisOffice 下载并询问是否更新。
+fix.update.log-path	更新日志 : {log}
+fix.formula-bar.expand	扩展公式栏
+fix.formula-bar.collapse	折叠公式栏
+xlsx.chart-type	图表类型
+fix.validation.continue	继续?
+fix.validation.cancel	取消
+fix.move.overwrite	您想要替换目标单元格的内容吗 ?
+fix.move.ok	确定
+fix.menu.search-placeholder	搜索
+fix.menu.not-found	未找到
+help.check-update	检查更新
+fix.update.latest	ibisOffice 已更新。
+fix.update.latest.detail	您有版本 {current}.
+fix.update.check-failed	无法检查更新。
+fix.update.check-failed.detail	确保你连接到互联网上,再试一次。
+access.file.new	n
+access.file.open	o
+access.file.recent	r
+access.file.save	s
+access.file.save-as	a
+access.file.copy	y
+access.file.export	e
+access.file.print	p
+access.file.info	i
+access.tools.settings	t
+access.file.close	c
+access.file.page-setup	u
+access.edit.undo	u
+access.edit.redo	r
+access.edit.cut	t
+access.edit.copy	c
+access.edit.paste	p
+access.docx.paste-special	s
+access.edit.copy-format	o
+access.edit.paste-format	m
+access.edit.select-all	a
+access.edit.delete	d
+access.edit.duplicate	i
+access.edit.find-replace	f
+access.docx.find.next	n
+access.docx.find.previous	v
+access.docx.go-to	g
+access.insert.table	t
+access.insert.image	p
+access.insert.shape	s
+access.insert.chart	c
+access.insert.link	l
+access.insert.comment	m
+access.review.comments	c
+access.insert.text-box	x
+access.insert.equation	q
+access.insert.symbol	y
+access.docx.bookmark	k
+access.docx.xref	r
+access.docx.header-footer	h
+access.docx.page-break	b
+access.pptx.insert.wordart	w
+access.view.zoom	z
+access.view.fullscreen	f
+access.window.new-window	n
+access.window.arrange-all	a
+access.window.cascade	c
+access.window.tile-side-by-side	s
+access.window.tile-stacked	t
+access.help.help	h
+access.help.search	s
+access.help.shortcuts	k
+access.help.check-update	u
+access.help.about	a
+access.tools.spelling	s
+access.tools.word-count	w
+access.tools.dictionary	d
+access.tools.accessibility	a
+fix.update.user-files	此文件夹持有 {count} 不属于该部分的文件 ibisOffice。更新不会删除它们。为了安全起见,我们建议将它们移至另一个文件夹。
+fix.update.manual	一个新版本 {version} 可供使用。
+fix.update.flatpak.detail	从下载页面获取 .flatpak 用于您的系统( x86_64 或 arch64), 并再次安装此命令 : {command}
+fix.update.source.detail	更新源并重新构建源。 下载页面 : {url}
+fix.update.copy-command	复制命令
+menu.group.wrap-text	文本环绕
+help.register-desktop	添加到应用程序列表
+help.setup	设置

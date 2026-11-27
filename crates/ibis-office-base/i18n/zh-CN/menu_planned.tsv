@@ -1,0 +1,268 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+menu.planned.doc.file.1	清除最近的文件( 正在开发中)
+menu.planned.doc.file.2	启动窗口( 在开发中)
+menu.planned.doc.file.3	PDF (.pdf) (正在开发)
+menu.planned.doc.file.4	SVG 图像( E).svg) (正在开发)
+menu.planned.doc.file.5	动画 GIF (.gif) (正在开发)
+menu.planned.doc.file.6	模板( E).dotx.(在开发中)
+menu.planned.doc.file.7	打开 Microsoft 文字(正在开发中)
+menu.planned.doc.file.8	图像大小和质量… (开发中)
+menu.planned.doc.file.9	将字体嵌入文件… (正在开发)
+menu.planned.doc.file.10	模板和添加… (正在开发中)
+menu.planned.doc.edit.1	选择对象( 正在开发中)
+menu.planned.doc.edit.2	选择类似格式的文本( 正在开发中)
+menu.planned.doc.insert.1	插入表格… (开发中)
+menu.planned.doc.insert.2	将文本转换为表格(  Tabs)( 正在开发中)
+menu.planned.doc.insert.3	Excel 电子表格(正在开发中)
+menu.planned.doc.insert.4	3D 模型… (开发中)
+menu.planned.doc.insert.5	截图(正在编写中)
+menu.planned.doc.insert.6	形状( 正在开发)
+menu.planned.doc.insert.7	新的绘图画像( 正在开发)
+menu.planned.doc.insert.8	标题… (正在开发)
+menu.planned.doc.insert.9	脚… (开发中)
+menu.planned.doc.insert.10	文本框(正在开发)
+menu.planned.doc.insert.11	垂直文本框( 正在开发中)
+menu.planned.doc.insert.12	对象… (开发中)
+menu.planned.doc.insert.13	内建方程式(开发中).
+menu.planned.doc.insert.14	插入新方程式( 正在开发中)
+menu.planned.doc.insert.15	墨水方程(开发中).
+menu.planned.doc.insert.16	重复科(正在开发)
+menu.planned.doc.insert.17	群控(正在开发中)
+menu.planned.doc.design.1	主题(正在开发中)
+menu.planned.doc.layout.1	边距:正常(正在开发)
+menu.planned.doc.layout.2	窄(在开发中)
+menu.planned.doc.layout.3	中度(正在开发中)
+menu.planned.doc.layout.4	边距:宽(在开发中)
+menu.planned.doc.layout.5	页面设置… (正在开发)
+menu.planned.doc.layout.6	肖像(正在开发)
+menu.planned.doc.layout.7	信件( 正在开发中)
+menu.planned.doc.layout.8	不要连字符( 正在开发)
+menu.planned.doc.layout.9	手稿纸设置… (正在开发)
+menu.planned.doc.layout.10	段落详情… (正在编写)
+menu.planned.doc.references.1	1号楼(正在开发中)
+menu.planned.doc.references.2	建置- In 2 (正在开发)
+menu.planned.doc.references.3	目录(正在编制中)
+menu.planned.doc.references.4	删除目录( 正在开发中)
+menu.planned.doc.references.5	插入脚注(正在开发中)
+menu.planned.doc.references.6	下个尾注(正在开发中)
+menu.planned.doc.references.7	前一个尾注(正在开发中)
+menu.planned.doc.references.8	添加新源… (开发中)
+menu.planned.doc.references.9	添加新占位符… (开发中)
+menu.planned.doc.references.10	图表(正在编制中)
+menu.planned.doc.references.11	更新指数(正在开发中)
+menu.planned.doc.references.12	更新表(正在开发中)
+menu.planned.doc.mailings.1	信封… (开发中)
+menu.planned.doc.mailings.2	标签… (正在开发)
+menu.planned.doc.mailings.3	选择收件人… (正在开发中)
+menu.planned.doc.mailings.4	插入合并字段( 在开发中)
+menu.planned.doc.mailings.5	预览结果(正在开发中)
+menu.planned.doc.mailings.6	打印合并文档… (正在开发)
+menu.planned.doc.review.1	自定义词典… (正在开发)
+menu.planned.doc.review.2	检查文档… (正在开发)
+menu.planned.doc.review.3	设为默认语言… (正在开发)
+menu.planned.doc.review.4	英语(美国)(正在开发)
+menu.planned.doc.review.5	语言(正在开发)
+menu.planned.doc.review.6	删除注释(在开发中)
+menu.planned.doc.review.7	简单标记( 正在开发中)
+menu.planned.doc.review.8	全部标记( 正在开发)
+menu.planned.doc.review.9	原件(正在编写)
+menu.planned.doc.review.10	显示标记( 在开发中)
+menu.planned.doc.review.11	接受选中的更改( 在开发中)
+menu.planned.doc.review.12	拒绝选中的更改( 正在开发中)
+menu.planned.doc.review.13	前一个变化(正在开发中)
+menu.planned.doc.review.14	下一个变化(正在开发中)
+menu.planned.doc.review.15	比较文档… (正在开发)
+menu.planned.doc.review.16	合并文档… (正在开发)
+menu.planned.doc.review.17	块作者( 正在开发中)
+menu.planned.doc.review.18	隐藏墨水( 在开发中)
+menu.planned.doc.view.1	审查(正在拟订中)
+menu.planned.doc.window.1	逐一查看( 正在开发)
+menu.planned.doc.window.2	同步滚动( 正在开发)
+menu.planned.doc.window.3	重置窗口位置( 正在开发中)
+menu.planned.sheet.file.1	清除最近的文件( 正在开发中)
+menu.planned.sheet.file.2	PDF (.pdf) (正在开发)
+menu.planned.sheet.file.3	CSV UTF-8 (.csv,《当前工作表》)(正在编写中)
+menu.planned.sheet.file.4	文本 TSV (.tsv,《当前工作表》)(正在编写中)
+menu.planned.sheet.file.5	打开 Microsoft Excel (正在开发中)
+menu.planned.sheet.file.6	保护工作表… (正在开发)
+menu.planned.sheet.file.7	保护工作手册… (正在编写中)
+menu.planned.sheet.file.8	自动恢复设置… (开发中)
+menu.planned.sheet.file.9	备份和保存设置… (正在开发中)
+menu.planned.sheet.file.10	方程式选项… (开发中)
+menu.planned.sheet.file.11	兼容性选项… (开发中)
+menu.planned.sheet.edit.1	选择对象( 正在开发中)
+menu.planned.sheet.edit.2	明确内容(正在开发中)
+menu.planned.sheet.edit.3	自动填充行高度( 正在开发)
+menu.planned.sheet.edit.4	自动Fit 列宽度( 正在开发中)
+menu.planned.sheet.edit.5	隐藏行( 在开发中)
+menu.planned.sheet.edit.6	隐藏列( 在开发中)
+menu.planned.sheet.edit.7	Uhide 工作表(正在开发中)
+menu.planned.sheet.edit.8	标签颜色( 正在开发中)
+menu.planned.sheet.edit.9	删除工作表( 正在开发中)
+menu.planned.sheet.insert.1	合并(正在开发中)
+menu.planned.sheet.insert.2	位于单元格之上(在开发中)
+menu.planned.sheet.insert.3	图标… (开发中)
+menu.planned.sheet.insert.4	形状( 正在开发)
+menu.planned.sheet.insert.5	方程式(正在开发中)
+menu.planned.sheet.insert.6	对象… (开发中)
+menu.planned.sheet.pagelayout.1	A4(210 x 297毫米)(在开发中)
+menu.planned.sheet.pagelayout.2	A3(297 x 420毫米)(在开发中)
+menu.planned.sheet.pagelayout.3	B5(182 x 257毫米)(在开发中)
+menu.planned.sheet.pagelayout.4	信件( 正在开发中)
+menu.planned.sheet.pagelayout.5	删除分页符( 在开发中)
+menu.planned.sheet.pagelayout.6	重置全部分页符( 在开发中)
+menu.planned.sheet.pagelayout.7	背景… (正在开发中)
+menu.planned.sheet.pagelayout.8	显示( 在开发中)
+menu.planned.sheet.pagelayout.9	印刷(正在开发)
+menu.planned.sheet.pagelayout.10	显示( 在开发中)
+menu.planned.sheet.pagelayout.11	印刷(正在开发)
+menu.planned.sheet.formulas.1	最近使用(开发中)
+menu.planned.sheet.formulas.2	金融(正在开发中)
+menu.planned.sheet.formulas.3	逻辑函数( 正在开发)
+menu.planned.sheet.formulas.4	文本(正在开发中)
+menu.planned.sheet.formulas.5	日期/时间(正在编制中)
+menu.planned.sheet.formulas.6	查询和参考( 正在开发)
+menu.planned.sheet.formulas.7	数学 & Trig( 正在开发)
+menu.planned.sheet.formulas.8	显示的精度( 正在开发)
+menu.planned.sheet.data.1	从网络… (开发中)
+menu.planned.sheet.data.2	现有联系(正在开发中)
+menu.planned.sheet.data.3	更新关键表(正在开发)
+menu.planned.sheet.data.4	连接属性… (开发中)
+menu.planned.sheet.data.5	排序范围( 正在开发中)
+menu.planned.sheet.data.6	排序范围( 递减) (正在开发)
+menu.planned.sheet.data.7	无效的圆形数据( 正在开发中)
+menu.planned.sheet.data.8	清晰验证圆( 正在开发中)
+menu.planned.sheet.review.1	工作手册统计(正在编制中)
+menu.planned.sheet.review.2	自定义词典… (正在开发)
+menu.planned.sheet.review.3	新说明(正在编写中)
+menu.planned.sheet.review.4	前一个评论(正在编写中)
+menu.planned.sheet.review.5	下一篇评论(正在编写中)
+menu.planned.sheet.review.6	转换为注释( 正在开发)
+menu.planned.sheet.view.1	多页( 正在开发中)
+menu.planned.sheet.view.2	Page Width (开发中)
+menu.planned.sheet.window.1	逐一查看( 正在开发)
+menu.planned.sheet.window.2	同步滚动( 正在开发)
+menu.planned.sheet.window.3	重置窗口位置( 正在开发中)
+menu.planned.sheet.window.4	隐藏窗口( 在开发中)
+menu.planned.sheet.window.5	闪烁窗口… (正在开发中)
+menu.planned.slide.file.1	清除最近的文件( 正在开发中)
+menu.planned.slide.file.2	PDF (.pdf) (正在开发)
+menu.planned.slide.file.3	导出当前幻灯片为图像… (正在开发)
+menu.planned.slide.file.4	导出全部幻灯片为图像… (正在开发)
+menu.planned.slide.file.5	导出为动画 GIF.(正在开发中)
+menu.planned.slide.file.6	SVG 图像( E).svg) (正在开发)
+menu.planned.slide.file.7	打开 Microsoft PowerPoint (正在开发中)
+menu.planned.slide.file.8	将字体嵌入文件… (正在开发)
+menu.planned.slide.file.9	兼容性选项… (开发中)
+menu.planned.slide.edit.1	保持源格式( 正在开发)
+menu.planned.slide.edit.2	粘贴和匹配样式( 正在开发中)
+menu.planned.slide.edit.3	粘贴为普通文本( 正在开发中)
+menu.planned.slide.edit.4	粘贴特殊… (正在开发)
+menu.planned.slide.edit.5	选择对象( 正在开发中)
+menu.planned.slide.edit.6	选择具有类似格式( 正在开发) 的对象
+menu.planned.slide.edit.7	复制幻灯片( 在开发中)
+menu.planned.slide.edit.8	删除幻灯片( 在开发中)
+menu.planned.slide.edit.9	应用布局( 正在开发中)
+menu.planned.slide.edit.10	重置幻灯片( 在开发中)
+menu.planned.slide.insert.1	重新使用幻灯片… (开发中)
+menu.planned.slide.insert.2	5×3 表(正在开发)
+menu.planned.slide.insert.3	插入表格… (开发中)
+menu.planned.slide.insert.4	绘制边框( 正在开发中)
+menu.planned.slide.insert.5	Excel 电子表格(正在开发中)
+menu.planned.slide.insert.6	从计算机上传( 正在开发)
+menu.planned.slide.insert.7	形状( 正在开发)
+menu.planned.slide.insert.8	动作按钮( 正在开发中)
+menu.planned.slide.insert.9	行动… (开发中)
+menu.planned.slide.insert.10	日期和时间… (开发中)
+menu.planned.slide.insert.11	幻灯片编号( 在开发中)
+menu.planned.slide.insert.12	录音音频… (正在开发)
+menu.planned.slide.design.1	主题颜色调色板( 正在开发)
+menu.planned.slide.design.2	主题颜色和字体… (正在开发中)
+menu.planned.slide.design.3	主题效果(正在开发中)
+menu.planned.slide.design.4	背景样式( 正在开发中)
+menu.planned.slide.design.5	自定义幻灯片大小… (开发中)
+menu.planned.slide.review.1	删除注释(在开发中)
+menu.planned.slide.review.2	前一个评论(正在编写中)
+menu.planned.slide.review.3	下一篇评论(正在编写中)
+menu.planned.slide.review.4	比较演示文稿… (开发中)
+menu.planned.slide.review.5	接受(正在开发)
+menu.planned.slide.review.6	撤销( 正在开发)
+menu.planned.slide.review.7	前一个变化(正在开发中)
+menu.planned.slide.review.8	下一个变化(正在开发中)
+menu.planned.slide.review.9	结束审查(正在编写中)
+menu.planned.slide.review.10	隐藏墨水( 在开发中)
+menu.planned.slide.view.1	页次 (开发中)
+menu.planned.slide.view.2	规则(正在开发)
+menu.planned.slide.view.3	指南(正在编写中)
+menu.planned.slide.view.4	添加垂直指南( 正在开发中)
+menu.planned.slide.view.5	添加水平指南( 正在开发中)
+menu.planned.slide.view.6	删除所有指南(正在开发中)
+menu.planned.slide.view.7	适合窗口( 正在开发)
+menu.planned.slide.view.8	黑白(在开发中)
+menu.planned.slide.view.9	高对比度(在开发中)
+menu.group.data-validation	数据验证
+menu.group.equation-group	公式
+menu.group.guides	指南
+menu.group.protect-workbook	保护工作簿
+menu.group.shapes	形状
+menu.group.table-of-contents	目录
+menu.group.text-box	文本框
+menu.group.view-side-by-side	逐一查看
+menu.group.zoom	缩放
+menu.as.doc.docx.arrange-all	全部排列
+menu.as.doc.docx.combine	组合…
+menu.as.doc.docx.insert.draw-table	绘制表格
+menu.as.doc.docx.inspect-document	检查文档…
+menu.as.doc.docx.interaction.reviewing	审查
+menu.as.doc.docx.math.builtin	内建方程式
+menu.as.doc.docx.merge.print	打印文档…
+menu.as.doc.docx.page.margins-normal	常规
+menu.as.doc.docx.page.margins-wide	宽
+menu.as.doc.docx.paragraph.details	段落设置…
+menu.as.doc.docx.reset-window-position	重置窗口位置
+menu.as.doc.docx.sync-scrolling	同步滚动
+menu.as.doc.docx.track.display.all	全部标记
+menu.as.doc.docx.track.display.original	原样
+menu.as.doc.docx.track.display.simple	简单标记
+menu.as.doc.insert.audio	音频…
+menu.as.doc.insert.repeating-section	重复区
+menu.as.doc.insert.video	视频…
+menu.as.sheet.insert.audio	音频…
+menu.as.sheet.insert.video	视频…
+menu.as.sheet.xlsx.autorecover-settings	自动恢复和保存选项…
+menu.as.sheet.xlsx.financial-functions	财务
+menu.as.sheet.xlsx.gridlines	视图
+menu.as.sheet.xlsx.hide-columns	隐藏列
+menu.as.sheet.xlsx.hide-rows	隐藏行
+menu.as.sheet.xlsx.hide-window	隐藏
+menu.as.sheet.xlsx.insert-sheet	插入工作表
+menu.as.sheet.xlsx.logical-functions	逻辑
+menu.as.sheet.xlsx.lookup-functions	查询参考( R)
+menu.as.sheet.xlsx.math-functions	数学三角形( T)
+menu.as.sheet.xlsx.open-and-repair	打开并修复…
+menu.as.sheet.xlsx.precision-as-displayed	设定显示的精确度
+menu.as.sheet.xlsx.recent-functions	最近使用
+menu.as.sheet.xlsx.reset-window-position	重置窗口位置
+menu.as.sheet.xlsx.sort-descending	降序排序
+menu.as.sheet.xlsx.sync-scrolling	同步滚动
+menu.as.sheet.xlsx.text-functions	文本
+menu.as.sheet.xlsx.theme-effects	效果
+menu.as.sheet.xlsx.theme-palette	颜色
+menu.as.sheet.xlsx.unhide-window	闪开…
+menu.as.slide.edit.paste-plain	只保留文本
+menu.as.slide.image.file	从文件…
+menu.as.slide.insert.audio	音频…
+menu.as.slide.insert.video	视频…
+menu.as.slide.pptx.action-buttons	动作按钮
+menu.as.slide.pptx.autorecover-settings	自动恢复和保存选项…
+menu.as.slide.pptx.delete-slide	删除幻灯片
+menu.as.slide.pptx.duplicate-slide	复制幻灯片
+menu.as.slide.pptx.grid-view	幻灯片浏览器
+menu.as.slide.pptx.notes-page-view	备注页
+menu.as.slide.pptx.reset-slide	重置幻灯片
+menu.as.slide.pptx.skip-slide	隐藏幻灯片
+menu.as.slide.pptx.slide-size	幻灯片大小
+menu.as.slide.pptx.slide-size.custom	自定义幻灯片大小…
+menu.as.slide.pptx.theme.effects	效果
+menu.as.slide.pptx.theme.palette	颜色
+menu.as.slide.pptx.transition	切换

@@ -1,0 +1,2369 @@
+# 简体中文界面文案。每行包含键、制表符和译文。
+docx.cell.border.none	无边框
+docx.cell.diagonal.down	所选单元格的下斜框线
+docx.cell.diagonal.up	所选单元格的上斜框线
+docx.cell.border-edge	将边框应用到选中单元格的边缘
+docx.cell.border.types	选定单元格的边框
+docx.cell.border.width	所选单元格的边框线宽
+docx.cell.border.color	所选单元格的边框颜色
+docx.paragraph.fill.none	无
+docx.paragraph.border.none	无
+docx.paragraph.border-edge	将边框应用到边缘
+docx.paragraph.fill	段落底纹
+docx.paragraph.border	边框样式
+docx.paragraph.border-width	边框线宽
+docx.paragraph.border-color	边框颜色
+docx.style.modify	修改样式…
+docx.font.custom	西文、东亚文字和复杂文字字体…
+docx.font.cs	复杂文字字体
+docx.color.custom	更多颜色…
+docx.highlight-none	无
+docx.paragraph.details	段落设置…
+docx.spacing.before-add	增加段前间距（12 磅）
+docx.spacing.after-remove	删除段后间距
+docx.spacing.contextual	同样样式的段落间不添加间距
+docx.fill.none	无
+docx.cell.valign-top	对齐顶端
+docx.cell.valign-center	垂直对齐中心
+docx.cell.valign-bottom	对齐下方
+docx.format-brush.apply	应用格式刷
+docx.format-brush.lock	连续使用格式刷
+docx.format-brush.cancel	取消格式刷
+docx.picture.size	图片大小…
+docx.picture.alt-text	替代文字…
+docx.picture.alt-text.heading	替代文字
+docx.picture.alt-text.hint	输入用于描述这张图片的替代文字。
+docx.picture.alt-text.title	标题
+docx.picture.alt-text.desc	说明
+docx.picture.alt-text.apply	应用替代文字
+docx.picture.decorative	标记为装饰
+docx.picture.decorative.hint	屏幕阅读器会跳过装饰性图片。
+docx.picture.replace	更改图片…
+docx.picture.ratio	锁定纵横比
+docx.underline.none	无
+docx.underline.auto	自动
+docx.underline.custom	更多颜色…
+docx.text.strike	删除线
+docx.text.double-strike	双删除线
+docx.text.caps	全部大写
+docx.text.small-caps	小型大写字母
+docx.text.hidden	隐藏
+docx.format.hidden	隐藏
+docx.text.outline	大纲
+docx.text.shadow	阴影
+docx.text.emboss	浮雕
+docx.text.imprint	刻录
+docx.text.baseline	基线
+docx.text.border	字符边框
+docx.text.shading	字符阴影
+docx.text.case	更改大小写
+docx.text.case.sentence	句首字母大写
+docx.text.case.lower	小写
+docx.text.case.upper	大写
+docx.text.case.title	将每个单词大写
+docx.text.case.toggle	切换大小写
+docx.text.case.half-width	半宽
+docx.text.case.full-width	全宽
+docx.text.case.katakana	卡塔卡纳
+docx.text.case.hiragana	希拉加纳
+docx.text.enclose.none	(无)
+docx.paragraph.details#2	细节…
+docx.table-of-contents.update-menu	更新目录
+docx.table-of-contents.update-dialog	更新目录…
+docx.table-of-contents.update-dialog.title	更新目录
+docx.table-of-contents.update-dialog.prompt	Word 正在更新目录。 请选择以下选项之一。
+docx.table-of-contents.update-page-numbers-only	仅更新页码
+docx.table-of-contents.update-entire-table	更新整个表格
+docx.table-of-contents.update-ok	确定
+docx.table-of-contents.update-cancel	取消
+docx.table-of-figures	数字表
+docx.table-of-figures.figure	图表(图)
+docx.table-of-figures.table	数字表(表)
+docx.table-of-figures.equation	数字表(方程式)
+docx.cross-reference.none	未找到标题
+docx.caption.figure	说明( 图)
+docx.caption.table	说明(表)
+docx.caption.equation	说明( 方程式)
+docx.caption.insert	插入说明…
+docx.fields.insert	战地…
+docx.fields.edit	编辑字段…
+docx.fields.update	更新字段
+docx.fields.unlink	取消链接字段
+docx.fields.toggle	切换字段代码
+docx.fields.toggle-all	切换所有字段代码
+docx.fields.lock	锁定字段
+docx.fields.unlock	解锁字段
+docx.footnote	插入脚注
+docx.endnote	尾注
+docx.notes.to-endnotes	将脚注转换为尾注
+docx.notes.to-footnotes	将尾注转换为脚注
+docx.date.update	自动更新
+docx.track.record	修订
+docx.compare	比较文档…
+docx.compare.new-doc	比较到新文档…
+docx.compare.result-title	比较结果
+docx.combine	合并文档…
+docx.compare.format	比较: 检查格式更改
+docx.compare.case	比较: 检查大小写更改
+docx.compare.white-space	比较: 检查白空格变化
+docx.compare.tables	比较: 检查表格
+docx.compare.headers	比较: 检查页眉和页脚
+docx.compare.footnotes	比较: 脚注和尾注
+docx.compare.comments	比较: 检查注释
+docx.compare.fields	比较: 检查字段
+docx.track.lock	锁定跟踪
+docx.track.display	显示审查
+docx.track.display.simple	简单标记
+docx.track.display.all	全部标记
+docx.track.display.none	无标记
+docx.track.display.original	原样
+docx.track.show	显示标记( Off 显示最终文档)
+docx.track.accept	接受选中的更改
+docx.track.reject	拒绝选中的更改
+docx.track.accept-shown	接受显示的所有更改
+docx.track.reject-shown	拒绝显示的所有更改
+docx.track.accept-all	接受所有更改
+docx.track.reject-all	拒绝所有更改
+docx.track.accept-all-stop	接受所有更改并停止跟踪
+docx.track.reject-all-stop	拒绝所有更改并停止跟踪
+docx.track.reviewers	特定人员
+docx.track.reviewers.all	所有审查者
+docx.comments.show	显示注释
+docx.section-next	节间断 (下页)
+docx.section-continuous	节间歇( 持续)
+docx.section-odd	节间断 (Odd Page)
+docx.section-even	节间断开( 偶数页)
+docx.picture.file	从文件…
+docx.cell.merge-right	与右单元格合并
+docx.cell.split-grid	按网格柱分隔单元格
+docx.table.repeat-header	重复页眉行
+docx.table.cant-split	不要让行突破页面
+docx.table.size	列宽和行高度…
+docx.heading-numbers	编号标题(1/1.1/1.1.1)
+docx.page.direction.horizontal	水平
+docx.page.direction.vertical	垂直
+docx.page.portrait	纵向
+docx.page.landscape	风景
+docx.page.letter	信件
+docx.page.margins-normal	边距: 正常
+docx.page.margins-narrow	边距: 窄
+docx.page.margins-wide	边距: 宽
+docx.page.color	页面颜色
+docx.page.color.none	无颜色
+docx.page.multiple-pages	多页
+docx.page.multiple-pages.normal	常规
+docx.page.multiple-pages.mirror-margins	镜像边距
+docx.page.multiple-pages.book-fold	书折
+docx.page.multiple-pages.reverse-book-fold	反转书折叠
+docx.page.multiple-pages.two-on-one	每页2页
+docx.page.book-fold-sheets	每册工作表
+docx.page.book-fold-sheets.all	全部人员
+docx.help-panels.book-fold-sheets-hint	(0个或全部为空白)
+docx.columns	列数
+docx.columns.1	一个
+docx.columns.2	二个
+docx.columns.3	三个
+docx.columns.separator	线条之间
+docx.section.title-page	不同的首页
+docx.section.even-odd	不同的奇数页( E)
+docx.section.show-document-text	显示文档文本
+docx.section.restart	恢复页面编号, 时间为 1
+docx.section.start-page	开始页码
+docx.section.page-start-continue	从上一节继续
+docx.section.page-start-1	开始于: 1
+docx.section.page-start-2	开始于: 2
+docx.section.page-start-3	开始于: 3
+docx.section.page-start-5	开始于: 5
+docx.section.page-start-10	开始于: 10
+docx.section.page-start-custom	在页面设置中指定…
+docx.underline.types	下划线样式
+docx.underline.colors	下划线颜色
+docx.text.scale_menu	字符缩放
+docx.text.spacing_menu	字符间距
+docx.text.kern_menu	克宁语Name
+docx.text.opentype	OpenType 特征
+docx.text.opentype.ligatures	词组
+docx.text.opentype.ligatures.none	无
+docx.text.opentype.ligatures.standard	仅标准
+docx.text.opentype.ligatures.standard-contextual	标准与背景
+docx.text.opentype.ligatures.historical-discretional	历史和自由裁量权
+docx.text.opentype.ligatures.all	全部人员
+docx.text.opentype.num-spacing	数字间距
+docx.text.opentype.num-spacing.default	默认
+docx.text.opentype.num-spacing.proportional	比例
+docx.text.opentype.num-spacing.tabular	表格
+docx.text.opentype.num-form	数字表单
+docx.text.opentype.num-form.default	默认
+docx.text.opentype.num-form.lining	林宁( L) :
+docx.text.opentype.num-form.old-style	老斯图尔
+docx.text.opentype.cntxt-alts	使用上下文替换
+docx.table-of-contents.levels	目录中显示的关卡
+docx.cross-reference	交叉参考
+docx.cross-reference.dialog	交叉引用…
+docx.cross-reference.title	交叉参考
+docx.cross-reference.type	参考类型
+docx.cross-reference.type.heading	标题
+docx.cross-reference.type.bookmark	书签
+docx.cross-reference.type.footnote	脚注
+docx.cross-reference.type.endnote	尾注
+docx.cross-reference.type.caption	图/表
+docx.cross-reference.kind	插入提及
+docx.cross-reference.kind.text	文本
+docx.cross-reference.kind.page	页码
+docx.cross-reference.kind.paragraph	段落编号
+docx.cross-reference.kind.note	说明编号
+docx.cross-reference.kind.label_number	只有标签和号码
+docx.cross-reference.kind.entire_caption	全部标题
+docx.cross-reference.kind.caption_text	仅包含标题的文本
+docx.cross-reference.kind.relative	相对位置
+docx.cross-reference.hyperlink	插入为超链接
+docx.cross-reference.insert	插入
+docx.cross-reference.close	关闭
+docx.cross-reference.empty	(未找到可查询的项目)
+docx.cross-reference.inserted	插入了交叉引用。
+docx.date	日期和时间
+docx.track	修订
+docx.table	表格
+docx.list.start	开始于
+docx.list	重新开始编号
+docx.paragraph.pagination	行和分页符
+docx.paragraph.suppress-auto-hyphens	不要连字符
+docx.paragraph.overflow-punct	挂起标点
+docx.paragraph.auto-space-de	自动调整亚洲文本和拉丁文本之间的空间
+docx.paragraph.auto-space-dn	自动调整亚洲文本和数字之间的空格
+docx.paragraph.kinsoku	使用亚洲规则来控制第一个和最后一个字符
+docx.paragraph.word-wrap	允许拉丁文本在字的中间环绕
+docx.paragraph.bidi	右转文字方向
+docx.paragraph.snap-to-grid	与网格对齐
+docx.page	页面设置
+docx.line-numbers	行号
+docx.line-numbers.none	无
+docx.line-numbers.continuous	连续
+docx.line-numbers.restart-page	恢复每一页
+docx.line-numbers.restart-section	重新启动每个区域
+docx.context.font	字体…
+docx.context.paragraph	段落…
+docx.line-numbers.count-by	计数按
+docx.line-numbers.every-1	每行
+docx.line-numbers.every-5	每5行数
+docx.line-numbers.every-10	每10行
+docx.line-numbers.distance	从文本
+docx.line-numbers.distance-auto	自动
+docx.line-numbers.distance-5	5毫米口径
+docx.line-numbers.distance-10	10毫米口径
+docx.section	节次
+docx.print-layout	打印布局
+docx.view.read-mode	读取模式
+docx.view.web-layout	网络布局
+docx.view.outline	大纲
+docx.view.draft	草案
+docx.view.focus	焦点
+docx.ruler	标尺
+docx.vertical-ruler	垂直标尺
+docx.ruler-unit	标尺单位
+docx.ruler-unit.cm	厘米( cm)
+docx.ruler-unit.mm	毫米(毫米)
+docx.ruler-unit.inch	英寸( 英寸)
+docx.ruler-unit.point	点数( pt)
+docx.ruler-unit.pica	皮卡斯(皮卡)
+docx.gridlines	网格线
+docx.formatting-marks	显示格式标记
+docx.white-space	页面间空白
+docx.page-movement	页移动
+docx.page-movement.vertical	垂直
+docx.page-movement.side-to-side	侧到侧
+docx.view.marks-options	格式化标记选项
+docx.view.marks.spaces	空间
+docx.view.marks.tabs	标签字符
+docx.view.marks.paragraph	段落标记
+docx.view.marks.line-breaks	换行符
+docx.view.marks.hidden	隐藏文本
+docx.page-break	分页符
+docx.column-break	分栏
+docx.header-footer	页眉和页脚
+docx.page-number	页码
+docx.page-number.position	页数位置
+docx.page-number.bottom	页面底部( 浮点)
+docx.page-number.bottom-left	左边
+docx.page-number.bottom-center	居中点
+docx.page-number.bottom-right	对
+docx.page-number.top	页面顶部( 页眉)
+docx.page-number.top-left	左边
+docx.page-number.top-center	居中点
+docx.page-number.top-right	对
+docx.page-number.current	目前职位
+docx.table-of-contents	目录
+docx.cell-borders.all-borders	所有边框
+docx.color-panel.check-6-digit-rgb-value	检查六位数 RGB 值(例如2A7FC1)和文本选择。
+docx.color-panel.rgb-6-digit-hex	RGB (6位六进制)
+docx.editing.replacing-deleting-across-multiple	不支持在多个段落中替换或删除带有跟踪更改的段落。一次编辑一个段落。
+docx.editing.select-changes-accept-reject	选择在同一机构、标题或脚注内接受或拒绝的修改。
+docx.find.replacing-across-multiple	不支持在跟踪更改时跨多个段落替换。
+docx.find.search-results-have-changed-check	搜索结果已更改。 请检查要替换的项目。
+docx.find.not-found	未找到
+docx.find.find-whole-words-only	只查找整个单词
+docx.find.use-wildcards	使用通配符
+docx.font-panel.check-font-name-selection-if	检查字体名称和选择。如果文档已更改,请重新打开设置。
+docx.font-panel.blank-means-not-specified-mixed	空白表示未指定或混合。只应用已更改的字体名称。
+docx.font-panel.latin-font	拉丁字体
+docx.font-panel.east-asian-font	东亚字体
+docx.font-panel.complex-script-font	复杂脚本字体
+docx.link-panel.https-start-bookmark	https://… (从#开始为书签)
+docx.mod.page	页次
+docx.mod.zoom-page-width	缩放到页面宽度
+docx.misc.outline	大纲
+docx.paragraph-decorations.single	单身
+docx.chrome.triple	三连
+docx.paragraph-decorations.fine-dashed	精细的破烂
+docx.paragraph-decorations.dash-dot-stroked	Dash-Dot 已断开
+docx.paragraph-decorations.thin-thick-narrow-gap	微小的( 狭小的缺口 )
+docx.paragraph-decorations.thick-thin-narrow-gap	微小差距( 狭小差距 )
+docx.paragraph-decorations.thin-thick-thin-narrow-gap	微小差距( Narlow- Think- Thin)
+docx.paragraph-decorations.thin-thick-medium-gap	细- 深( 中度差距)
+docx.paragraph-decorations.thick-thin-medium-gap	厚- 深( 中度差距)
+docx.paragraph-decorations.thin-thick-thin-medium-gap	细- 细- 微缩( 中位距)
+docx.paragraph-decorations.thin-thick-wide-gap	细小的( 宽的缺口 )
+docx.paragraph-decorations.thick-thin-wide-gap	细- 深( 宽差距)
+docx.paragraph-decorations.thin-thick-thin-wide-gap	细-短( 宽差距 )
+docx.paragraph-decorations.double-wave	双波
+docx.paragraph-decorations.emboss	浮雕
+docx.paragraph-decorations.engrave	刻录
+docx.paragraph-decorations.outset	出错
+docx.paragraph-decorations.inset	设置
+docx.paragraph-decorations.light-red	浅红色
+docx.paragraph-panel.document-has-changed-reopen	文档已更改。 重新打开段落设置。
+docx.paragraph-panel.check-numbers-paragraph-selection	检查数字、段落选择和行距类型。
+docx.paragraph-panel.spacing-indent-unit-pt-use	间距和缩进单位: pt. 悬浮第一行使用负值.
+docx.paragraph-panel.before	之前,我说,
+docx.paragraph-panel.after	之后
+docx.paragraph-panel.left-indent	左缩进
+docx.paragraph-panel.right-indent	右缩进
+docx.paragraph-panel.first-line	第一行
+docx.paragraph-panel.line-spacing-mixed	行间距 (混合)
+docx.paragraph-panel.line-spacing-multiple	行间距
+docx.paragraph-panel.line-spacing-pt	行间距
+docx.paragraph-panel.line-spacing-multiple-unit	×
+docx.paragraph-panel.blank-means-mixed-only-changed	空白表示混合。 只应用已更改的项目。
+docx.picture-panel.check-picture-selection-value	检查图片选择和 0 之间的值.01 和 1584 pt. 随着宽度比的锁定,改变宽度或高度。
+docx.picture-panel.width-pt	宽度
+docx.picture-panel.height-pt	高度
+docx.picture-panel.lock-aspect-ratio	锁定侧面比
+docx.picture-panel.picture-size	图片大小
+docx.common.color	颜色
+docx.common.italic	倾斜
+docx.style-panel.justify	说明
+docx.style-panel.update-match-selection	更新到匹配选择
+docx.table-size-panel.check-table-selection-values-width	检查表格选择和值( 宽度/ 高度 0).05-1584 pt;0为自动高度).
+docx.table-size-panel.changes-width-column-where	更改选定单元格起始的列的宽度及其行的高度。
+docx.table-size-panel.column-width-pt	列宽
+docx.table-size-panel.row-height-pt	行高度
+docx.table-size-panel.table-column-width-row-height	表格列宽度和行高度
+docx.toolbar.subtitle	副标题
+docx.toolbar.heading-1	标题1
+docx.toolbar.heading-2	标题2
+docx.toolbar.heading-3	标题3
+docx.toolbar.automatic-black	自动( 黑色 )
+docx.toolbar.bright-green	亮绿色
+docx.toolbar.pink	粉红色
+docx.toolbar.gray-25-percent	灰色 25%
+docx.toolbar.dark-teal	暗纹
+docx.toolbar.dark-green	暗绿色
+docx.toolbar.dark-pink	暗粉红色
+docx.toolbar.dark-yellow	暗黄色
+docx.toolbar.gray-50-percent	灰色50%
+docx.toolbar.quote	引语
+docx.toolbar.intense-quote	强烈引用
+docx.toolbar.list-paragraph	列表段落
+docx.help-panels.caption	说明
+docx.toolbar.no-spacing	无间距
+docx.toolbar.toc-heading	TOC 标题
+docx.toolbar.update-style-match-selection	更新样式以匹配选择
+docx.toolbar.highlight-color	突出显示颜色
+docx.toolbar.insert-link-k	插入链接( I)⌘K)
+docx.toolbar.align-left-l	左对齐( R)⌘L)
+docx.toolbar.center-e	中点( A)⌘E)
+docx.toolbar.align-right-r	右对齐( E)⌘R)
+docx.toolbar.justify-j	说明( E)⌘J)
+docx.toolbar.checklist	核对清单
+docx.toolbar.shading-cell	阴影 (Cell)
+docx.toolbar.words-only	单词
+docx.toolbar.thick-dotted	厚度点
+docx.toolbar.thick-dashed	厚度已达标
+docx.toolbar.long-dashed	长的虚空
+docx.toolbar.thick-long-dashed	厚长的薄薄
+docx.toolbar.thick-dash-dot	厚度 Dash- Dot
+docx.toolbar.thick-dash-dot-dot	厚大点点数
+docx.toolbar.thick-wave	细波
+docx.toolbar.100-percent-normal	100%(正常)
+docx.toolbar.normal-0-pt	普通( 0 平方公尺)
+docx.toolbar.expanded-plus-0-5-pt	已扩展( + 0. 5 pt)
+docx.toolbar.expanded-plus-1-pt	已扩展( +1 pt)
+docx.toolbar.expanded-plus-1-5-pt	扩展( +1.5 pt)
+docx.toolbar.expanded-plus-2-pt	已扩展( +2 pt)
+docx.toolbar.expanded-plus-3-pt	已扩展( +3 pt)
+docx.toolbar.expanded-plus-4-pt	已扩展( +4 pt)
+docx.toolbar.condensed-0-5-pt	凝固度(-0.5平方公尺)
+docx.toolbar.condensed-1-pt	凝固( 1 平方公尺)
+docx.toolbar.condensed-1-5-pt	凝固(-1.5 pt)
+docx.toolbar.condensed-2-pt	凝固(-2平方公尺)
+docx.toolbar.multiple	多个…
+docx.toolbar.least	起码…
+docx.toolbar.exactly	没错…
+docx.toolbar.up-heading-1	至标题1
+docx.toolbar.up-heading-2	至标题2
+docx.toolbar.up-heading-3	至标题3
+docx.toolbar.up-heading-4	至标题4
+docx.common.figure	图
+docx.toolbar.5-rows-times-3-columns	5行×3列
+docx.toolbar.delete-table	删除表格
+docx.toolbar.row-height-auto	行高: 自动
+docx.toolbar.row-height-least	行高: 最少
+docx.toolbar.row-height-exactly	行高: 正是这样
+docx.toolbar.cell-vertical-alignment-top	单元格垂直对齐:上
+docx.toolbar.cell-vertical-alignment-center	单元格垂直对齐:居中
+docx.toolbar.cell-vertical-alignment-bottom	单元格垂直对齐: 底端
+docx.toolbar.restart-1	于 1 重新开始
+docx.toolbar.continue-previous-list	继续上一个列表
+docx.toolbar.keep-next	跟着下一个
+docx.toolbar.keep-lines-together	将行保持在一起
+docx.toolbar.page-break-before	前一页的分页
+docx.toolbar.hanging-punctuation	挂起标点
+docx.toolbar.automatically-adjust-space-between	自动调整亚洲文本和拉丁文本之间的空间
+docx.toolbar.automatically-adjust-space-between-2	自动调整亚洲文本和数字之间的空格
+docx.toolbar.use-asian-rules-controlling-first	使用亚洲规则来控制第一个和最后一个字符
+docx.toolbar.allow-latin-text-wrap-middle	允许拉丁文本在字的中间环绕
+docx.toolbar.edit-header-section	编辑此区域的标题
+docx.toolbar.edit-footer-section	编辑此部分的页脚
+docx.toolbar.edit-first-page-header	编辑第一页页页眉
+docx.toolbar.edit-first-page-footer	编辑首页页脚
+docx.toolbar.edit-even-page-header	编辑甚至页面页眉
+docx.toolbar.edit-even-page-footer	编辑偶数页脚
+docx.toolbar.link-header-previous	链接上一个标题
+docx.toolbar.link-footer-previous	链接页脚到上一个
+docx.toolbar.page-number-1-2-3	第1,2,3页
+docx.toolbar.page-number-i-ii-iii	页数:一、二、三
+docx.toolbar.page-number-i-ii-iii-2	编号:第一、二、三
+docx.toolbar.page-number-b-c	编号:a、b、c
+docx.toolbar.page-number-b-c-2	页号: A、B、C
+docx.toolbar.automatic	自动
+docx.color-panel.underline-color	下划线颜色
+docx.misc.track-changes	修订
+docx.common.table	表格
+docx.common.exactly	没错
+docx.chrome.superscript	上标
+docx.chrome.subscript	下标
+docx.context-menu.delete-row	删除行
+docx.context-menu.delete-column	删除列
+docx.paragraph-panel.align-indent	对齐和缩进
+docx.cell-structure.merging-splitting-cells-can-t	合并或拆分单元格无法在此文档中保存 : {error}
+docx.find.i-n	{i} 页:1 {n}
+docx.find.n-results	{n} 结果
+docx.mod.n-characters	{n} 字符
+docx.style-panel.modify-style-name	修改样式 : {name}
+docx.help-panels.heading-n	标题 {n}
+docx.toolbar.toc-n	TOC {n}
+docx.toolbar.update-name-match-selection	更新 {name} 匹配选择
+docx.toolbar.emphasis-mark	突出号
+docx.toolbar.none	(无)
+docx.toolbar.dot	点
+docx.toolbar.comma	逗号
+docx.toolbar.circle	圆形
+docx.toolbar.under-dot	在点下
+docx.toolbar.phonetic-guide	语言指南…
+docx.ruby-panel.phonetic-guide	语音指南
+docx.ruby-panel.ruby-text	Ruby 文本
+docx.ruby-panel.remove-ruby	删除红宝石
+docx.ruby-panel.select-text-add-phonetic-guide	选择要添加语音指南的文字
+xlsx.table-to-range	转换为范围
+xlsx.conditional-menu	条件格式
+xlsx.cf-highlight	突出显示单元格规则
+xlsx.cf-top-bottom	上/下层规则
+xlsx.cf-bars	数据栏
+xlsx.cf-scales	颜色缩放
+xlsx.cf-icon-sets	图标集
+docx.conditional-quick.text-contains	包含的文字…
+docx.conditional-quick.duplicate-values	复制值
+docx.conditional-quick.unique-values	独有的数值
+docx.conditional-quick.top-10-items	前十项
+docx.conditional-quick.top-10-percent	前10%
+docx.conditional-quick.bottom-10-items	底部 10 项目
+docx.conditional-quick.bottom-10-percent	最低10%
+docx.conditional-quick.green-yellow-red	绿色 - 黄色 - 红色
+docx.conditional-quick.red-yellow-green	红色、 黄色、 绿色
+docx.conditional-quick.green-white-red	绿色- 白色- 红色
+docx.conditional-quick.red-white-green	红色- 白色- 绿色
+docx.conditional-quick.blue-white-red	蓝色- 白色- 红色
+docx.conditional-quick.red-white-blue	红色- 白色- 蓝色
+docx.conditional-quick.white-green	白色 - 绿色
+docx.conditional-quick.green-yellow	绿色 - 黄色
+docx.conditional-quick.3-arrows-colored	3 箭头( 彩色)
+docx.conditional-quick.3-traffic-lights-unrimmed	3 交通灯(未关闭)
+docx.conditional-quick.3-symbols-circled	3 符号(环绕)
+docx.conditional-quick.3-flags	3 个旗帜
+docx.conditional-quick.4-arrows-colored	4 箭头(彩色)
+docx.conditional-quick.5-arrows-colored	5 箭头(彩色)
+docx.conditional-quick.5-ratings	5 评分
+docx.conditional-quick.clear-rules-selected-cells	从选中单元格中清除规则
+docx.conditional-quick.clear-rules-entire-sheet	从完整工作表中清除规则
+docx.page.setup	页面设置…
+docx.notes.settings	脚注和尾注设置…
+docx.toolbar.table-style-options	表格样式选项
+docx.table-design.header-row	标题行
+docx.table-design.total-row	总行数
+docx.table-design.first-column	第一栏
+docx.table-design.last-column	最后一个列
+docx.toolbar.banded-rows	带宽行
+docx.toolbar.banded-columns	带宽列
+docx.toolbar.combine-characters	合并字符
+docx.toolbar.none-2	(无)
+docx.toolbar.no-brackets	无括号
+docx.toolbar.enclose-characters	包含字符
+docx.ruby-panel.select-1-2-characters-enclose	选择要附加的1或2个字符
+docx.cell.merge-below	与下面的单元格合并
+docx.cell.unmerge-below	垂直脱落
+docx.toolbar.distribute-columns-evenly	平均分布列
+docx.help-panels.enter-whole-number-1-more	输入起始页码的完整数字 1 或以上。
+docx.chrome.text-direction	文本方向
+docx.help-panels.blank-continue	(空白:继续)
+docx.table.select-cell	选择单元格
+docx.table.select-row	选择行
+docx.table.select-table	选择表格
+docx.table.to-text	将表格转换为文本( 标签)
+docx.table.from-text	将文本转换为表格( 标签)
+docx.table-convert.document-cannot-save-table-text	此文档无法保存表格和文本转换 : {error}
+docx.paragraph-panel.widow-orphan-control	寡妇/孤儿控制
+docx.paragraph-panel.suppress-line-numbers	禁止行号
+docx.paragraph-panel.don-t-hyphenate	不要连字
+docx.toolbar.distribute-rows-evenly	平均分配行
+docx.table.equal-columns	平均分布列
+docx.table.equal-rows	平均分配行
+docx.table.autofit	自动编辑
+docx.table.autofit-contents	自动编辑到内容
+docx.table.autofit-window	自动装入窗口
+docx.table.autofit-fixed	固定列宽度
+docx.toolbar.autofit-contents	自动编辑到内容
+docx.toolbar.autofit-window	自动装入窗口
+docx.toolbar.fixed-column-width	固定列宽度
+docx.bullet	项目符号
+docx.bullet.toggle	项目符号
+docx.list.toggle	编号
+docx.bullet.format	符号格式
+docx.bullet.suffix	跟随项目符号
+docx.bullet.disc	盘片
+docx.bullet.circle	圆形
+docx.bullet.square	平方边
+docx.bullet.diamond	钻石
+docx.bullet.arrow	箭头
+docx.bullet.check	检查标记
+docx.bullet.dash	达西
+docx.bullet.box	方框
+docx.bullet.diamond-outline	钻石大纲
+docx.bullet.star	恒星( S)
+docx.bullet.star-outline	恒星轮廓
+docx.bullet.check-heavy	重检查标记
+docx.bullet.four-diamonds	四颗钻石
+docx.bullet.sparkle	闪光灯
+docx.bullet.arrow-right	右箭头
+docx.bullet.suffix-tab	标签字符
+docx.bullet.suffix-space	空间
+docx.bullet.suffix-none	没什么
+docx.cell.direction	文本方向
+docx.cell.direction.lrtb	水平
+docx.cell.direction.tbrl	垂直( 右对左)
+docx.cell.direction.tblrv	垂直( 左到右)
+docx.cell.direction.btlr	旋转 270 ° (Bottom to Top)
+docx.cell.margins	单元格边距
+docx.cell.margins.normal	正常(左/右 5.4 平方公尺)
+docx.cell.margins.none	无( 0 平方厘米)
+docx.cell.margins.narrow	窄(Top/Bottom 2 pt,左/右 3 pt)
+docx.cell.margins.wide	宽度(Top/Bottom 4 pt,左/右 8 pt)
+docx.cell.wrap-text	在单元格中环绕文字
+docx.toolbar.cell-margins	单元格边距
+docx.toolbar.wrap-text-cell	在单元格中环绕文字
+docx.table.align	表格对齐
+docx.table.align.left	左对齐
+docx.table.align.center	对齐中心
+docx.table.align.right	右对齐
+docx.table.indent	从左侧缩进的表格
+docx.table.indent.0	无( 0 平方厘米)
+docx.table.indent.1	1 字符 (10.5 pt)
+docx.table.indent.2	2 字符( 21 pt)
+docx.table.indent.3	3 字符 (31.5 pt)
+docx.table.indent.4	4 个字符( 42 pt)
+docx.table.indent.none	无(0毫米)
+docx.table.indent.5mm	5毫米口径
+docx.table.indent.10mm	10毫米口径
+docx.table.indent.15mm	15毫米口径
+docx.table.indent.20mm	20毫米口径
+docx.toolbar.table-alignment	表格对齐
+docx.toolbar.table-indent	表格缩进
+docx.table.split	拆分表格
+docx.table.select	选择
+docx.table.select.cell	选择单元格
+docx.table.select.column	选择列
+docx.table.select.row	选择行
+docx.table.select.table	选择表格
+docx.table.cell-insert	插入单元格
+docx.table.cell-insert.shift-right	插入单元格( 右移)
+docx.table.cell-insert.shift-down	插入单元格( 向下移动)
+docx.table.delete-cell	删除单元格
+docx.table.cell-delete.shift-left	删除单元格( 左移)
+docx.table.cell-delete.shift-up	删除单元格( 向上移动)
+docx.toolbar.select-cell	选择单元格
+docx.toolbar.select-column	选择列
+docx.toolbar.select-row	选择行
+docx.misc.insert-cells	插入单元格
+docx.context-menu.insert-cells-shift-down	插入单元格( 向下移动)
+docx.misc.delete-cells	删除单元格
+docx.context-menu.delete-cells-shift-up	删除单元格( 向上移动)
+docx.toolbar.select-table	选择表格
+docx.picture.border	图片边框
+docx.picture.border.none	无边框
+docx.picture.border.width	重量
+docx.picture.border.w050	0.5 平方厘米
+docx.picture.border.w100	1平方公尺
+docx.picture.border.w150	1.5 平方厘米
+docx.picture.border.w225	2.25 pt (帮助)
+docx.picture.border.w300	3 pt (中文(简体) ).
+docx.picture.border.w450	4.5 pt (单位:千美元)
+docx.picture.border.w600	6 pt (中文(简体) ).
+docx.picture.border.color	颜色
+docx.picture.border.color.black	黑色
+docx.picture.border.color.gray	灰色
+docx.picture.border.color.red	红色
+docx.picture.border.color.blue	蓝色
+docx.picture.border.color.green	绿色
+docx.picture.border.color.orange	橙色
+docx.picture.border.dash	线片
+docx.picture.border.dash.solid	固态
+docx.picture.border.dash.dot	圆点
+docx.picture.border.dash.dash	达西
+docx.picture.border.dash.lgdash	长发
+docx.picture.border.dash.dashdot	达什点
+docx.picture.border.label	边框
+docx.picture.crop-to-shape	裁剪到形状
+docx.picture.crop-to-shape.label	裁剪到形状
+docx.picture.crop-to-shape.rect	矩形
+docx.picture.crop-to-shape.round-rect	圆形矩形
+docx.picture.crop-to-shape.ellipse	椭圆形
+docx.picture.crop-to-shape.triangle	同位素三角形
+docx.picture.crop-to-shape.diamond	钻石
+docx.picture.crop-to-shape.parallelogram	平行图
+docx.picture.crop-to-shape.trapezoid	铺垫
+docx.picture.crop-to-shape.hexagon	六边形
+docx.picture.crop-to-shape.octagon	八边形
+docx.picture.crop-to-shape.heart	心脏
+docx.picture.crop-to-shape.star5	恒星: 5 点
+docx.picture.crop-to-shape.cloud	云头
+docx.picture.crop-to-shape.arrow	右箭头
+docx.picture.crop-to-shape.teardrop	泪滴
+docx.picture.crop-to-shape.callout	圆形矩形点名
+docx.picture.recolor	重新颜色
+docx.picture.recolor.none	无重彩
+docx.picture.recolor.grayscale	灰度( E)
+docx.picture.recolor.sepia	塞皮亚
+docx.picture.recolor.washout	冲洗
+docx.picture.recolor.bw50	黑白50%
+docx.picture.recolor.blue	蓝色
+docx.picture.recolor.green	绿色
+docx.picture.recolor.red	红色
+docx.picture.recolor.orange	橙色
+docx.picture.recolor.purple	紫色
+docx.picture.saturation	颜色饱和度
+docx.picture.saturation.0	饱和度 0%
+docx.picture.saturation.50	饱和度 50%
+docx.picture.saturation.100	饱和度 100%(正常)
+docx.picture.saturation.200	饱和度200%
+docx.picture.saturation.300	饱和度 300%
+docx.picture.transparency	图片透明
+docx.picture.transparency.0	透明度 0% (奥巴马)
+docx.picture.transparency.15	透明度 15%
+docx.picture.transparency.30	透明度 30%
+docx.picture.transparency.50	透明度 50%
+docx.picture.transparency.65	透明度 65%
+docx.picture.transparency.80	透明度 80%
+docx.picture.soft-edge	软边
+docx.picture.soft-edge.none	无
+docx.picture.soft-edge.1pt	1平方公尺
+docx.picture.soft-edge.2pt5	2.5平方厘米
+docx.picture.soft-edge.5pt	5平方公尺
+docx.picture.soft-edge.10pt	10 pt (韩语).
+docx.table.cell-spacing	单元格间距
+docx.table.cell-spacing.none	无( 0 平方厘米)
+docx.table.cell-spacing.1pt	1平方公尺
+docx.table.cell-spacing.2pt	2 平方公尺
+docx.table.cell-spacing.3pt	3 pt (中文(简体) ).
+docx.table.cell-spacing.4pt	4 平方公尺
+docx.table.cell-spacing.6pt	6 pt (中文(简体) ).
+docx.toolbar.cell-spacing	单元格间距
+docx.help-panels.word-count	字数
+docx.help-panels.selected-text	选中文本
+docx.help-panels.entire-document	整个文档
+docx.help-panels.pages	页次
+docx.help-panels.words	单词
+docx.help-panels.characters-no-spaces	字符( 无空格 )
+docx.help-panels.characters-spaces	字符( 有空格 )
+docx.help-panels.paragraphs	段次页次
+docx.help-panels.lines	行数
+docx.paste-special	粘贴特殊
+docx.paste-special.keep-source	保留源格式
+docx.paste-special.match-format	匹配目标格式
+docx.paste-special.text-only	只保留文本
+docx.paste-special.format-only	仅粘贴格式
+docx.paste-special.markdown	粘贴为 Markdown
+docx.edit.copy-markdown	复制为 Markdown
+docx.options.paste-default	默认粘贴行为
+docx.options.paste-default.keep-source	保留源格式( 默认)
+docx.options.paste-default.merge-format	合并格式
+docx.options.paste-default.text-only	只保留文本
+docx.edit.overtype	超类型
+docx.status.insert	插入
+docx.status.overtype	超类型
+docx.status.read-mode	读取模式
+docx.status.web-layout	网络布局
+docx.status.outline	大纲
+docx.status.draft	草案
+docx.table.sort	排序
+docx.table.sort.asc	向上排序( 不包括页眉)
+docx.table.sort.desc	向下排序( 不包括标题)
+docx.table.sort.asc-all	向上排序( 包括页眉)
+docx.table.sort.desc-all	向下排序( 包括页眉)
+align.distribute	分发
+docx.table.wrap	文本环绕
+docx.table.wrap.none	无( 内置)
+docx.table.wrap.around-left	绕(左)
+docx.table.wrap.around-center	周围( 中心)
+docx.table.wrap.around-right	左右( 右侧)
+docx.table.float-distance	离周边文本的距离
+docx.table.float-distance.none	无( 0 平方厘米)
+docx.table.float-distance.standard	标准(左/右 9 pt,上/下 0 pt)
+docx.table.float-distance.medium	中度(左/右 9 pt,上/下 6 pt)
+docx.table.float-distance.large	大型(左/右 18 pt, 顶/ 瓶 12 pt)
+docx.toolbar.text-wrapping-table	文本环绕(表)
+docx.table.style	表格样式
+docx.table.style.none	普通表格( 无)
+docx.table.style.table-grid	表格网格
+docx.toolbar.table-style	表格样式
+docx.picture.wrap	文本包( 图标)
+docx.picture.wrap.inline	与文本对齐
+docx.picture.wrap.square	平方边
+docx.picture.wrap.tight	紧紧
+docx.picture.wrap.through	贯穿
+docx.picture.wrap.top-and-bottom	上下层
+docx.picture.wrap.behind-text	文本后边
+docx.picture.wrap.in-front-of-text	在文本前边
+docx.picture.distance	距离周边文本( 平面)
+docx.picture.distance.none	无( 0 平方厘米)
+docx.picture.distance.standard	标准(左/右 9 pt,上/下 0 pt)
+docx.picture.distance.medium	中度(左/右 9 pt,上/下 6 pt)
+docx.picture.distance.large	大型(左/右 18 pt, 顶/ 瓶 12 pt)
+docx.picture.align-h	水平对齐( 图标)
+docx.picture.align-h.left	左边
+docx.picture.align-h.center	居中点
+docx.picture.align-h.right	对
+docx.toolbar.text-wrapping-picture	文本包( 图标)
+docx.misc.distance-surrounding-text-picture	距离周边文本( 平面)
+docx.toolbar.horizontal-alignment-picture	水平对齐( 图标)
+docx.toolbar.distance-text-picture	与文本的距离( 图标)
+docx.picture.align-v	垂直对齐( 图标)
+docx.picture.align-v.top	顶端
+docx.picture.align-v.center	居中点
+docx.picture.align-v.bottom	底部
+docx.toolbar.vertical-alignment-picture	垂直对齐( 图标)
+docx.picture.allow-overlap	允许重叠
+docx.picture.lock-anchor	锁定锁定锁定
+docx.picture.layout-in-cell	表格单元格中的布局
+docx.picture.move-with-text	随文字移动
+docx.picture.fix-position-on-page	固定页面上的位置
+docx.picture.zorder	顺序( 平面)
+docx.toolbar.order-picture	顺序( 平面)
+docx.picture.align-distribute	对齐并分发( 图片)
+docx.picture.align.left	左对齐
+docx.picture.align.center	对齐中心
+docx.picture.align.right	右对齐
+docx.picture.align.top	对齐顶端
+docx.picture.align.middle	中间对齐
+docx.picture.align.bottom	对齐下方
+docx.picture.distribute.horizontally	水平分布
+docx.picture.distribute.vertically	垂直分布
+docx.picture.align-to.margin	与边距对齐
+docx.picture.align-to.page	调整到页面
+docx.toolbar.align-distribute-picture	对齐并分发( 图片)
+docx.page.borders	页面边框
+docx.page.borders.none	无
+docx.page.borders.box-thin	框 (0.5平方磅)
+docx.page.borders.box-medium	框(1平方公尺)
+docx.page.borders.box-thick	框(2平方公尺)
+docx.page.borders.box-double	框(双)
+docx.page.borders.top-bottom	上下层
+docx.page.borders.from-page	从页面边缘
+docx.page.borders.from-text	从文本
+docx.design.style-set	样式集
+docx.design.style-set.default	默认
+docx.design.style-set.casual	临时
+docx.design.style-set.centered	居中
+docx.design.style-set.formal	正式
+docx.design.style-set.elegant	优雅
+docx.design.style-set.modern	现代
+docx.design.style-set.simple	简单
+docx.design.style-set.minimalist	最小化师
+docx.design.paragraph-spacing	段落间距
+docx.design.paragraph-spacing.default	默认
+docx.design.paragraph-spacing.none	无段落空格
+docx.design.paragraph-spacing.compact	压缩
+docx.design.paragraph-spacing.tight	紧紧
+docx.design.paragraph-spacing.open	打开
+docx.design.paragraph-spacing.relaxed	放松点
+docx.design.paragraph-spacing.double	双倍
+docx.design.theme-fonts	字体
+docx.design.theme-fonts.office	办公室(阿普托斯)
+docx.design.theme-fonts.calibri	办公室 2007-2022年(卡利布里)
+docx.design.theme-fonts.arial	参数
+docx.design.theme-fonts.times	新罗马时代
+docx.design.theme-fonts.century-gothic	世纪哥特式
+docx.design.theme-fonts.meiryo	迈里欧
+docx.design.set-as-default	设为默认
+docx.design.set-as-default.done	当前样式和主题设置为新文档的默认值。
+docx.toolbar.right-left-text-direction	右转文字方向
+docx.toolbar.snap-grid	与网格对齐
+docx.field.page	页码
+docx.field.numpages	总页
+docx.field.date	日期
+docx.field.time	时间
+docx.field.createdate	创建日期
+docx.field.savedate	保存日期
+docx.field.filename	文件名称
+docx.field.filesize	文件大小
+docx.field.docvariable	文档变量( DOCVARIable)
+docx.field.username	用户名( USERNAME)
+docx.field.userinitials	用户缩写( USRINITIALS)
+docx.field.quote	文字文本( QUOTE)
+docx.field.symbol	符号 / 字符 (SYMBOL)
+docx.field.set	设置书签( SET)
+docx.field.ask	快速变量( ASK)
+docx.field.fillin	填充文本( FILLIN)
+docx.field.hyperlink	超链接( HYPERLINK)
+docx.field.template	模板( TEMPLATE)
+docx.field.advance	文本偏移( 发件人)
+docx.field.info	文件信息(INFO)
+docx.field.nested-page-calc	Nested Formula (= { PAGE } + 1)
+docx.field.author	作者
+docx.field.title	标题
+docx.field.subject	议题
+docx.field.docprop-author	作者( 财产 )
+docx.field.docprop-title	标题(财产)
+docx.field.seq-figure	序列编号
+docx.field.listnum	内置列表编号( LISTNUM)
+docx.field.autonum	段落编号(AUTONUM)
+docx.field.autonumout	大纲编号( AUTONUMUT)
+docx.field.pageref	页次引用
+docx.field.noteref	脚注/尾注
+docx.field.if	条件处
+docx.field.compare	条件比较(COMPARE)
+docx.field.toc	目录(技选委员会)
+docx.field.toc-custom	带有自定义样式的内容表( TOC) \t)
+docx.help-panels.document-properties	文档属性
+docx.properties	文档属性
+docx.properties.apply	应用
+docx.properties.reset	重置
+docx.properties-panel.keywords	关键词
+docx.properties-panel.manager	经理
+docx.properties-panel.company	连队
+docx.properties-panel.category	类别
+docx.properties-panel.last-printed	上次打印
+docx.properties-panel.revision	订正
+docx.properties-panel.document-properties-updated	文档属性更新。
+docx.properties-panel.fonts-section	字体
+docx.selection-pane	选择窗格…
+docx.selection-pane.title	选择
+docx.selection-pane.empty	本文档中没有形状或图片。
+docx.picture.name	对象名称
+docx.accessibility.title	辅助功能
+docx.accessibility.passed	未发现无障碍问题。
+docx.accessibility.missing-alt	缺少替代文本
+docx.accessibility.missing-alt.desc	添加图像描述或标记为装饰.
+docx.accessibility.table-header	未指定表格页眉行
+docx.accessibility.table-header.desc	指定第一行为标题行。
+docx.accessibility.heading-skip	跳过标题级别
+docx.accessibility.ambiguous-link	模糊的超链接文本
+docx.navigation-pane	导航窗格
+docx.navigation.title	导航
+docx.navigation.headings	标题
+docx.navigation.pages	页次
+docx.navigation.results	结果
+docx.navigation.no-headings	本文件中没有标题。
+docx.navigation.search-prompt	输入要搜索的文本。
+docx.mark-as-final	标为最后
+docx.read-only-recommended	仅读建议
+docx.infobar.final.title	标为最终
+docx.infobar.final.message	作者将该文件标为最后文本,以阻止编辑。
+docx.infobar.final.edit-anyway	无论如何编辑
+docx.infobar.readonly.title	仅推荐读取
+docx.infobar.readonly.message	作者希望您打开它只读, 除非您需要更改。
+docx.infobar.readonly.enable-editing	启用编辑
+docx.infobar.readmode.title	读取模式
+docx.infobar.readmode.message	文档以只读模式显示。
+docx.infobar.readmode.exit	返回打印布局
+docx.focus.exit	退出焦点( Esc)
+docx.protect	限制编辑
+docx.protect.formatting	限制格式
+docx.protect.read-only	只读( 无更改)
+docx.protect.comments	仅评论
+docx.protect.forms	仅填表
+docx.protect.stop	停止保护
+docx.infobar.protect.readonly.title	编辑限制
+docx.infobar.protect.readonly.message	此文档作为只读保护。
+docx.infobar.protect.comments.title	注释保护
+docx.infobar.protect.comments.message	本文件只允许添加和编辑注释。
+docx.infobar.protect.forms.title	表格保护
+docx.infobar.protect.forms.message	本文档只允许填表字段。
+docx.infobar.protect.formatting.title	格式限制
+docx.infobar.protect.formatting.message	格式在本文档中受到限制。
+docx.infobar.protect.stop	停止保护
+docx.page.doc-grid	文档网格…
+docx.help-panels.document-grid	文档网格
+docx.help-panels.no-grid	无网格
+docx.help-panels.lines-only	仅线条
+docx.help-panels.line-pitch	线条
+docx.help-panels.characters	字符
+docx.help-panels.character-pitch	字符键
+docx.help-panels.please-enter-positive-number-line	请输入正数, 用于线段投注或线段计数。
+docx.paragraph-panel.indent-units	缩进单位
+docx.paragraph-panel.characters	字符
+docx.misc.spacing-pt-indents-ch-pt	间距:pt. indents: ch/pt. 悬挂负数.
+docx.table.formula	公式…
+docx.table-formula-panel.formula	公式
+docx.table-formula-panel.formula-2	公式
+docx.table-formula-panel.insert-formula-into-table-cell	在表格单元格中插入公式。
+docx.table-formula-panel.please-enter-formula	请输入公式。
+docx.table-formula-panel.paste-function	粘贴函数
+docx.table-formula-panel.direction-keywords	方向关键词
+docx.toolbar.sort-ascending-header-row	向上排序( 页眉行)
+docx.toolbar.sort-descending-header-row	向下排序( 页眉行)
+docx.toolbar.sort-ascending-no-header-row	向上排序( 无标题行)
+docx.toolbar.sort-descending-no-header-row	向下排序( 无标题行)
+docx.toolbar.none-0-pt	无( 0 平方厘米)
+docx.toolbar.1-character-10-5-pt	1 字符 (10.5 pt)
+docx.toolbar.2-characters-21-pt	2 字符( 21 pt)
+docx.toolbar.3-characters-31-5-pt	3 字符 (31.5 pt)
+docx.toolbar.4-characters-42-pt	4 个字符( 42 pt)
+docx.toolbar.standard-left-right-9-pt	标准(左/右 9 pt,上/下 0 pt)
+docx.toolbar.medium-left-right-9-pt	中度(左/右 9 pt,上/下 6 pt)
+docx.toolbar.large-left-right-18-pt	大型(左/右 18 pt, 顶/ 瓶 12 pt)
+docx.editing.table-grid	表格网格
+docx.toolbar.continue-previous-section	从上一节继续
+docx.toolbar.start-1	开始于: 1
+docx.toolbar.start-2	开始于: 2
+docx.toolbar.start-3	开始于: 3
+docx.toolbar.start-5	开始于: 5
+docx.toolbar.start-10	开始于: 10
+docx.toolbar.page-setup	页面设置…
+docx.toolbar.theme-colors	主题颜色
+docx.toolbar.text-1-black	案文1(黑色)
+docx.toolbar.background-1-white	背景1(白色)
+docx.toolbar.text-2-dark-blue-gray	文本 2 (暗蓝灰色)
+docx.toolbar.background-2-light-gray	背景2( 亮灰色)
+docx.toolbar.accent-2-orange	坐标2 (橙色)
+docx.toolbar.accent-3-gray	Accent 3 (格雷语)
+docx.toolbar.accent-4-yellow	角数 4( Yellow)
+docx.toolbar.accent-5-light-blue	赤色5( 浅蓝色)
+docx.toolbar.accent-6-green	第6节(绿色)
+docx.toolbar.accent-1-lighter-80-percent	调值 1(更光度80%)
+docx.toolbar.accent-1-darker-25-percent	1分(Darker 25%)
+docx.toolbar.accent-2-lighter-80-percent	调色器2(更光度80%)
+docx.toolbar.accent-2-darker-25-percent	Accent 2 (Darker 25%) 互联网档案馆的存檔,存档日期2014-09-02.
+docx.toolbar.accent-5-lighter-80-percent	5分(更光度为80%)
+docx.toolbar.accent-6-lighter-80-percent	6分(更光度80%)
+docx.toolbar.horizontal-vertical	垂直水平
+docx.paragraph-panel.tabs	标签…
+docx.toolbar.light-gray	浅灰色
+docx.toolbar.show-formatting-marks-8	显示格式标记( E)⌘8)
+docx.track.change-user-name	更改用户名…
+docx.options.user-info	用户信息…
+docx.user-info.title	用户信息
+docx.user-info.description	文档中记录的用户细节(名称和首字母)
+docx.user-info.name	用户名
+docx.user-info.initials	缩写
+docx.user-info.name-placeholder	输入用户名
+docx.user-info.initials-placeholder	输入首字母
+docx.user-info.apply	应用
+docx.user-info.cancel	取消
+docx.user-info.reset-default	重置默认值
+docx.print-options	打印选项
+docx.options.print.update-fields	打印前更新字段
+docx.options.print.update-links	打印前更新链接数据
+docx.options.print.backgrounds	打印背景颜色和图像
+docx.options.print.hidden-text	打印隐藏文本
+docx.options.print.markup	打印标记
+docx.goto.title	转到
+docx.goto.what	转到什么
+docx.goto.page	页次
+docx.goto.section	节次
+docx.goto.line	线条
+docx.goto.bookmark	书签
+docx.goto.comment	批注
+docx.goto.footnote	脚注
+docx.goto.endnote	尾注
+docx.goto.heading	标题
+docx.goto.table	表格
+docx.goto.graphic	图形
+docx.goto.btn-jump	转到
+docx.goto.btn-prev	上一个
+docx.goto.btn-next	ưμ㼯A
+docx.goto.btn-close	关闭
+docx.goto.enter-page	输入页码
+docx.goto.enter-section	输入区域编号
+docx.goto.enter-line	输入行号
+docx.goto.enter-bookmark	输入或选择书签名称
+docx.goto.enter-comment	输入注释编号
+docx.goto.enter-footnote	输入脚注编号
+docx.goto.enter-endnote	输入尾注编号
+docx.goto.enter-heading	输入标题编号或选择
+docx.goto.enter-table	输入表格编号
+docx.goto.enter-graphic	输入图形编号
+docx.goto.placeholder	输入数字或名称( 如 2, + 1, - 1)
+docx.goto.not-found	未找到指定的目标。
+docx.find.next	查找下一个
+docx.find.previous	查找上一个
+docx.find.direction	搜索方向
+docx.find.dir.all	全部人员
+docx.find.dir.down	向下移动
+docx.find.dir.up	上边
+docx.find.scope	搜索在
+docx.find.scope.all	整个文档
+docx.find.scope.main	主要文件
+docx.find.scope.headers-footers	页眉和页脚
+docx.find.scope.notes	脚注尾注( E)
+docx.find.scope.comments	批注
+docx.find.scope.selection	选择
+docx.find.no-selection	无选择
+docx.view.one-page	一页
+docx.view.multiple-pages	多页
+docx.view.page-width	页面宽度
+insert.rich-text	丰富文本
+insert.plain-text	纯文本
+insert.picture-control	图片内容控制
+insert.building-block-gallery	建筑块画廊
+insert.repeating-section	重复区
+insert.group	组
+insert.checkbox	复选框
+docx.form.checkbox.toggle	切换复选框
+checklist	核对清单
+insert.dropdown-list	下拉列表( T)
+docx.form.dropdown.cycle	选择下一个项目
+insert.combo-box	组合框
+insert.date-picker	约会拾取器
+docx.form.date.step	步骤日期到明天
+insert.form-text	文本窗体字段
+insert.form-checkbox	检查框窗体字段
+insert.form-dropdown	下调窗体字段
+docx.form.legacy-dropdown.cycle	选择下一个下放项目
+docx.form.picture.replace	替换图片…
+docx.form.picture.reset	将图片控件重置到占位符
+docx.form.picture.replaced	图片已替换
+docx.form.picture.reset-done	重置为占位符
+docx.form.gallery.cycle	选择下一个建筑块
+docx.form.gallery.reset	将建筑块画廊重置为占位符
+docx.form.gallery.cycled	选定的构件 "{part}"
+docx.form.gallery.reset-done	重置为占位符
+docx.form.repeating.add	添加区域
+docx.form.repeating.delete	删除部分
+docx.form.repeating.cycle	选择下一个区域
+docx.form.repeating.added	增加的一节 "{section}"
+docx.form.repeating.deleted	删除第 " 节{section}"
+docx.form.repeating.cycled	选定部分 "{section}"
+docx.form.group	组控件
+docx.form.ungroup	取消组控件
+docx.form.grouped	分组内容控制
+docx.form.ungrouped	未分组的内容控制
+docx.form.design-mode	设计模式
+docx.form.design-mode.enabled	已启用设计模式
+docx.form.design-mode.disabled	设计模式已禁用
+docx.new-window	新建窗口
+docx.arrange-all	全部排列
+docx.split	分开
+docx.remove-split	删除拆分
+docx.sync-scrolling	同步滚动
+docx.reset-window-position	重置窗口位置
+docx.interaction	模式
+docx.interaction.editing	编辑
+docx.interaction.reviewing	审查
+docx.interaction.viewing	查看
+docx.status.interaction-editing	编辑
+docx.status.interaction-reviewing	审查
+docx.status.interaction-viewing	查看
+docx.infobar.viewing.title	查看
+docx.infobar.viewing.message	此文档处于查看模式中。 切换到编辑模式以作出修改。
+docx.infobar.viewing.edit	切换到编辑
+docx.interaction.locked-warning	音轨更改已锁定。 无法切换到编辑模式。
+docx.find.format.toggle	格式
+docx.find.format.find-label	查找格式
+docx.find.format.replace-label	替换格式
+docx.find.format.bold	加粗
+docx.find.format.italic	倾斜
+docx.find.format.underline	下划线
+docx.find.format.strike	删除线
+docx.find.format.clear	无格式
+docx.find.format.find-active	查找格式
+docx.find.format.replace-active	替换格式
+docx.toolbar.shape-text-box-format	形状和文本框格式…
+docx.text-box-panel.place-cursor-before-after-text	将光标放在文本框上或后面
+docx.table-of-contents.manual	手动目录
+docx.language	语言
+docx.language.ja	日语
+docx.language.en-US	英语( 美国)
+docx.language.en-GB	英语( 联合王国)
+docx.language.fr	法语
+docx.language.de	德语
+docx.language.zh	汉语( 简化)
+docx.language.ko	韩语
+docx.language.ar	阿拉伯语
+docx.language.he	希伯来语
+docx.language.set-default	设置为默认语言…
+docx.language.default-set	默认语言已设定
+docx.text-box-panel.left-pt	左边
+docx.text-box-panel.top-pt	顶端
+docx.text-box-panel.font-size	字体大小
+docx.text-box-panel.text-color	文本颜色
+docx.outline.promote	促进标题
+docx.outline.demote	取消标题
+docx.outline.move-up	向上移动
+docx.outline.move-down	向下移动
+docx.outline-ops.cannot-move-any-further	无法再移动
+docx.outline-ops.cannot-move-across-section-break	无法移动到分区间断
+docx.outline-ops.heading-level-cannot-changed-any	标题级别不能再更改了
+docx.outline.collapse	折叠或扩展标题
+docx.outline.collapse-all	折叠所有标题
+docx.outline.expand-all	扩展所有标题
+docx.style-panel.automatically-update-style	自动更新样式
+docx.text-box-panel.fill-color	填充颜色
+docx.text-box-panel.outline-color	大纲颜色
+docx.text-box-panel.line-width-pt	行宽度
+docx.shape.line	线条
+docx.shape.arrow	箭头
+docx.shape.elbow	肘连接器
+docx.shape.elbow-arrow	Elbow 箭头连接器
+docx.shape.curved	曲线连接符
+docx.shape.curved-arrow	曲线箭头连接符
+docx.text-box-panel.arrow-start	开始时箭头
+docx.text-box-panel.arrow-end	尾端箭头
+docx.text-box-panel.apply-selection	应用到选中文本
+docx.merge-panel.recipient-list-first-line-field	收件人列表(第一行是字段名称;逗号或标签已分离)
+docx.merge-panel.insert-merge-field	插入合并字段
+docx.merge-panel.preview-results	预览结果
+docx.merge-panel.create-individual-documents	创建单个文档…
+docx.merge-panel.no-recipients	无收件人
+docx.merge-panel.cannot-read-file	无法读取文件
+docx.merge-panel.there-no-recipient-list	没有收件人列表
+docx.merge-panel.there-no-document	没有文件
+docx.merge-panel.mail-merge	邮件合并
+docx.mail-merge	邮件合并…
+merge.done	保存结果为 {n} 接收者
+docx.picture-panel.picture-corrections	图片校正
+docx.picture-panel.brightness-10-percent	亮度 - 10%
+docx.picture-panel.brightness-plus-10-percent	亮度+10%
+docx.picture-panel.contrast-10-percent	对比度 - 10%
+docx.picture-panel.contrast-plus-10-percent	对比度+10%
+docx.picture-panel.no-recolor	无重彩
+docx.picture-panel.sepia	塞皮亚
+docx.picture-panel.color-recolor	重新颜色
+docx.picture-panel.washout	冲洗
+docx.picture-panel.black-and-white	B&W 50%
+docx.picture-panel.purple	紫色
+docx.picture-panel.saturation	颜色饱和度
+docx.picture-panel.transparency	透明度
+docx.picture-panel.soft-edge	软边
+docx.merge-panel.field-sort	要排序的字段
+docx.merge-panel.field-value-contains-field-value	字段=值(包含:字段=值)
+docx.merge-panel.filter	筛选
+docx.merge-panel.recipients-click-leave-out-add	收件人( 单击以删除或添加)
+docx.index	指数
+docx.index.mark	标记索引条目
+docx.editing.select-text-mark-index-entry	在一段中选择要标为索引条目的文字
+docx.editing.changes-were-marked-tracked	这些变动被标记为跟踪变动
+docx.editing.documents-combined	合并文件
+docx.kinsoku.menu	换行字符…
+docx.kinsoku.mode	Kinsoku 规则模式
+docx.kinsoku.mode.normal	常规
+docx.kinsoku.mode.strict	严格
+docx.kinsoku.rule_label	Kinsoku 预设
+docx.kinsoku.rule_normal	普通( allow Small Kana )
+docx.kinsoku.rule_strict	严格( 标准 JIS)
+docx.kinsoku.rule_custom	(海关定义)
+docx.kinsoku.title	换行字符
+docx.kinsoku.description	字符行不能以( 完整文档) 开头或结尾。 空还原标准字符
+docx.kinsoku.start	在线条开头没有
+docx.kinsoku.end	不在一行的尽头
+docx.kinsoku.apply	应用
+docx.kinsoku.cancel	关闭
+docx.kinsoku.reset	恢复标准
+docx.format.text.color.custom	更多颜色…
+_docx.start-number-first-page	开始编号 : {first_page}
+_docx.moved-to-page-page	移动到页面 {page}
+_docx.moved-to-section-section	移动到区域 {section}
+_docx.moved-to-line-line	移动到行 {line}
+_docx.moved-to-bookmark-bm-name	移至书签 "{bm_name}"
+_docx.moved-to-heading-title	移至标题 "{title}"
+_docx.item-name-was-not-found	{item_name} 未找到。
+_docx.moved-to-item-name-n	已移动到 {item_name} {n}
+_docx.moved-to-item-name-idx	已移动到 {item_name} {idx}
+_docx.moved-to-bookmark-name	移至书签 "{name}"
+_docx.picture-n	图片 {n}
+_docx.heading-level	标题 {level}
+_docx.table-rows-rows-columns-columns	表格 (单位:千美元){rows} 行×× {columns} 栏)
+_docx.author-text	{author}: {text}
+_docx.merged-result-n	合并结果 {n}
+_docx.style-st	样式 : {st}
+_docx.label-clear	{label} (清净)
+_docx.page-page	页次 {page}
+_docx.blue-accent-1	蓝色, 角 1
+_docx.distribute-j	分布( 分布)⇧⌘J)
+_docx.double-underline	双下划线
+_docx.thick-underline	厚底线
+_docx.dash-dot-dot	达什点点
+_docx.form-choice-1	选择 1
+_docx.form-choice-2	选题 2
+_docx.form-choice-3	选择 3
+_docx.form-item-1	项目1
+_docx.form-item-2	项目2
+_docx.form-item-3	项目3
+_docx.heading-level-skipped-from-prev-to-curr-title	标题级别跳过 {prev} 改为: {curr} ({title})
+_docx.unclear-link-text-text-use-descriptive-text-that	未知链接文本 ("){text}" ),使用描述性文字,说明链接去向。
+_docx.check-results-errors-errors-warnings-warnings-no	检查结果 : {errors} 错误, {warnings} 警告者, {notices} 提示
+_docx.index-heading-symbols	符号
+_docx.no-index-entries-found	未找到索引条目。
+_docx.hyphen	连字符
+_docx.period	期间
+_docx.colon	科伦
+_docx.em-dash	埃姆·达什 Em Dash
+_docx.en-dash	安达什
+_docx.caption-seq-figure	SEQ 图
+_docx.heading-reference-heading-1	标题参考(标题1)
+_docx.edit-field	编辑字段
+_docx.decimal	小数
+_docx.dotted-2	点(.)
+_docx.thick-line	粗线
+_docx.double-line	双线
+_docx.dotted-line	点行
+_docx.dashed-line	虚线
+_docx.dash-dot-line	Dash- Dot 线条
+_docx.dash-dot-dot-line	Dash- Dot- Dot 线
+_docx.wavy-line	华丽线
+_docx.merged-result-docx	合并结果.docx
+_docx.none-2	无
+_docx.not-bold	不是粗体的,不是粗体的,不是粗体的
+_docx.not-italic	非斜体语
+_docx.not-underline	不下划线
+_docx.not-strikethrough	不通过切线
+_docx.remove-bold	删除粗体
+_docx.remove-italic	删除斜体
+_docx.remove-underline	删除下划线
+_docx.remove-strikethrough	删除切换
+_docx.content-control-placeholder	单击或点击此处输入文本。
+_docx.building-block-gallery-placeholder	单击或点击此处插入块块画廊项目。
+_docx.repeating-section-placeholder	单击或点击此处以输入区域内容。
+_docx.group-placeholder	单击或点击此处输入分组文本。
+_docx.black	黑色
+_docx.gray-2	灰色
+_docx.red	红色
+_docx.blue	蓝色
+_docx.green	绿色
+_docx.orange	橙色
+_docx.round-dot	圆点
+_docx.dash	达西
+_docx.dash-dot	达什点
+_docx.dotted	点数
+_docx.cannot-accept-or-reject-changes-because-track-ch	无法接受或拒绝更改, 因为音轨更改被锁定。
+_docx.enter-a-field-code	输入字段代码。
+_docx.caption-text	说明文本
+_docx.caption-text-2	说明文本
+_docx.count-results	{count} 结果
+_docx.in-line-with-text	与文本对齐
+_docx.tab-stop-position-pt	标签停止位置
+_docx.distribute-horizontally	水平分布
+_docx.no-accessibility-issues-were-found-in-the-docume	文件没有发现无障碍问题。
+_docx.existing-bookmarks	现有书签
+_docx.enter-a-label	输入标签。
+_docx.number-format	数字格式
+_docx.change-picture	更改图片…
+_docx.enter-a-number-for-the-tab-position	输入标签位置的编号。
+_docx.leader	组长
+_docx.distribute-vertically	垂直分布
+_docx.headings-in-document	文件标题
+_docx.field-codes	字段代码
+_docx.insert-caption	插入标题
+_docx.exclude-label-from-caption	从标题中排除标签
+_docx.shapes-and-pictures-n	形状和图片( E){n})
+_docx.enter-a-value-greater-than-0-and-up-to-1584	输入大于 0 且不超过 1584 的值。
+_docx.tabs-and-leaders	标签和领导
+_docx.align-to-margin	与边距对齐
+_docx.track-changes-is-locked-so-it-can-t-be-turned-of	音轨更改被锁定,所以无法关闭.
+_docx.field-code	字段代码
+_docx.label	标签
+_docx.label-2	标签
+_docx.include-chapter-number	包含章节编号
+_docx.floating	浮动
+_docx.the-document-has-changed-reopen-the-tabs-setting	文档已更改。 重新打开 Tabs 设置。
+_docx.select-the-target-cell-in-the-table	选择表格中的目标单元格。
+_docx.align-to-page	调整到页面
+docx.form.properties	内容控制属性…
+docx.control-panel.panel-title	内容控制属性
+docx.control-panel.title	标题
+docx.control-panel.tag	标记
+docx.control-panel.gallery	图片库
+docx.control-panel.category	类别
+docx.control-panel.section-title	章节标题
+docx.control-panel.no-insert-delete	不允许插入或删除章节
+docx.control-panel.lock	锁定
+docx.control-panel.lock-none	未锁定
+docx.control-panel.lock-control	内容控制无法删除
+docx.control-panel.lock-content	无法编辑内容
+docx.control-panel.lock-both	无法删除或编辑
+docx.control-panel.select-control	将光标置于内容控件中
+docx.new-from-template	从模板中新建…
+docx.merge-panel.address-block	地址块
+docx.merge-panel.greeting-line	问候行
+docx.merge-panel.address-block-shown	“地址块”
+docx.merge-panel.greeting-line-shown	“欢呼线”
+docx.merge-panel.rule-placeholder	规则(例如,IF { MERGELIELD 年龄}} { 20 "Adult" "Minor")
+docx.merge-panel.insert-rule	插入规则
+docx.merge-panel.create-separate-documents	每个收件人创建单独的文件…
+_docx.merged-result-stem	合并结果
+docx.edit.autocorrect	自动更正为您输入
+docx.autocorrect-options	自动更正选项…
+docx.autorecover-settings	自动恢复设置…
+docx.recover-unsaved	恢复未保存的文件…
+docx.insert.draw-table	绘制表格
+docx.backup-always	总是创建备份副本
+_docx.backup-of-stem	备份 {stem}.wbk
+docx.table-of-contents.mark-entry	标记目录条目
+docx.table-of-contents.mark-level-1	1级
+docx.table-of-contents.mark-level-2	2级
+docx.table-of-contents.mark-level-3	第3级
+docx.table-of-contents.from-entries	来自条目的目录
+docx.editing.select-text-mark-toc-entry	选择要标为目录条目的文字, 在一个段落内
+docx.table-of-authorities.mark	标记引用
+docx.table-of-authorities.mark-category-1	案例
+docx.table-of-authorities.mark-category-2	章程
+docx.table-of-authorities.mark-category-3	其他当局
+docx.table-of-authorities.mark-category-4	规则
+docx.table-of-authorities.mark-category-5	治疗
+docx.table-of-authorities.mark-category-6	条例
+docx.table-of-authorities	当局列表
+docx.table-of-authorities.update	最新当局一览表
+docx.editing.select-text-mark-citation	在一段中选择要标注为引用的文字
+_docx.toa-category-1	案例
+_docx.toa-category-2	章程
+_docx.toa-category-3	其他当局
+_docx.toa-category-4	规则
+_docx.toa-category-5	治疗
+_docx.toa-category-6	条例
+_docx.toa-category-custom	类别
+_docx.toa-passim	传球
+_docx.no-toa-entries-found	未找到当局条目表。
+docx.outline.to-heading	将正文文字作为标题
+docx.outline.to-body	使标题正文文本
+docx.merge-panel.new-field-name	列名称
+docx.merge-panel.go-to-number	数目
+docx.merge-panel.find-recipient-placeholder	查找收件人的文本
+docx.merge-panel.recipient-not-found	没有收件人有这个文字
+docx.merge-panel.add-recipient	添加收件人
+docx.merge-panel.select-all	全选
+docx.merge-panel.select-none	全部清除
+docx.merge-panel.add-field	添加栏
+docx.merge-panel.go-to	走开
+docx.merge-panel.find-recipient	查找
+docx.merge-panel.document-type	文档类型
+docx.merge-panel.type-letters	信件
+docx.merge-panel.type-email	电子邮件信件
+docx.merge-panel.type-envelopes	信封
+docx.merge-panel.type-labels	标签
+docx.merge-panel.type-directory	目录
+docx.merge-panel.type-normal	普通单词文档
+docx.merge-panel.envelope-setup	信封设置
+docx.merge-panel.apply-envelope	应用信封
+docx.merge-panel.sender-address	发件人地址( 可选)
+docx.merge-panel.label-setup	标签标准设置
+docx.merge-panel.create-labels	创建标签工作表
+docx.merge.match-fields	匹配字段…
+docx.merge.auto-match-fields	自动匹配字段
+docx.merge.clear-match-fields	清除匹配字段
+docx.merge-panel.match-fields	匹配字段…
+docx.merge-panel.auto-match	自动匹配
+docx.merge-panel.clear-match	清除
+docx.merge-panel.match-fields-guide	单击标准字段循环收件人列映射
+docx.merge-panel.unmatched	(不匹配) (中文(简体) ).
+docx.merge.print	打印合并文档…
+docx.merge.envelopes	内装…
+docx.merge.labels	标签…
+docx.merge.select-recipients	选择收件人…
+docx.merge.insert-field	插入合并字段
+docx.merge.preview	预览结果
+docx.merge.export-pdf	导出已合并 PDF…
+docx.merge-panel.print-range	打印范围
+docx.merge-panel.print-documents	打印文档…
+docx.merge-panel.export-pdf	导出已合并 PDF…
+docx.merge-panel.range-all	全部人员
+docx.merge-panel.range-current	当前收件人
+docx.merge-panel.range-from-to	从 - 到
+docx.merge-panel.print-from	从
+docx.merge-panel.print-to	改为:
+docx.merge.printed-count	打印 {n} 合并文件
+docx.merge.exported-pdf-count	导出 {n} 合并文档到 PDF
+docx.merge.print-failed	打印合并文档失败 : {error}
+docx.merge.pdf-failed	导出合并失败 PDF: {error}
+docx.merge.printing	正在处理合并的文档…
+docx.section.chapter	在页码中包含章节编号
+docx.section.chapter-none	不包括
+docx.section.chapter-level-1	标题1的数目
+docx.section.chapter-level-2	标题2的数目
+docx.section.chapter-level-3	标题 3
+docx.section.chapter-sep-hyphen	分隔符:连字符 (-)
+docx.section.chapter-sep-period	分隔符:期(.
+docx.section.chapter-sep-colon	分隔符:结肠(:)
+docx.section.chapter-sep-emdash	分隔符: EM 破折号
+docx.section.chapter-sep-endash	分隔符: 刻度
+docx.view.dark-page	暗模式( 页)
+docx.notes.separator-footnote	脚注分隔符
+docx.notes.separator-endnote	尾注分隔符
+docx.notes.separator-standard	短线
+docx.notes.separator-full	横跨文字的行
+docx.notes.separator-none	无
+docx.language.no-proof	不检查拼写
+docx.bullet.picture	图片符号…
+docx.text-box-panel.line-style	线条样式
+docx.text-box-panel.line-solid	固态
+docx.text-box-panel.line-dash	虚构
+docx.text-box-panel.line-dot	点数
+docx.text-box-panel.line-dash-dot	达什点
+docx.text-box-panel.gradient	渐变
+docx.text-box-panel.shadow	阴影
+docx.text-box-panel.glow	光线
+docx.text-box-panel.soft-edge	软边
+docx.text-box-panel.reflection	反思
+docx.footnote.next	下一个脚注
+docx.footnote.previous	上一个脚注
+docx.notes.show	显示注释
+docx.comments.next	下一个注释
+docx.comments.previous	上一个注释
+docx.blank-page	空白页面
+docx.picture.reset	重置图片
+docx.text-box-panel.shape-styles	形状样式
+docx.cover	封面页
+docx.cover.1	简单
+docx.cover.2	带
+docx.cover.3	现代
+docx.cover.title-placeholder	文件标题
+docx.cover.inserted	封面页插入。
+docx.picture.compress	压缩图片…
+docx.compress.title	压缩图片
+docx.compress.options	压缩选项
+docx.compress.apply-only-selected	只应用到此图片
+docx.compress.delete-cropped	删除已裁剪的图片区域
+docx.compress.resolution	决议
+docx.compress.hd-330-ppi	HD( 330 ppi) (中文( 330 ppi) )
+docx.compress.print-220-ppi	印刷(220ppi)
+docx.compress.web-150-ppi	网页(150ppi)
+docx.compress.email-96-ppi	电子邮件(96 ppi)
+docx.compress.no-smaller	任何图片都不可能变小
+docx.compress.compressed-n	压缩 {n} 图片(s){before} KB —— 缩略语 {after} (单位:千美元)
+docx.options.image-quality	图像大小和质量…
+docx.options.image-quality.heading	图像大小和质量
+docx.options.image.do-not-compress	不压缩文件中的图像
+docx.options.image.discard-cropped	丢弃编辑数据
+docx.options.image.default-resolution	默认解析
+docx.options.image.res-high-fidelity	高度忠诚
+docx.options.image.res-hd	HD( 330 ppi) (中文( 330 ppi) )
+docx.options.image.res-print	印刷(220ppi)
+docx.options.image.res-web	网页(150ppi)
+docx.options.image.res-email	电子邮件(96 ppi)
+docx.options.autorecover	自动恢复和保存选项…
+docx.options.autorecover.interval	保存自动恢复信息
+docx.options.save-frequency.default	默认间隔( 使用应用程序设置)
+docx.options.save-frequency.5min	每5分钟
+docx.options.save-frequency.10min	每10分钟
+docx.options.save-frequency.15min	每15分钟
+docx.options.save-frequency.20min	每20分钟
+docx.options.save-frequency.30min	每30分钟
+docx.options.save-frequency.off	禁用此文档的自动恢复
+docx.options.autorecover.disable-doc	只禁用此文档的自动恢复
+docx.options.font-embedding	在文件中嵌入字体…
+docx.options.font.embed	文件内嵌字体
+docx.options.font.save-subset	仅嵌入文档中使用的字符( 最适合缩小文件大小)
+docx.options.font.embed-system	不嵌入共同制度字体
+docx.options.compatibility	兼容性选项…
+docx.options.compat.mode	将此文档按创建于
+docx.options.compat.mode-word2013	Microsoft Word 2013-2021 / 365 (模式 15) (中文(简体) ).
+docx.options.compat.mode-word2010	Microsoft Word 2010 (模式 14)
+docx.options.compat.mode-word2007	Microsoft Word 2007 (模式 12)
+docx.options.compat.mode-word2003	Microsoft 2003年字(模式11)
+docx.options.compat.use-fe-layout	使用远东线突破规则
+docx.options.compat.shift-return	不要在SHIFT-RETURN结尾的线路上扩展字符空间
+docx.drop-cap	弹出盖
+docx.drop-cap.none	无
+docx.drop-cap.drop	已丢弃
+docx.drop-cap.margin	边际
+docx.drop-cap.lines	要放下的行数
+docx.drop-cap.lines.2	2行线
+docx.drop-cap.lines.3	3行线
+docx.drop-cap.lines.4	4行线
+docx.drop-cap.lines.5	5行线
+docx.drop-cap.distance	与文本的距离
+docx.drop-cap.distance.0	0 点
+docx.drop-cap.distance.3	3 pt (中文(简体) ).
+docx.drop-cap.distance.6	6 pt (中文(简体) ).
+docx.drop-cap.distance.12	12 pt (中文(简体) ).
+docx.shape.align-text	对齐文本
+docx.shape.align-text.top	顶端
+docx.shape.align-text.middle	中间
+docx.shape.align-text.bottom	底部
+docx.design.effects	效果
+docx.design.effects.applied	主题效果更改为 "{name}"
+docx.design.effects.office	办公室(标准)
+docx.design.effects.office_2007_2010	2007 - 2010年办事处
+docx.design.effects.metro	地铁
+docx.design.effects.aspect	侧面
+docx.design.effects.apex	顶级
+docx.design.effects.slate	标题
+docx.design.effects.median	中间
+docx.design.effects.glossy	光泽
+docx.design.effects.bubbles	泡泡声
+docx.design.effects.shadow	阴影
+docx.merge.check-errors	检查错误
+docx.merge-panel.check-errors	检查错误
+docx.merge-panel.error-check.no-recipients	未装入收件人列表。
+docx.merge-panel.error-check.no-fields	在文档中找不到合并字段。
+docx.merge-panel.error-check.missing-fields	收件人列表中找不到的字段 : {fields}
+docx.merge-panel.error-check.empty-records	找到了。。 {count} 空记录.
+docx.merge-panel.error-check.passed	未找到邮件合并错误( N){count} 记录, {field_count} 字段)。
+docx.picture.artistic-effects	艺术效果
+docx.picture.artistic-effects.applied	应用艺术效果.
+docx.picture.artistic-effects.none	无
+docx.picture.artistic-effects.marker	标记
+docx.picture.artistic-effects.pencil-grayscale	笔杆灰度
+docx.picture.artistic-effects.chalk-sketch	粉笔纹
+docx.picture.artistic-effects.blur	模糊
+docx.picture.artistic-effects.glass	眼镜
+docx.picture.artistic-effects.paint-strokes	画弦
+docx.picture.artistic-effects.cutout	剪断
+docx.picture.artistic-effects.mosaic-bubbles	Mosaic 泡泡纸
+docx.picture.artistic-effects.glow-edges	滑动边缘
+docx.picture.styles	图片样式
+docx.picture.styles.applied	应用图片风格.
+docx.picture.styles.simple-white	简单框架, 白色
+docx.picture.styles.simple-black	简单框架, 黑色
+docx.picture.styles.thick-black	粗边框, 黑色
+docx.picture.styles.round-rect	圆形矩形
+docx.picture.styles.ellipse	椭圆/ 椭圆
+docx.picture.styles.soft-edge	软边框
+docx.picture.styles.drop-shadow	丢弃阴影框架
+docx.picture.styles.reflection	反射框架
+docx.picture.effects	图片效果
+docx.picture.effects.applied	应用图片效应.
+docx.picture.effects.shadow	阴影
+docx.picture.effects.shadow.none	无
+docx.picture.effects.shadow.outer	外部
+docx.picture.effects.shadow.inner	内在
+docx.picture.effects.reflection	反思
+docx.picture.effects.reflection.none	无
+docx.picture.effects.reflection.tight	紧反射
+docx.picture.effects.reflection.half	半反射数
+docx.picture.effects.glow	光线
+docx.picture.effects.glow.none	无
+docx.picture.effects.glow.blue	蓝色
+docx.picture.effects.glow.orange	橙色
+docx.picture.effects.glow.yellow	黄色
+docx.picture.effects.soft-edge	软边
+docx.picture.effects.soft-edge.none	无
+docx.picture.effects.soft-edge.1pt	1平方公尺
+docx.picture.effects.soft-edge.2_5pt	2.5平方厘米
+docx.picture.effects.soft-edge.5pt	5平方公尺
+docx.picture.effects.soft-edge.10pt	10 pt (韩语).
+docx.picture.effects.soft-edge.25pt	25 pt (中文(简体) ).
+docx.picture.effects.soft-edge.50pt	50平方公尺
+docx.picture.remove-background	删除背景( 透明颜色 )
+docx.picture.remove-background.applied	为图片设置透明背景颜色。
+docx.picture.remove-background.reset	重置透明的图片背景颜色。
+docx.shape.edit-shape	编辑形状
+docx.shape.edit-shape.applied	变形几何.
+docx.shape.edit-shape.change-shape	更改形状
+docx.shape.edit-shape.rect	矩形
+docx.shape.edit-shape.round-rect	圆形矩形
+docx.shape.edit-shape.ellipse	椭圆形
+docx.shape.edit-shape.triangle	同位素三角形
+docx.shape.edit-shape.diamond	钻石
+docx.shape.edit-shape.right-arrow	右箭头
+docx.shape.edit-shape.heart	心脏
+docx.shape.edit-shape.star5	5 点星
+docx.shape.edit-shape.callout	圆形矩形点名
+docx.shape.edit-shape.edit-points	编辑点
+docx.shape.edit-shape.points-on	开始编辑形状点。
+docx.shape.edit-shape.points-off	完成编辑形状点。
+docx.shape.wordart-styles	WordArt 样式
+docx.shape.wordart-styles.applied	应用 WordArt 样式。
+docx.shape.wordart-styles.style1	填充:黑色,文本1
+docx.shape.wordart-styles.style2	填充:蓝色, 角 1, 阴影
+docx.shape.wordart-styles.style3	填充:橙色,角 2,轮廓
+docx.shape.wordart-styles.style4	填充:紫色,反射
+docx.shape.wordart-styles.style5	填充:黄金,4角,粗体
+docx.shape.text-effects	文本效果
+docx.shape.text-effects.applied	应用文本效果.
+docx.shape.text-effects.fill	文本填充
+docx.shape.text-effects.fill.black	黑色
+docx.shape.text-effects.fill.blue	蓝色
+docx.shape.text-effects.fill.orange	橙色
+docx.shape.text-effects.fill.red	红色
+docx.shape.text-effects.fill.green	绿色
+docx.shape.text-effects.fill.white	白色
+docx.shape.text-effects.outline	文本大纲
+docx.shape.text-effects.outline.none	无大纲
+docx.shape.text-effects.outline.black	黑色
+docx.shape.text-effects.outline.blue	蓝色
+docx.shape.text-effects.outline.orange	橙色
+docx.shape.text-effects.shadow	阴影
+docx.shape.text-effects.shadow.none	无
+docx.shape.text-effects.shadow.outer	外部
+docx.shape.text-effects.shadow.inner	内在
+docx.shape.text-effects.reflection	反思
+docx.shape.text-effects.glow	光线
+docx.reference.insert-citation	插入引用
+docx.reference.bibliography	文献目录
+docx.reference.bibliography.update	更新文献目录
+docx.reference.citation.inserted	插入引号 "{tag}".
+docx.reference.bibliography.inserted	插入的书目( E){count} 条目).
+docx.reference.bibliography.updated	更新的书目{count} 条目).
+docx.reference.bibliography.heading	文献目录
+docx.reference.bibliography.no-citations	当前文档中没有来源。
+docx.reference.citation.default-tag	来源
+docx.quick-parts	快速部件
+docx.quick-parts.panel	快速部件面板…
+docx.quick-parts.autotext	自动文本
+docx.quick-parts.prop	文档属性
+docx.quick-parts.prop.title	标题
+docx.quick-parts.prop.author	作者
+docx.quick-parts.prop.subject	议题
+docx.quick-parts.prop.company	连队
+docx.quick-parts.prop.comments	批注
+docx.quick-parts.prop.createdate	创建日期
+docx.quick-parts.prop.savedate	保存日期
+docx.quick-parts.prop.page	页码
+docx.quick-parts.prop.numpages	总页
+docx.quick-parts.prop.filename	文件名称
+docx.quick-parts.field	战地…
+docx.quick-parts.organizer	构建块组织者…
+docx.quick-parts.author	作者
+docx.quick-parts.title	标题
+docx.quick-parts.subject	议题
+docx.quick-parts.createdate	创建日期
+docx.quick-parts.filename	文件名称
+docx.quick-parts.numpages	页数
+docx.quick-parts.save-selection	将选中区域保存到快速部分图片库…
+docx.quick-parts.building-blocks	构建块和自动图文集
+docx.quick-parts.name	名称
+docx.quick-parts.gallery	图片库
+docx.quick-parts.category	类别
+docx.quick-parts.description	说明
+docx.quick-parts.content	内容
+docx.quick-parts.scope	另存为
+docx.quick-parts.options	选项
+docx.quick-parts.save	保存
+docx.quick-parts.cancel	取消
+docx.quick-parts.insert	插入
+docx.quick-parts.delete	删除
+docx.quick-parts.filter-placeholder	搜索构件…
+docx.quick-parts.no-blocks	未注册构件
+docx.math.panel	方程式面板…
+docx.math.builtin	内建方程式
+docx.math.builtin.quadratic	四方公式
+docx.math.builtin.binomial	二元定理
+docx.math.builtin.circle-area	圆形区域
+docx.math.builtin.pythagorean	毕达哥里安定理
+docx.math.builtin.fourier	傅里叶系列
+docx.math.builtin.taylor	泰勒的扩展
+docx.math.structures	结构
+docx.math.convert	改划
+docx.math.struct.fraction	分数
+docx.math.struct.script	脚本
+docx.math.struct.radical	激进
+docx.math.struct.integral	综合
+docx.math.struct.large-op	大运算符
+docx.math.struct.brackets	括号
+docx.math.struct.function	函数
+docx.math.struct.accent	百分点
+docx.math.struct.limit	限制
+docx.math.struct.matrix	矩阵
+docx.math.convert.professional	专业人员(2D)
+docx.math.convert.linear	线性(1D)
+docx.math.convert.display	显示
+docx.math.convert.inline	内含
+docx.math.mode.unicodemath	UnicodeMath 密码
+docx.math.mode.latex	LaTeX
+docx.math.mode.display	显示
+docx.math.insert	插入数学
+docx.math.error.empty	请输入数学表达式。
+docx.math.error.invalid	无效的数学表达式。
+docx.math.title	公式
+docx.math.hint	输入方程式( UnicodeMath 或 LaTeX)
+docx.math.format-label	输入格式
+docx.math.layout-label	布局
+docx.quick-parts.doc-property	文档属性
+docx.quick-parts.custom-field	自定义字段代码
+docx.math.inline	内含
+docx.math.display	显示
+docx.insert.icon	图标…
+docx.insert.smartart	SmartArt
+docx.insert.wordart	WordArt
+docx.insert.wordart-styles	WordArt 样式
+docx.wordart.style1	样式 1
+docx.wordart.style2	样式 2
+docx.wordart.style3	样式 3
+docx.wordart.style4	样式 4
+docx.wordart.style5	样式 5
+docx.wordart.style6	样式 6
+_docx.smartart-step-1	步骤1
+_docx.smartart-step-2	步骤2
+_docx.smartart-step-3	步骤3
+_docx.smartart-item-1	项目1
+_docx.smartart-item-2	项目2
+_docx.smartart-item-3	项目3
+_docx.smartart-phase-1	第一阶段
+_docx.smartart-phase-2	第2阶段
+_docx.smartart-phase-3	第3阶段
+_docx.smartart-leader	组长
+_docx.smartart-manager	经理
+_docx.smartart-member	成员
+_docx.smartart-elem-a	要件A
+_docx.smartart-elem-b	要件B
+_docx.smartart-quad-1	四方 1
+_docx.smartart-quad-2	四方 2
+_docx.smartart-quad-3	四方 3
+_docx.smartart-quad-4	四方 4
+_docx.smartart-top	顶端
+_docx.smartart-middle	中间
+_docx.smartart-base	基础
+docx.insert.icon-categories	按类别划分的图标…
+docx.inspect-document	检查文档…
+docx.inspect-panel.title	文件检查员
+docx.inspect-panel.inspect-hint	检查文档中的个人信息和隐藏内容,并删除.
+docx.inspect-panel.document-properties	文档属性和个人信息
+docx.inspect-panel.removed-properties	文件财产和个人信息被移除
+docx.inspect-panel.no-properties	未找到文档属性或个人信息
+docx.inspect-panel.comments	批注
+docx.inspect-panel.removed-comments	所有评论都被删除
+docx.inspect-panel.no-comments	没有找到任何评论
+docx.inspect-panel.revisions	修订和跟踪更改
+docx.inspect-panel.removed-revisions	所有订正均被接受。
+docx.inspect-panel.no-revisions	没有发现任何修订
+docx.inspect-panel.headers-footers	页眉和页脚
+docx.inspect-panel.removed-headers-footers	所有页眉和页脚都被删除
+docx.inspect-panel.no-headers-footers	没有找到页眉或页脚
+docx.inspect-panel.hidden-text	隐藏文本
+docx.inspect-panel.removed-hidden-text	所有隐藏的文本已删除
+docx.inspect-panel.no-hidden-text	未找到隐藏文本
+docx.inspect.remove-all	全部删除
+docx.inspect-panel.reinspect	复检
+docx.inspect-panel.reinspection-complete	复检完成
+docx.compat.title	兼容性检查器
+docx.compat.summary-hint	检查在较早的 Word 版本中可能丢失或退化的特性
+docx.compat.recheck	重新检查
+docx.compat.no-issues	未找到兼容性问题
+docx.compat.clean-desc	此文档与之前版本的Word完全兼容.
+docx.compat.significant-loss	功能严重丧失
+docx.compat.minor-loss	忠诚的轻微丧失
+docx.compat.jump	转到
+docx.compat.math-title	方程式(OMML)
+docx.compat.math-desc	方程式将转换成图像,在Office 2007之前无法以Word版本编辑.
+docx.compat.smartart-title	SmartArt 图形
+docx.compat.smartart-desc	SmartArt 图形将转换为单一绘图对象,不再可以编辑.
+docx.compat.content-control-title	内容控制
+docx.compat.content-control-desc	内容控件将转换为标准文本,其属性和保护将丢失.
+docx.compat.text-effects-title	高级字体效果和 OpenType 特征
+docx.compat.text-effects-desc	OpenType 特性和字体效果在以前的版本中不支持,并将显示为标准文本。
+docx.compat.shape-effects-title	高级形状效果
+docx.compat.shape-effects-desc	形状反射,柔性边缘,和3D效果在早期版本中将被简化或删除.
+_docx.title-value	标题 : {value}
+_docx.author-value	作者 : {value}
+_docx.subject-value	主题 : {value}
+_docx.keywords-value	关键词 : {value}
+_docx.comments-value	评论: {value}
+_docx.category-value	类别 : {value}
+_docx.manager-value	经理 : {value}
+_docx.company-value	连: {value}
+_docx.last-modified-by-value	上次修改由 : {value}
+_docx.custom-properties-count	自定义属性( O){count})
+_docx.found-details	找到 : {details}
+_docx.count-comments-found	{count} 已找到注释
+_docx.count-revisions-found	{count} 已找到跟踪更改
+_docx.count-headers-footers-found	{count} 找到页眉和页脚
+_docx.count-hidden-text-found	{count} 找到隐藏的文本运行
+_docx.items	项目
+_docx.para-item	段落 {para}
+docx.print-settings	打印设置…
+docx.print-panel.title	打印设置
+docx.print-panel.section.range	打印范围
+docx.print-panel.range.all	打印全部页面
+docx.print-panel.range.current	打印当前页面
+docx.print-panel.range.selection	打印选择
+docx.print-panel.range.custom	自定义范围
+docx.print-panel.custom-placeholder	e.g. 1-3, 5, s2, p1s2-p3s2
+docx.print-panel.custom-hint	输入页码和/或节码(例如1-3,5,s2,p1s2-p3s2)
+docx.print-panel.section.subset	页面选择
+docx.print-panel.subset.all	所有页面在幅度内
+docx.print-panel.subset.odd	只打印奇数页
+docx.print-panel.subset.even	只打印偶数页
+docx.print-panel.section.copies-duplex	复制双面( D)
+docx.print-panel.copies	副本
+docx.print-panel.collate	整理(1,2,3,1,2,3)
+docx.print-panel.duplex.one-sided	打印一个
+docx.print-panel.duplex.both-long	两侧的打印( 长边)
+docx.print-panel.duplex.both-short	在两侧打印( 短边)
+docx.print-panel.duplex.manual	两侧手动打印
+docx.print-panel.section.nup	每页工作表
+docx.print-panel.nup.1	每页1页
+docx.print-panel.nup.2	每页2页
+docx.print-panel.nup.4	每页4页
+docx.print-panel.nup.6	每页6页
+docx.print-panel.nup.8	每页8页
+docx.print-panel.nup.16	每页16页
+docx.print-panel.page-border	绘制页面边框
+docx.print-panel.section.options	打印选项
+docx.print-panel.summary	{pages} 页:1 {total} 页数({copies} 印本)
+docx.print-panel.print	打印
+docx.print-panel.no-pages-selected	没有选择打印的页面。
+docx.print-panel.invalid-range-token	无效的页面规格 : '{token}'
+docx.print-panel.section-not-found	未找到指定区域 : '{section}'
+docx.print-panel.page-in-section-not-found	页次 {page} 未在节中找到 {section}
+docx.print-panel.page-out-of-range	指定的页面 {page} 超出范围( Y){total} 总计)
+docx.reference.source-manager	源管理器…
+docx.source-manager.title	源管理器
+docx.source-manager.master-list	主列表
+docx.source-manager.current-list	当前列表
+docx.source-manager.copy-to-current	复制到文档
+docx.source-manager.copy-to-master	复制到师傅
+docx.source-manager.new	新建( N)…
+docx.source-manager.edit	编辑…
+docx.source-manager.delete	删除
+docx.source-manager.insert-citation	插入引用
+docx.source-manager.preview-title	预览
+docx.source-manager.citation-preview	引用
+docx.source-manager.bib-preview	文献目录
+docx.source-manager.form.new-title	创建源
+docx.source-manager.form.edit-title	编辑来源
+docx.source-manager.form.tag	标签名称
+docx.source-manager.form.type	来源类型
+docx.source-manager.form.author	作者
+docx.source-manager.form.title	标题
+docx.source-manager.form.year	年份
+docx.source-manager.form.publisher	出版商
+docx.source-manager.form.city	城市( C)
+docx.source-manager.form.url	URL
+docx.source-manager.form.save	保存
+docx.source-manager.filter-placeholder	搜索( tag, 作者, 标题)…
+docx.reference.source.type.book	书
+docx.reference.source.type.book-section	书务科
+docx.reference.source.type.journal-article	日记文章
+docx.reference.source.type.report	报告
+docx.reference.source.type.website	网站
+docx.reference.source.type.proceedings	1. 会议纪要
+docx.reference.source.type.misc	杂项
+docx.review.spelling-grammar	拼写语法( G)…
+docx.review.thesaurus	词典…
+docx.thesaurus.title	词库
+docx.thesaurus.search-placeholder	输入要搜索的单词…
+docx.thesaurus.search-btn	搜索
+docx.thesaurus.insert	插入
+docx.thesaurus.insert-tooltip	用此同义词替换所选文字
+docx.thesaurus.copy-tooltip	复制到剪贴板
+docx.thesaurus.lookup-tooltip	查找此词的同义词
+docx.thesaurus.no-results	没有找到同义词 "{word}".
+docx.thesaurus.hint	尝试用另一个单词或碱性格式搜索。
+docx.thesaurus.empty-prompt	在文档中选择一个单词,或者在上方键入一个单词进行搜索。
+docx.thesaurus.no-selection-error	没有选择要替换的文本或单词。
+docx.thesaurus.replaced-msg	改为: "{word}".
+docx.thesaurus.copied-msg	已复制 "{word}" 到剪贴板。
+docx.view.immersive-reader	隐形阅读器
+docx.immersive.title	隐形阅读器
+docx.immersive.close	关闭 Immersive 阅读器
+docx.immersive.column-width	列宽
+docx.immersive.width.very-narrow	十分狭窄
+docx.immersive.width.narrow	窄
+docx.immersive.width.moderate	中调
+docx.immersive.width.wide	宽
+docx.immersive.page-color	页面颜色
+docx.immersive.color.none	无
+docx.immersive.color.sepia	塞皮亚
+docx.immersive.color.inverse	反转
+docx.immersive.color.soft-yellow	软黄色
+docx.immersive.color.soft-blue	软蓝色
+docx.immersive.text-spacing	文本间距
+docx.immersive.syllables	符号
+docx.immersive.syllables-active	符号活动
+docx.immersive.line-focus	线条焦点
+docx.immersive.focus.off	无
+docx.immersive.focus.one-line	1行线
+docx.immersive.focus.three-lines	3行线
+docx.immersive.focus.five-lines	5行线
+docx.immersive.focus.up	上行
+docx.immersive.focus.down	下一行
+docx.view.mini-toolbar	迷你工具栏
+docx.mini.grow-font	增加字体大小
+docx.mini.shrink-font	减少字体大小
+docx.mini.bold	加粗
+docx.mini.italic	倾斜
+docx.mini.underline	下划线
+docx.mini.strikethrough	删除线
+docx.mini.highlight	文本突出显示颜色
+docx.mini.font-color	字体颜色
+docx.mini.bullet	项目符号
+docx.mini.numbered	编号
+docx.mini.format-painter	格式画
+docx.view.screentips	屏幕提示
+docx.view.screentips.show-descriptions	在屏幕提示中显示特性描述
+docx.view.screentips.dont-show-descriptions	不要在 ScreenTips 中显示特征描述
+docx.view.screentips.dont-show	不要显示屏幕标签
+docx.tip.desc.bold	让你的文本粗体。
+docx.tip.desc.italic	以斜体字标出您的文本。
+docx.tip.desc.underline	下划线文本。
+docx.tip.desc.strikethrough	划出一些东西划出一条线。
+docx.tip.desc.highlight	以亮色突出显示您的文本。
+docx.tip.desc.font-color	更改文本的颜色。
+docx.edit.drag-select	拖动选择选项( S)
+docx.edit.drag-drop	允许拖放文本编辑
+docx.edit.select-word	选择时, 自动选择全部单词
+docx.file.repair	打开和修复文档…
+docx.repair.title	修复文档
+docx.repair.desc	自动修复损坏 Word 文档的 XML 语法、缺失部件和文档结构(.docx).
+docx.repair.file-label	要修复的文档
+docx.repair.browse-btn	浏览…
+docx.repair.prompt-file	选择已损坏的文字文档
+docx.repair.mode-label	修复模式
+docx.repair.mode-repair	打开和修理(标准)
+docx.repair.mode-repair-desc	修复 XML 标记平衡,并在保留格式化的同时重建缺失的部分.
+docx.repair.mode-recover-text	从任何文件中恢复文本
+docx.repair.mode-recover-text-desc	从任何损坏文件中提取并回收所有可用的文本运行和段落。
+docx.repair.execute-btn	修复和打开
+docx.repair.success-msg	文档已修复并成功打开。
+docx.repair.error-no-file	请指定要修复的文件。
+docx.repair.error-not-found	未找到指定的文件。
+docx.repair.error-read	读取文件失败
+docx.repair.error-failed	修复失败
+docx.repair.close-btn	关闭
+docx.repair.show-report-btn	显示修复报告
+docx.repair.banner-default	损坏的文件得到修复和打开。
+docx.repair.banner-tag	已修复
+docx.repair.banner-advice	请用新文件名校验内容并保存。
+docx.repair.banner-close	开除
+docx.template.attach	模板和加进…
+docx.template.title	模板和添加
+docx.template.desc	附加文档模板以自动更新样式。
+docx.template.current_status	当前模板
+docx.template.attached_file	随附
+docx.template.normal_template	普通模板( 默认)
+docx.template.path_label	模板路径( E).dotx, .dotm, .docx)
+docx.template.path_placeholder	输入文件路径
+docx.template.apply	附件 :
+docx.template.detach	调试
+docx.template.link_styles	自动更新文档样式
+docx.template.link_styles_desc	打开时从模板更新文档样式 (w:linkStyles)
+docx.template.update_now	现在更新样式
+docx.template.update_now_desc	立即从指定的模板文件导入最新样式
+docx.template.attached	成功附加模板
+docx.template.detached	模板分离成功
+docx.template.updated	样式已成功更新
+docx.template.no_path	请指定模板文件路径
+docx.template.close	关闭
+docx.list.define-style	定义新列表样式…
+docx.list.define-style.title	定义新列表样式
+docx.list.define-style.name	名称
+docx.list.define-style.name-placeholder	列表样式名称
+docx.list.define-style.level	要修改的级别
+docx.list.define-style.format	此关卡的数字样式
+docx.list.define-style.prefix	前缀
+docx.list.define-style.suffix-text	后缀
+docx.list.define-style.start-at	开始于
+docx.list.define-style.align	对齐
+docx.list.define-style.follow-number	随附号
+docx.list.define-style.indent-left	左缩进
+docx.list.define-style.indent-hanging	悬缩
+docx.list.define-style.add	添加
+docx.list.define-style.cancel	取消
+docx.list.styles	列表样式
+docx.list.styles.empty	(无列表样式)
+docx.align.left	左边
+docx.align.center	居中点
+docx.align.right	对
+docx.file.convert	转换兼容模式
+docx.file.convert.done	将文档转换为最新格式( Word 2013-2024)
+docx.infobar.compat.title	[兼容模式]
+docx.infobar.compat.message	此文档为兼容模式。 转换为当前格式以使用所有新功能。
+docx.infobar.compat.convert	转换为最新格式
+docx.compat.current-mode	当前文档格式
+docx.design.themes	主题
+docx.design.themes.office	办公室
+docx.design.themes.office_2013_2022	办事处 2013-2022年
+docx.design.themes.office_2007_2010	2007 - 2010年办事处
+docx.design.themes.facet	面额
+docx.design.themes.gallery	图片库
+docx.design.themes.integral	综合
+docx.design.themes.ion	电离
+docx.design.themes.organic	有机体
+docx.design.themes.retrospect	回顾
+docx.design.themes.slice	切片块
+docx.design.themes.customize	编辑主题颜色和字体…
+docx.design.themes.applied	应用 "{name}" 主题
+docx.design.theme-colors	颜色
+docx.design.theme-colors.office	办公室
+docx.design.theme-colors.office_2007_2010	2007 - 2010年办事处
+docx.design.theme-colors.grayscale	灰度( E)
+docx.design.theme-colors.blue_warm	蓝暖
+docx.design.theme-colors.blue	蓝色
+docx.design.theme-colors.blue_green	蓝绿色
+docx.design.theme-colors.green	绿色
+docx.design.theme-colors.orange	橙色
+docx.design.theme-colors.red_orange	红色橙色
+docx.design.theme-colors.violet	紫罗兰
+docx.design.theme-colors.aspect	侧面
+docx.design.theme-colors.median	中间
+docx.design.theme-colors.customize	自定义颜色…
+docx.design.theme-colors.applied	应用 "{name}" 主题颜色
+docx.design.theme-colors.custom-applied	应用自定义主题颜色和字体
+docx.picture.edit-wrap-points	编辑环绕点
+docx.picture.wrap-points.rect	矩形
+docx.picture.wrap-points.diamond	钻石
+docx.picture.wrap-points.octagon	八边形
+docx.picture.wrap-points.inset	设置
+docx.picture.wrap-points.reset	重置环形网点
+docx.picture.wrap-points.add-vertex	添加 Vertex 数据
+docx.master-doc	主文档
+docx.master-doc.panel	主文档和子文档…
+docx.master-doc.title	主文档和子文档
+docx.master-doc.target-label	子文档文件路径( E).docx)
+docx.master-doc.insert	插入子文档
+docx.master-doc.create-from-heading	从标题创建子文档
+docx.master-doc.toggle-expand	扩展/ 折叠子文档
+docx.master-doc.lock	锁定子文档
+docx.master-doc.unlink	取消子文档链接( 重置为主)
+docx.master-doc.merge	合并相邻子文档
+docx.master-doc.split	拆分子文档
+docx.master-doc.empty	(无子文档)
+docx.master-doc.collapsed-tag	[拼凑]
+docx.ink	绘图( 墨水)
+docx.ink.panel	墨水注释绘制工具( D)…
+docx.ink.title	绘图( 墨水)
+docx.ink.tools	绘图工具
+docx.ink.pen	笔
+docx.ink.pencil	笔会
+docx.ink.highlighter	突出显示
+docx.ink.eraser	擦除器
+docx.ink.lasso	拉索选择
+docx.ink.draw-with-mouse	用触摸/ 鼠标绘制
+docx.ink.ink-to-shape	墨水对形状( 自动)
+docx.ink.convert-now	将选中的墨水转换为形状
+docx.ink.ink-editor	墨水编辑器( 图像)
+docx.ink.thickness	厚度 :
+docx.ink.color	笔彩
+docx.ink.effects	墨迹效果
+docx.ink.effect.none	固态
+docx.ink.effect.rainbow	彩虹
+docx.ink.effect.galaxy	银河系统
+docx.ink.effect.lava	岩浆
+docx.ink.effect.ocean	海洋
+docx.ink.effect.rosegold	玫瑰黄金
+docx.ink.effect.gold	黄金
+docx.ink.effect.silver	银
+docx.ink.effect.bronze	青铜
+docx.ink.actions	选中的墨水动作
+docx.ink.select-all	选择全部墨水
+docx.ink.erase-selected	擦除选中的墨水
+docx.ink.erase-all	清除全部墨水
+docx.ink.status.drawn	添加墨风
+docx.ink.status.converted-shape	将墨水转换为形状
+docx.ink.status.erased	擦掉的墨水擦掉的墨水擦掉的墨水
+docx.ink.status.selected-count	选中 {count} 墨水中风
+docx.ink.status.gesture-delete	手势:通过删除文本
+docx.ink.status.gesture-select	手势:通过圆圈选择的文本
+docx.ink.status.gesture-highlight	手势:突出显示的文本
+docx.ink.status.gesture-space	手势: 插入空间
+docx.file.convert-format	转换文档格式( E)…
+docx.convert.title	转换文档格式
+docx.convert.desc	导出为 Word 97-2003 (.doc),RTF, 纯文本, HTML,或 OpenDocument (.odt),或从这些格式导入, PDF.
+docx.convert.format.doc	字 97-2003 文件(英文).doc)
+docx.convert.format.rtf	丰富的文本格式( E).rtf)
+docx.convert.format.txt	纯文本( E).txt)
+docx.convert.format.html	网页.html)
+docx.convert.format.odt	OpenDocument 案文(.odt)
+docx.convert.format.md	Markdown 文件 (续).md)
+docx.convert.export-title	导出为其它格式
+docx.convert.export-path	输出文件路径
+docx.convert.export-btn	导出
+docx.convert.import-title	从外部格式导入转换( C) PDF
+docx.convert.import-desc	源文件路径( E).doc / .rtf / .txt / .html / .odt / .pdf)
+docx.convert.import-btn	转换打开( O)
+docx.convert.exported	导出文档
+docx.convert.imported	导入和转换的文档
+docx.convert.error-no-path	请输入文件路径
+docx.convert.close	关闭
+docx.screen-reader	屏幕阅读器导航…
+docx.screen-reader.title	屏幕阅读器导航
+docx.screen-reader.current	现发卡通知
+docx.screen-reader.prev	上一个地标
+docx.screen-reader.next	下一个地标
+docx.screen-reader.filter.all	全部人员
+docx.screen-reader.filter.headings	标题
+docx.screen-reader.filter.tables	表格
+docx.screen-reader.filter.graphics	图形
+docx.screen-reader.filter.links	链接
+docx.screen-reader.filter.lists	列表
+docx.screen-reader.filter.comments	批注
+docx.screen-reader.filter.footnotes	脚注
+docx.screen-reader.filter.fields	字段
+docx.read-aloud	读阿鲁德…
+docx.read-aloud.title	大声读取
+docx.read-aloud.speaking	当前发言段落
+docx.read-aloud.prev	上一个
+docx.read-aloud.next	ưμ㼯A
+docx.read-aloud.play	播放( L)
+docx.read-aloud.pause	暂停
+docx.read-aloud.speed	读取速度
+docx.read-aloud.voice	语音选择
+docx.read-aloud.voice.default	系统默认声音
+docx.read-aloud.voice.kyoko	京子(日语: Female,女)
+docx.read-aloud.voice.otoya	大田(日语:大田 ( Male)),又作大田(日语:大田),又作大田(日语:大田),又作大田(日语:大田),又作大田(日语:大田),又作大田),是日本的名人.
+docx.read-aloud.voice.samantha	萨曼莎(英语,女性)
+docx.read-aloud.voice.alex	亚历克斯(英语, Male).
+docx.customize-toolbar	自定义工具栏和快速访问…
+docx.customize.title	自定义工具栏和快速访问
+docx.customize.ribbon-groups	工具栏( Ribbon) 组
+docx.customize.qat-commands	快速访问工具栏命令
+docx.customize.reset	重置所有自定义
+docx.customize.group.styles	样式
+docx.customize.group.font	字体格式化( F)
+docx.customize.group.color	字体颜色突出显示( H)
+docx.customize.group.insert	插入( 链接、 图片、 方程式)
+docx.customize.group.paragraph	段落、 列表缩进( I)
+docx.customize.group.review	编辑复议模式( R)
+docx.quick-parts.gallery.quick-parts	快速部件
+docx.quick-parts.gallery.auto-text	自动文本
+docx.quick-parts.gallery.custom	自定义
+docx.quick-parts.option.content-only	仅插入内容
+docx.quick-parts.option.paragraph	在自己的段落中插入内容
+docx.quick-parts.option.page	在自己的页面中插入内容
+docx.quick-parts.scope.global	所有文档
+docx.quick-parts.scope.document	本文件
+docx.quick-parts.default-category	常规
+docx.quick-parts.default-name	新建建筑块
+docx.quick-parts.name-required	输入一个名字。
+docx.quick-parts.registered	构件 "{name}" 被拯救了。
+docx.quick-parts.inserted	构件 "{name}" 插入。
+docx.quick-parts.deleted	构件 "{name}" 被删除。
+docx.quick-parts.save-title	创建新建筑块
+docx.quick-parts.field.page	PAGE(页码)
+docx.quick-parts.field.numpages	数字(总页数)
+docx.quick-parts.field.filename	FILENAME (文件名) (中文(简体) ).
+docx.quick-parts.field.autotext	AUTOTEXT (自动文本)
+docx.quick-parts.field.date	日期( 今天的日期)
+docx.quick-parts.field.time	时间(当前时间)
+docx.source-manager.added-current	"{tag}" 现列入本文件。
+docx.source-manager.saved-master	"{tag}" 被保存到主列表中.
+docx.source-manager.deleted-master	"{tag}" 从主列表中删除.
+docx.source-manager.deleted-current	"{tag}" 从本文件中删除。
+docx.source-manager.tag-placeholder	标记( 如 Smith2024)
+docx.source-manager.author-placeholder	作者(如约翰·史密斯)
+docx.source-manager.title-placeholder	标题
+docx.source-manager.year-placeholder	年份(如2024年)
+docx.source-manager.publisher-placeholder	出版商
+docx.source-manager.city-placeholder	城市(如东京)
+docx.source-manager.tag-required	输入标签名称。
+docx.source-manager.saved-master2	"{tag}" 被保存到主列表中.
+docx.source-manager.saved-current	"{tag}" 保存到当前文档中。
+docx.source-manager.citation-inserted	引文 "{tag}" 插入。
+docx.list-style.default-name	自定义列表
+docx.print-panel.range.no-selection	无选择
+docx.print-panel.pages-of-total	页:1 {total} 页次
+docx.template.parse-error	解析错误 : {error}
+docx.template.no-word-data	该模板没有Word文档数据.
+docx.template.no-document	没有打开文档。
+docx.template.updated-count	{title} ({n})
+docx.view.view-mode	视图模式
+docx.color-panel.text-color	字体颜色
+docx.ruler.horizontal	水平标尺
+docx.compress.target	目标
+docx.compress.entire-file	全部文件
+docx.compress.selected-picture	选中图片
+docx.paragraph-panel.line-type	行间距类型
+docx.tab-panel.registered-stops	已注册的制表位
+docx.tab-panel.no-stops	输入位置并选择设置以添加制表符
+color.editor.palette	调色板
+color.editor.current	当前颜色
+color.editor.previous	上一个颜色
+color.editor.hue	色调
+color.editor.saturation	饱和度
+color.editor.brightness	亮度
+color.editor.red	红色
+color.editor.green	绿色
+color.editor.blue	蓝色
+docx.tab-panel.operation-help	将位置、对齐和领导设置在一起,替换同一位置的任何站点。选择一行并清除以删除它。将列表输入文档。
+merge.flow.title	创建合并文档
+merge.flow.recipients	收件人
+merge.flow.compose	编曲
+merge.flow.preview	预览
+merge.flow.output	产出
+merge.flow.start-title	准备接收者
+merge.flow.start-help	在列表中为每个收件人创建个性化文档。
+merge.flow.load	装入收件人文件…
+merge.flow.formats	格式 : XLSX, CSV, TSVXLS, (英语). XLSM
+merge.flow.equation	收件人列表 + 此文档 + 个性化信件
+merge.flow.edit-recipients	编辑收件人…
+merge.flow.count	{n} 选中 / {total} 共计
+merge.flow.target-count	{n} 选中的收件人
+merge.flow.new-list	创建收件人列表…
+merge.flow.name	名称
+merge.flow.company	连队
+merge.flow.address	地址
+merge.flow.compose-title	在文档中插入字段
+merge.flow.compose-help	单击文档中的插入点,然后在下面选择一个字段。
+merge.flow.advanced	地址、问候和条件
+merge.flow.condition	插入有条件的文本…
+merge.flow.preview-title	审查结果
+merge.flow.preview-help	切换收件人来审查个性化文档.
+merge.flow.fields	字段
+merge.flow.result	结果
+merge.flow.output-title	创建或打印
+merge.flow.output-help	选择输出方法,然后设定收件人包含.
+merge.flow.document	创建文档
+merge.flow.pdf	另存为 PDF
+merge.flow.print	打印
+merge.flow.back	回来
+merge.flow.next-compose	编曲
+merge.flow.next-preview	审阅
+merge.flow.next-output	产出
+merge.flow.settings	输出设置
+merge.flow.recipient-help	将包含已检查的收件人。 拖动三行控件重排。
+merge.flow.filter	过滤收件人…
+merge.flow.columns	编辑列…
+merge.flow.confirm-recipients	确定
+merge.flow.import-title	复议收件人文件
+merge.flow.import-help	检查工作表和页眉行。预览显示前五张记录。
+merge.flow.sheet	要导入的工作表
+merge.flow.header	使用第一行作为列名称
+merge.flow.import-confirm	导入
+merge.flow.columns-help	添加或删除列。已插入文档的字段保持不变。
+merge.flow.recipient-draft	确认收件人列表时,会执行更改。
+merge.flow.filter-help	使用 Colle=值来进行精确匹配, 或 Colle=值来进行部分匹配。 请留空以清除。
+merge.flow.condition-help	根据字段值插入不同的文字。
+merge.flow.condition-field	待测试的字段
+merge.flow.equals	当值相等时
+merge.flow.yes	匹配时的文本
+merge.flow.no	案文不在此列
+merge.flow.kind-help	选择文档类型。信封和标签也会改变文档布局。
+merge.flow.combine	文档分组
+merge.flow.one-file	合并到一个文件
+merge.flow.separate-file	每个收件人创建文件
+merge.flow.output-location	在下一个对话框中选择保存位置或打印机。
+merge.flow.column-number	列 {n}
+merge.flow.data	数据
+merge.flow.unsupported	选择一个 XLSX, CSV, TSV, XLS 或者 XLSM 收件人文件。
+merge.flow.invalid-data	列名必须是独一无二的,非空的,至少有一个收件人.
+merge.flow.filter-simple-help	选择一个字段和比较,然后输入一个值。留空以清除。
+merge.flow.contains	包含
+merge.flow.exact	等值
+merge.flow.filter-value	要匹配的值
+merge.review.fields-list	要插入的合并字段
+merge.review.row-number	收件人 {n}
+merge.review.no-issues	未找到合并字段问题。
+merge.review.issue-count	{n} 需要审查的项目
+merge.review.empty-field	{name}: {field} 为空
+merge.review.missing-field	外地“{field}”在收件人列表中缺失
+merge.review.more-issues	保留更多空字段。 请检查收件人列表。
+merge.review.continue-empty	以空字段输出
+merge.review.fix-missing	选择检查文档并更正字段或收件人列表的项目。
+merge.review.actual-output	此输出 : {n} 接收者
+merge.review.more-recipients	财务报告和已审计财务报表 {n} 更多( E)
+merge.review.invalid-range	在选定的收件人列表中输入一个有效的起始和结束位置。
+merge.review.output-range	输出对象(目标列表中的位置)
+merge.review.current-recipient	当前收件人 : {name}
+merge.review.all-view	全部显示
+merge.review.targets-view	仅指目标
+merge.review.filtered-out	已过滤
+merge.review.included	包含
+merge.review.excluded	不包括
+merge.review.target	目标
+merge.review.edit-row	编辑此收件人
+merge.review.delete-row	删除此收件人
+merge.review.move-up	将接收者上移
+merge.review.move-down	将收件人下移
+merge.review.drag-row	拖曳到重排收件人
+merge.review.recipient-help	选中的收件人将输出。 清除过滤器以恢复被其条件排除的收件人。
+merge.review.recipients-title	编辑收件人列表
+merge.review.clear-filter	清除过滤器
+merge.review.list-counts	显示 {shown} 目标 {target} · 共计 {total}
+merge.review.select-visible	包含显示的收件人
+merge.review.clear-visible	不包括显示的目标
+merge.review.header-row	使用导入范围的第一行作为页眉
+merge.review.import-advanced	更改范围和信头…
+merge.review.import-range-help	行和列使用基于 1 的源位置。 应用范围来更新预览。
+merge.review.start-row	第一行 :
+merge.review.end-row	最后一行 : @ info: whatsthis
+merge.review.start-column	第一栏
+merge.review.end-column	最后一栏
+merge.review.apply-range	应用范围
+merge.review.rename-headers	编辑标题名称
+merge.review.invalid-headers	校正空或重复的页眉名称。
+merge.review.invalid-import-range	在文件中输入一个有效的行和列范围。
+merge.review.save-list	将收件人列表另存为 XLSX…
+merge.review.copy-help	您正在编辑导入的副本。 源文件没有改变。
+merge.review.resume-help	另存已编辑的收件人为 XLSX 并下次加载它。所有行值都被保存;过滤器和包含选项不是。
+merge.review.list-saved	收件人列表保存为 XLSX.
+merge.review.kind-help	选择一个文档类型。插入和标签替换当前文档正文。
+merge.review.replace-warning	这将删除整个当前正文, 并替换为信封或标签布局。 它不仅仅改变纸张大小。 您可以在应用后撤销。
+merge.review.replace-ack	替换当前文档正文
+merge.review.replace-action	替换正文并应用
+merge.review.resume-short	收件人不存储在文档中。另存为 XLSX 并装上它,待会恢复。
+merge.review.select-all-header	选择所有已显示的收件人
+docx.list.define-style.text-example	例如,前缀章和后缀 : 产生章1:,章2:等等.
+shape.effects.basic	基础
+shape.effects.decoration	装饰
+shape.effects.gradient-angle	角度
+shape.effects.stop-position	停止位置( O)
+shape.effects.stop-color	停止颜色
+shape.effects.shadow-color	颜色
+shape.effects.shadow-transparency	透明度
+shape.effects.shadow-size	大小
+shape.effects.shadow-blur	模糊
+shape.effects.shadow-angle	角度
+shape.effects.shadow-distance	距离
+shape.effects.glow-color	颜色
+shape.effects.glow-transparency	透明度
+shape.effects.glow-size	大小
+shape.effects.soft-size	宽度
+shape.effects.reflection-transparency	透明度
+shape.effects.reflection-size	大小
+shape.effects.reflection-blur	模糊
+shape.effects.reflection-distance	距离
+shape.effects.remove-stop	删除停止
+shape.effects.enable-0	启用渐变
+shape.effects.enable-1	启用阴影
+shape.effects.enable-2	启用光线
+shape.effects.enable-3	启用软边
+shape.effects.enable-4	启用反射
+docx.find.replace-next	替换当前匹配并找到下一个
+docx.quick-parts.tab.parts	部件
+docx.quick-parts.tab.properties	属性
+docx.quick-parts.tab.fields	字段
+docx.selection-pane.object-number	对象 {number}
+docx.selection-pane.object-name	对象
+docx.fit-text.title	适合文本
+docx.fit-text.width	宽度
+docx.fit-text.characters	页:1
+docx.fit-text.no-selection	没有选择。 请选择一些文字并再次尝试。
+docx.align.distribute-line	分布( 线)
+docx.tate-chu-yoko.fit-line	匹配为行
+_docx.tab-leader-hyphen	连字符
+_docx.tab-leader-underscore	2. 强调
+_docx.tab-leader-heavy	重线
+_docx.tab-leader-middle-dot	中间点
+_docx.tab-bar	栏
+_docx.tab-num	列表
+docx.marks.page-break	分页符
+docx.marks.column-break	分栏
+docx.header-footer.close	关闭页眉和页脚

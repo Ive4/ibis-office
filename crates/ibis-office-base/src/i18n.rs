@@ -1,16 +1,9 @@
 // SPDX-License-Identifier: AGPL-3.0-only
 // Copyright (c) ibis inc.
 // Additional terms under AGPL-3.0 section 7(b): see NOTICE.
-//! The UI's language: Japanese or English (#8). The words are kept in
-//! tables, one per language, in `crates/ibis-office-base/i18n/` (`ja.tsv`,
-//! `en.tsv`: a key, a tab and the text, per line), not in the source: the
-//! code asks for a key (a menu item's id, such as `file.save`) and gets the
-//! text of the language shown, the Japanese one if the language's table has
-//! none, the key itself if neither has.
-//!
-//! The language is the user's choice (ツール > 設定… > 一般 > 言語), saved with
-//! the app's settings (`settings.rs`), or by default the system's: Japanese
-//! if the user's first preferred language is Japanese, else English.
+//! UI labels live in per-language tables under `i18n/`. The selected language
+//! follows the app setting or the system preference. Simplified Chinese falls
+//! back to English, and English falls back to Japanese.
 
 use std::collections::HashMap;
 use std::sync::OnceLock;
@@ -20,8 +13,19 @@ use gpui_kit::SharedString;
 
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
 pub enum Language {
-    Japanese,
-    English,
+    Japanese = 1,
+    English = 2,
+    SimplifiedChinese = 3,
+}
+
+impl Language {
+    pub fn tag(self) -> &'static str {
+        match self {
+            Self::Japanese => "ja",
+            Self::English => "en",
+            Self::SimplifiedChinese => "zh-CN",
+        }
+    }
 }
 
 /// What the user chose.
@@ -37,8 +41,7 @@ impl LanguageSetting {
     pub fn as_str(self) -> &'static str {
         match self {
             Self::System => "system",
-            Self::Fixed(Language::Japanese) => "ja",
-            Self::Fixed(Language::English) => "en",
+            Self::Fixed(language) => language.tag(),
         }
     }
 
@@ -46,6 +49,7 @@ impl LanguageSetting {
         match text.trim() {
             "ja" => Self::Fixed(Language::Japanese),
             "en" => Self::Fixed(Language::English),
+            "zh-CN" => Self::Fixed(Language::SimplifiedChinese),
             _ => Self::System,
         }
     }
@@ -75,6 +79,15 @@ const EN: [&str; 7] = [
     include_str!("../i18n/en/menu_planned.tsv"),
     include_str!("../i18n/en/medical.tsv"),
 ];
+const ZH_CN: [&str; 7] = [
+    include_str!("../i18n/zh-CN/shell.tsv"),
+    include_str!("../i18n/zh-CN/docx.tsv"),
+    include_str!("../i18n/zh-CN/xlsx.tsv"),
+    include_str!("../i18n/zh-CN/pptx.tsv"),
+    include_str!("../i18n/zh-CN/fix.tsv"),
+    include_str!("../i18n/zh-CN/menu_planned.tsv"),
+    include_str!("../i18n/zh-CN/medical.tsv"),
+];
 
 fn rows(text: &'static str) -> impl Iterator<Item = (&'static str, &'static str)> {
     text.lines().filter(|line| !line.is_empty() && !line.starts_with('#')).filter_map(|line| line.split_once('\t'))
@@ -84,12 +97,28 @@ fn table(files: &[&'static str]) -> HashMap<&'static str, &'static str> {
     files.iter().flat_map(|text| rows(text)).collect()
 }
 
-fn tables() -> &'static (HashMap<&'static str, &'static str>, HashMap<&'static str, &'static str>) {
-    static TABLES: OnceLock<(HashMap<&'static str, &'static str>, HashMap<&'static str, &'static str>)> = OnceLock::new();
-    TABLES.get_or_init(|| (table(&JA), table(&EN)))
+type TranslationTable = HashMap<&'static str, &'static str>;
+
+fn translations(language: Language) -> &'static TranslationTable {
+    static JA_TABLE: OnceLock<TranslationTable> = OnceLock::new();
+    static EN_TABLE: OnceLock<TranslationTable> = OnceLock::new();
+    static ZH_CN_TABLE: OnceLock<TranslationTable> = OnceLock::new();
+    match language {
+        Language::Japanese => JA_TABLE.get_or_init(|| table(&JA)),
+        Language::English => EN_TABLE.get_or_init(|| table(&EN)),
+        Language::SimplifiedChinese => ZH_CN_TABLE.get_or_init(|| table(&ZH_CN)),
+    }
 }
 
-/// 0: not set yet (the setting is read at the first use), 1 Japanese, 2 English.
+fn translate(language: Language, key: &str) -> Option<&'static str> {
+    translations(language).get(key).copied().or_else(|| match language {
+        Language::Japanese => None,
+        Language::English => translate(Language::Japanese, key),
+        Language::SimplifiedChinese => translate(Language::English, key),
+    })
+}
+
+/// Zero means the setting will be read on first use.
 static CURRENT: AtomicU8 = AtomicU8::new(0);
 
 /// The language shown.
@@ -97,6 +126,7 @@ pub fn language() -> Language {
     match CURRENT.load(Ordering::Relaxed) {
         1 => Language::Japanese,
         2 => Language::English,
+        3 => Language::SimplifiedChinese,
         _ => {
             let language = resolve(crate::settings::get("app.language").map_or(LanguageSetting::System, |s| LanguageSetting::parse(&s)));
             set_language(language);
@@ -106,9 +136,9 @@ pub fn language() -> Language {
 }
 
 fn set_language(language: Language) {
-    CURRENT.store(if language == Language::Japanese { 1 } else { 2 }, Ordering::Relaxed);
-    // The names saved in documents follow the UI too (ibis-formats has no tables).
-    ibis_formats::set_english_names(language == Language::English);
+    CURRENT.store(language as u8, Ordering::Relaxed);
+    // Document templates offer English and Japanese names.
+    ibis_formats::set_english_names(language != Language::Japanese);
 }
 
 /// The language a setting shows.
@@ -145,13 +175,10 @@ pub fn show(language: Language) {
 
 /// The text of `key` in the language shown.
 pub fn text(key: &str) -> SharedString {
-    let (ja, en) = tables();
-    let found = match language() {
-        Language::English => en.get(key).or_else(|| ja.get(key)),
-        Language::Japanese => ja.get(key),
-    };
+    let language = language();
+    let found = translate(language, key);
     #[cfg(feature = "scenarios")]
-    log::record(language() == Language::English, key, found.copied());
+    log::record(language, key, found);
     match found {
         Some(text) => match localize_keys(text, cfg!(target_os = "macos")) {
             std::borrow::Cow::Borrowed(_) => SharedString::new_static(text),
@@ -164,17 +191,13 @@ pub fn text(key: &str) -> SharedString {
 /// The words of `key` if the tables have them (nothing otherwise: no record of a miss, no key given back as the words). For a
 /// screen that tries more than one key for a command's name.
 pub fn lookup_words(key: &str) -> Option<SharedString> {
-    let (ja, en) = tables();
-    let found = match language() {
-        Language::English => en.get(key).or_else(|| ja.get(key)),
-        Language::Japanese => ja.get(key),
-    }?;
+    let found = lookup(key)?;
     Some(SharedString::from(localize_keys(found, cfg!(target_os = "macos")).into_owned()))
 }
 
 /// The id whose Japanese words are `words` exactly (the first by id), for a table that must keep ids and not words (`toolbar_defaults.rs`).
 pub fn key_of_japanese(words: &str) -> Option<String> {
-    let (ja, _) = tables();
+    let ja = translations(Language::Japanese);
     let mut found: Vec<&str> = ja.iter().filter(|(_, v)| **v == words).map(|(k, _)| *k).collect();
     found.sort();
     found.first().map(|k| k.to_string())
@@ -252,11 +275,11 @@ pub mod log {
     use std::collections::BTreeSet;
     use std::sync::Mutex;
 
-    static LOG: Mutex<BTreeSet<(bool, String, Option<String>)>> = Mutex::new(BTreeSet::new());
+    static LOG: Mutex<BTreeSet<(&'static str, String, Option<String>)>> = Mutex::new(BTreeSet::new());
 
-    pub(super) fn record(english: bool, key: &str, found: Option<&str>) {
+    pub(super) fn record(language: super::Language, key: &str, found: Option<&str>) {
         if let Ok(mut log) = LOG.lock() {
-            log.insert((english, key.to_string(), found.map(str::to_string)));
+            log.insert((language.tag(), key.to_string(), found.map(str::to_string)));
         }
     }
 
@@ -274,10 +297,10 @@ pub mod log {
         LOG.lock().map(|log| log.iter().filter(|(_, key, found)| found.is_none() && is_id(key)).map(|(_, key, _)| key.clone()).collect()).unwrap_or_default()
     }
 
-    /// The log, one line per entry: `ja|en`, key, hit or miss, text.
+    /// The log, one line per entry: language tag, key, hit or miss, text.
     pub fn lines() -> Vec<String> {
         LOG.lock()
-            .map(|log| log.iter().map(|(en, key, found)| format!("{}\t{key}\t{}\t{}", if *en { "en" } else { "ja" }, if found.is_some() { "hit" } else { "miss" }, found.as_deref().unwrap_or(key))).collect())
+            .map(|log| log.iter().map(|(lang, key, found)| format!("{lang}\t{key}\t{}\t{}", if found.is_some() { "hit" } else { "miss" }, found.as_deref().unwrap_or(key))).collect())
             .unwrap_or_default()
     }
 }
@@ -339,34 +362,33 @@ pub fn format(key: &str, args: &[(&str, &dyn std::fmt::Display)]) -> String {
 /// language has), not a text.
 #[allow(dead_code)]
 pub fn is_known_id(text: &str) -> bool {
-    let (ja, en) = tables();
     let bare = text.strip_prefix('_').unwrap_or(text);
-    bare.contains('.') && bare.starts_with(|c: char| c.is_ascii_lowercase()) && !text.contains(char::is_whitespace) && (ja.contains_key(text) || en.contains_key(text))
+    bare.contains('.') && bare.starts_with(|c: char| c.is_ascii_lowercase()) && !text.contains(char::is_whitespace) && translate(Language::SimplifiedChinese, text).is_some()
 }
 
 /// The text of `key` in the language shown, if the tables have it (nothing is logged for a miss: the access letters are looked up for
 /// every menu line, most of which have none).
 pub fn lookup(key: &str) -> Option<&'static str> {
-    let (ja, en) = tables();
-    match language() {
-        Language::English => en.get(key).or_else(|| ja.get(key)),
-        Language::Japanese => ja.get(key),
-    }
-    .copied()
+    translate(language(), key)
 }
 
 /// Whether the tables have `key` (the code's own labels are used for
 /// those they have not).
 #[allow(dead_code)]
 pub fn has(key: &str) -> bool {
-    tables().0.contains_key(key)
+    translations(Language::Japanese).contains_key(key)
 }
 
-/// The system's language: Japanese if the user's first preferred language
-/// is, else English.
 pub fn system_language() -> Language {
-    match preferred_languages().first() {
-        Some(tag) if tag.to_ascii_lowercase().starts_with("ja") => Language::Japanese,
+    preferred_languages().first().map_or(Language::English, |tag| language_for_locale(tag))
+}
+
+fn language_for_locale(tag: &str) -> Language {
+    let tag = tag.to_ascii_lowercase();
+    let mut parts = tag.split(['-', '_', '.', '@']);
+    match parts.next() {
+        Some("ja") => Language::Japanese,
+        Some("zh") if matches!(parts.next(), None | Some("hans" | "cn" | "sg")) => Language::SimplifiedChinese,
         _ => Language::English,
     }
 }
@@ -469,7 +491,31 @@ mod web {
 
 #[cfg(test)]
 mod tests {
-    use super::{EN, FILES, JA, localize_keys, rows};
+    use super::{EN, FILES, JA, Language, LanguageSetting, ZH_CN, language_for_locale, localize_keys, rows, translate};
+
+    #[test]
+    fn simplified_chinese_is_selectable_and_translates_each_editor() {
+        let setting = LanguageSetting::parse("zh-CN");
+        assert_eq!(setting.as_str(), "zh-CN");
+        let language = super::resolve(setting);
+        assert_eq!(translate(language, "menu.file"), Some("文件"));
+        assert_eq!(translate(language, "file.new.document"), Some("文档"));
+        assert_eq!(translate(language, "file.new.workbook"), Some("电子表格"));
+        assert_eq!(translate(language, "file.new.presentation"), Some("演示文稿"));
+        assert_eq!(translate(Language::English, "menu.file"), Some("File"));
+        assert_eq!(translate(Language::Japanese, "menu.file"), Some("ファイル"));
+    }
+
+    #[test]
+    fn the_system_selects_only_simplified_chinese_locales() {
+        for tag in ["zh", "zh-Hans", "zh-Hans-CN", "zh_CN.UTF-8", "zh-SG"] {
+            assert_eq!(language_for_locale(tag), Language::SimplifiedChinese, "{tag}");
+        }
+        for tag in ["zh-Hant", "zh-TW", "zh-HK", "zh-MO", "en-US"] {
+            assert_eq!(language_for_locale(tag), Language::English, "{tag}");
+        }
+        assert_eq!(language_for_locale("ja-JP"), Language::Japanese);
+    }
 
     /// GitHub issue #150: the Mac's marks become Ctrl, Alt and Shift off the Mac, in a shortcut alone and in a sentence.
     #[test]
@@ -537,7 +583,7 @@ mod tests {
     /// Each folder holds the files listed, and no key is in two of them.
     #[test]
     fn tables_are_split_by_owner_without_repeats() {
-        for (language, files) in [("ja", &JA), ("en", &EN)] {
+        for (language, files) in [("ja", &JA), ("en", &EN), ("zh-CN", &ZH_CN)] {
             let dir = std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("i18n").join(language);
             let mut found: Vec<String> = std::fs::read_dir(&dir).unwrap().filter_map(|e| e.ok()?.file_name().to_str()?.strip_suffix(".tsv").map(str::to_string)).collect();
             found.sort();
