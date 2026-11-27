@@ -45,7 +45,7 @@ jobs:
         run: |
           bash scripts/bundle-macos.sh --release
           app="target/release/$IBIS_FORK_NAME.app"
-          lipo -verify_arch arm64 "$app/Contents/MacOS/ibisOffice"
+          lipo "$app/Contents/MacOS/ibisOffice" -verify_arch arm64
           codesign --verify --deep --strict "$app"
           test "$(/usr/libexec/PlistBuddy -c 'Print :CFBundleIdentifier' "$app/Contents/Info.plist")" = "$IBIS_FORK_BUNDLE_ID"
           mkdir -p dist
